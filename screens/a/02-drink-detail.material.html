@@ -1,0 +1,186 @@
+<!DOCTYPE html>
+<html lang="en"><head>
+<meta charset="utf-8"/>
+<meta content="width=device-width, initial-scale=1.0" name="viewport"/>
+<title>POV · POV Mango</title>
+<script src="https://cdn.tailwindcss.com"></script>
+<link href="https://fonts.googleapis.com" rel="preconnect"/>
+<link crossorigin="" href="https://fonts.gstatic.com" rel="preconnect"/>
+<link href="https://fonts.googleapis.com/css2?family=Readex+Pro:wght@300..700&family=Material+Symbols+Outlined:wght,FILL@100..700,0..1&display=swap" rel="stylesheet"/>
+<script>tailwind.config={theme:{extend:{fontFamily:{sans:['Readex Pro','sans-serif']},colors:{"canvas":"#FFF8E7","card":"#FFFFFF","ink":"#2A1640","muted":"#6F6280","line":"#F1E6CC","purple":"#7243AB","yellow":"#F9CD18","orange":"#F7941D","teal":"#17AE9D","coral":"#F2654A","purpleSoft":"#EFE6FA","yellowSoft":"#FFF1B8","orangeSoft":"#FFE6C7","tealSoft":"#D6F3EE","coralSoft":"#FDE1DA"}}}}</script>
+<style>
+*{box-sizing:border-box}
+html,body{margin:0;background:#FFF8E7;color:#2A1640;font-family:'Readex Pro',system-ui,sans-serif;-webkit-font-smoothing:antialiased}
+.screen{max-width:430px;margin:0 auto;min-height:100vh;position:relative;overflow:hidden}
+.ar{font-family:'Readex Pro',sans-serif;unicode-bidi:isolate}
+.ico{font-size:22px;line-height:1}
+.cube{display:inline-block;border-radius:28%;transform:rotate(45deg);flex-shrink:0}
+.dot{display:inline-block;border-radius:50%;flex-shrink:0}
+.price-tag{display:inline-flex;align-items:baseline;gap:3px;padding:6px 11px;border-radius:14px;color:#7243AB;font-weight:700;line-height:1;box-shadow:0 6px 14px -8px rgba(42,22,64,.45);white-space:nowrap}
+.price-tag b{font-size:17px;font-weight:700}
+.price-tag small{font-size:10px;font-weight:600;letter-spacing:.04em}
+.wordmark{font-weight:700;letter-spacing:-.04em;line-height:1}
+.z{position:relative;z-index:1}
+
+/* ---------- hero colour block ---------- */
+.hero{position:relative;height:428px;background:#F9CD18;overflow:hidden}
+.hero::after{content:'';position:absolute;left:-40px;right:-40px;bottom:-120px;height:200px;border-radius:50%;background:rgba(255,255,255,.22)}
+.fab{position:absolute;top:16px;width:46px;height:46px;border-radius:16px;background:#fff;display:grid;place-items:center;color:#7243AB;box-shadow:0 10px 20px -12px rgba(42,22,64,.55);z-index:5;text-decoration:none}
+.fab .ico{font-size:23px}
+.fab.l{left:16px}.fab.r{right:16px}
+.deco{position:absolute;z-index:1}
+.shot{position:absolute;left:50%;top:80px;width:268px;height:268px;margin-left:-134px;border-radius:44px;overflow:hidden;background:#FFF1B8;border:6px solid #fff;transform:rotate(-3deg);box-shadow:0 30px 40px -24px rgba(42,22,64,.55);z-index:2}
+.shot img{width:100%;height:100%;object-fit:cover;display:block}
+.sticker-sig{position:absolute;left:26px;top:86px;z-index:3;display:inline-flex;align-items:center;gap:5px;padding:7px 12px 7px 10px;border-radius:999px;background:#17AE9D;color:#fff;font-size:12px;font-weight:600;letter-spacing:.02em;border:3px solid #fff;transform:rotate(-9deg);box-shadow:0 8px 16px -10px rgba(42,22,64,.6)}
+.sticker-sig .ico{font-size:16px}
+.tag-xl{position:absolute;right:26px;top:300px;z-index:3;padding:10px 16px 11px;border-radius:20px;border:3px solid #fff;gap:5px}
+.tag-xl b{font-size:34px;letter-spacing:-.03em}
+.tag-xl small{font-size:13px}
+
+/* ---------- title card ---------- */
+.sheet{position:relative;z-index:4;margin:-46px 16px 0;background:#fff;border-radius:30px;padding:24px 22px 22px;box-shadow:0 24px 40px -30px rgba(42,22,64,.45);overflow:hidden}
+.cat-chip{display:inline-flex;align-items:center;gap:8px;padding:6px 14px 6px 12px;border-radius:999px;background:#FFF1B8;color:#2A1640;font-size:12.5px;font-weight:600;text-decoration:none;max-width:100%}
+.cat-chip .ar{font-size:12.5px;font-weight:500;color:#7243AB}
+.cat-chip .sep{width:4px;height:4px;border-radius:50%;background:#F7941D;flex-shrink:0}
+.name-en{margin:14px 0 0;font-size:40px;line-height:1.02;font-weight:700;letter-spacing:-.035em;color:#7243AB}
+.name-ar{display:block;margin-top:6px;font-size:24px;line-height:1.35;font-weight:500;color:#2A1640;text-align:left}
+.desc{margin:14px 0 0;font-size:15px;line-height:1.6;color:#6F6280;font-weight:400}
+.stats{display:grid;grid-template-columns:repeat(3,1fr);gap:9px;margin-top:20px}
+.stat{position:relative;overflow:hidden;border-radius:22px;padding:14px 12px 13px;min-height:92px}
+.stat b{display:block;font-size:24px;line-height:1;font-weight:700;letter-spacing:-.03em}
+.stat span{display:block;margin-top:6px;font-size:12px;line-height:1.3;font-weight:500;color:#2A1640}
+.stat .cube{position:absolute;right:14px;bottom:14px}
+.perks{display:grid;grid-template-columns:1fr 1fr;gap:8px;margin-top:12px}
+.perk{display:flex;align-items:center;justify-content:center;gap:6px;height:40px;padding:0 8px;white-space:nowrap;border-radius:999px;border:1.5px solid #F1E6CC;font-size:13px;font-weight:500;color:#2A1640;background:#fff}
+.perk .ico{font-size:18px}
+
+/* ---------- you might also like ---------- */
+.more{position:relative;padding:34px 0 10px}
+.more-head{display:flex;align-items:flex-end;justify-content:space-between;gap:12px;padding:0 20px}
+.more-head h2{margin:0;font-size:22px;line-height:1.15;font-weight:700;letter-spacing:-.02em;color:#2A1640}
+.more-sub{display:flex;flex-wrap:wrap;align-items:center;gap:6px;margin-top:5px;font-size:12.5px;color:#6F6280;font-weight:500}
+.more-sub .ar{color:#7243AB}
+.see-all{display:inline-flex;align-items:center;gap:2px;flex-shrink:0;font-size:13px;font-weight:600;color:#7243AB;text-decoration:none;padding-bottom:2px}
+.see-all .ico{font-size:18px}
+.rail{display:flex;gap:12px;overflow-x:auto;scroll-snap-type:x mandatory;padding:16px 20px 30px;scroll-padding:0 20px;scrollbar-width:none}
+.rail::-webkit-scrollbar{display:none}
+.rec{flex:0 0 152px;scroll-snap-align:start;background:#fff;border-radius:26px;padding:7px 7px 12px;text-decoration:none;color:#2A1640;box-shadow:0 18px 30px -24px rgba(42,22,64,.5)}
+.rec-photo{position:relative;aspect-ratio:1/1;border-radius:20px;overflow:hidden}
+.rec-photo img{width:100%;height:100%;object-fit:cover;display:block}
+.rec-photo .cube{position:absolute;left:10px;top:10px}
+.rec .price-tag{position:absolute;right:7px;bottom:8px;border:2.5px solid #fff;padding:5px 9px}
+.rec .price-tag b{font-size:16px}
+.rec-en{margin:11px 6px 0;font-size:14px;line-height:1.25;font-weight:600;letter-spacing:-.01em}
+.rec-ar{display:block;margin:3px 6px 0;font-size:13px;line-height:1.4;font-weight:400;color:#6F6280;text-align:left}
+
+/* ---------- footer ---------- */
+.foot{position:relative;overflow:hidden;margin-top:4px;padding:40px 24px 44px;background:#FFF1B8;border-radius:36px 36px 0 0;text-align:center}
+.mark{position:relative;width:76px;height:76px;margin:0 auto 14px}
+.mark .cup{position:absolute;left:12px;bottom:4px;width:52px;height:42px;border:5px solid #7243AB;border-top:0;border-radius:0 0 18px 18px}
+.mark .cube,.mark .dot{position:absolute}
+.foot .tag-ar{display:block;margin-top:12px;font-size:19px;line-height:1.5;font-weight:600;color:#7243AB}
+.foot .tag-en{margin:2px 0 0;font-size:13px;color:#6F6280;font-weight:500}
+.back-menu{display:inline-flex;align-items:center;gap:8px;margin-top:22px;height:48px;padding:0 20px 0 22px;border-radius:999px;background:#fff;color:#7243AB;font-size:14.5px;font-weight:600;text-decoration:none;box-shadow:0 12px 22px -16px rgba(42,22,64,.55)}
+.back-menu .ico{font-size:20px}
+</style>
+</head>
+<body><main class="screen">
+
+<section class="hero">
+  <a class="fab l" href="01-menu.html" aria-label="Back to menu"><span class="material-symbols-outlined ico ">arrow_back</span></a>
+  <a class="fab r" href="#" aria-label="Share"><span class="material-symbols-outlined ico ">share</span></a>
+
+  <!-- the logo's big orange cube, sitting behind the cup -->
+  <span class="cube" style="width:262px;height:262px;background:#F7941D;position:absolute;left:50%;top:83px;margin-left:-131px;z-index:1;border-radius:18%"></span>
+  <!-- tumbling cubes and the dot spray -->
+  <span class="cube" style="width:34px;height:34px;background:#17AE9D;position:absolute;left:18px;top:208px;z-index:1;transform:rotate(28deg)"></span>
+  <span class="cube" style="width:18px;height:18px;background:#7243AB;position:absolute;left:44px;top:352px;z-index:1;transform:rotate(62deg)"></span>
+  <span class="cube" style="width:24px;height:24px;background:#FFFFFF;position:absolute;right:44px;top:84px;z-index:1;transform:rotate(18deg)"></span>
+  <span class="cube" style="width:28px;height:28px;background:#17AE9D;position:absolute;right:14px;top:226px;z-index:1;transform:rotate(56deg)"></span>
+  <span class="cube" style="width:14px;height:14px;background:#F2654A;position:absolute;left:96px;top:66px;z-index:1;transform:rotate(36deg)"></span>
+  <span class="dot" style="width:9px;height:9px;background:#F2654A;position:absolute;right:92px;top:56px;z-index:1"></span>
+  <span class="dot" style="width:7px;height:7px;background:#17AE9D;position:absolute;right:112px;top:76px;z-index:1"></span>
+  <span class="dot" style="width:8px;height:8px;background:#F7941D;position:absolute;right:20px;top:150px;z-index:1"></span>
+  <span class="dot" style="width:6px;height:6px;background:#7243AB;position:absolute;right:40px;top:178px;z-index:1"></span>
+  <span class="dot" style="width:8px;height:8px;background:#F2654A;position:absolute;left:22px;top:300px;z-index:1"></span>
+
+  <div class="shot"><img src="https://lh3.googleusercontent.com/aida/AEtjO1UZTYRR5oJs21_to-cXH6uwNDm6diyrEvGAxo8QlkAW2VtJXWTm684I_ifPfBIUKIMgsc1sJiwuNdDY5uIbZFkkkeqTxQOfJC9VCO-rS4zuqUyBPzpGxCfbxNJNm0EcBHqPqUKJU_Idjnw7ZX6-dkHmjeKO434NiAnp7ZSLRW3eESCzo0fnIQikTnnKUD8hR1lQ_p0uYy4gjleMn0txWjGwLgeahgvASbs4F1IyOqnTRxeN7_W9RxeTqQ2S=s0" alt="POV Mango in a clear cup"/></div>
+  <span class="sticker-sig"><span class="material-symbols-outlined ico " style="font-variation-settings:'FILL' 1">star</span>House signature</span>
+  <span class="price-tag tag-xl" style="background:#F9CD18;transform:rotate(-8deg)"><b>95</b><small>EGP</small></span>
+</section>
+<section class="sheet">
+  <a class="cat-chip" href="01-menu.html#signatures"><span class="cube" style="width:10px;height:10px;background:#F7941D;"></span><span>Mango Signatures</span><span class="sep"></span><span lang="ar" dir="rtl" class="ar ">مانجو بوف المميزة</span></a>
+  <h1 class="name-en">POV Mango</h1>
+  <span lang="ar" dir="rtl" class="ar name-ar">مانجو بوف</span>
+  <p class="desc">Nothing but ripe Egyptian mango, blended to order until thick, cold and silky. No added sugar, no syrups. Just the fruit at its sunniest.</p>
+
+  <div class="stats">
+    <div class="stat" style="background:#FFF1B8"><span class="cube" style="width:13px;height:13px;background:#F9CD18;"></span><b style="color:#7243AB">100%</b><span>fresh mango</span></div>
+    <div class="stat" style="background:#D6F3EE"><span class="cube" style="width:13px;height:13px;background:#17AE9D;"></span><b style="color:#0D7F72">0 g</b><span>added sugar</span></div>
+    <div class="stat" style="background:#FDE1DA"><span class="cube" style="width:13px;height:13px;background:#F2654A;"></span><b style="color:#C9442B">400<small style="font-size:14px;font-weight:600"> ml</small></b><span>cup size</span></div>
+  </div>
+
+  <div class="perks">
+    <span class="perk"><span style="color:#F7941D"><span class="material-symbols-outlined ico ">schedule</span></span>Made to order</span>
+    <span class="perk"><span style="color:#17AE9D"><span class="material-symbols-outlined ico ">check_circle</span></span>Served ice-cold</span>
+  </div>
+</section>
+<section class="more">
+  <div class="more-head">
+    <div>
+      <h2>You might also like</h2>
+      <div class="more-sub"><span>More Mango Signatures</span><span class="dot" style="width:4px;height:4px;background:#F7941D;"></span><span lang="ar" dir="rtl" class="ar ">مانجو بوف المميزة</span></div>
+    </div>
+    <a class="see-all" href="01-menu.html#signatures">See all<span class="material-symbols-outlined ico ">chevron_right</span></a>
+  </div>
+  <div class="rail">
+  <a class="rec" href="01-menu.html#signatures">
+    <div class="rec-photo" style="background:#FFE6C7">
+      <img src="https://lh3.googleusercontent.com/aida/AEtjO1VzONkuPZT2lUjmCIzAeNIof3dYTxs3VTPI4JC8N44qJ9JFylqb_OJq8TWj0APQ18WkahITjK-tWz3gf9IXze9C6n-Z0tlRV6wjM8ZNF27Vjkqcws1whr0Zv6PohC7DvKQ8TKwqxKeeWxpH5Z1w3luoq4EkcCKz2BOJlbR6OuCmQVmdM5TPvo2Ittwd000KKsQpfVojdslsNN-6eqoVWyrYac9e0ebfV3heWZzjqrKX8vmwWzSRpAGpOdZx=s0" alt="POV Classic"/>
+      <span class="cube" style="width:14px;height:14px;background:#F7941D;"></span>
+      <span class="price-tag " style="background:#F9CD18;transform:rotate(-5deg)"><b>110</b><small>EGP</small></span>
+    </div>
+    <div class="rec-en">POV Classic</div>
+    <span lang="ar" dir="rtl" class="ar rec-ar">كلاسيك بوف</span>
+  </a>
+  <a class="rec" href="01-menu.html#signatures">
+    <div class="rec-photo" style="background:#FDE1DA">
+      <img src="https://lh3.googleusercontent.com/aida/AEtjO1UZiLIOFddBptNkizpy3BxtuRkqIibaJebA98g1cPPnFsRqeYQy8AfEzVTBD7L0qQ0Uvnvyz3Ah8mg9nwae36z_LePtPPMq8dojhBPnEVr-AISIuzIwoDX35VL4CnG7tGdUr7jMCZXX9lh8-HW9Pn1woD86Q0-JZiXGB9m26MBeJ3fwwznwQqVyO2QgX31vf5RvLEdrt29AuepyAYGofJ4t6jtfpz1K5OvG0Nw6Hrf7SYB00Dz_pCLVQU0=s0" alt="Mango x Strawberry"/>
+      <span class="cube" style="width:14px;height:14px;background:#F2654A;"></span>
+      <span class="price-tag " style="background:#F9CD18;transform:rotate(5deg)"><b>115</b><small>EGP</small></span>
+    </div>
+    <div class="rec-en">Mango x Strawberry</div>
+    <span lang="ar" dir="rtl" class="ar rec-ar">مانجو فراولة</span>
+  </a>
+  <a class="rec" href="01-menu.html#signatures">
+    <div class="rec-photo" style="background:#EFE6FA">
+      <img src="https://lh3.googleusercontent.com/aida/AEtjO1V8zjEE5Wt0liXJDbx8mI_PzgNNdhOhXlwq4wUfBtAPyKfOES3D4i3gjeRR069UhXT86q-Qp-DwQ8nRa2oej-i1xx9lThFFOizqlckYydU6rN7qK2HK7ByIXXqkRnc6zudLvZtJPm4zkpUzEHzMyLFQ6oR1r_sd5YAd5r3q2p_K5fTXfGGQbaoNPYmwwkAr3u1GjcWTu7PNl43tJE4qdOQCbb5XFLqcLGZtnVEk1HmYnU-tifbdNRF6hfAS=s0" alt="Mango Passion"/>
+      <span class="cube" style="width:14px;height:14px;background:#7243AB;"></span>
+      <span class="price-tag " style="background:#F9CD18;transform:rotate(-5deg)"><b>125</b><small>EGP</small></span>
+    </div>
+    <div class="rec-en">Mango Passion</div>
+    <span lang="ar" dir="rtl" class="ar rec-ar">مانجو باشن</span>
+  </a></div>
+</section>
+<footer class="foot">
+  <span class="cube" style="width:46px;height:46px;background:#F9CD18;position:absolute;left:-14px;top:30px;transform:rotate(24deg)"></span>
+  <span class="cube" style="width:30px;height:30px;background:#17AE9D;position:absolute;right:22px;top:24px;transform:rotate(58deg)"></span>
+  <span class="cube" style="width:22px;height:22px;background:#F2654A;position:absolute;right:-6px;bottom:46px;transform:rotate(30deg)"></span>
+  <span class="dot" style="width:8px;height:8px;background:#F7941D;position:absolute;left:46px;bottom:40px"></span>
+
+  <div class="mark" aria-hidden="true">
+    <span class="cup"></span>
+    <span class="cube" style="width:17px;height:17px;background:#F9CD18;left:30px;top:12px"></span>
+    <span class="cube" style="width:13px;height:13px;background:#17AE9D;left:18px;top:28px"></span>
+    <span class="cube" style="width:13px;height:13px;background:#17AE9D;left:45px;top:28px"></span>
+    <span class="cube" style="width:21px;height:21px;background:#F7941D;left:28px;top:36px"></span>
+    <span class="dot" style="width:5px;height:5px;background:#F2654A;left:56px;top:2px"></span>
+    <span class="dot" style="width:5px;height:5px;background:#17AE9D;left:64px;top:10px"></span>
+    <span class="dot" style="width:4px;height:4px;background:#F2654A;left:52px;top:14px"></span>
+  </div>
+  <span class="wordmark" style="font-size:46px"><span style="color:#7243AB">P</span><span style="color:#F9CD18">O</span><span style="color:#17AE9D">V</span></span>
+  <span lang="ar" dir="rtl" class="ar tag-ar">اختيارك ... وجهة نظرك</span>
+  <p class="tag-en">Your Choice. Your Point Of View.</p>
+  <a class="back-menu" href="01-menu.html">Back to the full menu<span class="material-symbols-outlined ico ">arrow_forward</span></a>
+</footer>
+</main></body></html>

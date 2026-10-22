@@ -1,0 +1,1331 @@
+{
+  "activeSet": "mingcute",
+  "sets": {
+    "solar": {
+      "label": "Solar (Bold Duotone)",
+      "regular": "-bold-duotone",
+      "fill": "-bold"
+    },
+    "ph": {
+      "label": "Phosphor (Duotone)",
+      "regular": "-duotone",
+      "fill": "-fill"
+    },
+    "mingcute": {
+      "label": "MingCute (Line)",
+      "regular": "-line",
+      "fill": "-fill"
+    }
+  },
+  "icons": {
+    "heart": {
+      "material": [
+        "favorite",
+        "favorite_border"
+      ],
+      "solar": [
+        "heart"
+      ],
+      "ph": [
+        "heart"
+      ],
+      "mingcute": [
+        "heart"
+      ]
+    },
+    "home": {
+      "material": [
+        "home",
+        "house"
+      ],
+      "solar": [
+        "home-2",
+        "home-smile",
+        "home"
+      ],
+      "ph": [
+        "house",
+        "house-simple"
+      ],
+      "mingcute": [
+        "home-4",
+        "home-1"
+      ]
+    },
+    "search": {
+      "material": [
+        "search"
+      ],
+      "solar": [
+        "magnifer",
+        "minimalistic-magnifer"
+      ],
+      "ph": [
+        "magnifying-glass"
+      ],
+      "mingcute": [
+        "search",
+        "search-2"
+      ]
+    },
+    "plus": {
+      "material": [
+        "add"
+      ],
+      "style": "fill",
+      "solar": [
+        "add"
+      ],
+      "ph": [
+        "=plus-bold"
+      ],
+      "mingcute": [
+        "add",
+        "plus"
+      ]
+    },
+    "plus-circle": {
+      "material": [
+        "add_circle",
+        "add_circle_outline",
+        "add_box"
+      ],
+      "solar": [
+        "add-circle"
+      ],
+      "ph": [
+        "plus-circle"
+      ],
+      "mingcute": [
+        "add-circle"
+      ]
+    },
+    "back": {
+      "material": [
+        "arrow_back",
+        "arrow_back_ios",
+        "arrow_back_ios_new",
+        "chevron_left"
+      ],
+      "solar": [
+        "alt-arrow-left"
+      ],
+      "ph": [
+        "caret-left"
+      ],
+      "mingcute": [
+        "left",
+        "arrow-left"
+      ]
+    },
+    "forward": {
+      "material": [
+        "arrow_forward",
+        "arrow_forward_ios",
+        "chevron_right"
+      ],
+      "solar": [
+        "alt-arrow-right"
+      ],
+      "ph": [
+        "caret-right"
+      ],
+      "mingcute": [
+        "right",
+        "arrow-right"
+      ]
+    },
+    "down": {
+      "material": [
+        "expand_more",
+        "keyboard_arrow_down"
+      ],
+      "solar": [
+        "alt-arrow-down"
+      ],
+      "ph": [
+        "caret-down"
+      ],
+      "mingcute": [
+        "down",
+        "arrow-down"
+      ]
+    },
+    "bookmark": {
+      "material": [
+        "bookmark",
+        "bookmark_border",
+        "bookmarks"
+      ],
+      "solar": [
+        "bookmark"
+      ],
+      "ph": [
+        "bookmark-simple"
+      ],
+      "mingcute": [
+        "bookmark"
+      ]
+    },
+    "comment": {
+      "material": [
+        "chat_bubble",
+        "chat_bubble_outline",
+        "mode_comment",
+        "comment",
+        "chat",
+        "forum",
+        "sms"
+      ],
+      "solar": [
+        "chat-round-dots",
+        "chat-round"
+      ],
+      "ph": [
+        "chat-circle-dots",
+        "chat-circle"
+      ],
+      "mingcute": [
+        "chat-3",
+        "chat-1",
+        "message-3"
+      ]
+    },
+    "send": {
+      "material": [
+        "send",
+        "near_me"
+      ],
+      "solar": [
+        "plain",
+        "plain-2",
+        "plain-3",
+        "map-arrow-right"
+      ],
+      "ph": [
+        "paper-plane-tilt",
+        "paper-plane"
+      ],
+      "mingcute": [
+        "send-plane",
+        "send"
+      ]
+    },
+    "bell": {
+      "material": [
+        "notifications",
+        "notifications_none",
+        "notifications_active"
+      ],
+      "solar": [
+        "bell"
+      ],
+      "ph": [
+        "bell"
+      ],
+      "mingcute": [
+        "notification"
+      ]
+    },
+    "location": {
+      "material": [
+        "location_on",
+        "place",
+        "pin_drop"
+      ],
+      "solar": [
+        "map-point"
+      ],
+      "ph": [
+        "map-pin"
+      ],
+      "mingcute": [
+        "location"
+      ]
+    },
+    "more": {
+      "material": [
+        "more_horiz"
+      ],
+      "solar": [
+        "menu-dots"
+      ],
+      "ph": [
+        "dots-three"
+      ],
+      "mingcute": [
+        "more-1",
+        "dots"
+      ]
+    },
+    "more-vert": {
+      "material": [
+        "more_vert"
+      ],
+      "solar": [
+        "menu-dots-vertical",
+        "menu-dots"
+      ],
+      "ph": [
+        "dots-three-vertical"
+      ],
+      "mingcute": [
+        "more-2",
+        "dots-vertical"
+      ]
+    },
+    "verified": {
+      "material": [
+        "verified",
+        "new_releases"
+      ],
+      "style": "fill",
+      "solar": [
+        "verified-check"
+      ],
+      "ph": [
+        "seal-check"
+      ],
+      "mingcute": [
+        "certificate",
+        "check-circle"
+      ]
+    },
+    "play": {
+      "material": [
+        "play_arrow"
+      ],
+      "style": "fill",
+      "solar": [
+        "play"
+      ],
+      "ph": [
+        "play"
+      ],
+      "mingcute": [
+        "play"
+      ]
+    },
+    "play-circle": {
+      "material": [
+        "play_circle",
+        "play_circle_filled"
+      ],
+      "solar": [
+        "play-circle"
+      ],
+      "ph": [
+        "play-circle"
+      ],
+      "mingcute": [
+        "play-circle"
+      ]
+    },
+    "video": {
+      "material": [
+        "videocam",
+        "video_call"
+      ],
+      "solar": [
+        "videocamera-record",
+        "videocamera"
+      ],
+      "ph": [
+        "video-camera"
+      ],
+      "mingcute": [
+        "video-camera",
+        "video"
+      ]
+    },
+    "reels": {
+      "material": [
+        "movie",
+        "smart_display",
+        "slideshow",
+        "video_library",
+        "theaters",
+        "subscriptions"
+      ],
+      "solar": [
+        "clapperboard-play",
+        "clapperboard"
+      ],
+      "ph": [
+        "film-slate",
+        "film-strip"
+      ],
+      "mingcute": [
+        "video",
+        "film"
+      ]
+    },
+    "fitness": {
+      "material": [
+        "fitness_center"
+      ],
+      "solar": [
+        "dumbbell-large",
+        "dumbbell"
+      ],
+      "ph": [
+        "barbell"
+      ],
+      "mingcute": [
+        "barbell"
+      ]
+    },
+    "user": {
+      "material": [
+        "person",
+        "person_outline",
+        "account_circle"
+      ],
+      "solar": [
+        "user-circle",
+        "user"
+      ],
+      "ph": [
+        "user-circle",
+        "user"
+      ],
+      "mingcute": [
+        "user-3",
+        "user-4"
+      ]
+    },
+    "users": {
+      "material": [
+        "group",
+        "people",
+        "groups"
+      ],
+      "solar": [
+        "users-group-rounded"
+      ],
+      "ph": [
+        "users-three",
+        "users"
+      ],
+      "mingcute": [
+        "group",
+        "user-3"
+      ]
+    },
+    "user-add": {
+      "material": [
+        "person_add",
+        "group_add"
+      ],
+      "solar": [
+        "user-plus-rounded",
+        "user-plus"
+      ],
+      "ph": [
+        "user-plus"
+      ],
+      "mingcute": [
+        "user-add",
+        "user-add-2"
+      ]
+    },
+    "explore": {
+      "material": [
+        "explore",
+        "travel_explore"
+      ],
+      "solar": [
+        "compass"
+      ],
+      "ph": [
+        "compass"
+      ],
+      "mingcute": [
+        "compass"
+      ]
+    },
+    "image": {
+      "material": [
+        "image",
+        "photo",
+        "insert_photo"
+      ],
+      "solar": [
+        "gallery"
+      ],
+      "ph": [
+        "image"
+      ],
+      "mingcute": [
+        "pic",
+        "pic-2"
+      ]
+    },
+    "gallery": {
+      "material": [
+        "photo_library",
+        "collections",
+        "burst_mode"
+      ],
+      "solar": [
+        "gallery-wide",
+        "gallery"
+      ],
+      "ph": [
+        "images"
+      ],
+      "mingcute": [
+        "photo-album",
+        "pic"
+      ]
+    },
+    "camera": {
+      "material": [
+        "photo_camera",
+        "camera_alt",
+        "camera"
+      ],
+      "solar": [
+        "camera"
+      ],
+      "ph": [
+        "camera"
+      ],
+      "mingcute": [
+        "camera",
+        "camera-2"
+      ]
+    },
+    "settings": {
+      "material": [
+        "settings"
+      ],
+      "solar": [
+        "settings"
+      ],
+      "ph": [
+        "gear"
+      ],
+      "mingcute": [
+        "settings-3",
+        "settings-1"
+      ]
+    },
+    "share": {
+      "material": [
+        "share",
+        "ios_share",
+        "reply"
+      ],
+      "solar": [
+        "share"
+      ],
+      "ph": [
+        "share-network"
+      ],
+      "mingcute": [
+        "share-2",
+        "share-forward"
+      ]
+    },
+    "close": {
+      "material": [
+        "close",
+        "cancel"
+      ],
+      "solar": [
+        "close-circle"
+      ],
+      "ph": [
+        "x",
+        "x-circle"
+      ],
+      "mingcute": [
+        "close"
+      ]
+    },
+    "edit": {
+      "material": [
+        "edit",
+        "edit_note",
+        "draw",
+        "edit_square"
+      ],
+      "solar": [
+        "pen",
+        "pen-2"
+      ],
+      "ph": [
+        "pencil-simple"
+      ],
+      "mingcute": [
+        "edit",
+        "pen"
+      ]
+    },
+    "mic": {
+      "material": [
+        "mic",
+        "keyboard_voice",
+        "mic_none"
+      ],
+      "solar": [
+        "microphone"
+      ],
+      "ph": [
+        "microphone"
+      ],
+      "mingcute": [
+        "mic"
+      ]
+    },
+    "phone": {
+      "material": [
+        "call",
+        "phone"
+      ],
+      "solar": [
+        "phone"
+      ],
+      "ph": [
+        "phone"
+      ],
+      "mingcute": [
+        "phone"
+      ]
+    },
+    "smile": {
+      "material": [
+        "mood",
+        "sentiment_satisfied",
+        "emoji_emotions",
+        "add_reaction",
+        "sentiment_very_satisfied"
+      ],
+      "solar": [
+        "smile-circle"
+      ],
+      "ph": [
+        "smiley"
+      ],
+      "mingcute": [
+        "emoji",
+        "emoji-2"
+      ]
+    },
+    "trending": {
+      "material": [
+        "trending_up",
+        "insights"
+      ],
+      "solar": [
+        "graph-up",
+        "chart"
+      ],
+      "ph": [
+        "trend-up"
+      ],
+      "mingcute": [
+        "trending-up",
+        "chart-line"
+      ]
+    },
+    "fire": {
+      "material": [
+        "local_fire_department",
+        "whatshot"
+      ],
+      "solar": [
+        "fire"
+      ],
+      "ph": [
+        "fire"
+      ],
+      "mingcute": [
+        "fire"
+      ]
+    },
+    "music": {
+      "material": [
+        "music_note",
+        "library_music",
+        "audiotrack"
+      ],
+      "solar": [
+        "music-note-2",
+        "music-note"
+      ],
+      "ph": [
+        "music-notes",
+        "music-note"
+      ],
+      "mingcute": [
+        "music-2",
+        "music"
+      ]
+    },
+    "check": {
+      "material": [
+        "check",
+        "done",
+        "done_all"
+      ],
+      "solar": [
+        "check-read",
+        "check-circle"
+      ],
+      "ph": [
+        "check"
+      ],
+      "mingcute": [
+        "check"
+      ]
+    },
+    "check-circle": {
+      "material": [
+        "check_circle",
+        "task_alt"
+      ],
+      "solar": [
+        "check-circle"
+      ],
+      "ph": [
+        "check-circle"
+      ],
+      "mingcute": [
+        "check-circle"
+      ]
+    },
+    "menu": {
+      "material": [
+        "menu"
+      ],
+      "solar": [
+        "hamburger-menu"
+      ],
+      "ph": [
+        "list"
+      ],
+      "mingcute": [
+        "menu"
+      ]
+    },
+    "tune": {
+      "material": [
+        "tune",
+        "filter_list"
+      ],
+      "solar": [
+        "tuning-2",
+        "tuning"
+      ],
+      "ph": [
+        "sliders-horizontal"
+      ],
+      "mingcute": [
+        "settings-6",
+        "equalizer"
+      ]
+    },
+    "logout": {
+      "material": [
+        "logout"
+      ],
+      "solar": [
+        "logout-2",
+        "logout"
+      ],
+      "ph": [
+        "sign-out"
+      ],
+      "mingcute": [
+        "exit"
+      ]
+    },
+    "lock": {
+      "material": [
+        "lock",
+        "lock_outline"
+      ],
+      "solar": [
+        "lock-keyhole",
+        "lock"
+      ],
+      "ph": [
+        "lock"
+      ],
+      "mingcute": [
+        "lock"
+      ]
+    },
+    "mail": {
+      "material": [
+        "mail",
+        "email",
+        "inbox",
+        "mail_outline"
+      ],
+      "solar": [
+        "letter"
+      ],
+      "ph": [
+        "envelope-simple",
+        "envelope"
+      ],
+      "mingcute": [
+        "mail"
+      ]
+    },
+    "eye": {
+      "material": [
+        "visibility"
+      ],
+      "solar": [
+        "eye"
+      ],
+      "ph": [
+        "eye"
+      ],
+      "mingcute": [
+        "eye",
+        "eye-2"
+      ]
+    },
+    "star": {
+      "material": [
+        "star",
+        "star_border",
+        "grade"
+      ],
+      "solar": [
+        "star"
+      ],
+      "ph": [
+        "star"
+      ],
+      "mingcute": [
+        "star"
+      ]
+    },
+    "trash": {
+      "material": [
+        "delete",
+        "delete_outline"
+      ],
+      "solar": [
+        "trash-bin-trash"
+      ],
+      "ph": [
+        "trash"
+      ],
+      "mingcute": [
+        "delete-2",
+        "delete"
+      ]
+    },
+    "info": {
+      "material": [
+        "info"
+      ],
+      "solar": [
+        "info-circle"
+      ],
+      "ph": [
+        "info"
+      ],
+      "mingcute": [
+        "information"
+      ]
+    },
+    "calendar": {
+      "material": [
+        "calendar_today",
+        "event",
+        "calendar_month"
+      ],
+      "solar": [
+        "calendar"
+      ],
+      "ph": [
+        "calendar"
+      ],
+      "mingcute": [
+        "calendar"
+      ]
+    },
+    "clock": {
+      "material": [
+        "schedule",
+        "history",
+        "access_time"
+      ],
+      "solar": [
+        "clock-circle"
+      ],
+      "ph": [
+        "clock"
+      ],
+      "mingcute": [
+        "time"
+      ]
+    },
+    "link": {
+      "material": [
+        "link"
+      ],
+      "solar": [
+        "link-round",
+        "link"
+      ],
+      "ph": [
+        "link"
+      ],
+      "mingcute": [
+        "link"
+      ]
+    },
+    "grid": {
+      "material": [
+        "grid_view",
+        "apps",
+        "grid_on",
+        "dashboard"
+      ],
+      "solar": [
+        "widget",
+        "widget-2"
+      ],
+      "ph": [
+        "squares-four"
+      ],
+      "mingcute": [
+        "layout-grid",
+        "grid"
+      ]
+    },
+    "chart": {
+      "material": [
+        "poll",
+        "bar_chart",
+        "leaderboard",
+        "analytics"
+      ],
+      "solar": [
+        "chart-2",
+        "chart"
+      ],
+      "ph": [
+        "chart-bar"
+      ],
+      "mingcute": [
+        "chart-bar"
+      ]
+    },
+    "sparkle": {
+      "material": [
+        "auto_awesome",
+        "magic_button",
+        "stars",
+        "sparkles",
+        "sparkle"
+      ],
+      "solar": [
+        "stars",
+        "magic-stick-3"
+      ],
+      "ph": [
+        "sparkle"
+      ],
+      "mingcute": [
+        "sparkles",
+        "magic-1"
+      ]
+    },
+    "attach": {
+      "material": [
+        "attach_file"
+      ],
+      "solar": [
+        "paperclip"
+      ],
+      "ph": [
+        "paperclip"
+      ],
+      "mingcute": [
+        "attachment"
+      ]
+    },
+    "thumb-up": {
+      "material": [
+        "thumb_up",
+        "thumb_up_off_alt"
+      ],
+      "solar": [
+        "like"
+      ],
+      "ph": [
+        "thumbs-up"
+      ],
+      "mingcute": [
+        "thumb-up",
+        "thumb-up-2"
+      ]
+    },
+    "globe": {
+      "material": [
+        "public",
+        "language"
+      ],
+      "solar": [
+        "global"
+      ],
+      "ph": [
+        "globe"
+      ],
+      "mingcute": [
+        "world",
+        "earth"
+      ]
+    },
+    "palette": {
+      "material": [
+        "palette",
+        "brush",
+        "format_paint"
+      ],
+      "solar": [
+        "pallete-2",
+        "palette"
+      ],
+      "ph": [
+        "palette"
+      ],
+      "mingcute": [
+        "palette",
+        "palette-2"
+      ]
+    },
+    "food": {
+      "material": [
+        "restaurant",
+        "lunch_dining",
+        "fastfood"
+      ],
+      "solar": [
+        "chef-hat",
+        "donut"
+      ],
+      "ph": [
+        "fork-knife"
+      ],
+      "mingcute": [
+        "fork-knife",
+        "fork-spoon"
+      ]
+    },
+    "plane": {
+      "material": [
+        "flight",
+        "flight_takeoff",
+        "luggage"
+      ],
+      "solar": [
+        "airbuss",
+        "map"
+      ],
+      "ph": [
+        "airplane-tilt",
+        "airplane"
+      ],
+      "mingcute": [
+        "airplane",
+        "plane"
+      ]
+    },
+    "celebrate": {
+      "material": [
+        "celebration",
+        "cake"
+      ],
+      "solar": [
+        "confetti",
+        "balloon"
+      ],
+      "ph": [
+        "confetti"
+      ],
+      "mingcute": [
+        "celebrate",
+        "firework"
+      ]
+    },
+    "sticker": {
+      "material": [
+        "sticky_note_2",
+        "gif_box",
+        "gif",
+        "amp_stories"
+      ],
+      "solar": [
+        "sticker-smile-circle"
+      ],
+      "ph": [
+        "sticker"
+      ],
+      "mingcute": [
+        "sticker"
+      ]
+    },
+    "code": {
+      "material": [
+        "code",
+        "terminal"
+      ],
+      "solar": [
+        "code-2",
+        "code"
+      ],
+      "ph": [
+        "code"
+      ],
+      "mingcute": [
+        "code"
+      ]
+    },
+    "book": {
+      "material": [
+        "auto_stories",
+        "menu_book",
+        "book",
+        "import_contacts"
+      ],
+      "solar": [
+        "book-2",
+        "book"
+      ],
+      "ph": [
+        "book-open"
+      ],
+      "mingcute": [
+        "book-2",
+        "book"
+      ]
+    },
+    "signal": {
+      "material": [
+        "signal_cellular_4_bar",
+        "signal_cellular_alt",
+        "network_cell"
+      ],
+      "style": "fill",
+      "solar": [
+        "=chart-2-bold"
+      ],
+      "ph": [
+        "cell-signal-full"
+      ],
+      "mingcute": [
+        "signal"
+      ]
+    },
+    "wifi": {
+      "material": [
+        "wifi",
+        "network_wifi"
+      ],
+      "style": "fill",
+      "solar": [
+        "=home-wifi-bold"
+      ],
+      "ph": [
+        "wifi-high"
+      ],
+      "mingcute": [
+        "wifi"
+      ]
+    },
+    "battery": {
+      "material": [
+        "battery_full",
+        "battery_std",
+        "battery_5_bar",
+        "battery_6_bar"
+      ],
+      "style": "fill",
+      "solar": [
+        "battery-full"
+      ],
+      "ph": [
+        "battery-full"
+      ],
+      "mingcute": [
+        "battery-4",
+        "battery"
+      ]
+    },
+    "crop": {
+      "material": [
+        "crop",
+        "crop_rotate"
+      ],
+      "solar": [
+        "crop"
+      ],
+      "ph": [
+        "crop"
+      ],
+      "mingcute": [
+        "frame",
+        "scissors"
+      ]
+    },
+    "mention": {
+      "material": [
+        "alternate_email",
+        "alternate_email_outline"
+      ],
+      "solar": [
+        "mention-circle",
+        "mention-square"
+      ],
+      "ph": [
+        "at"
+      ],
+      "mingcute": [
+        "at"
+      ]
+    },
+    "shield": {
+      "material": [
+        "shield",
+        "security",
+        "gpp_good",
+        "verified_user"
+      ],
+      "solar": [
+        "shield-check",
+        "shield"
+      ],
+      "ph": [
+        "shield-check",
+        "shield"
+      ],
+      "mingcute": [
+        "shield",
+        "safe-shield"
+      ]
+    },
+    "moon": {
+      "material": [
+        "dark_mode",
+        "nightlight",
+        "bedtime"
+      ],
+      "solar": [
+        "moon"
+      ],
+      "ph": [
+        "moon"
+      ],
+      "mingcute": [
+        "moon"
+      ]
+    },
+    "translate": {
+      "material": [
+        "translate",
+        "g_translate"
+      ],
+      "solar": [
+        "translation-2",
+        "translation",
+        "global"
+      ],
+      "ph": [
+        "translate"
+      ],
+      "mingcute": [
+        "translate"
+      ]
+    },
+    "data": {
+      "material": [
+        "data_usage",
+        "donut_large",
+        "pie_chart"
+      ],
+      "solar": [
+        "pie-chart-2",
+        "pie-chart"
+      ],
+      "ph": [
+        "chart-pie-slice",
+        "chart-pie"
+      ],
+      "mingcute": [
+        "chart-pie",
+        "chart-pie-2"
+      ]
+    },
+    "help": {
+      "material": [
+        "help",
+        "help_outline",
+        "help_center",
+        "contact_support",
+        "question_mark"
+      ],
+      "solar": [
+        "question-circle"
+      ],
+      "ph": [
+        "question"
+      ],
+      "mingcute": [
+        "question"
+      ]
+    },
+    "up": {
+      "material": [
+        "arrow_upward",
+        "north",
+        "expand_less"
+      ],
+      "solar": [
+        "alt-arrow-up",
+        "arrow-up"
+      ],
+      "ph": [
+        "arrow-up"
+      ],
+      "mingcute": [
+        "arrow-up",
+        "up"
+      ]
+    },
+    "bag": {
+      "material": [
+        "shopping_bag",
+        "local_mall"
+      ],
+      "ph": [
+        "bag-simple"
+      ],
+      "mingcute": [
+        "shopping-bag-1"
+      ]
+    },
+    "store": {
+      "material": [
+        "storefront",
+        "store"
+      ],
+      "ph": [
+        "storefront"
+      ],
+      "mingcute": [
+        "store-2"
+      ]
+    }
+  }
+}

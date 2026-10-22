@@ -1,0 +1,558 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>POV Menu Directions</title>
+<meta name="description" content="Compare two design directions for the POV QR phone menu and pick one.">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Readex+Pro:wght@300..700&display=swap" rel="stylesheet">
+<style>
+  :root {
+    --cream: #FFF8E7;
+    --paper: #FFFFFF;
+    --ink: #2A1640;
+    --muted: #6F6280;
+    --line: #EFE3C8;
+    --purple: #7243AB;
+    --yellow: #F9CD18;
+    --orange: #F7941D;
+    --teal: #17AE9D;
+    --coral: #F2654A;
+    --screen-w: 390px;
+    --screen-h: 844px;
+    --bezel: 12px;
+    --frame-w: calc(var(--screen-w) + 2 * var(--bezel));
+    --frame-h: calc(var(--screen-h) + 2 * var(--bezel));
+  }
+  * { box-sizing: border-box; }
+  html { -webkit-text-size-adjust: 100%; }
+  body {
+    margin: 0;
+    background: var(--cream);
+    color: var(--ink);
+    font-family: "Readex Pro", system-ui, -apple-system, "Segoe UI", sans-serif;
+    font-size: 16px;
+    line-height: 1.5;
+    -webkit-font-smoothing: antialiased;
+    overflow-x: hidden;
+  }
+  [lang="ar"] { font-family: "Readex Pro", sans-serif; }
+  a { color: inherit; }
+  button { font: inherit; color: inherit; }
+  :focus-visible { outline: 3px solid var(--purple); outline-offset: 3px; border-radius: 12px; }
+
+  .wrap { max-width: 1120px; margin: 0 auto; padding: 0 32px; }
+
+  /* ---------- Header ---------- */
+  header.top { padding: 40px 0 8px; }
+  .brand { display: flex; align-items: center; gap: 14px; }
+  .logo-tile {
+    width: 56px; height: 56px; flex: none;
+    border-radius: 18px; background: var(--paper);
+    box-shadow: 0 1px 0 var(--line), 0 10px 24px -18px rgba(42, 22, 64, .5);
+    display: grid; place-items: center;
+  }
+  /* Crop the cup mark out of the square logo (1280px source: mark sits at about x 440-840, y 80-640). */
+  .logo-mark {
+    width: 30px; height: 42px;
+    background: url("../assets/src/logo.jpg") no-repeat;
+    background-size: 96px 96px;
+    background-position: -33px -6px;
+  }
+  .brand-name { display: flex; align-items: baseline; gap: 10px; font-weight: 700; font-size: 20px; letter-spacing: -.02em; line-height: 1; }
+  .brand-name .p { color: var(--purple); }
+  .brand-name .o { color: var(--yellow); }
+  .brand-name .v { color: var(--teal); }
+  .brand-name [lang="ar"] { font-size: 17px; font-weight: 600; color: var(--purple); }
+  .brand-sub { font-size: 13px; color: var(--muted); margin-top: 4px; }
+
+  .intro { display: grid; grid-template-columns: minmax(0, 1fr) auto; gap: 32px; align-items: end; margin-top: 36px; }
+  .eyebrow { font-size: 13px; font-weight: 600; letter-spacing: .12em; text-transform: uppercase; color: var(--purple); margin: 0 0 10px; }
+  h1 { margin: 0; font-size: clamp(32px, 4.4vw, 52px); line-height: 1.04; letter-spacing: -.035em; font-weight: 700; }
+  .lede { margin: 14px 0 0; max-width: 58ch; color: var(--muted); font-size: 17px; }
+
+  /* ---------- Toggle ---------- */
+  .control { display: flex; flex-direction: column; align-items: flex-end; gap: 8px; }
+  .control-label { font-size: 13px; color: var(--muted); }
+  .segmented {
+    display: inline-flex; padding: 5px; gap: 4px;
+    background: var(--paper); border: 1.5px solid var(--line); border-radius: 999px;
+    box-shadow: 0 10px 24px -20px rgba(42, 22, 64, .5);
+  }
+  .segmented button {
+    appearance: none; border: 0; background: transparent; cursor: pointer;
+    padding: 10px 20px; border-radius: 999px; font-weight: 600; font-size: 15px; color: var(--muted);
+    transition: background-color .2s, color .2s;
+  }
+  .segmented button:hover { color: var(--ink); }
+  .segmented button[aria-pressed="true"] { background: var(--ink); color: var(--cream); }
+
+  /* ---------- Options ---------- */
+  .options { display: grid; grid-template-columns: repeat(2, minmax(0, 1fr)); gap: 32px; margin: 36px 0 24px; }
+  .option {
+    --accent: var(--orange);
+    --accent-soft: #FFE9CC;
+    position: relative; min-width: 0;
+    background: rgba(255, 255, 255, .55);
+    border: 1.5px solid var(--line);
+    border-radius: 32px;
+    padding: 28px 28px 24px;
+    display: flex; flex-direction: column;
+    transition: border-color .25s, box-shadow .25s, background-color .25s;
+  }
+  .option[data-option="b"] { --accent: var(--teal); --accent-soft: #D6F3EE; }
+  .option.is-chosen {
+    border-color: var(--accent);
+    background: var(--paper);
+    box-shadow: 0 0 0 4px var(--accent-soft), 0 24px 48px -32px rgba(42, 22, 64, .45);
+  }
+  .option-head { display: flex; align-items: center; gap: 12px; }
+  .cube { width: 16px; height: 16px; border-radius: 5px; background: var(--accent); transform: rotate(45deg); flex: none; }
+  .cube.small { width: 9px; height: 9px; border-radius: 3px; }
+  .option-tag { font-size: 13px; font-weight: 600; letter-spacing: .1em; text-transform: uppercase; color: var(--muted); }
+  .chosen-badge {
+    margin-left: auto; display: none; align-items: center; gap: 6px;
+    padding: 5px 12px 5px 9px; border-radius: 999px;
+    background: var(--accent-soft); color: var(--ink); font-size: 13px; font-weight: 600;
+  }
+  .option.is-chosen .chosen-badge { display: inline-flex; }
+  .option h2 { margin: 10px 0 0; font-size: 30px; line-height: 1.1; letter-spacing: -.025em; }
+  .option .desc { margin: 10px 0 0; color: var(--muted); font-size: 16px; min-height: 3em; }
+  .accents { display: flex; align-items: center; gap: 8px; margin-top: 14px; font-size: 13px; color: var(--muted); }
+  .swatch { width: 18px; height: 18px; border-radius: 50%; border: 2px solid var(--paper); box-shadow: 0 0 0 1px var(--line); margin-right: -4px; }
+
+  /* ---------- Phone ---------- */
+  .stage { margin-top: 26px; display: flex; justify-content: center; min-width: 0; }
+  .phone-slot {
+    --s: 1;
+    width: calc(var(--frame-w) * var(--s));
+    height: calc(var(--frame-h) * var(--s));
+    position: relative; flex: none;
+  }
+  .phone {
+    position: absolute; left: 0; top: 0;
+    width: var(--frame-w); height: var(--frame-h);
+    transform: scale(var(--s)); transform-origin: top left;
+    padding: var(--bezel);
+    border-radius: 58px;
+    background: linear-gradient(145deg, #3A3341 0%, #17131C 45%, #2A2430 100%);
+    box-shadow:
+      inset 0 0 0 1.5px #5A5262,
+      inset 0 0 0 4px #121016,
+      0 2px 0 rgba(255, 255, 255, .6),
+      0 40px 60px -36px rgba(42, 22, 64, .55),
+      0 18px 30px -24px rgba(42, 22, 64, .35);
+  }
+  /* side buttons */
+  .phone::before, .phone::after {
+    content: ""; position: absolute; width: 4px; border-radius: 2px; background: #2A2430;
+  }
+  .phone::before { left: -3px; top: 168px; height: 64px; box-shadow: 0 -90px 0 -0px #2A2430; }
+  .phone::after { right: -3px; top: 220px; height: 96px; }
+  .screen {
+    position: relative; width: var(--screen-w); height: var(--screen-h);
+    border-radius: 46px; overflow: hidden; background: var(--cream);
+    isolation: isolate;
+  }
+  .screen iframe {
+    position: absolute; left: 0; top: 0;
+    width: calc(var(--screen-w) + var(--sbw, 0px)); height: 100%;
+    border: 0; display: block; background: var(--cream);
+  }
+
+  /* ---------- "In progress" placeholder ---------- */
+  .pending {
+    position: absolute; inset: 0; z-index: 2;
+    display: none; flex-direction: column; align-items: center; justify-content: center; text-align: center;
+    padding: 40px 36px;
+    background:
+      radial-gradient(circle at 20% 18%, var(--accent-soft) 0 90px, transparent 91px),
+      radial-gradient(circle at 85% 82%, #FFF1B8 0 110px, transparent 111px),
+      var(--cream);
+  }
+  .option.is-missing .pending { display: flex; }
+  .pending .cubes { position: relative; width: 120px; height: 110px; margin-bottom: 18px; }
+  .pending .cubes span {
+    position: absolute; display: block; border-radius: 28%; transform: rotate(45deg);
+    animation: drift 3.6s ease-in-out infinite;
+  }
+  .pending .cubes span:nth-child(1) { width: 34px; height: 34px; left: 43px; top: 6px; background: var(--yellow); }
+  .pending .cubes span:nth-child(2) { width: 26px; height: 26px; left: 10px; top: 42px; background: var(--teal); animation-delay: -1.2s; }
+  .pending .cubes span:nth-child(3) { width: 26px; height: 26px; left: 84px; top: 42px; background: var(--teal); animation-delay: -2.4s; }
+  .pending .cubes span:nth-child(4) { width: 42px; height: 42px; left: 39px; top: 56px; background: var(--orange); animation-delay: -.6s; }
+  @keyframes drift {
+    0%, 100% { transform: translateY(0) rotate(45deg); }
+    50% { transform: translateY(-8px) rotate(53deg); }
+  }
+  .pending h3 { margin: 0; font-size: 24px; line-height: 1.15; letter-spacing: -.02em; }
+  .pending p { margin: 10px 0 0; color: var(--muted); font-size: 15px; max-width: 28ch; }
+  .pending .checking { margin-top: 22px; display: inline-flex; align-items: center; gap: 10px; font-size: 13px; font-weight: 600; color: var(--purple); }
+  .dots { display: inline-flex; gap: 5px; }
+  .dots i { width: 6px; height: 6px; border-radius: 50%; background: currentColor; opacity: .25; animation: blink 1.4s infinite; }
+  .dots i:nth-child(2) { animation-delay: .2s; }
+  .dots i:nth-child(3) { animation-delay: .4s; }
+  @keyframes blink { 40% { opacity: 1; } }
+
+  /* ---------- Actions ---------- */
+  .actions { display: flex; gap: 12px; justify-content: center; flex-wrap: wrap; margin-top: 24px; }
+  .btn {
+    appearance: none; display: inline-flex; align-items: center; justify-content: center; gap: 8px;
+    min-height: 48px; padding: 0 22px; border-radius: 999px;
+    font-weight: 600; font-size: 15px; text-decoration: none; cursor: pointer;
+    transition: background-color .2s, border-color .2s, color .2s, transform .15s;
+  }
+  .btn:active { transform: translateY(1px); }
+  .btn svg { width: 18px; height: 18px; flex: none; }
+  .btn-ghost { background: var(--paper); border: 1.5px solid var(--line); color: var(--ink); }
+  .btn-ghost:hover { border-color: #DCCBA6; }
+  .btn-choose { background: var(--ink); border: 1.5px solid var(--ink); color: var(--cream); }
+  .btn-choose:hover { background: #3B2358; }
+  .btn-choose .check { display: none; }
+  .option.is-chosen .btn-choose { background: var(--accent); border-color: var(--accent); color: var(--ink); }
+  .option.is-chosen .btn-choose .check { display: block; }
+  .btn[aria-disabled="true"], .btn:disabled { opacity: .45; cursor: not-allowed; pointer-events: none; }
+
+  /* ---------- Footer ---------- */
+  footer { border-top: 1.5px solid var(--line); margin-top: 24px; padding: 24px 0 40px; display: flex; flex-wrap: wrap; justify-content: space-between; gap: 12px 24px; align-items: baseline; }
+  .tagline { font-weight: 600; font-size: 17px; display: flex; flex-wrap: wrap; gap: 4px 16px; align-items: baseline; }
+  .tagline [lang="ar"] { color: var(--purple); }
+  .note { font-size: 13px; color: var(--muted); }
+
+  /* ---------- Narrow screens: stack, and scale the phones (JS refines --s) ---------- */
+  @media (max-width: 900px) {
+    .wrap { padding: 0 16px; }
+    header.top { padding-top: 24px; }
+    .intro { grid-template-columns: 1fr; gap: 20px; margin-top: 26px; }
+    .control { align-items: stretch; }
+    .segmented { display: flex; }
+    .segmented button { flex: 1; }
+    .options { grid-template-columns: 1fr; gap: 20px; margin-top: 24px; }
+    .option { padding: 22px 16px 20px; border-radius: 28px; }
+    .option h2 { font-size: 26px; }
+    .option .desc { min-height: 0; }
+  }
+  @media (max-width: 480px) {
+    .phone-slot { --s: .8; }
+    .lede { font-size: 16px; }
+  }
+  @media (prefers-reduced-motion: reduce) {
+    .pending .cubes span, .dots i { animation: none; }
+    .dots i { opacity: .6; }
+  }
+</style>
+</head>
+<body>
+<div class="wrap">
+  <header class="top">
+    <div class="brand">
+      <div class="logo-tile" aria-hidden="true"><div class="logo-mark"></div></div>
+      <div>
+        <div class="brand-name">
+          <span><span class="p">P</span><span class="o">O</span><span class="v">V</span></span>
+          <span lang="ar" dir="rtl">بوف</span>
+        </div>
+        <div class="brand-sub">Fresh mango-first juice, Cairo</div>
+      </div>
+    </div>
+
+    <div class="intro">
+      <div>
+        <p class="eyebrow">Design review &middot; QR phone menu</p>
+        <h1>POV QR Menu: two directions</h1>
+        <p class="lede">The same menu, designed two ways. Scroll inside each phone and tap a drink to try it, then choose the direction you want us to build.</p>
+      </div>
+      <div class="control">
+        <span class="control-label" id="view-label">Show on both phones</span>
+        <div class="segmented" role="group" aria-labelledby="view-label">
+          <button type="button" data-screen="menu" aria-pressed="true">Menu</button>
+          <button type="button" data-screen="detail" aria-pressed="false">Drink detail</button>
+        </div>
+      </div>
+    </div>
+  </header>
+
+  <main class="options">
+    <section class="option" data-option="a" aria-labelledby="title-a">
+      <div class="option-head">
+        <span class="cube" aria-hidden="true"></span>
+        <span class="option-tag">Option A</span>
+        <span class="chosen-badge"><span class="cube small" aria-hidden="true"></span>Your pick</span>
+      </div>
+      <h2 id="title-a">Mango Pop</h2>
+      <p class="desc">Bold, playful and full of colour, with sticker price tags and mango cubes tumbling around the drinks.</p>
+      <div class="accents" aria-label="Accent colours">
+        <span class="swatch" style="background:#F9CD18"></span>
+        <span class="swatch" style="background:#F7941D"></span>
+        <span class="swatch" style="background:#F2654A"></span>
+        <span class="swatch" style="background:#7243AB"></span>
+        <span style="margin-left:10px">Mango yellow and orange lead</span>
+      </div>
+      <div class="stage">
+        <div class="phone-slot">
+          <div class="phone">
+            <div class="screen">
+              <iframe title="Option A, Mango Pop: live phone screen" src="about:blank"></iframe>
+              <div class="pending" aria-live="polite">
+                <div class="cubes" aria-hidden="true"><span></span><span></span><span></span><span></span></div>
+                <h3>Option A is on its way</h3>
+                <p>Mango Pop is still being finished. This phone will show it as soon as it is ready.</p>
+                <div class="checking"><span class="dots" aria-hidden="true"><i></i><i></i><i></i></span>Checking again shortly</div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+      <div class="actions">
+        <a class="btn btn-ghost js-open" href="../screens/a/01-menu.html" target="_blank" rel="noopener">
+          <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M14 4h6v6"/><path d="M20 4l-9 9"/><path d="M18 14v4a2 2 0 0 1-2 2H6a2 2 0 0 1-2-2V8a2 2 0 0 1 2-2h4"/></svg>
+          Open full screen
+        </a>
+        <button type="button" class="btn btn-choose js-choose" aria-pressed="false">
+          <svg class="check" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.4" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M5 12.5l4.5 4.5L19 7.5"/></svg>
+          <span class="js-choose-label">Choose A</span>
+        </button>
+      </div>
+    </section>
+
+    <section class="option" data-option="b" aria-labelledby="title-b">
+      <div class="option-head">
+        <span class="cube" aria-hidden="true"></span>
+        <span class="option-tag">Option B</span>
+        <span class="chosen-badge"><span class="cube small" aria-hidden="true"></span>Your pick</span>
+      </div>
+      <h2 id="title-b">Viewfinder</h2>
+      <p class="desc">Clean and easy to use, like a camera focusing on each drink: framed photos, a swipe carousel and a quick-scan menu.</p>
+      <div class="accents" aria-label="Accent colours">
+        <span class="swatch" style="background:#7243AB"></span>
+        <span class="swatch" style="background:#FFFFFF"></span>
+        <span class="swatch" style="background:#2A1640"></span>
+        <span class="swatch" style="background:#F9CD18"></span>
+        <span style="margin-left:10px">Purple focus on clean white</span>
+      </div>
+      <div class="stage">
+        <div class="phone-slot">
+          <div class="phone">
+            <div class="screen">
+              <iframe title="Option B, Viewfinder: live phone screen" src="about:blank"></iframe>
+              <div class="pending" aria-live="polite">
+                <div class="cubes" aria-hidden="true"><span></span><span></span><span></span><span></span></div>
+                <h3>Option B is on its way</h3>
+                <p>Viewfinder is being finished right now. This phone will show it as soon as it is ready.</p>
+                <div class="checking"><span class="dots" aria-hidden="true"><i></i><i></i><i></i></span>Checking again shortly</div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+      <div class="actions">
+        <a class="btn btn-ghost js-open" href="../screens/b/01-menu.html" target="_blank" rel="noopener">
+          <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M14 4h6v6"/><path d="M20 4l-9 9"/><path d="M18 14v4a2 2 0 0 1-2 2H6a2 2 0 0 1-2-2V8a2 2 0 0 1 2-2h4"/></svg>
+          Open full screen
+        </a>
+        <button type="button" class="btn btn-choose js-choose" aria-pressed="false">
+          <svg class="check" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.4" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M5 12.5l4.5 4.5L19 7.5"/></svg>
+          <span class="js-choose-label">Choose B</span>
+        </button>
+      </div>
+    </section>
+  </main>
+
+  <footer>
+    <div class="tagline">
+      <span>Your Choice. Your Point Of View.</span>
+      <span lang="ar" dir="rtl">اختيارك ... وجهة نظرك</span>
+    </div>
+    <div class="note">Your pick is only saved in this browser. Tell us your choice and we will build it out.</div>
+  </footer>
+</div>
+
+<script>
+(function () {
+  "use strict";
+
+  var SCREENS = { menu: "01-menu.html", detail: "02-drink-detail.html" };
+  var RECHECK_MS = 5000;
+  var STORE_KEY = "pov-compare-choice";
+
+  var options = Array.prototype.map.call(document.querySelectorAll(".option"), function (el) {
+    var key = el.getAttribute("data-option");
+    return {
+      key: key,
+      el: el,
+      base: "../screens/" + key + "/",
+      iframe: el.querySelector("iframe"),
+      open: el.querySelector(".js-open"),
+      choose: el.querySelector(".js-choose"),
+      label: el.querySelector(".js-choose-label"),
+      slot: el.querySelector(".phone-slot"),
+      stage: el.querySelector(".stage"),
+      seen: false,
+      token: 0,
+      timer: null
+    };
+  });
+
+  /* ---- Does a screen file exist? ----
+     Over http(s): a HEAD request.
+     Over file:// (the zipped folder): Chrome gives every local file its own origin, so an
+     iframe's contentDocument is null whether the file exists or not, and fetch() is blocked.
+     A <link rel="prefetch"> still fires "load" for an existing file and "error" for a missing
+     one, without running anything. If the browser ignores prefetch (no event in time), fall
+     back to a classic <script> probe: missing file -> "error", existing file -> "load". */
+  function linkProbe(url, cb) {
+    var done = false;
+    var link = document.createElement("link");
+    function finish(result) {
+      if (done) return;
+      done = true;
+      clearTimeout(timer);
+      if (link.parentNode) link.parentNode.removeChild(link);
+      cb(result);
+    }
+    var timer = setTimeout(function () { finish(null); }, 2500);
+    link.rel = "prefetch";
+    link.onload = function () { finish(true); };
+    link.onerror = function () { finish(false); };
+    link.href = url;
+    document.head.appendChild(link);
+  }
+
+  function scriptProbe(url, cb) {
+    var s = document.createElement("script");
+    var done = false;
+    function finish(ok) {
+      if (done) return;
+      done = true;
+      if (s.parentNode) s.parentNode.removeChild(s);
+      cb(ok);
+    }
+    s.onload = function () { finish(true); };
+    s.onerror = function () { finish(false); };
+    setTimeout(function () { finish(false); }, 4000);
+    s.src = url;
+    document.head.appendChild(s);
+  }
+
+  function exists(url, cb) {
+    var bust = url + (url.indexOf("?") > -1 ? "&" : "?") + "probe=" + Date.now();
+    if (/^https?:$/.test(location.protocol) && window.fetch) {
+      fetch(bust, { method: "HEAD", cache: "no-store" })
+        .then(function (r) { cb(r.ok); })
+        .catch(function () { cb(false); });
+      return;
+    }
+    linkProbe(bust, function (result) {
+      if (result === null) scriptProbe(bust, cb);
+      else cb(result);
+    });
+  }
+
+  /* ---- Load the current screen into each phone ---- */
+  var current = "menu";
+
+  function show(opt) {
+    var url = opt.base + SCREENS[current];
+    var token = ++opt.token;
+    clearTimeout(opt.timer);
+    opt.open.setAttribute("href", url);
+    exists(url, function (ok) {
+      if (token !== opt.token) return; // the toggle moved on meanwhile
+      if (ok) {
+        opt.seen = true;
+        opt.el.classList.remove("is-missing");
+        opt.open.removeAttribute("aria-disabled");
+        opt.open.removeAttribute("tabindex");
+        if (opt.iframe.getAttribute("src") !== url) opt.iframe.setAttribute("src", url);
+      } else {
+        opt.el.classList.add("is-missing");
+        opt.open.setAttribute("aria-disabled", "true");
+        opt.open.setAttribute("tabindex", "-1");
+        if (opt.iframe.getAttribute("src") !== "about:blank") opt.iframe.setAttribute("src", "about:blank");
+        opt.timer = setTimeout(function () { show(opt); }, RECHECK_MS);
+      }
+      syncChoice();
+    });
+  }
+
+  function setScreen(name) {
+    if (!SCREENS[name]) name = "menu";
+    current = name;
+    Array.prototype.forEach.call(document.querySelectorAll(".segmented button"), function (b) {
+      b.setAttribute("aria-pressed", String(b.getAttribute("data-screen") === name));
+    });
+    options.forEach(show);
+    try { history.replaceState(null, "", name === "detail" ? "#detail" : location.pathname + location.search); } catch (e) {}
+  }
+
+  document.querySelector(".segmented").addEventListener("click", function (e) {
+    var b = e.target.closest("button[data-screen]");
+    if (b) setScreen(b.getAttribute("data-screen"));
+  });
+
+  /* ---- Choice (visual only, remembered in this browser) ---- */
+  var choice = null;
+  try { choice = localStorage.getItem(STORE_KEY); } catch (e) {}
+
+  function syncChoice() {
+    options.forEach(function (opt) {
+      var chosen = choice === opt.key;
+      var letter = opt.key.toUpperCase();
+      opt.el.classList.toggle("is-chosen", chosen);
+      opt.choose.setAttribute("aria-pressed", String(chosen));
+      opt.label.textContent = chosen ? "Chosen: Option " + letter : "Choose " + letter;
+      // An option can't be picked before any of its screens exists (unless it was picked already).
+      opt.choose.disabled = !opt.seen && !chosen;
+    });
+  }
+
+  options.forEach(function (opt) {
+    opt.choose.addEventListener("click", function () {
+      choice = choice === opt.key ? null : opt.key;
+      try {
+        if (choice) localStorage.setItem(STORE_KEY, choice);
+        else localStorage.removeItem(STORE_KEY);
+      } catch (e) {}
+      syncChoice();
+    });
+  });
+
+  /* ---- Phone scaling: a 390x844 screen, scaled down when the column is narrower ---- */
+  var root = document.documentElement;
+  var FRAME_W = 390 + 24;
+
+  function scrollbarWidth() {
+    var d = document.createElement("div");
+    d.style.cssText = "position:absolute;top:-9999px;width:100px;height:100px;overflow:scroll";
+    document.body.appendChild(d);
+    var w = d.offsetWidth - d.clientWidth;
+    document.body.removeChild(d);
+    return w;
+  }
+
+  function fit() {
+    // Widen each iframe by the scrollbar width so its own scrollbar sits outside the
+    // 390px screen mask and the design renders at exactly 390 CSS px.
+    root.style.setProperty("--sbw", scrollbarWidth() + "px");
+    options.forEach(function (opt) {
+      var avail = opt.stage.clientWidth;
+      var s = Math.min(1, avail / FRAME_W);
+      opt.slot.style.setProperty("--s", s.toFixed(4));
+    });
+  }
+
+  if (window.ResizeObserver) {
+    var ro = new ResizeObserver(fit);
+    options.forEach(function (opt) { ro.observe(opt.stage); });
+  } else {
+    window.addEventListener("resize", fit);
+  }
+  fit();
+
+  syncChoice();
+  setScreen(location.hash === "#detail" ? "detail" : "menu");
+})();
+</script>
+</body>
+</html>
