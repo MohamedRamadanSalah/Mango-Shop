@@ -1,0 +1,1123 @@
+{
+  "success": true,
+  "data": {
+    "resource": "screen",
+    "id": "2c1c919b148942a1a9c3a0d15bbbd54d",
+    "project": "17900647796308208115",
+    "title": "01 Menu - CUBE DROP (POV Mango)",
+    "device": "MOBILE",
+    "screenType": "DESIGN",
+    "canvasUrl": "https://stitch.google.com/projects/17900647796308208115?node-id=2c1c919b148942a1a9c3a0d15bbbd54d",
+    "imageUrl": "https://lh3.googleusercontent.com/aida/AEtjO1WtnYLekp4s9Z5QE6ajPboX0VJWPg9rZce293PabitwI2hG9VBKOcbCZReLLeTDV3xziFnJhIHZV-gOSLNkAv6kaLo9yObP7Yrk_dNdWwunYjNIdPhfaqA0oJFV2EahfRZywcEtfVjXsw4oGhC_89NKw44x6Iva-qAXSReVAZzlqpWxheEjUXv_BcecdBiBfQm27dIQ_DJk-B_MXJjldujE_M-v27xV1cEL8Jjdad5ws4IBgSDx64fwc2L4",
+    "htmlCode": {
+      "downloadUrl": "https://contribution.usercontent.google.com/download?c=CgthaWRhX2NvZGVmeBJ8Eh1hcHBfY29tcGFuaW9uX2dlbmVyYXRlZF9maWxlcxpbCiVodG1sXzEwNGYzNmYwYjFjMDQ1Mzc5ZDI4MDAxNjJlMjVmM2MzEgsSBxCu-qfdvhIYAZIBJAoKcHJvamVjdF9pZBIWQhQxNzkwMDY0Nzc5NjMwODIwODExNQ&filename=&opi=96797242",
+      "mimeType": "text/html",
+      "name": "projects/17900647796308208115/files/e41ba9dff885410b850a04d48f9f7add"
+    },
+    "images": [
+      {
+        "generatedBy": "interactive_ui_controller",
+        "height": "512",
+        "htmlCode": {
+          "downloadUrl": "https://contribution.usercontent.google.com/download?c=CgthaWRhX2NvZGVmeBJ8Eh1hcHBfY29tcGFuaW9uX2dlbmVyYXRlZF9maWxlcxpbCiVodG1sX2JiNmIyZjM5YzQ1ZDQ5MjI4MGNiYmEyMmNjMTk4NzIyEgsSBxCu-qfdvhIYAZIBJAoKcHJvamVjdF9pZBIWQhQxNzkwMDY0Nzc5NjMwODIwODExNQ&filename=&opi=96797242",
+          "mimeType": "image/svg+xml",
+          "name": "projects/17900647796308208115/files/15a80d4cf06644b7b4e00c369200ed21"
+        },
+        "id": "bbd9dd02c1194f4198a080c308f3100c",
+        "name": "projects/17900647796308208115/screens/bbd9dd02c1194f4198a080c308f3100c",
+        "prompt": "POV brand logo mark: rounded purple U-shaped cup outline with four rounded diamond mango cubes falling into it (yellow on top, two teal at sides, large orange in middle) with small orange and teal sprinkling dots, alongside bold geometric sans wordmark 'POV' with P in purple, O in mango yellow, and V in teal.. Brand logo. - Primary color: #7243ab\n- Font: rubik\n- Mode: light\n- Roundness: rounded-full\n",
+        "screenMetadata": {
+          "agentType": "PRO_AGENT",
+          "displayMode": "SVG",
+          "status": "COMPLETE"
+        },
+        "screenType": "IMAGE",
+        "screenshot": {
+          "downloadUrl": "https://lh3.googleusercontent.com/aida/AEtjO1UdNgOUaRqVJm9vpikvhfkBsnPQngnb_W6KzdXEAEQW9igt2TQF5JoTKA9r5b4HA-Os25D06eDOa5cD5rGHQe7EbhLZ0kauCvuHpcoHBFMIH1VPdqYnEyu-8L-vxW7_FPa0zDkaizBWI490PBoVwYT0b0hCgismGaJwJzRO7VhX3P4cA0q4vq2qx0dOE30paBNEZFOWOgM4kHiHI-zF7JtRBq8RWj4n-DF6IQ027s-S40IZd6nZxrdIRZkd",
+          "name": "projects/17900647796308208115/files/cc279277e6f3423a995148dd0dfa1848"
+        },
+        "theme": {},
+        "title": "POV Logo",
+        "width": "512",
+        "imageUrl": "https://lh3.googleusercontent.com/aida/AEtjO1UdNgOUaRqVJm9vpikvhfkBsnPQngnb_W6KzdXEAEQW9igt2TQF5JoTKA9r5b4HA-Os25D06eDOa5cD5rGHQe7EbhLZ0kauCvuHpcoHBFMIH1VPdqYnEyu-8L-vxW7_FPa0zDkaizBWI490PBoVwYT0b0hCgismGaJwJzRO7VhX3P4cA0q4vq2qx0dOE30paBNEZFOWOgM4kHiHI-zF7JtRBq8RWj4n-DF6IQ027s-S40IZd6nZxrdIRZkd"
+      },
+      {
+        "generatedBy": "interactive_ui_controller",
+        "height": "1024",
+        "id": "7907b6954aa74905b5932f640278885f",
+        "name": "projects/17900647796308208115/screens/7907b6954aa74905b5932f640278885f",
+        "prompt": "Commercial product photography of a premium chilled fresh Egyptian mango juice in a transparent plastic takeaway cup with clear dome lid and straw, filled with thick golden-orange mango purée and topped with fresh cut mango cubes, placed on a soft pastel yellow and cream background with soft natural lighting and subtle studio shadow, ultra clean, high resolution, no text, no logos.",
+        "screenMetadata": {
+          "agentType": "PRO_AGENT",
+          "status": "COMPLETE"
+        },
+        "screenType": "IMAGE",
+        "screenshot": {
+          "downloadUrl": "https://lh3.googleusercontent.com/aida/AEtjO1U6EMl1NE2TXTi5YZY080GzpsvbVgew8Sg0osVIg2eByZHR94hoE1ADKbbCYMGjbQpu8-KTOZtzXCqluad2rfK_yFSH3aufKa0rAaN6_2hEjNIxpAb1QN510q3ykghMEaHnrsdKgmw0geefIS1ccUrnPfbJNZPHjl65QCaDmMPjUnbKOqistK7ChqRqODxJnQoM9-ZEONqZynRf1P4jKRU-d3H9vgdgiJhGE_SW34AhHUIdmiM_eIanUTE",
+          "name": "projects/17900647796308208115/files/cc16ec8d23674a3dbc65f0e6a0da1a40"
+        },
+        "theme": {},
+        "title": "Commercial product photography of a premium chilled fresh Egyptian mango juice in a transparent plastic takeaway cup with clear dome lid and straw, filled with thick golden-orange mango purée and topped with fresh cut mango cubes, placed on a soft pastel yellow and cream background with soft natural lighting and subtle studio shadow, ultra clean, high resolution, no text, no logos.",
+        "width": "1024",
+        "imageUrl": "https://lh3.googleusercontent.com/aida/AEtjO1U6EMl1NE2TXTi5YZY080GzpsvbVgew8Sg0osVIg2eByZHR94hoE1ADKbbCYMGjbQpu8-KTOZtzXCqluad2rfK_yFSH3aufKa0rAaN6_2hEjNIxpAb1QN510q3ykghMEaHnrsdKgmw0geefIS1ccUrnPfbJNZPHjl65QCaDmMPjUnbKOqistK7ChqRqODxJnQoM9-ZEONqZynRf1P4jKRU-d3H9vgdgiJhGE_SW34AhHUIdmiM_eIanUTE"
+      },
+      {
+        "generatedBy": "interactive_ui_controller",
+        "height": "1024",
+        "id": "a6a731365b9343ecaadac0c72f43c7b0",
+        "name": "projects/17900647796308208115/screens/a6a731365b9343ecaadac0c72f43c7b0",
+        "prompt": "Commercial product photography of a clear plastic takeaway cup packed with fresh cut vibrant orange Egyptian mango cubes glistening with natural juice, dome lid, on a warm cream studio background with soft studio light and realistic shadow, high resolution, no text, no watermark, no logo.",
+        "screenMetadata": {
+          "agentType": "PRO_AGENT",
+          "status": "COMPLETE"
+        },
+        "screenType": "IMAGE",
+        "screenshot": {
+          "downloadUrl": "https://lh3.googleusercontent.com/aida/AEtjO1X15Ww8Vb2lFqgMnUT9qkomTNU2HmtgWmpZLH3SU-xqfKZ0EfJfDTmTSD4pJDLoSd1JWywdPUd35KUvxeIzyTrivVcWksbNncDFLCnwkvwb5Z-CRp1rpPjjh_4Vy6QT6e_GvFI2MS_bta277zvjXFX6doFhEXr5VE25fQyDlD3JehjTdS-5TvOkcgW4mOA5GiSoXGxGbjzbzORuNKRcSgZ-mIJvwyEe_m_KFieLIevp1PPcnPB9Qj5yQpyT",
+          "name": "projects/17900647796308208115/files/cc635057fba34915910563df0358fb44"
+        },
+        "theme": {},
+        "title": "Commercial product photography of a clear plastic takeaway cup packed with fresh cut vibrant orange Egyptian mango cubes glistening with natural juice, dome lid, on a warm cream studio background with soft studio light and realistic shadow, high resolution, no text, no watermark, no logo.",
+        "width": "1024",
+        "imageUrl": "https://lh3.googleusercontent.com/aida/AEtjO1X15Ww8Vb2lFqgMnUT9qkomTNU2HmtgWmpZLH3SU-xqfKZ0EfJfDTmTSD4pJDLoSd1JWywdPUd35KUvxeIzyTrivVcWksbNncDFLCnwkvwb5Z-CRp1rpPjjh_4Vy6QT6e_GvFI2MS_bta277zvjXFX6doFhEXr5VE25fQyDlD3JehjTdS-5TvOkcgW4mOA5GiSoXGxGbjzbzORuNKRcSgZ-mIJvwyEe_m_KFieLIevp1PPcnPB9Qj5yQpyT"
+      },
+      {
+        "generatedBy": "interactive_ui_controller",
+        "height": "1024",
+        "id": "7eb5597675e14e17926951843390e19c",
+        "name": "projects/17900647796308208115/screens/7eb5597675e14e17926951843390e19c",
+        "prompt": "Commercial product photography of a two-toned fresh fruit drink in a clear takeaway cup with dome lid: layered fresh Egyptian mango juice and bright red strawberry purée, condensation droplets, clean warm pastel studio background, high resolution, no text, no logo.",
+        "screenMetadata": {
+          "agentType": "PRO_AGENT",
+          "status": "COMPLETE"
+        },
+        "screenType": "IMAGE",
+        "screenshot": {
+          "downloadUrl": "https://lh3.googleusercontent.com/aida/AEtjO1VlmvKRfQOU5I9bTpdYlWVBSVvS97kxKEOHFaoRnF05WeSfpy_tXLH8qPGDh3KueqiOrYZd1wyx80OJQECXkR1Uez4rs8Bea-uEYdE7obDtbwgGppNgGAEvXRcZAU_9Brq9uZEbV-nAcgs-Bc1FdkFnEfKOlwMs8-pYVx-ESrzBv1ohdsU1xA8ZW0Zgs4i0H6OblUoC8ArBLieROu56wKzfAdwpnsAmzTDFCfRxSRdbN6urP0S0fvqtYCEw",
+          "name": "projects/17900647796308208115/files/82febf06c49041ecbbfe1d69b9978bb0"
+        },
+        "theme": {},
+        "title": "Commercial product photography of a two-toned fresh fruit drink in a clear takeaway cup with dome lid: layered fresh Egyptian mango juice and bright red strawberry purée, condensation droplets, clean warm pastel studio background, high resolution, no text, no logo.",
+        "width": "1024",
+        "imageUrl": "https://lh3.googleusercontent.com/aida/AEtjO1VlmvKRfQOU5I9bTpdYlWVBSVvS97kxKEOHFaoRnF05WeSfpy_tXLH8qPGDh3KueqiOrYZd1wyx80OJQECXkR1Uez4rs8Bea-uEYdE7obDtbwgGppNgGAEvXRcZAU_9Brq9uZEbV-nAcgs-Bc1FdkFnEfKOlwMs8-pYVx-ESrzBv1ohdsU1xA8ZW0Zgs4i0H6OblUoC8ArBLieROu56wKzfAdwpnsAmzTDFCfRxSRdbN6urP0S0fvqtYCEw"
+      }
+    ],
+    "rawScreen": {
+      "outputComponents": [
+        {
+          "designSystem": {
+            "designSystem": {
+              "displayName": "Mango Pop",
+              "styleGuidelines": "## Brand & Style\n\nThis design system expresses an exuberant, sun-drenched culinary identity for a modern Cairo juice house centered entirely on fresh Egyptian mangoes. The brand personality balances hyper-joyful pop art vitality with meticulous, art-directed editorial precision. The aesthetic merges contemporary Middle Eastern creative studio graphic design with tactile, street-level packaging energy: vibrant, high-contrast, kinetic, and deeply celebratory.\n\nThe visual style is characterized by:\n- **Warm, unbleached sun-lit canvas:** A rich, comforting buttermilk cream substrate that banishes clinical app blues and stark digital grays.\n- **Graphic fruit colorways:** POV Purple anchored against luscious ripe mango tones (sun gold, intense peel orange), punctuated by cooling Nile teal and tart coral.\n- **Graphic stickers and structural motifs:** Playful tilted price emblems, hyper-curved container surfaces, and an iconic repeating flat-rounded diamond pattern evoking freshly diced mango cubes (*habbet manga*).\n- **Native bilingual cadence:** Equal-weight visual choreography between Arabic and Latin typography, ensuring bidirectional harmony across all touchpoints without compromised proportions.\n\n## Layout & Spacing\n\nThe layout is built for mobile viewport touch targets (primarily 390px base width) with deliberate rhythm and generous breathing room, juxtaposed with dense, tactile card clusters.\n\n### Layout Mechanics\n- **Base Grid:** Single-column stacked fluid flow with 2-column asymmetric item card arrangements.\n- **Outer Canvas Margins:** `1.25rem` (20px) fixed padding from screen edge, keeping cards safe while allowing hero carousels to bleed cleanly to full width.\n- **Horizontal Item Gaps:** `1rem` (16px) gutter between multi-item horizontal shelves and product grids.\n- **Vertical Flow Rhythm:** Sections are partitioned by `2rem` (32px) margins to preserve crisp editorial pacing between juice blends, soft-serves, and signature bowls.\n\n## Elevation & Depth\n\nThis system avoids heavy, muddy digital drop shadows. Instead, it creates depth through vibrant color stacking, crisp borders, and ultra-soft ambient fruit-tinted underglows.\n\n- **Level 0 (Canvas):** The warm buttermilk cream plane (`#FFF8E7`). Everything rests here.\n- **Level 1 (Crisp Menu Cards):** Pure white solid base (`#FFFFFF`) framed with a whisper of warmth: a 1.5px hairline outline in `#F0E5CF` paired with a delicate, diffuse ambient glow (`0 8px 24px -4px rgba(114, 67, 171, 0.06)`).\n- **Level 2 (Interactive Floating Badges & Pop Chips):** High-contrast chips with tactile, solid drop-offsets (`0 4px 0px rgba(42, 22, 64, 0.12)`) delivering an art-toy, physical sticker sensation.\n- **Level 3 (Modals, Sliders & Bottom Sheets):** Pure white container with a 2px top rim in POV Purple, shielded by a semi-opaque backdrop tinted in Deep Ink (`rgba(42, 22, 64, 0.45)`).\n\n## Components\n\n### Buttons\n- **Primary Action (Juice CTA):** Full-bleed or pill-shaped POV Purple (`#7243AB`) with high-contrast White text. Height `52px` minimum for effortless one-handed thumb interaction. Slight tactile press effect (`transform: scale(0.97)`).\n- **Secondary Action (Add to Cup / Quick Pick):** Warm Cream fill with a 2px POV Purple border or Mango Orange fill (`#F7941D`) with Deep Ink text.\n- **Icon Floating Buttons:** Perfect circle (`48x48px`) in pure white or vibrant Mango Yellow with Deep Ink iconography.\n\n### Chips & Category Selectors\n- **Selected State:** Solid POV Purple fill, crisp White bilingual text, zero stroke.\n- **Unselected State:** Crisp White fill, Deep Ink text, 1.5px subtle border in `#E5D9C4`.\n- **Chunky Status Pills:** Miniaturized pill tags for temperature, sweetness, or dairy-free options featuring subtle tinted backgrounds (e.g., Teal at 15% opacity with solid `#17AE9D` text).\n\n### Product Cards\n- Pure White foundation with `28px` radius corners.\n- Top section holds an unconstrained product photo floating against an organic cream or pastel mango circle.\n- Bottom section contains the bilingual title (e.g., \"Aweys Special • عويس مميز\"), concise flavor notes in Muted Ink, and an integrated bottom action bar.\n\n### Sticker-Style Rotated Price Tags\n- Graphic badge rotated at `-4deg` to `+5deg` pinned to the card corner.\n- High-contrast Mango Yellow (`#F9CD18`) or Coral (`#F2654A`) backdrop with bold Deep Ink typography.\n- Simulates a hand-applied physical fruit crate label.\n\n### Form Inputs & Sweetness Adjusters\n- Inputs sit on pure white containers with `16px` border radii and generous padding.\n- Focused state: 2px solid POV Purple outline with an ambient cream glow.\n- Quantity and sugar level selectors utilize chunky pill step-controls with prominent plus/minus icon tap targets.\n\n### Checkboxes & Radios\n- Radios are concentric rounded rings that fill with a solid POV Purple dot.\n- Checkboxes feature a rounded diamond (Mango Cube) frame that animates into solid Teal with a white checkmark when active.\n\n### Bilingual Cart Bar (Sticky Bottom)\n- Floats above the screen edge with a `16px` margin on all sides.\n- Deep POV Purple pill surface holding item counter pill in Mango Yellow, dual-script label, and clear checkout price.",
+              "theme": {
+                "bodyFont": "RUBIK",
+                "bodyFontFamily": "Rubik",
+                "colorMode": "LIGHT",
+                "colorVariant": "FIDELITY",
+                "customColor": "#7243ab",
+                "designMd": "---\nname: Mango Pop\ncolors:\n  surface: '#fff7ff'\n  surface-dim: '#e9d1ff'\n  surface-bright: '#fff7ff'\n  surface-container-lowest: '#ffffff'\n  surface-container-low: '#fbf0ff'\n  surface-container: '#f7e9ff'\n  surface-container-high: '#f3e2ff'\n  surface-container-highest: '#efdbff'\n  on-surface: '#25113b'\n  on-surface-variant: '#4b4451'\n  inverse-surface: '#3b2752'\n  inverse-on-surface: '#f9ecff'\n  outline: '#7c7482'\n  outline-variant: '#cdc3d3'\n  surface-tint: '#7546ae'\n  primary: '#592991'\n  on-primary: '#ffffff'\n  primary-container: '#7243ab'\n  on-primary-container: '#e3caff'\n  inverse-primary: '#d9b9ff'\n  secondary: '#725c00'\n  on-secondary: '#ffffff'\n  secondary-container: '#fcd01d'\n  on-secondary-container: '#6f5900'\n  tertiary: '#673900'\n  on-tertiary: '#ffffff'\n  tertiary-container: '#884d00'\n  on-tertiary-container: '#ffca9a'\n  error: '#ba1a1a'\n  on-error: '#ffffff'\n  error-container: '#ffdad6'\n  on-error-container: '#93000a'\n  primary-fixed: '#eedbff'\n  primary-fixed-dim: '#d9b9ff'\n  on-primary-fixed: '#2a0054'\n  on-primary-fixed-variant: '#5c2c94'\n  secondary-fixed: '#ffe07f'\n  secondary-fixed-dim: '#edc200'\n  on-secondary-fixed: '#231b00'\n  on-secondary-fixed-variant: '#564500'\n  tertiary-fixed: '#ffdcbf'\n  tertiary-fixed-dim: '#ffb874'\n  on-tertiary-fixed: '#2d1600'\n  on-tertiary-fixed-variant: '#6b3b00'\n  background: '#fff7ff'\n  on-background: '#25113b'\n  surface-variant: '#efdbff'\ntypography:\n  display-hero:\n    fontFamily: Rubik\n    fontSize: 40px\n    fontWeight: '800'\n    lineHeight: 44px\n    letterSpacing: -0.02em\n  headline-lg:\n    fontFamily: Rubik\n    fontSize: 30px\n    fontWeight: '700'\n    lineHeight: 36px\n    letterSpacing: -0.01em\n  headline-md:\n    fontFamily: Rubik\n    fontSize: 24px\n    fontWeight: '700'\n    lineHeight: 30px\n  headline-sm:\n    fontFamily: Rubik\n    fontSize: 20px\n    fontWeight: '600'\n    lineHeight: 26px\n  body-lg:\n    fontFamily: Rubik\n    fontSize: 17px\n    fontWeight: '400'\n    lineHeight: 24px\n  body-md:\n    fontFamily: Rubik\n    fontSize: 15px\n    fontWeight: '400'\n    lineHeight: 22px\n  body-sm:\n    fontFamily: Rubik\n    fontSize: 13px\n    fontWeight: '400'\n    lineHeight: 18px\n  label-lg:\n    fontFamily: Rubik\n    fontSize: 15px\n    fontWeight: '700'\n    lineHeight: 18px\n    letterSpacing: 0.01em\n  label-md:\n    fontFamily: Rubik\n    fontSize: 13px\n    fontWeight: '700'\n    lineHeight: 16px\n  label-sm:\n    fontFamily: Rubik\n    fontSize: 11px\n    fontWeight: '800'\n    lineHeight: 14px\n    letterSpacing: 0.04em\n  price-tag:\n    fontFamily: Rubik\n    fontSize: 18px\n    fontWeight: '900'\n    lineHeight: 20px\nrounded:\n  sm: 0.5rem\n  DEFAULT: 1rem\n  md: 1.5rem\n  lg: 2rem\n  xl: 3rem\n  full: 9999px\nspacing:\n  gutter: 1rem\n  margin: 1.25rem\n  space-xs: 0.25rem\n  space-sm: 0.5rem\n  space-md: 1rem\n  space-lg: 1.5rem\n  space-xl: 2rem\n---\n\n## Brand & Style\n\nThis design system expresses an exuberant, sun-drenched culinary identity for a modern Cairo juice house centered entirely on fresh Egyptian mangoes. The brand personality balances hyper-joyful pop art vitality with meticulous, art-directed editorial precision. The aesthetic merges contemporary Middle Eastern creative studio graphic design with tactile, street-level packaging energy: vibrant, high-contrast, kinetic, and deeply celebratory.\n\nThe visual style is characterized by:\n- **Warm, unbleached sun-lit canvas:** A rich, comforting buttermilk cream substrate that banishes clinical app blues and stark digital grays.\n- **Graphic fruit colorways:** POV Purple anchored against luscious ripe mango tones (sun gold, intense peel orange), punctuated by cooling Nile teal and tart coral.\n- **Graphic stickers and structural motifs:** Playful tilted price emblems, hyper-curved container surfaces, and an iconic repeating flat-rounded diamond pattern evoking freshly diced mango cubes (*habbet manga*).\n- **Native bilingual cadence:** Equal-weight visual choreography between Arabic and Latin typography, ensuring bidirectional harmony across all touchpoints without compromised proportions.\n\n## Colors\n\nThe color architecture is built strictly for a luminous daylight experience. Every hue is saturated to evoke cold-pressed fruit nectar under Cairo's golden sun, held together by structural purple and deep fruit-skin ink.\n\n### Primary Role (POV Purple - `#7243AB`)\nThe decisive, creative brand anchor. Used for primary interactive actions, high-impact branding typography, hero navigational chips, and solid accent borders.\n\n### Secondary Role (Mango Yellow - `#F9CD18`)\nPure pulpy energy. Used for hero flash alerts, celebratory badges, product spotlights, and vibrant secondary card fills.\n\n### Tertiary Role (Mango Orange - `#F7941D`)\nThe riper fruit shade. Applied to hot actions, add-to-tote buttons, seasonal tags, and high-energy secondary iconography.\n\n### Accent Roles\n- **Teal Freshness (`#17AE9D`):** A contrasting cool stream used for refreshing mix-ins, cooling herbal blends, hydration cues, and delivery trackers.\n- **Coral Spark (`#F2654A`):** Used for spicy boosts, limited edition drops, and dynamic sticker-style promotional banners.\n\n### Canvas & Surface Architecture\n- **Canvas Base:** `#FFF8E7` (Warm Cream). Replaces system gray/white defaults to give the entire mobile canvas a tactile, bakery-and-juice counter feel.\n- **Card Surface:** `#FFFFFF` (Pure White). Creates punchy contrast against the cream background.\n- **Deep Ink Text:** `#2A1640` (Eggplant Black). Delivers extreme legibility with warmer, fruitier undertones than neutral carbon black.\n- **Muted Ink:** `#6F6280` (Muted Purple-Slate). Used for Arabic transliterations, ingredient subtitles, and inactive tab bars.\n\n## Typography\n\nThe typographic system utilizes a unified geometric, friendly grotesque that delivers parity between Arabic (`العربية`) and English (`Latin`). The letterforms possess soft terminal geometry and open counters that mirror the pulpy, approachable visual language.\n\n### Bilingual Handling\n- In bilingual locks (e.g. Arabic title alongside Latin counterpart), the Arabic sits either directly stacked atop or comfortably mirrored based on active device locale directionality (`rtl` or `ltr`).\n- Weights are balanced: Latin bold corresponds with Arabic bold without optical weight disparities.\n- Numbers on price stickers and nutritional data are set in uniform tabular or bold display figures.\n\n### Typographic Roles\n- **Hero & Headline Display:** Heavily weighted, joyful, condensed line-heights that create impactful menu headers and punchy promotional statements.\n- **Body:** Open, generous x-height allowing rapid ingredient scanning on mobile devices in high ambient daylight.\n- **Labels & Micro-Tags:** Chunky, hyper-legible uppercase Latin and well-proportioned Arabic badges ensuring instant menu categorization.\n\n## Layout & Spacing\n\nThe layout is built for mobile viewport touch targets (primarily 390px base width) with deliberate rhythm and generous breathing room, juxtaposed with dense, tactile card clusters.\n\n### Layout Mechanics\n- **Base Grid:** Single-column stacked fluid flow with 2-column asymmetric item card arrangements.\n- **Outer Canvas Margins:** `1.25rem` (20px) fixed padding from screen edge, keeping cards safe while allowing hero carousels to bleed cleanly to full width.\n- **Horizontal Item Gaps:** `1rem` (16px) gutter between multi-item horizontal shelves and product grids.\n- **Vertical Flow Rhythm:** Sections are partitioned by `2rem` (32px) margins to preserve crisp editorial pacing between juice blends, soft-serves, and signature bowls.\n\n## Elevation & Depth\n\nThis system avoids heavy, muddy digital drop shadows. Instead, it creates depth through vibrant color stacking, crisp borders, and ultra-soft ambient fruit-tinted underglows.\n\n- **Level 0 (Canvas):** The warm buttermilk cream plane (`#FFF8E7`). Everything rests here.\n- **Level 1 (Crisp Menu Cards):** Pure white solid base (`#FFFFFF`) framed with a whisper of warmth: a 1.5px hairline outline in `#F0E5CF` paired with a delicate, diffuse ambient glow (`0 8px 24px -4px rgba(114, 67, 171, 0.06)`).\n- **Level 2 (Interactive Floating Badges & Pop Chips):** High-contrast chips with tactile, solid drop-offsets (`0 4px 0px rgba(42, 22, 64, 0.12)`) delivering an art-toy, physical sticker sensation.\n- **Level 3 (Modals, Sliders & Bottom Sheets):** Pure white container with a 2px top rim in POV Purple, shielded by a semi-opaque backdrop tinted in Deep Ink (`rgba(42, 22, 64, 0.45)`).\n\n## Shapes\n\nThe shape system centers on hyper-roundedness and organic geometry.\n\n### Radius Hierarchy\n- **Card Containers (28px radius):** Large product cards, seasonal feature tiles, and order summary trays use an oversized `28px` corner radius, creating an ultra-soft, friendly silhouette reminiscent of curved juice bottles.\n- **Chunky Pills (`999px` radius):** Badges, category selector chips, interactive size toggles, and primary CTA buttons use pure pill geometry.\n- **Mango Cube Motif (*Habbet Manga*):** A signature brand graphic element formed by a 45-degree rotated square with smoothly rounded corners (`8px` radius on a `24x24px` diamond). Used as category delimiters, bullet points, loading spinners, and decorative pattern backgrounds in POV Purple, Mango Yellow, and Teal Freshness.\n\n## Components\n\n### Buttons\n- **Primary Action (Juice CTA):** Full-bleed or pill-shaped POV Purple (`#7243AB`) with high-contrast White text. Height `52px` minimum for effortless one-handed thumb interaction. Slight tactile press effect (`transform: scale(0.97)`).\n- **Secondary Action (Add to Cup / Quick Pick):** Warm Cream fill with a 2px POV Purple border or Mango Orange fill (`#F7941D`) with Deep Ink text.\n- **Icon Floating Buttons:** Perfect circle (`48x48px`) in pure white or vibrant Mango Yellow with Deep Ink iconography.\n\n### Chips & Category Selectors\n- **Selected State:** Solid POV Purple fill, crisp White bilingual text, zero stroke.\n- **Unselected State:** Crisp White fill, Deep Ink text, 1.5px subtle border in `#E5D9C4`.\n- **Chunky Status Pills:** Miniaturized pill tags for temperature, sweetness, or dairy-free options featuring subtle tinted backgrounds (e.g., Teal at 15% opacity with solid `#17AE9D` text).\n\n### Product Cards\n- Pure White foundation with `28px` radius corners.\n- Top section holds an unconstrained product photo floating against an organic cream or pastel mango circle.\n- Bottom section contains the bilingual title (e.g., \"Aweys Special • عويس مميز\"), concise flavor notes in Muted Ink, and an integrated bottom action bar.\n\n### Sticker-Style Rotated Price Tags\n- Graphic badge rotated at `-4deg` to `+5deg` pinned to the card corner.\n- High-contrast Mango Yellow (`#F9CD18`) or Coral (`#F2654A`) backdrop with bold Deep Ink typography.\n- Simulates a hand-applied physical fruit crate label.\n\n### Form Inputs & Sweetness Adjusters\n- Inputs sit on pure white containers with `16px` border radii and generous padding.\n- Focused state: 2px solid POV Purple outline with an ambient cream glow.\n- Quantity and sugar level selectors utilize chunky pill step-controls with prominent plus/minus icon tap targets.\n\n### Checkboxes & Radios\n- Radios are concentric rounded rings that fill with a solid POV Purple dot.\n- Checkboxes feature a rounded diamond (Mango Cube) frame that animates into solid Teal with a white checkmark when active.\n\n### Bilingual Cart Bar (Sticky Bottom)\n- Floats above the screen edge with a `16px` margin on all sides.\n- Deep POV Purple pill surface holding item counter pill in Mango Yellow, dual-script label, and clear checkout price.",
+                "font": "RUBIK",
+                "headlineFont": "RUBIK",
+                "headlineFontFamily": "Rubik",
+                "labelFont": "RUBIK",
+                "labelFontFamily": "Rubik",
+                "namedColors": {
+                  "background": "#fff7ff",
+                  "error": "#ba1a1a",
+                  "error_container": "#ffdad6",
+                  "inverse_on_surface": "#f9ecff",
+                  "inverse_primary": "#d9b9ff",
+                  "inverse_surface": "#3b2752",
+                  "on_background": "#25113b",
+                  "on_error": "#ffffff",
+                  "on_error_container": "#93000a",
+                  "on_primary": "#ffffff",
+                  "on_primary_container": "#e3caff",
+                  "on_primary_fixed": "#2a0054",
+                  "on_primary_fixed_variant": "#5c2c94",
+                  "on_secondary": "#ffffff",
+                  "on_secondary_container": "#6f5900",
+                  "on_secondary_fixed": "#231b00",
+                  "on_secondary_fixed_variant": "#564500",
+                  "on_surface": "#25113b",
+                  "on_surface_variant": "#4b4451",
+                  "on_tertiary": "#ffffff",
+                  "on_tertiary_container": "#ffca9a",
+                  "on_tertiary_fixed": "#2d1600",
+                  "on_tertiary_fixed_variant": "#6b3b00",
+                  "outline": "#7c7482",
+                  "outline_variant": "#cdc3d3",
+                  "primary": "#592991",
+                  "primary_container": "#7243ab",
+                  "primary_fixed": "#eedbff",
+                  "primary_fixed_dim": "#d9b9ff",
+                  "secondary": "#725c00",
+                  "secondary_container": "#fcd01d",
+                  "secondary_fixed": "#ffe07f",
+                  "secondary_fixed_dim": "#edc200",
+                  "surface": "#fff7ff",
+                  "surface_bright": "#fff7ff",
+                  "surface_container": "#f7e9ff",
+                  "surface_container_high": "#f3e2ff",
+                  "surface_container_highest": "#efdbff",
+                  "surface_container_low": "#fbf0ff",
+                  "surface_container_lowest": "#ffffff",
+                  "surface_dim": "#e9d1ff",
+                  "surface_tint": "#7546ae",
+                  "surface_variant": "#efdbff",
+                  "tertiary": "#673900",
+                  "tertiary_container": "#884d00",
+                  "tertiary_fixed": "#ffdcbf",
+                  "tertiary_fixed_dim": "#ffb874"
+                },
+                "overrideNeutralColor": "#2a1640",
+                "overridePrimaryColor": "#7243ab",
+                "overrideSecondaryColor": "#f9cd18",
+                "overrideTertiaryColor": "#f7941d",
+                "roundness": "ROUND_FULL",
+                "spacing": {
+                  "gutter": "1rem",
+                  "margin": "1.25rem",
+                  "space-lg": "1.5rem",
+                  "space-md": "1rem",
+                  "space-sm": "0.5rem",
+                  "space-xl": "2rem",
+                  "space-xs": "0.25rem"
+                },
+                "spacingScale": 2,
+                "typography": {
+                  "body-lg": {
+                    "fontFamily": "Rubik",
+                    "fontSize": "17px",
+                    "fontWeight": "400",
+                    "lineHeight": "24px"
+                  },
+                  "body-md": {
+                    "fontFamily": "Rubik",
+                    "fontSize": "15px",
+                    "fontWeight": "400",
+                    "lineHeight": "22px"
+                  },
+                  "body-sm": {
+                    "fontFamily": "Rubik",
+                    "fontSize": "13px",
+                    "fontWeight": "400",
+                    "lineHeight": "18px"
+                  },
+                  "display-hero": {
+                    "fontFamily": "Rubik",
+                    "fontSize": "40px",
+                    "fontWeight": "800",
+                    "letterSpacing": "-0.02em",
+                    "lineHeight": "44px"
+                  },
+                  "headline-lg": {
+                    "fontFamily": "Rubik",
+                    "fontSize": "30px",
+                    "fontWeight": "700",
+                    "letterSpacing": "-0.01em",
+                    "lineHeight": "36px"
+                  },
+                  "headline-md": {
+                    "fontFamily": "Rubik",
+                    "fontSize": "24px",
+                    "fontWeight": "700",
+                    "lineHeight": "30px"
+                  },
+                  "headline-sm": {
+                    "fontFamily": "Rubik",
+                    "fontSize": "20px",
+                    "fontWeight": "600",
+                    "lineHeight": "26px"
+                  },
+                  "label-lg": {
+                    "fontFamily": "Rubik",
+                    "fontSize": "15px",
+                    "fontWeight": "700",
+                    "letterSpacing": "0.01em",
+                    "lineHeight": "18px"
+                  },
+                  "label-md": {
+                    "fontFamily": "Rubik",
+                    "fontSize": "13px",
+                    "fontWeight": "700",
+                    "lineHeight": "16px"
+                  },
+                  "label-sm": {
+                    "fontFamily": "Rubik",
+                    "fontSize": "11px",
+                    "fontWeight": "800",
+                    "letterSpacing": "0.04em",
+                    "lineHeight": "14px"
+                  },
+                  "price-tag": {
+                    "fontFamily": "Rubik",
+                    "fontSize": "18px",
+                    "fontWeight": "900",
+                    "lineHeight": "20px"
+                  }
+                }
+              }
+            },
+            "name": "assets/56fcb8d5dec0419484f649e61cc05c9c",
+            "version": "1"
+          }
+        },
+        {
+          "design": {
+            "screens": [
+              {
+                "generatedBy": "interactive_ui_controller",
+                "height": "512",
+                "htmlCode": {
+                  "downloadUrl": "https://contribution.usercontent.google.com/download?c=CgthaWRhX2NvZGVmeBJ8Eh1hcHBfY29tcGFuaW9uX2dlbmVyYXRlZF9maWxlcxpbCiVodG1sX2JiNmIyZjM5YzQ1ZDQ5MjI4MGNiYmEyMmNjMTk4NzIyEgsSBxCu-qfdvhIYAZIBJAoKcHJvamVjdF9pZBIWQhQxNzkwMDY0Nzc5NjMwODIwODExNQ&filename=&opi=96797242",
+                  "mimeType": "image/svg+xml",
+                  "name": "projects/17900647796308208115/files/15a80d4cf06644b7b4e00c369200ed21"
+                },
+                "id": "bbd9dd02c1194f4198a080c308f3100c",
+                "name": "projects/17900647796308208115/screens/bbd9dd02c1194f4198a080c308f3100c",
+                "prompt": "POV brand logo mark: rounded purple U-shaped cup outline with four rounded diamond mango cubes falling into it (yellow on top, two teal at sides, large orange in middle) with small orange and teal sprinkling dots, alongside bold geometric sans wordmark 'POV' with P in purple, O in mango yellow, and V in teal.. Brand logo. - Primary color: #7243ab\n- Font: rubik\n- Mode: light\n- Roundness: rounded-full\n",
+                "screenMetadata": {
+                  "agentType": "PRO_AGENT",
+                  "displayMode": "SVG",
+                  "status": "COMPLETE"
+                },
+                "screenType": "IMAGE",
+                "screenshot": {
+                  "downloadUrl": "https://lh3.googleusercontent.com/aida/AEtjO1UdNgOUaRqVJm9vpikvhfkBsnPQngnb_W6KzdXEAEQW9igt2TQF5JoTKA9r5b4HA-Os25D06eDOa5cD5rGHQe7EbhLZ0kauCvuHpcoHBFMIH1VPdqYnEyu-8L-vxW7_FPa0zDkaizBWI490PBoVwYT0b0hCgismGaJwJzRO7VhX3P4cA0q4vq2qx0dOE30paBNEZFOWOgM4kHiHI-zF7JtRBq8RWj4n-DF6IQ027s-S40IZd6nZxrdIRZkd",
+                  "name": "projects/17900647796308208115/files/cc279277e6f3423a995148dd0dfa1848"
+                },
+                "theme": {},
+                "title": "POV Logo",
+                "width": "512"
+              },
+              {
+                "generatedBy": "interactive_ui_controller",
+                "height": "1024",
+                "id": "7907b6954aa74905b5932f640278885f",
+                "name": "projects/17900647796308208115/screens/7907b6954aa74905b5932f640278885f",
+                "prompt": "Commercial product photography of a premium chilled fresh Egyptian mango juice in a transparent plastic takeaway cup with clear dome lid and straw, filled with thick golden-orange mango purée and topped with fresh cut mango cubes, placed on a soft pastel yellow and cream background with soft natural lighting and subtle studio shadow, ultra clean, high resolution, no text, no logos.",
+                "screenMetadata": {
+                  "agentType": "PRO_AGENT",
+                  "status": "COMPLETE"
+                },
+                "screenType": "IMAGE",
+                "screenshot": {
+                  "downloadUrl": "https://lh3.googleusercontent.com/aida/AEtjO1U6EMl1NE2TXTi5YZY080GzpsvbVgew8Sg0osVIg2eByZHR94hoE1ADKbbCYMGjbQpu8-KTOZtzXCqluad2rfK_yFSH3aufKa0rAaN6_2hEjNIxpAb1QN510q3ykghMEaHnrsdKgmw0geefIS1ccUrnPfbJNZPHjl65QCaDmMPjUnbKOqistK7ChqRqODxJnQoM9-ZEONqZynRf1P4jKRU-d3H9vgdgiJhGE_SW34AhHUIdmiM_eIanUTE",
+                  "name": "projects/17900647796308208115/files/cc16ec8d23674a3dbc65f0e6a0da1a40"
+                },
+                "theme": {},
+                "title": "Commercial product photography of a premium chilled fresh Egyptian mango juice in a transparent plastic takeaway cup with clear dome lid and straw, filled with thick golden-orange mango purée and topped with fresh cut mango cubes, placed on a soft pastel yellow and cream background with soft natural lighting and subtle studio shadow, ultra clean, high resolution, no text, no logos.",
+                "width": "1024"
+              },
+              {
+                "generatedBy": "interactive_ui_controller",
+                "height": "1024",
+                "id": "a6a731365b9343ecaadac0c72f43c7b0",
+                "name": "projects/17900647796308208115/screens/a6a731365b9343ecaadac0c72f43c7b0",
+                "prompt": "Commercial product photography of a clear plastic takeaway cup packed with fresh cut vibrant orange Egyptian mango cubes glistening with natural juice, dome lid, on a warm cream studio background with soft studio light and realistic shadow, high resolution, no text, no watermark, no logo.",
+                "screenMetadata": {
+                  "agentType": "PRO_AGENT",
+                  "status": "COMPLETE"
+                },
+                "screenType": "IMAGE",
+                "screenshot": {
+                  "downloadUrl": "https://lh3.googleusercontent.com/aida/AEtjO1X15Ww8Vb2lFqgMnUT9qkomTNU2HmtgWmpZLH3SU-xqfKZ0EfJfDTmTSD4pJDLoSd1JWywdPUd35KUvxeIzyTrivVcWksbNncDFLCnwkvwb5Z-CRp1rpPjjh_4Vy6QT6e_GvFI2MS_bta277zvjXFX6doFhEXr5VE25fQyDlD3JehjTdS-5TvOkcgW4mOA5GiSoXGxGbjzbzORuNKRcSgZ-mIJvwyEe_m_KFieLIevp1PPcnPB9Qj5yQpyT",
+                  "name": "projects/17900647796308208115/files/cc635057fba34915910563df0358fb44"
+                },
+                "theme": {},
+                "title": "Commercial product photography of a clear plastic takeaway cup packed with fresh cut vibrant orange Egyptian mango cubes glistening with natural juice, dome lid, on a warm cream studio background with soft studio light and realistic shadow, high resolution, no text, no watermark, no logo.",
+                "width": "1024"
+              },
+              {
+                "generatedBy": "interactive_ui_controller",
+                "height": "1024",
+                "id": "7eb5597675e14e17926951843390e19c",
+                "name": "projects/17900647796308208115/screens/7eb5597675e14e17926951843390e19c",
+                "prompt": "Commercial product photography of a two-toned fresh fruit drink in a clear takeaway cup with dome lid: layered fresh Egyptian mango juice and bright red strawberry purée, condensation droplets, clean warm pastel studio background, high resolution, no text, no logo.",
+                "screenMetadata": {
+                  "agentType": "PRO_AGENT",
+                  "status": "COMPLETE"
+                },
+                "screenType": "IMAGE",
+                "screenshot": {
+                  "downloadUrl": "https://lh3.googleusercontent.com/aida/AEtjO1VlmvKRfQOU5I9bTpdYlWVBSVvS97kxKEOHFaoRnF05WeSfpy_tXLH8qPGDh3KueqiOrYZd1wyx80OJQECXkR1Uez4rs8Bea-uEYdE7obDtbwgGppNgGAEvXRcZAU_9Brq9uZEbV-nAcgs-Bc1FdkFnEfKOlwMs8-pYVx-ESrzBv1ohdsU1xA8ZW0Zgs4i0H6OblUoC8ArBLieROu56wKzfAdwpnsAmzTDFCfRxSRdbN6urP0S0fvqtYCEw",
+                  "name": "projects/17900647796308208115/files/82febf06c49041ecbbfe1d69b9978bb0"
+                },
+                "theme": {},
+                "title": "Commercial product photography of a two-toned fresh fruit drink in a clear takeaway cup with dome lid: layered fresh Egyptian mango juice and bright red strawberry purée, condensation droplets, clean warm pastel studio background, high resolution, no text, no logo.",
+                "width": "1024"
+              },
+              {
+                "designSystem": {
+                  "designSystem": {
+                    "displayName": "Mango Pop",
+                    "styleGuidelines": "## Brand & Style\n\nThis design system expresses an exuberant, sun-drenched culinary identity for a modern Cairo juice house centered entirely on fresh Egyptian mangoes. The brand personality balances hyper-joyful pop art vitality with meticulous, art-directed editorial precision. The aesthetic merges contemporary Middle Eastern creative studio graphic design with tactile, street-level packaging energy: vibrant, high-contrast, kinetic, and deeply celebratory.\n\nThe visual style is characterized by:\n- **Warm, unbleached sun-lit canvas:** A rich, comforting buttermilk cream substrate that banishes clinical app blues and stark digital grays.\n- **Graphic fruit colorways:** POV Purple anchored against luscious ripe mango tones (sun gold, intense peel orange), punctuated by cooling Nile teal and tart coral.\n- **Graphic stickers and structural motifs:** Playful tilted price emblems, hyper-curved container surfaces, and an iconic repeating flat-rounded diamond pattern evoking freshly diced mango cubes (*habbet manga*).\n- **Native bilingual cadence:** Equal-weight visual choreography between Arabic and Latin typography, ensuring bidirectional harmony across all touchpoints without compromised proportions.\n\n## Layout & Spacing\n\nThe layout is built for mobile viewport touch targets (primarily 390px base width) with deliberate rhythm and generous breathing room, juxtaposed with dense, tactile card clusters.\n\n### Layout Mechanics\n- **Base Grid:** Single-column stacked fluid flow with 2-column asymmetric item card arrangements.\n- **Outer Canvas Margins:** `1.25rem` (20px) fixed padding from screen edge, keeping cards safe while allowing hero carousels to bleed cleanly to full width.\n- **Horizontal Item Gaps:** `1rem` (16px) gutter between multi-item horizontal shelves and product grids.\n- **Vertical Flow Rhythm:** Sections are partitioned by `2rem` (32px) margins to preserve crisp editorial pacing between juice blends, soft-serves, and signature bowls.\n\n## Elevation & Depth\n\nThis system avoids heavy, muddy digital drop shadows. Instead, it creates depth through vibrant color stacking, crisp borders, and ultra-soft ambient fruit-tinted underglows.\n\n- **Level 0 (Canvas):** The warm buttermilk cream plane (`#FFF8E7`). Everything rests here.\n- **Level 1 (Crisp Menu Cards):** Pure white solid base (`#FFFFFF`) framed with a whisper of warmth: a 1.5px hairline outline in `#F0E5CF` paired with a delicate, diffuse ambient glow (`0 8px 24px -4px rgba(114, 67, 171, 0.06)`).\n- **Level 2 (Interactive Floating Badges & Pop Chips):** High-contrast chips with tactile, solid drop-offsets (`0 4px 0px rgba(42, 22, 64, 0.12)`) delivering an art-toy, physical sticker sensation.\n- **Level 3 (Modals, Sliders & Bottom Sheets):** Pure white container with a 2px top rim in POV Purple, shielded by a semi-opaque backdrop tinted in Deep Ink (`rgba(42, 22, 64, 0.45)`).\n\n## Components\n\n### Buttons\n- **Primary Action (Juice CTA):** Full-bleed or pill-shaped POV Purple (`#7243AB`) with high-contrast White text. Height `52px` minimum for effortless one-handed thumb interaction. Slight tactile press effect (`transform: scale(0.97)`).\n- **Secondary Action (Add to Cup / Quick Pick):** Warm Cream fill with a 2px POV Purple border or Mango Orange fill (`#F7941D`) with Deep Ink text.\n- **Icon Floating Buttons:** Perfect circle (`48x48px`) in pure white or vibrant Mango Yellow with Deep Ink iconography.\n\n### Chips & Category Selectors\n- **Selected State:** Solid POV Purple fill, crisp White bilingual text, zero stroke.\n- **Unselected State:** Crisp White fill, Deep Ink text, 1.5px subtle border in `#E5D9C4`.\n- **Chunky Status Pills:** Miniaturized pill tags for temperature, sweetness, or dairy-free options featuring subtle tinted backgrounds (e.g., Teal at 15% opacity with solid `#17AE9D` text).\n\n### Product Cards\n- Pure White foundation with `28px` radius corners.\n- Top section holds an unconstrained product photo floating against an organic cream or pastel mango circle.\n- Bottom section contains the bilingual title (e.g., \"Aweys Special • عويس مميز\"), concise flavor notes in Muted Ink, and an integrated bottom action bar.\n\n### Sticker-Style Rotated Price Tags\n- Graphic badge rotated at `-4deg` to `+5deg` pinned to the card corner.\n- High-contrast Mango Yellow (`#F9CD18`) or Coral (`#F2654A`) backdrop with bold Deep Ink typography.\n- Simulates a hand-applied physical fruit crate label.\n\n### Form Inputs & Sweetness Adjusters\n- Inputs sit on pure white containers with `16px` border radii and generous padding.\n- Focused state: 2px solid POV Purple outline with an ambient cream glow.\n- Quantity and sugar level selectors utilize chunky pill step-controls with prominent plus/minus icon tap targets.\n\n### Checkboxes & Radios\n- Radios are concentric rounded rings that fill with a solid POV Purple dot.\n- Checkboxes feature a rounded diamond (Mango Cube) frame that animates into solid Teal with a white checkmark when active.\n\n### Bilingual Cart Bar (Sticky Bottom)\n- Floats above the screen edge with a `16px` margin on all sides.\n- Deep POV Purple pill surface holding item counter pill in Mango Yellow, dual-script label, and clear checkout price.",
+                    "theme": {
+                      "bodyFont": "RUBIK",
+                      "bodyFontFamily": "Rubik",
+                      "colorMode": "LIGHT",
+                      "colorVariant": "FIDELITY",
+                      "customColor": "#7243ab",
+                      "designMd": "---\nname: Mango Pop\ncolors:\n  surface: '#fff7ff'\n  surface-dim: '#e9d1ff'\n  surface-bright: '#fff7ff'\n  surface-container-lowest: '#ffffff'\n  surface-container-low: '#fbf0ff'\n  surface-container: '#f7e9ff'\n  surface-container-high: '#f3e2ff'\n  surface-container-highest: '#efdbff'\n  on-surface: '#25113b'\n  on-surface-variant: '#4b4451'\n  inverse-surface: '#3b2752'\n  inverse-on-surface: '#f9ecff'\n  outline: '#7c7482'\n  outline-variant: '#cdc3d3'\n  surface-tint: '#7546ae'\n  primary: '#592991'\n  on-primary: '#ffffff'\n  primary-container: '#7243ab'\n  on-primary-container: '#e3caff'\n  inverse-primary: '#d9b9ff'\n  secondary: '#725c00'\n  on-secondary: '#ffffff'\n  secondary-container: '#fcd01d'\n  on-secondary-container: '#6f5900'\n  tertiary: '#673900'\n  on-tertiary: '#ffffff'\n  tertiary-container: '#884d00'\n  on-tertiary-container: '#ffca9a'\n  error: '#ba1a1a'\n  on-error: '#ffffff'\n  error-container: '#ffdad6'\n  on-error-container: '#93000a'\n  primary-fixed: '#eedbff'\n  primary-fixed-dim: '#d9b9ff'\n  on-primary-fixed: '#2a0054'\n  on-primary-fixed-variant: '#5c2c94'\n  secondary-fixed: '#ffe07f'\n  secondary-fixed-dim: '#edc200'\n  on-secondary-fixed: '#231b00'\n  on-secondary-fixed-variant: '#564500'\n  tertiary-fixed: '#ffdcbf'\n  tertiary-fixed-dim: '#ffb874'\n  on-tertiary-fixed: '#2d1600'\n  on-tertiary-fixed-variant: '#6b3b00'\n  background: '#fff7ff'\n  on-background: '#25113b'\n  surface-variant: '#efdbff'\ntypography:\n  display-hero:\n    fontFamily: Rubik\n    fontSize: 40px\n    fontWeight: '800'\n    lineHeight: 44px\n    letterSpacing: -0.02em\n  headline-lg:\n    fontFamily: Rubik\n    fontSize: 30px\n    fontWeight: '700'\n    lineHeight: 36px\n    letterSpacing: -0.01em\n  headline-md:\n    fontFamily: Rubik\n    fontSize: 24px\n    fontWeight: '700'\n    lineHeight: 30px\n  headline-sm:\n    fontFamily: Rubik\n    fontSize: 20px\n    fontWeight: '600'\n    lineHeight: 26px\n  body-lg:\n    fontFamily: Rubik\n    fontSize: 17px\n    fontWeight: '400'\n    lineHeight: 24px\n  body-md:\n    fontFamily: Rubik\n    fontSize: 15px\n    fontWeight: '400'\n    lineHeight: 22px\n  body-sm:\n    fontFamily: Rubik\n    fontSize: 13px\n    fontWeight: '400'\n    lineHeight: 18px\n  label-lg:\n    fontFamily: Rubik\n    fontSize: 15px\n    fontWeight: '700'\n    lineHeight: 18px\n    letterSpacing: 0.01em\n  label-md:\n    fontFamily: Rubik\n    fontSize: 13px\n    fontWeight: '700'\n    lineHeight: 16px\n  label-sm:\n    fontFamily: Rubik\n    fontSize: 11px\n    fontWeight: '800'\n    lineHeight: 14px\n    letterSpacing: 0.04em\n  price-tag:\n    fontFamily: Rubik\n    fontSize: 18px\n    fontWeight: '900'\n    lineHeight: 20px\nrounded:\n  sm: 0.5rem\n  DEFAULT: 1rem\n  md: 1.5rem\n  lg: 2rem\n  xl: 3rem\n  full: 9999px\nspacing:\n  gutter: 1rem\n  margin: 1.25rem\n  space-xs: 0.25rem\n  space-sm: 0.5rem\n  space-md: 1rem\n  space-lg: 1.5rem\n  space-xl: 2rem\n---\n\n## Brand & Style\n\nThis design system expresses an exuberant, sun-drenched culinary identity for a modern Cairo juice house centered entirely on fresh Egyptian mangoes. The brand personality balances hyper-joyful pop art vitality with meticulous, art-directed editorial precision. The aesthetic merges contemporary Middle Eastern creative studio graphic design with tactile, street-level packaging energy: vibrant, high-contrast, kinetic, and deeply celebratory.\n\nThe visual style is characterized by:\n- **Warm, unbleached sun-lit canvas:** A rich, comforting buttermilk cream substrate that banishes clinical app blues and stark digital grays.\n- **Graphic fruit colorways:** POV Purple anchored against luscious ripe mango tones (sun gold, intense peel orange), punctuated by cooling Nile teal and tart coral.\n- **Graphic stickers and structural motifs:** Playful tilted price emblems, hyper-curved container surfaces, and an iconic repeating flat-rounded diamond pattern evoking freshly diced mango cubes (*habbet manga*).\n- **Native bilingual cadence:** Equal-weight visual choreography between Arabic and Latin typography, ensuring bidirectional harmony across all touchpoints without compromised proportions.\n\n## Colors\n\nThe color architecture is built strictly for a luminous daylight experience. Every hue is saturated to evoke cold-pressed fruit nectar under Cairo's golden sun, held together by structural purple and deep fruit-skin ink.\n\n### Primary Role (POV Purple - `#7243AB`)\nThe decisive, creative brand anchor. Used for primary interactive actions, high-impact branding typography, hero navigational chips, and solid accent borders.\n\n### Secondary Role (Mango Yellow - `#F9CD18`)\nPure pulpy energy. Used for hero flash alerts, celebratory badges, product spotlights, and vibrant secondary card fills.\n\n### Tertiary Role (Mango Orange - `#F7941D`)\nThe riper fruit shade. Applied to hot actions, add-to-tote buttons, seasonal tags, and high-energy secondary iconography.\n\n### Accent Roles\n- **Teal Freshness (`#17AE9D`):** A contrasting cool stream used for refreshing mix-ins, cooling herbal blends, hydration cues, and delivery trackers.\n- **Coral Spark (`#F2654A`):** Used for spicy boosts, limited edition drops, and dynamic sticker-style promotional banners.\n\n### Canvas & Surface Architecture\n- **Canvas Base:** `#FFF8E7` (Warm Cream). Replaces system gray/white defaults to give the entire mobile canvas a tactile, bakery-and-juice counter feel.\n- **Card Surface:** `#FFFFFF` (Pure White). Creates punchy contrast against the cream background.\n- **Deep Ink Text:** `#2A1640` (Eggplant Black). Delivers extreme legibility with warmer, fruitier undertones than neutral carbon black.\n- **Muted Ink:** `#6F6280` (Muted Purple-Slate). Used for Arabic transliterations, ingredient subtitles, and inactive tab bars.\n\n## Typography\n\nThe typographic system utilizes a unified geometric, friendly grotesque that delivers parity between Arabic (`العربية`) and English (`Latin`). The letterforms possess soft terminal geometry and open counters that mirror the pulpy, approachable visual language.\n\n### Bilingual Handling\n- In bilingual locks (e.g. Arabic title alongside Latin counterpart), the Arabic sits either directly stacked atop or comfortably mirrored based on active device locale directionality (`rtl` or `ltr`).\n- Weights are balanced: Latin bold corresponds with Arabic bold without optical weight disparities.\n- Numbers on price stickers and nutritional data are set in uniform tabular or bold display figures.\n\n### Typographic Roles\n- **Hero & Headline Display:** Heavily weighted, joyful, condensed line-heights that create impactful menu headers and punchy promotional statements.\n- **Body:** Open, generous x-height allowing rapid ingredient scanning on mobile devices in high ambient daylight.\n- **Labels & Micro-Tags:** Chunky, hyper-legible uppercase Latin and well-proportioned Arabic badges ensuring instant menu categorization.\n\n## Layout & Spacing\n\nThe layout is built for mobile viewport touch targets (primarily 390px base width) with deliberate rhythm and generous breathing room, juxtaposed with dense, tactile card clusters.\n\n### Layout Mechanics\n- **Base Grid:** Single-column stacked fluid flow with 2-column asymmetric item card arrangements.\n- **Outer Canvas Margins:** `1.25rem` (20px) fixed padding from screen edge, keeping cards safe while allowing hero carousels to bleed cleanly to full width.\n- **Horizontal Item Gaps:** `1rem` (16px) gutter between multi-item horizontal shelves and product grids.\n- **Vertical Flow Rhythm:** Sections are partitioned by `2rem` (32px) margins to preserve crisp editorial pacing between juice blends, soft-serves, and signature bowls.\n\n## Elevation & Depth\n\nThis system avoids heavy, muddy digital drop shadows. Instead, it creates depth through vibrant color stacking, crisp borders, and ultra-soft ambient fruit-tinted underglows.\n\n- **Level 0 (Canvas):** The warm buttermilk cream plane (`#FFF8E7`). Everything rests here.\n- **Level 1 (Crisp Menu Cards):** Pure white solid base (`#FFFFFF`) framed with a whisper of warmth: a 1.5px hairline outline in `#F0E5CF` paired with a delicate, diffuse ambient glow (`0 8px 24px -4px rgba(114, 67, 171, 0.06)`).\n- **Level 2 (Interactive Floating Badges & Pop Chips):** High-contrast chips with tactile, solid drop-offsets (`0 4px 0px rgba(42, 22, 64, 0.12)`) delivering an art-toy, physical sticker sensation.\n- **Level 3 (Modals, Sliders & Bottom Sheets):** Pure white container with a 2px top rim in POV Purple, shielded by a semi-opaque backdrop tinted in Deep Ink (`rgba(42, 22, 64, 0.45)`).\n\n## Shapes\n\nThe shape system centers on hyper-roundedness and organic geometry.\n\n### Radius Hierarchy\n- **Card Containers (28px radius):** Large product cards, seasonal feature tiles, and order summary trays use an oversized `28px` corner radius, creating an ultra-soft, friendly silhouette reminiscent of curved juice bottles.\n- **Chunky Pills (`999px` radius):** Badges, category selector chips, interactive size toggles, and primary CTA buttons use pure pill geometry.\n- **Mango Cube Motif (*Habbet Manga*):** A signature brand graphic element formed by a 45-degree rotated square with smoothly rounded corners (`8px` radius on a `24x24px` diamond). Used as category delimiters, bullet points, loading spinners, and decorative pattern backgrounds in POV Purple, Mango Yellow, and Teal Freshness.\n\n## Components\n\n### Buttons\n- **Primary Action (Juice CTA):** Full-bleed or pill-shaped POV Purple (`#7243AB`) with high-contrast White text. Height `52px` minimum for effortless one-handed thumb interaction. Slight tactile press effect (`transform: scale(0.97)`).\n- **Secondary Action (Add to Cup / Quick Pick):** Warm Cream fill with a 2px POV Purple border or Mango Orange fill (`#F7941D`) with Deep Ink text.\n- **Icon Floating Buttons:** Perfect circle (`48x48px`) in pure white or vibrant Mango Yellow with Deep Ink iconography.\n\n### Chips & Category Selectors\n- **Selected State:** Solid POV Purple fill, crisp White bilingual text, zero stroke.\n- **Unselected State:** Crisp White fill, Deep Ink text, 1.5px subtle border in `#E5D9C4`.\n- **Chunky Status Pills:** Miniaturized pill tags for temperature, sweetness, or dairy-free options featuring subtle tinted backgrounds (e.g., Teal at 15% opacity with solid `#17AE9D` text).\n\n### Product Cards\n- Pure White foundation with `28px` radius corners.\n- Top section holds an unconstrained product photo floating against an organic cream or pastel mango circle.\n- Bottom section contains the bilingual title (e.g., \"Aweys Special • عويس مميز\"), concise flavor notes in Muted Ink, and an integrated bottom action bar.\n\n### Sticker-Style Rotated Price Tags\n- Graphic badge rotated at `-4deg` to `+5deg` pinned to the card corner.\n- High-contrast Mango Yellow (`#F9CD18`) or Coral (`#F2654A`) backdrop with bold Deep Ink typography.\n- Simulates a hand-applied physical fruit crate label.\n\n### Form Inputs & Sweetness Adjusters\n- Inputs sit on pure white containers with `16px` border radii and generous padding.\n- Focused state: 2px solid POV Purple outline with an ambient cream glow.\n- Quantity and sugar level selectors utilize chunky pill step-controls with prominent plus/minus icon tap targets.\n\n### Checkboxes & Radios\n- Radios are concentric rounded rings that fill with a solid POV Purple dot.\n- Checkboxes feature a rounded diamond (Mango Cube) frame that animates into solid Teal with a white checkmark when active.\n\n### Bilingual Cart Bar (Sticky Bottom)\n- Floats above the screen edge with a `16px` margin on all sides.\n- Deep POV Purple pill surface holding item counter pill in Mango Yellow, dual-script label, and clear checkout price.",
+                      "font": "RUBIK",
+                      "headlineFont": "RUBIK",
+                      "headlineFontFamily": "Rubik",
+                      "labelFont": "RUBIK",
+                      "labelFontFamily": "Rubik",
+                      "namedColors": {
+                        "background": "#fff7ff",
+                        "error": "#ba1a1a",
+                        "error_container": "#ffdad6",
+                        "inverse_on_surface": "#f9ecff",
+                        "inverse_primary": "#d9b9ff",
+                        "inverse_surface": "#3b2752",
+                        "on_background": "#25113b",
+                        "on_error": "#ffffff",
+                        "on_error_container": "#93000a",
+                        "on_primary": "#ffffff",
+                        "on_primary_container": "#e3caff",
+                        "on_primary_fixed": "#2a0054",
+                        "on_primary_fixed_variant": "#5c2c94",
+                        "on_secondary": "#ffffff",
+                        "on_secondary_container": "#6f5900",
+                        "on_secondary_fixed": "#231b00",
+                        "on_secondary_fixed_variant": "#564500",
+                        "on_surface": "#25113b",
+                        "on_surface_variant": "#4b4451",
+                        "on_tertiary": "#ffffff",
+                        "on_tertiary_container": "#ffca9a",
+                        "on_tertiary_fixed": "#2d1600",
+                        "on_tertiary_fixed_variant": "#6b3b00",
+                        "outline": "#7c7482",
+                        "outline_variant": "#cdc3d3",
+                        "primary": "#592991",
+                        "primary_container": "#7243ab",
+                        "primary_fixed": "#eedbff",
+                        "primary_fixed_dim": "#d9b9ff",
+                        "secondary": "#725c00",
+                        "secondary_container": "#fcd01d",
+                        "secondary_fixed": "#ffe07f",
+                        "secondary_fixed_dim": "#edc200",
+                        "surface": "#fff7ff",
+                        "surface_bright": "#fff7ff",
+                        "surface_container": "#f7e9ff",
+                        "surface_container_high": "#f3e2ff",
+                        "surface_container_highest": "#efdbff",
+                        "surface_container_low": "#fbf0ff",
+                        "surface_container_lowest": "#ffffff",
+                        "surface_dim": "#e9d1ff",
+                        "surface_tint": "#7546ae",
+                        "surface_variant": "#efdbff",
+                        "tertiary": "#673900",
+                        "tertiary_container": "#884d00",
+                        "tertiary_fixed": "#ffdcbf",
+                        "tertiary_fixed_dim": "#ffb874"
+                      },
+                      "overrideNeutralColor": "#2a1640",
+                      "overridePrimaryColor": "#7243ab",
+                      "overrideSecondaryColor": "#f9cd18",
+                      "overrideTertiaryColor": "#f7941d",
+                      "roundness": "ROUND_FULL",
+                      "spacing": {
+                        "gutter": "1rem",
+                        "margin": "1.25rem",
+                        "space-lg": "1.5rem",
+                        "space-md": "1rem",
+                        "space-sm": "0.5rem",
+                        "space-xl": "2rem",
+                        "space-xs": "0.25rem"
+                      },
+                      "spacingScale": 2,
+                      "typography": {
+                        "body-lg": {
+                          "fontFamily": "Rubik",
+                          "fontSize": "17px",
+                          "fontWeight": "400",
+                          "lineHeight": "24px"
+                        },
+                        "body-md": {
+                          "fontFamily": "Rubik",
+                          "fontSize": "15px",
+                          "fontWeight": "400",
+                          "lineHeight": "22px"
+                        },
+                        "body-sm": {
+                          "fontFamily": "Rubik",
+                          "fontSize": "13px",
+                          "fontWeight": "400",
+                          "lineHeight": "18px"
+                        },
+                        "display-hero": {
+                          "fontFamily": "Rubik",
+                          "fontSize": "40px",
+                          "fontWeight": "800",
+                          "letterSpacing": "-0.02em",
+                          "lineHeight": "44px"
+                        },
+                        "headline-lg": {
+                          "fontFamily": "Rubik",
+                          "fontSize": "30px",
+                          "fontWeight": "700",
+                          "letterSpacing": "-0.01em",
+                          "lineHeight": "36px"
+                        },
+                        "headline-md": {
+                          "fontFamily": "Rubik",
+                          "fontSize": "24px",
+                          "fontWeight": "700",
+                          "lineHeight": "30px"
+                        },
+                        "headline-sm": {
+                          "fontFamily": "Rubik",
+                          "fontSize": "20px",
+                          "fontWeight": "600",
+                          "lineHeight": "26px"
+                        },
+                        "label-lg": {
+                          "fontFamily": "Rubik",
+                          "fontSize": "15px",
+                          "fontWeight": "700",
+                          "letterSpacing": "0.01em",
+                          "lineHeight": "18px"
+                        },
+                        "label-md": {
+                          "fontFamily": "Rubik",
+                          "fontSize": "13px",
+                          "fontWeight": "700",
+                          "lineHeight": "16px"
+                        },
+                        "label-sm": {
+                          "fontFamily": "Rubik",
+                          "fontSize": "11px",
+                          "fontWeight": "800",
+                          "letterSpacing": "0.04em",
+                          "lineHeight": "14px"
+                        },
+                        "price-tag": {
+                          "fontFamily": "Rubik",
+                          "fontSize": "18px",
+                          "fontWeight": "900",
+                          "lineHeight": "20px"
+                        }
+                      }
+                    }
+                  },
+                  "name": "assets/56fcb8d5dec0419484f649e61cc05c9c",
+                  "version": "1"
+                },
+                "deviceType": "MOBILE",
+                "generatedBy": "figaro_agent",
+                "height": "7336",
+                "htmlCode": {
+                  "downloadUrl": "https://contribution.usercontent.google.com/download?c=CgthaWRhX2NvZGVmeBJ8Eh1hcHBfY29tcGFuaW9uX2dlbmVyYXRlZF9maWxlcxpbCiVodG1sXzEwNGYzNmYwYjFjMDQ1Mzc5ZDI4MDAxNjJlMjVmM2MzEgsSBxCu-qfdvhIYAZIBJAoKcHJvamVjdF9pZBIWQhQxNzkwMDY0Nzc5NjMwODIwODExNQ&filename=&opi=96797242",
+                  "mimeType": "text/html",
+                  "name": "projects/17900647796308208115/files/e41ba9dff885410b850a04d48f9f7add"
+                },
+                "id": "2c1c919b148942a1a9c3a0d15bbbd54d",
+                "name": "projects/17900647796308208115/screens/2c1c919b148942a1a9c3a0d15bbbd54d",
+                "prompt": "Build SCREEN: 01 Menu, concept A 'CUBE DROP'. A long scrolling QR menu page for 'POV' (بوف), fresh mango-first juice shop in Cairo, Egypt. Mobile screen (390px wide). Light theme only, warm cream canvas background (#FFF8E7), pure white cards, 28px card corner radiuses. Strictly view-only QR menu: NO cart, NO bag, NO checkout, NO login, NO bottom navigation tab bar, and do NOT draw a phone status bar. Use Readex Pro font for all Latin and Arabic text. Every item and category has English and Arabic with lang=\"ar\" dir=\"rtl\".\n\n1. TOP HEADER:\n- Left: POV Logo mark + wordmark using image {{DATA:IMAGE:IMAGE_2}}.\n- Right: A round subtle pill/button with round language/info icon (Material Symbol 'translate' or 'info') and Cairo badge 'Cairo · القاهرة'.\n\n2. HERO SECTION (\"CUBE DROP\"):\n- Big mango-yellow background block (#F9CD18) with very rounded bottom corners (rounded-b-[40px]), overflow-hidden, with generous padding.\n- Left column / text area:\n  * Headline: 'Pick your POV.' in huge purple (#7243AB) Readex Pro 800 (tracking-tight, leading-none).\n  * Arabic tagline directly under: '<span lang=\"ar\" dir=\"rtl\" class=\"text-pov-purple/90 font-bold text-lg block mt-1\">اختيارك ... وجهة نظرك</span>'\n  * Chunky pill badge below: teal background (#17AE9D) with white bold text: 'Fresh Egyptian mangoes, cut daily' / 'مانجو مصري طازج يومياً'.\n- Right side / visual:\n  * A large photorealistic cup of signature POV Mango juice {{DATA:IMAGE:IMAGE_4}} (clean cutout / rounded frame).\n  * Signatures motif: Big flat rounded diamonds (rotated squares with rounded corners rx/ry) in orange (#F7941D), teal (#17AE9D), and yellow (#F9CD18), along with small sprinkle dots, playfully tumbling down from the top edge directly into the cup like the logo! Flat graphic shapes around the cup.\n\n3. STICKY CATEGORY CHIPS:\n- Sticky horizontal scroll container with backdrop blur or warm cream bg, shadow-sm.\n- Chunky pill chips:\n  * Active chip: POV Purple (#7243AB) with white text: 'Mango Signatures • مانجو بوف المميزة'\n  * Fresh Cubes • مكعبات فريش (cream/white chip with dark border)\n  * Smoothies & Shakes • سموذي وميلك شيك\n  * Fresh Juices • عصائر فريش\n  * Seasonal • أصناف الموسم\n\n4. ALL FIVE CATEGORIES (Full detailed content):\n\nCategory 1: Mango Signatures | مانجو بوف المميزة\n- Bold colour-block section header in POV purple (#7243AB) with white text, a decorative rounded diamond cube icon, and bilingual title: 'Mango Signatures' and '<span lang=\"ar\" dir=\"rtl\">مانجو بوف المميزة</span>'.\n- 2-column grid of tall pure white cards (rounded-[24px], p-3, shadow-sm, border border-purple-100):\n  * Card 1 (POV Mango):\n    - Photo {{DATA:IMAGE:IMAGE_4}} rounded-2xl relative\n    - Coral sticker badge overlapping photo corner: 'Best seller | الأكثر طلبًا' (bg-[#F2654A] text-white text-[10px] font-bold px-2 py-0.5 rounded-full -rotate-3)\n    - Rotated sticker price tag: Mango yellow badge with bold purple text '95 EGP / ٩٥ ج.م' (-rotate-2 shadow-sm font-extrabold)\n    - Title: 'POV Mango' (font-bold text-ink)\n    - Arabic: '<span lang=\"ar\" dir=\"rtl\" class=\"text-xs text-[#6F6280] font-medium\">مانجو بوف</span>'\n    - Subtext: 'Pure thick Egyptian mango purée & fresh cubes'\n  * Card 2 (POV Classic, mango with milk):\n    - Photo {{DATA:IMAGE:IMAGE_4}}\n    - Rotated sticker price tag: Mango yellow badge '110 EGP / ١١٠ ج.م' (rotate-2 font-extrabold)\n    - Title: 'POV Classic'\n    - Arabic: '<span lang=\"ar\" dir=\"rtl\" class=\"text-xs text-[#6F6280]\">كلاسيك بوف</span>'\n    - Subtext: 'Mango blended with fresh chilled milk'\n  * Card 3 (Mango x Strawberry):\n    - Photo {{DATA:IMAGE:IMAGE_5}}\n    - Rotated sticker price tag: Coral badge '115 EGP / ١١٥ ج.م' (-rotate-2 font-extrabold)\n    - Title: 'Mango x Strawberry'\n    - Arabic: '<span lang=\"ar\" dir=\"rtl\" class=\"text-xs text-[#6F6280]\">مانجو فراولة</span>'\n    - Subtext: 'Layered mango & vibrant strawberry purée'\n  * Card 4 (Mango Passion):\n    - Photo {{DATA:IMAGE:IMAGE_4}}\n    - Rotated sticker price tag: Mango yellow badge '125 EGP / ١٢٥ ج.م' (rotate-3 font-extrabold)\n    - Title: 'Mango Passion'\n    - Arabic: '<span lang=\"ar\" dir=\"rtl\" class=\"text-xs text-[#6F6280]\">مانجو باشن</span>'\n    - Subtext: 'Sweet mango with tangy passion fruit drizzle'\n  * Card 5 (POV Cocktail):\n    - Spanning 2 columns or prominent card with photo {{DATA:IMAGE:IMAGE_5}}\n    - Rotated sticker price tag: '145 EGP / ١٤٥ ج.م'\n    - Title: 'POV Cocktail'\n    - Arabic: '<span lang=\"ar\" dir=\"rtl\" class=\"text-xs text-[#6F6280]\">كوكتيل بوف</span>'\n    - Subtext: 'Layered mango, strawberry, guava & avocado'\n\nCategory 2: Fresh Cubes | مكعبات فريش\n- Yellow colour-block section header (#F9CD18) with deep purple text and rounded diamond icon: 'Fresh Cubes' & '<span lang=\"ar\" dir=\"rtl\">مكعبات فريش</span>'.\n- One wide yellow feature card (bg-[#FFF3C4] border-2 border-[#F9CD18] rounded-[28px] p-5 relative overflow-hidden):\n  * The cup photo {{DATA:IMAGE:IMAGE_6}} is positioned breaking out of the card top or right side with fresh cut mango cubes glistening.\n  * Title: 'Mango Cubes cup'\n  * Arabic: '<span lang=\"ar\" dir=\"rtl\" class=\"text-sm font-semibold text-[#7243AB]\">كوب مكعبات مانجو</span>'\n  * Price sticker: Big rotated coral sticker '#F2654A' with white text '85 EGP / ٨٥ ج.م'.\n  * Badge: '100% Egyptian Mango • No added sugar'\n\nCategory 3: Smoothies & Shakes | سموذي وميلك شيك\n- Teal colour-block section header (#17AE9D) with white text: 'Smoothies & Shakes' & '<span lang=\"ar\" dir=\"rtl\">سموذي وميلك شيك</span>'.\n- Two cards side by side (2-column white cards rounded-[24px] p-3 shadow-sm):\n  * Mango Smoothie: photo {{DATA:IMAGE:IMAGE_4}}, price sticker '120 EGP / ١٢٠ ج.م', Arabic '<span lang=\"ar\" dir=\"rtl\">سموذي مانجو</span>'\n  * Mango Milkshake: photo {{DATA:IMAGE:IMAGE_5}}, price sticker '135 EGP / ١٣٥ ج.م', Arabic '<span lang=\"ar\" dir=\"rtl\">ميلك شيك مانجو</span>'\n\nCategory 4: Fresh Juices | عصائر فريش\n- Coral colour-block section header (#F2654A) with white text: 'Fresh Juices' & '<span lang=\"ar\" dir=\"rtl\">عصائر فريش</span>'.\n- Compact list of horizontal items in white card shells:\n  * Fresh Orange | برتقال فريش — 70 EGP\n  * Strawberry | فراولة — 85 EGP\n  * Watermelon Mint | بطيخ بالنعناع — 75 EGP\n  * Guava Nectar | جوافة — 80 EGP\n  * Sugarcane Lime | قصب بالليمون — 60 EGP\n  Each list row has a round fresh fruit thumbnail icon/photo, clear bold English name, Arabic name below in muted text, and a neat rotated sticker price badge on the right.\n\nCategory 5: Seasonal | أصناف الموسم\n- Orange colour-block section header (#F7941D) with white text: 'Seasonal' & '<span lang=\"ar\" dir=\"rtl\">أصناف الموسم</span>'.\n- Horizontal scroll cards with a bold 'Seasonal | موسمي' badge:\n  * Card 1: Pomegranate Press | رمان — 105 EGP (with ruby badge and description: 'Cold-pressed Upper Egypt pomegranates')\n  * Card 2: Keitt Last Call mango | مانجو كيت آخر الموسم — 130 EGP (description: 'Late harvest sweet Keitt mango, limited daily batches')\n\n5. FOOTER:\n- Warm cream block (#FFF1D6 or #FFF8E7 with dashed border):\n  * POV Logo mark {{DATA:IMAGE:IMAGE_2}} centered.\n  * Tagline: \"Your Choice. Your Point Of View.\"\n  * Arabic tagline: '<span lang=\"ar\" dir=\"rtl\" class=\"block font-bold text-pov-purple mt-1\">اختيارك ... وجهة نظرك</span>'\n  * Hours: \"Open daily 12 PM – 2 AM · Cairo\"\n  * Pill note: \"Prices in EGP include all taxes • أسعارنا بالجنيه المصري شاملة الضريبة\"\n  * Clear generous padding at bottom. NO bottom nav tab bar.\n\nEnsure stunning visual craft, art-directed playful vibe, rich flat rounded diamonds confetti accents, sticker aesthetics, and clean typography.\n## Available Images\nYou MUST include the following images in this design. You must reference them\nby putting their exact placeholder IDs in `src` attributes or CSS\n`background-image` rules. Do NOT use external URLs or generate new\nplaceholders. Preserve these IDs exactly as written. Read each image's\nDescription to understand its subject, intended section, and visual role.\n\n- {{DATA:IMAGE:IMAGE_2}}\n  Alt Text: POV Logo\n  Description: POV brand logo mark: rounded purple U-shaped cup outline with four rounded diamond mango cubes falling into it (yellow on top, two teal at sides, large orange in middle) with small orange and teal sprinkling dots, alongside bold geometric sans wordmark 'POV' with P in purple, O in mango yellow, and V in teal.. Brand logo. - Primary color: #7243ab\n- Font: rubik\n- Mode: light\n- Roundness: rounded-full\n\n  Dimensions: 512x512\n  Aspect Ratio: 1.00\n  Colors: #17AE9D, #7243AB, #F7941D, #F9CD18\n- {{DATA:IMAGE:IMAGE_4}}\n  Alt Text: Commercial product photography of a premium chilled fresh Egyptian mango juice in a transparent plastic takeaway cup with clear dome lid and straw, filled with thick golden-orange mango purée and topped with fresh cut mango cubes, placed on a soft pastel yellow and cream background with soft natural lighting and subtle studio shadow, ultra clean, high resolution, no text, no logos.\n  Description: Commercial product photography of a premium chilled fresh Egyptian mango juice in a transparent plastic takeaway cup with clear dome lid and straw, filled with thick golden-orange mango purée and topped with fresh cut mango cubes, placed on a soft pastel yellow and cream background with soft natural lighting and subtle studio shadow, ultra clean, high resolution, no text, no logos.\n  Dimensions: 1024x1024\n  Aspect Ratio: 1.00\n- {{DATA:IMAGE:IMAGE_5}}\n  Alt Text: Commercial product photography of a two-toned fresh fruit drink in a clear takeaway cup with dome lid: layered fresh Egyptian mango juice and bright red strawberry purée, condensation droplets, clean warm pastel studio background, high resolution, no text, no logo.\n  Description: Commercial product photography of a two-toned fresh fruit drink in a clear takeaway cup with dome lid: layered fresh Egyptian mango juice and bright red strawberry purée, condensation droplets, clean warm pastel studio background, high resolution, no text, no logo.\n  Dimensions: 1024x1024\n  Aspect Ratio: 1.00\n- {{DATA:IMAGE:IMAGE_6}}\n  Alt Text: Commercial product photography of a clear plastic takeaway cup packed with fresh cut vibrant orange Egyptian mango cubes glistening with natural juice, dome lid, on a warm cream studio background with soft studio light and realistic shadow, high resolution, no text, no watermark, no logo.\n  Description: Commercial product photography of a clear plastic takeaway cup packed with fresh cut vibrant orange Egyptian mango cubes glistening with natural juice, dome lid, on a warm cream studio background with soft studio light and realistic shadow, high resolution, no text, no watermark, no logo.\n  Dimensions: 1024x1024\n  Aspect Ratio: 1.00\n",
+                "screenMetadata": {
+                  "agentType": "PRO_AGENT",
+                  "status": "COMPLETE"
+                },
+                "screenType": "DESIGN",
+                "screenshot": {
+                  "downloadUrl": "https://lh3.googleusercontent.com/aida/AEtjO1WtnYLekp4s9Z5QE6ajPboX0VJWPg9rZce293PabitwI2hG9VBKOcbCZReLLeTDV3xziFnJhIHZV-gOSLNkAv6kaLo9yObP7Yrk_dNdWwunYjNIdPhfaqA0oJFV2EahfRZywcEtfVjXsw4oGhC_89NKw44x6Iva-qAXSReVAZzlqpWxheEjUXv_BcecdBiBfQm27dIQ_DJk-B_MXJjldujE_M-v27xV1cEL8Jjdad5ws4IBgSDx64fwc2L4",
+                  "name": "projects/17900647796308208115/files/82944de6321a46288b1f388aa3a6e06c"
+                },
+                "theme": {
+                  "bodyFont": "RUBIK",
+                  "bodyFontFamily": "Rubik",
+                  "colorMode": "LIGHT",
+                  "colorVariant": "FIDELITY",
+                  "customColor": "#7243ab",
+                  "font": "RUBIK",
+                  "headlineFont": "RUBIK",
+                  "headlineFontFamily": "Rubik",
+                  "labelFont": "RUBIK",
+                  "labelFontFamily": "Rubik",
+                  "namedColors": {
+                    "background": "#fff7ff",
+                    "error": "#ba1a1a",
+                    "error_container": "#ffdad6",
+                    "inverse_on_surface": "#f9ecff",
+                    "inverse_primary": "#d9b9ff",
+                    "inverse_surface": "#3b2752",
+                    "on_background": "#25113b",
+                    "on_error": "#ffffff",
+                    "on_error_container": "#93000a",
+                    "on_primary": "#ffffff",
+                    "on_primary_container": "#e3caff",
+                    "on_primary_fixed": "#2a0054",
+                    "on_primary_fixed_variant": "#5c2c94",
+                    "on_secondary": "#ffffff",
+                    "on_secondary_container": "#6f5900",
+                    "on_secondary_fixed": "#231b00",
+                    "on_secondary_fixed_variant": "#564500",
+                    "on_surface": "#25113b",
+                    "on_surface_variant": "#4b4451",
+                    "on_tertiary": "#ffffff",
+                    "on_tertiary_container": "#ffca9a",
+                    "on_tertiary_fixed": "#2d1600",
+                    "on_tertiary_fixed_variant": "#6b3b00",
+                    "outline": "#7c7482",
+                    "outline_variant": "#cdc3d3",
+                    "primary": "#592991",
+                    "primary_container": "#7243ab",
+                    "primary_fixed": "#eedbff",
+                    "primary_fixed_dim": "#d9b9ff",
+                    "secondary": "#725c00",
+                    "secondary_container": "#fcd01d",
+                    "secondary_fixed": "#ffe07f",
+                    "secondary_fixed_dim": "#edc200",
+                    "surface": "#fff7ff",
+                    "surface_bright": "#fff7ff",
+                    "surface_container": "#f7e9ff",
+                    "surface_container_high": "#f3e2ff",
+                    "surface_container_highest": "#efdbff",
+                    "surface_container_low": "#fbf0ff",
+                    "surface_container_lowest": "#ffffff",
+                    "surface_dim": "#e9d1ff",
+                    "surface_tint": "#7546ae",
+                    "surface_variant": "#efdbff",
+                    "tertiary": "#673900",
+                    "tertiary_container": "#884d00",
+                    "tertiary_fixed": "#ffdcbf",
+                    "tertiary_fixed_dim": "#ffb874"
+                  },
+                  "overrideNeutralColor": "#2a1640",
+                  "overridePrimaryColor": "#7243ab",
+                  "overrideSecondaryColor": "#f9cd18",
+                  "overrideTertiaryColor": "#f7941d",
+                  "roundness": "ROUND_FULL",
+                  "spacing": {
+                    "gutter": "1rem",
+                    "margin": "1.25rem",
+                    "space-lg": "1.5rem",
+                    "space-md": "1rem",
+                    "space-sm": "0.5rem",
+                    "space-xl": "2rem",
+                    "space-xs": "0.25rem"
+                  },
+                  "spacingScale": 2,
+                  "typography": {
+                    "body-lg": {
+                      "fontFamily": "Rubik",
+                      "fontSize": "17px",
+                      "fontWeight": "400",
+                      "lineHeight": "24px"
+                    },
+                    "body-md": {
+                      "fontFamily": "Rubik",
+                      "fontSize": "15px",
+                      "fontWeight": "400",
+                      "lineHeight": "22px"
+                    },
+                    "body-sm": {
+                      "fontFamily": "Rubik",
+                      "fontSize": "13px",
+                      "fontWeight": "400",
+                      "lineHeight": "18px"
+                    },
+                    "display-hero": {
+                      "fontFamily": "Rubik",
+                      "fontSize": "40px",
+                      "fontWeight": "800",
+                      "letterSpacing": "-0.02em",
+                      "lineHeight": "44px"
+                    },
+                    "headline-lg": {
+                      "fontFamily": "Rubik",
+                      "fontSize": "30px",
+                      "fontWeight": "700",
+                      "letterSpacing": "-0.01em",
+                      "lineHeight": "36px"
+                    },
+                    "headline-md": {
+                      "fontFamily": "Rubik",
+                      "fontSize": "24px",
+                      "fontWeight": "700",
+                      "lineHeight": "30px"
+                    },
+                    "headline-sm": {
+                      "fontFamily": "Rubik",
+                      "fontSize": "20px",
+                      "fontWeight": "600",
+                      "lineHeight": "26px"
+                    },
+                    "label-lg": {
+                      "fontFamily": "Rubik",
+                      "fontSize": "15px",
+                      "fontWeight": "700",
+                      "letterSpacing": "0.01em",
+                      "lineHeight": "18px"
+                    },
+                    "label-md": {
+                      "fontFamily": "Rubik",
+                      "fontSize": "13px",
+                      "fontWeight": "700",
+                      "lineHeight": "16px"
+                    },
+                    "label-sm": {
+                      "fontFamily": "Rubik",
+                      "fontSize": "11px",
+                      "fontWeight": "800",
+                      "letterSpacing": "0.04em",
+                      "lineHeight": "14px"
+                    },
+                    "price-tag": {
+                      "fontFamily": "Rubik",
+                      "fontSize": "18px",
+                      "fontWeight": "900",
+                      "lineHeight": "20px"
+                    }
+                  }
+                },
+                "title": "01 Menu - CUBE DROP (POV Mango)",
+                "width": "780"
+              }
+            ],
+            "theme": {}
+          }
+        },
+        {
+          "text": "I have designed and generated **Screen 01: Menu — Concept A \"CUBE DROP\"** for **POV (بوف)**, Cairo's fresh mango-first juice shop, following the playful, bold, and art-directed **\"Mango Pop\"** creative identity.\n\n### Key Design Highlights:\n1. **Brand & Identity (\"Mango Pop\")**:\n   - Custom SVG vector logo rendered directly with the signature U-shaped purple cup, tumbling rounded diamond \"mango cubes\" (yellow, teal, orange), and geometric wordmark with tricolor letters (`P` in purple, `O` in mango yellow, `V` in teal).\n   - Rich brand color palette: POV Purple (`#7243AB`), Mango Yellow (`#F9CD18`), Mango Orange (`#F7941D`), Teal (`#17AE9D`), and Coral (`#F2654A`) on a warm cream canvas (`#FFF8E7`).\n\n2. **Hero Section (\"CUBE DROP\")**:\n   - Deep mango yellow block with generous rounded bottom edges (`rounded-b-[40px]`).\n   - Huge tight typography in **Readex Pro 800**: *\"Pick your POV.\"*, paired seamlessly with the Arabic tagline *\"اختيارك ... وجهة نظرك\"* (`lang=\"ar\" dir=\"rtl\"`), and a teal badge (*\"Fresh Egyptian mangoes, cut daily\"*).\n   - Signature commercial product photography of the chilled POV Mango takeaway cup with flat rounded diamond cubes and confetti dots dynamically falling into the cup.\n\n3. **Sticky Category Filter Pills**:\n   - Chunky pill chips for smooth in-store browsing across all 5 sections, with the active *\"Mango Signatures • مانجو بوف المميزة\"* highlighted in POV Purple.\n\n4. **All 5 Menu Categories with Complete Bilingual Copy & Sticker Pricing**:\n   - **Mango Signatures** (Purple header block): 2-column white card grid featuring *POV Mango* (with coral *\"Best seller | الأكثر طلبًا\"* sticker), *POV Classic*, *Mango x Strawberry*, *Mango Passion*, and the full-width spotlight on *POV Cocktail*. All prices feature tilted sticker-style badges with dual Latin & Arabic currency (`EGP` / `ج.م`).\n   - **Fresh Cubes** (Yellow header block): Featured wide card showcasing the glistening *Mango Cubes cup* (85 EGP) with cutout framing and a *\"100% Egyptian Mango • No Sugar\"* pill.\n   - **Smoothies & Shakes** (Teal header block): Dual cards for *Mango Smoothie* (120 EGP) and *Mango Milkshake* (135 EGP).\n   - **Fresh Juices** (Coral header block): Clean compact list view with circular fruit thumbnails and sticker prices (*Fresh Orange*, *Strawberry*, *Watermelon Mint*, *Guava Nectar*, *Sugarcane Lime*).\n   - **Seasonal** (Orange header block): Horizontal scroll featuring limited-batch *Pomegranate Press* (105 EGP) and *Keitt Last Call mango* (130 EGP).\n\n5. **Warm Brand Footer**:\n   - Centered POV logo, brand taglines, operating hours (*Open daily 12 PM – 2 AM · Cairo*), tax-inclusive badge, and generous breathing room. Zero checkout/cart friction and no tab bar, tailored strictly for QR scanning at the counter."
+        },
+        {
+          "suggestion": "Create Concept B with an alternate hero or layout arrangement"
+        },
+        {
+          "suggestion": "Generate an interactive drink detail modal when an item is tapped"
+        },
+        {
+          "suggestion": "Create the Arabic-first RTL layout variation of the menu"
+        }
+      ],
+      "projectId": "17900647796308208115",
+      "sessionId": "14864994723316383761",
+      "designSystem": {
+        "designSystem": {
+          "displayName": "Mango Pop",
+          "styleGuidelines": "## Brand & Style\n\nThis design system expresses an exuberant, sun-drenched culinary identity for a modern Cairo juice house centered entirely on fresh Egyptian mangoes. The brand personality balances hyper-joyful pop art vitality with meticulous, art-directed editorial precision. The aesthetic merges contemporary Middle Eastern creative studio graphic design with tactile, street-level packaging energy: vibrant, high-contrast, kinetic, and deeply celebratory.\n\nThe visual style is characterized by:\n- **Warm, unbleached sun-lit canvas:** A rich, comforting buttermilk cream substrate that banishes clinical app blues and stark digital grays.\n- **Graphic fruit colorways:** POV Purple anchored against luscious ripe mango tones (sun gold, intense peel orange), punctuated by cooling Nile teal and tart coral.\n- **Graphic stickers and structural motifs:** Playful tilted price emblems, hyper-curved container surfaces, and an iconic repeating flat-rounded diamond pattern evoking freshly diced mango cubes (*habbet manga*).\n- **Native bilingual cadence:** Equal-weight visual choreography between Arabic and Latin typography, ensuring bidirectional harmony across all touchpoints without compromised proportions.\n\n## Layout & Spacing\n\nThe layout is built for mobile viewport touch targets (primarily 390px base width) with deliberate rhythm and generous breathing room, juxtaposed with dense, tactile card clusters.\n\n### Layout Mechanics\n- **Base Grid:** Single-column stacked fluid flow with 2-column asymmetric item card arrangements.\n- **Outer Canvas Margins:** `1.25rem` (20px) fixed padding from screen edge, keeping cards safe while allowing hero carousels to bleed cleanly to full width.\n- **Horizontal Item Gaps:** `1rem` (16px) gutter between multi-item horizontal shelves and product grids.\n- **Vertical Flow Rhythm:** Sections are partitioned by `2rem` (32px) margins to preserve crisp editorial pacing between juice blends, soft-serves, and signature bowls.\n\n## Elevation & Depth\n\nThis system avoids heavy, muddy digital drop shadows. Instead, it creates depth through vibrant color stacking, crisp borders, and ultra-soft ambient fruit-tinted underglows.\n\n- **Level 0 (Canvas):** The warm buttermilk cream plane (`#FFF8E7`). Everything rests here.\n- **Level 1 (Crisp Menu Cards):** Pure white solid base (`#FFFFFF`) framed with a whisper of warmth: a 1.5px hairline outline in `#F0E5CF` paired with a delicate, diffuse ambient glow (`0 8px 24px -4px rgba(114, 67, 171, 0.06)`).\n- **Level 2 (Interactive Floating Badges & Pop Chips):** High-contrast chips with tactile, solid drop-offsets (`0 4px 0px rgba(42, 22, 64, 0.12)`) delivering an art-toy, physical sticker sensation.\n- **Level 3 (Modals, Sliders & Bottom Sheets):** Pure white container with a 2px top rim in POV Purple, shielded by a semi-opaque backdrop tinted in Deep Ink (`rgba(42, 22, 64, 0.45)`).\n\n## Components\n\n### Buttons\n- **Primary Action (Juice CTA):** Full-bleed or pill-shaped POV Purple (`#7243AB`) with high-contrast White text. Height `52px` minimum for effortless one-handed thumb interaction. Slight tactile press effect (`transform: scale(0.97)`).\n- **Secondary Action (Add to Cup / Quick Pick):** Warm Cream fill with a 2px POV Purple border or Mango Orange fill (`#F7941D`) with Deep Ink text.\n- **Icon Floating Buttons:** Perfect circle (`48x48px`) in pure white or vibrant Mango Yellow with Deep Ink iconography.\n\n### Chips & Category Selectors\n- **Selected State:** Solid POV Purple fill, crisp White bilingual text, zero stroke.\n- **Unselected State:** Crisp White fill, Deep Ink text, 1.5px subtle border in `#E5D9C4`.\n- **Chunky Status Pills:** Miniaturized pill tags for temperature, sweetness, or dairy-free options featuring subtle tinted backgrounds (e.g., Teal at 15% opacity with solid `#17AE9D` text).\n\n### Product Cards\n- Pure White foundation with `28px` radius corners.\n- Top section holds an unconstrained product photo floating against an organic cream or pastel mango circle.\n- Bottom section contains the bilingual title (e.g., \"Aweys Special • عويس مميز\"), concise flavor notes in Muted Ink, and an integrated bottom action bar.\n\n### Sticker-Style Rotated Price Tags\n- Graphic badge rotated at `-4deg` to `+5deg` pinned to the card corner.\n- High-contrast Mango Yellow (`#F9CD18`) or Coral (`#F2654A`) backdrop with bold Deep Ink typography.\n- Simulates a hand-applied physical fruit crate label.\n\n### Form Inputs & Sweetness Adjusters\n- Inputs sit on pure white containers with `16px` border radii and generous padding.\n- Focused state: 2px solid POV Purple outline with an ambient cream glow.\n- Quantity and sugar level selectors utilize chunky pill step-controls with prominent plus/minus icon tap targets.\n\n### Checkboxes & Radios\n- Radios are concentric rounded rings that fill with a solid POV Purple dot.\n- Checkboxes feature a rounded diamond (Mango Cube) frame that animates into solid Teal with a white checkmark when active.\n\n### Bilingual Cart Bar (Sticky Bottom)\n- Floats above the screen edge with a `16px` margin on all sides.\n- Deep POV Purple pill surface holding item counter pill in Mango Yellow, dual-script label, and clear checkout price.",
+          "theme": {
+            "bodyFont": "RUBIK",
+            "bodyFontFamily": "Rubik",
+            "colorMode": "LIGHT",
+            "colorVariant": "FIDELITY",
+            "customColor": "#7243ab",
+            "designMd": "---\nname: Mango Pop\ncolors:\n  surface: '#fff7ff'\n  surface-dim: '#e9d1ff'\n  surface-bright: '#fff7ff'\n  surface-container-lowest: '#ffffff'\n  surface-container-low: '#fbf0ff'\n  surface-container: '#f7e9ff'\n  surface-container-high: '#f3e2ff'\n  surface-container-highest: '#efdbff'\n  on-surface: '#25113b'\n  on-surface-variant: '#4b4451'\n  inverse-surface: '#3b2752'\n  inverse-on-surface: '#f9ecff'\n  outline: '#7c7482'\n  outline-variant: '#cdc3d3'\n  surface-tint: '#7546ae'\n  primary: '#592991'\n  on-primary: '#ffffff'\n  primary-container: '#7243ab'\n  on-primary-container: '#e3caff'\n  inverse-primary: '#d9b9ff'\n  secondary: '#725c00'\n  on-secondary: '#ffffff'\n  secondary-container: '#fcd01d'\n  on-secondary-container: '#6f5900'\n  tertiary: '#673900'\n  on-tertiary: '#ffffff'\n  tertiary-container: '#884d00'\n  on-tertiary-container: '#ffca9a'\n  error: '#ba1a1a'\n  on-error: '#ffffff'\n  error-container: '#ffdad6'\n  on-error-container: '#93000a'\n  primary-fixed: '#eedbff'\n  primary-fixed-dim: '#d9b9ff'\n  on-primary-fixed: '#2a0054'\n  on-primary-fixed-variant: '#5c2c94'\n  secondary-fixed: '#ffe07f'\n  secondary-fixed-dim: '#edc200'\n  on-secondary-fixed: '#231b00'\n  on-secondary-fixed-variant: '#564500'\n  tertiary-fixed: '#ffdcbf'\n  tertiary-fixed-dim: '#ffb874'\n  on-tertiary-fixed: '#2d1600'\n  on-tertiary-fixed-variant: '#6b3b00'\n  background: '#fff7ff'\n  on-background: '#25113b'\n  surface-variant: '#efdbff'\ntypography:\n  display-hero:\n    fontFamily: Rubik\n    fontSize: 40px\n    fontWeight: '800'\n    lineHeight: 44px\n    letterSpacing: -0.02em\n  headline-lg:\n    fontFamily: Rubik\n    fontSize: 30px\n    fontWeight: '700'\n    lineHeight: 36px\n    letterSpacing: -0.01em\n  headline-md:\n    fontFamily: Rubik\n    fontSize: 24px\n    fontWeight: '700'\n    lineHeight: 30px\n  headline-sm:\n    fontFamily: Rubik\n    fontSize: 20px\n    fontWeight: '600'\n    lineHeight: 26px\n  body-lg:\n    fontFamily: Rubik\n    fontSize: 17px\n    fontWeight: '400'\n    lineHeight: 24px\n  body-md:\n    fontFamily: Rubik\n    fontSize: 15px\n    fontWeight: '400'\n    lineHeight: 22px\n  body-sm:\n    fontFamily: Rubik\n    fontSize: 13px\n    fontWeight: '400'\n    lineHeight: 18px\n  label-lg:\n    fontFamily: Rubik\n    fontSize: 15px\n    fontWeight: '700'\n    lineHeight: 18px\n    letterSpacing: 0.01em\n  label-md:\n    fontFamily: Rubik\n    fontSize: 13px\n    fontWeight: '700'\n    lineHeight: 16px\n  label-sm:\n    fontFamily: Rubik\n    fontSize: 11px\n    fontWeight: '800'\n    lineHeight: 14px\n    letterSpacing: 0.04em\n  price-tag:\n    fontFamily: Rubik\n    fontSize: 18px\n    fontWeight: '900'\n    lineHeight: 20px\nrounded:\n  sm: 0.5rem\n  DEFAULT: 1rem\n  md: 1.5rem\n  lg: 2rem\n  xl: 3rem\n  full: 9999px\nspacing:\n  gutter: 1rem\n  margin: 1.25rem\n  space-xs: 0.25rem\n  space-sm: 0.5rem\n  space-md: 1rem\n  space-lg: 1.5rem\n  space-xl: 2rem\n---\n\n## Brand & Style\n\nThis design system expresses an exuberant, sun-drenched culinary identity for a modern Cairo juice house centered entirely on fresh Egyptian mangoes. The brand personality balances hyper-joyful pop art vitality with meticulous, art-directed editorial precision. The aesthetic merges contemporary Middle Eastern creative studio graphic design with tactile, street-level packaging energy: vibrant, high-contrast, kinetic, and deeply celebratory.\n\nThe visual style is characterized by:\n- **Warm, unbleached sun-lit canvas:** A rich, comforting buttermilk cream substrate that banishes clinical app blues and stark digital grays.\n- **Graphic fruit colorways:** POV Purple anchored against luscious ripe mango tones (sun gold, intense peel orange), punctuated by cooling Nile teal and tart coral.\n- **Graphic stickers and structural motifs:** Playful tilted price emblems, hyper-curved container surfaces, and an iconic repeating flat-rounded diamond pattern evoking freshly diced mango cubes (*habbet manga*).\n- **Native bilingual cadence:** Equal-weight visual choreography between Arabic and Latin typography, ensuring bidirectional harmony across all touchpoints without compromised proportions.\n\n## Colors\n\nThe color architecture is built strictly for a luminous daylight experience. Every hue is saturated to evoke cold-pressed fruit nectar under Cairo's golden sun, held together by structural purple and deep fruit-skin ink.\n\n### Primary Role (POV Purple - `#7243AB`)\nThe decisive, creative brand anchor. Used for primary interactive actions, high-impact branding typography, hero navigational chips, and solid accent borders.\n\n### Secondary Role (Mango Yellow - `#F9CD18`)\nPure pulpy energy. Used for hero flash alerts, celebratory badges, product spotlights, and vibrant secondary card fills.\n\n### Tertiary Role (Mango Orange - `#F7941D`)\nThe riper fruit shade. Applied to hot actions, add-to-tote buttons, seasonal tags, and high-energy secondary iconography.\n\n### Accent Roles\n- **Teal Freshness (`#17AE9D`):** A contrasting cool stream used for refreshing mix-ins, cooling herbal blends, hydration cues, and delivery trackers.\n- **Coral Spark (`#F2654A`):** Used for spicy boosts, limited edition drops, and dynamic sticker-style promotional banners.\n\n### Canvas & Surface Architecture\n- **Canvas Base:** `#FFF8E7` (Warm Cream). Replaces system gray/white defaults to give the entire mobile canvas a tactile, bakery-and-juice counter feel.\n- **Card Surface:** `#FFFFFF` (Pure White). Creates punchy contrast against the cream background.\n- **Deep Ink Text:** `#2A1640` (Eggplant Black). Delivers extreme legibility with warmer, fruitier undertones than neutral carbon black.\n- **Muted Ink:** `#6F6280` (Muted Purple-Slate). Used for Arabic transliterations, ingredient subtitles, and inactive tab bars.\n\n## Typography\n\nThe typographic system utilizes a unified geometric, friendly grotesque that delivers parity between Arabic (`العربية`) and English (`Latin`). The letterforms possess soft terminal geometry and open counters that mirror the pulpy, approachable visual language.\n\n### Bilingual Handling\n- In bilingual locks (e.g. Arabic title alongside Latin counterpart), the Arabic sits either directly stacked atop or comfortably mirrored based on active device locale directionality (`rtl` or `ltr`).\n- Weights are balanced: Latin bold corresponds with Arabic bold without optical weight disparities.\n- Numbers on price stickers and nutritional data are set in uniform tabular or bold display figures.\n\n### Typographic Roles\n- **Hero & Headline Display:** Heavily weighted, joyful, condensed line-heights that create impactful menu headers and punchy promotional statements.\n- **Body:** Open, generous x-height allowing rapid ingredient scanning on mobile devices in high ambient daylight.\n- **Labels & Micro-Tags:** Chunky, hyper-legible uppercase Latin and well-proportioned Arabic badges ensuring instant menu categorization.\n\n## Layout & Spacing\n\nThe layout is built for mobile viewport touch targets (primarily 390px base width) with deliberate rhythm and generous breathing room, juxtaposed with dense, tactile card clusters.\n\n### Layout Mechanics\n- **Base Grid:** Single-column stacked fluid flow with 2-column asymmetric item card arrangements.\n- **Outer Canvas Margins:** `1.25rem` (20px) fixed padding from screen edge, keeping cards safe while allowing hero carousels to bleed cleanly to full width.\n- **Horizontal Item Gaps:** `1rem` (16px) gutter between multi-item horizontal shelves and product grids.\n- **Vertical Flow Rhythm:** Sections are partitioned by `2rem` (32px) margins to preserve crisp editorial pacing between juice blends, soft-serves, and signature bowls.\n\n## Elevation & Depth\n\nThis system avoids heavy, muddy digital drop shadows. Instead, it creates depth through vibrant color stacking, crisp borders, and ultra-soft ambient fruit-tinted underglows.\n\n- **Level 0 (Canvas):** The warm buttermilk cream plane (`#FFF8E7`). Everything rests here.\n- **Level 1 (Crisp Menu Cards):** Pure white solid base (`#FFFFFF`) framed with a whisper of warmth: a 1.5px hairline outline in `#F0E5CF` paired with a delicate, diffuse ambient glow (`0 8px 24px -4px rgba(114, 67, 171, 0.06)`).\n- **Level 2 (Interactive Floating Badges & Pop Chips):** High-contrast chips with tactile, solid drop-offsets (`0 4px 0px rgba(42, 22, 64, 0.12)`) delivering an art-toy, physical sticker sensation.\n- **Level 3 (Modals, Sliders & Bottom Sheets):** Pure white container with a 2px top rim in POV Purple, shielded by a semi-opaque backdrop tinted in Deep Ink (`rgba(42, 22, 64, 0.45)`).\n\n## Shapes\n\nThe shape system centers on hyper-roundedness and organic geometry.\n\n### Radius Hierarchy\n- **Card Containers (28px radius):** Large product cards, seasonal feature tiles, and order summary trays use an oversized `28px` corner radius, creating an ultra-soft, friendly silhouette reminiscent of curved juice bottles.\n- **Chunky Pills (`999px` radius):** Badges, category selector chips, interactive size toggles, and primary CTA buttons use pure pill geometry.\n- **Mango Cube Motif (*Habbet Manga*):** A signature brand graphic element formed by a 45-degree rotated square with smoothly rounded corners (`8px` radius on a `24x24px` diamond). Used as category delimiters, bullet points, loading spinners, and decorative pattern backgrounds in POV Purple, Mango Yellow, and Teal Freshness.\n\n## Components\n\n### Buttons\n- **Primary Action (Juice CTA):** Full-bleed or pill-shaped POV Purple (`#7243AB`) with high-contrast White text. Height `52px` minimum for effortless one-handed thumb interaction. Slight tactile press effect (`transform: scale(0.97)`).\n- **Secondary Action (Add to Cup / Quick Pick):** Warm Cream fill with a 2px POV Purple border or Mango Orange fill (`#F7941D`) with Deep Ink text.\n- **Icon Floating Buttons:** Perfect circle (`48x48px`) in pure white or vibrant Mango Yellow with Deep Ink iconography.\n\n### Chips & Category Selectors\n- **Selected State:** Solid POV Purple fill, crisp White bilingual text, zero stroke.\n- **Unselected State:** Crisp White fill, Deep Ink text, 1.5px subtle border in `#E5D9C4`.\n- **Chunky Status Pills:** Miniaturized pill tags for temperature, sweetness, or dairy-free options featuring subtle tinted backgrounds (e.g., Teal at 15% opacity with solid `#17AE9D` text).\n\n### Product Cards\n- Pure White foundation with `28px` radius corners.\n- Top section holds an unconstrained product photo floating against an organic cream or pastel mango circle.\n- Bottom section contains the bilingual title (e.g., \"Aweys Special • عويس مميز\"), concise flavor notes in Muted Ink, and an integrated bottom action bar.\n\n### Sticker-Style Rotated Price Tags\n- Graphic badge rotated at `-4deg` to `+5deg` pinned to the card corner.\n- High-contrast Mango Yellow (`#F9CD18`) or Coral (`#F2654A`) backdrop with bold Deep Ink typography.\n- Simulates a hand-applied physical fruit crate label.\n\n### Form Inputs & Sweetness Adjusters\n- Inputs sit on pure white containers with `16px` border radii and generous padding.\n- Focused state: 2px solid POV Purple outline with an ambient cream glow.\n- Quantity and sugar level selectors utilize chunky pill step-controls with prominent plus/minus icon tap targets.\n\n### Checkboxes & Radios\n- Radios are concentric rounded rings that fill with a solid POV Purple dot.\n- Checkboxes feature a rounded diamond (Mango Cube) frame that animates into solid Teal with a white checkmark when active.\n\n### Bilingual Cart Bar (Sticky Bottom)\n- Floats above the screen edge with a `16px` margin on all sides.\n- Deep POV Purple pill surface holding item counter pill in Mango Yellow, dual-script label, and clear checkout price.",
+            "font": "RUBIK",
+            "headlineFont": "RUBIK",
+            "headlineFontFamily": "Rubik",
+            "labelFont": "RUBIK",
+            "labelFontFamily": "Rubik",
+            "namedColors": {
+              "background": "#fff7ff",
+              "error": "#ba1a1a",
+              "error_container": "#ffdad6",
+              "inverse_on_surface": "#f9ecff",
+              "inverse_primary": "#d9b9ff",
+              "inverse_surface": "#3b2752",
+              "on_background": "#25113b",
+              "on_error": "#ffffff",
+              "on_error_container": "#93000a",
+              "on_primary": "#ffffff",
+              "on_primary_container": "#e3caff",
+              "on_primary_fixed": "#2a0054",
+              "on_primary_fixed_variant": "#5c2c94",
+              "on_secondary": "#ffffff",
+              "on_secondary_container": "#6f5900",
+              "on_secondary_fixed": "#231b00",
+              "on_secondary_fixed_variant": "#564500",
+              "on_surface": "#25113b",
+              "on_surface_variant": "#4b4451",
+              "on_tertiary": "#ffffff",
+              "on_tertiary_container": "#ffca9a",
+              "on_tertiary_fixed": "#2d1600",
+              "on_tertiary_fixed_variant": "#6b3b00",
+              "outline": "#7c7482",
+              "outline_variant": "#cdc3d3",
+              "primary": "#592991",
+              "primary_container": "#7243ab",
+              "primary_fixed": "#eedbff",
+              "primary_fixed_dim": "#d9b9ff",
+              "secondary": "#725c00",
+              "secondary_container": "#fcd01d",
+              "secondary_fixed": "#ffe07f",
+              "secondary_fixed_dim": "#edc200",
+              "surface": "#fff7ff",
+              "surface_bright": "#fff7ff",
+              "surface_container": "#f7e9ff",
+              "surface_container_high": "#f3e2ff",
+              "surface_container_highest": "#efdbff",
+              "surface_container_low": "#fbf0ff",
+              "surface_container_lowest": "#ffffff",
+              "surface_dim": "#e9d1ff",
+              "surface_tint": "#7546ae",
+              "surface_variant": "#efdbff",
+              "tertiary": "#673900",
+              "tertiary_container": "#884d00",
+              "tertiary_fixed": "#ffdcbf",
+              "tertiary_fixed_dim": "#ffb874"
+            },
+            "overrideNeutralColor": "#2a1640",
+            "overridePrimaryColor": "#7243ab",
+            "overrideSecondaryColor": "#f9cd18",
+            "overrideTertiaryColor": "#f7941d",
+            "roundness": "ROUND_FULL",
+            "spacing": {
+              "gutter": "1rem",
+              "margin": "1.25rem",
+              "space-lg": "1.5rem",
+              "space-md": "1rem",
+              "space-sm": "0.5rem",
+              "space-xl": "2rem",
+              "space-xs": "0.25rem"
+            },
+            "spacingScale": 2,
+            "typography": {
+              "body-lg": {
+                "fontFamily": "Rubik",
+                "fontSize": "17px",
+                "fontWeight": "400",
+                "lineHeight": "24px"
+              },
+              "body-md": {
+                "fontFamily": "Rubik",
+                "fontSize": "15px",
+                "fontWeight": "400",
+                "lineHeight": "22px"
+              },
+              "body-sm": {
+                "fontFamily": "Rubik",
+                "fontSize": "13px",
+                "fontWeight": "400",
+                "lineHeight": "18px"
+              },
+              "display-hero": {
+                "fontFamily": "Rubik",
+                "fontSize": "40px",
+                "fontWeight": "800",
+                "letterSpacing": "-0.02em",
+                "lineHeight": "44px"
+              },
+              "headline-lg": {
+                "fontFamily": "Rubik",
+                "fontSize": "30px",
+                "fontWeight": "700",
+                "letterSpacing": "-0.01em",
+                "lineHeight": "36px"
+              },
+              "headline-md": {
+                "fontFamily": "Rubik",
+                "fontSize": "24px",
+                "fontWeight": "700",
+                "lineHeight": "30px"
+              },
+              "headline-sm": {
+                "fontFamily": "Rubik",
+                "fontSize": "20px",
+                "fontWeight": "600",
+                "lineHeight": "26px"
+              },
+              "label-lg": {
+                "fontFamily": "Rubik",
+                "fontSize": "15px",
+                "fontWeight": "700",
+                "letterSpacing": "0.01em",
+                "lineHeight": "18px"
+              },
+              "label-md": {
+                "fontFamily": "Rubik",
+                "fontSize": "13px",
+                "fontWeight": "700",
+                "lineHeight": "16px"
+              },
+              "label-sm": {
+                "fontFamily": "Rubik",
+                "fontSize": "11px",
+                "fontWeight": "800",
+                "letterSpacing": "0.04em",
+                "lineHeight": "14px"
+              },
+              "price-tag": {
+                "fontFamily": "Rubik",
+                "fontSize": "18px",
+                "fontWeight": "900",
+                "lineHeight": "20px"
+              }
+            }
+          }
+        },
+        "name": "assets/56fcb8d5dec0419484f649e61cc05c9c",
+        "version": "1"
+      },
+      "deviceType": "MOBILE",
+      "generatedBy": "figaro_agent",
+      "height": "7336",
+      "htmlCode": {
+        "downloadUrl": "https://contribution.usercontent.google.com/download?c=CgthaWRhX2NvZGVmeBJ8Eh1hcHBfY29tcGFuaW9uX2dlbmVyYXRlZF9maWxlcxpbCiVodG1sXzEwNGYzNmYwYjFjMDQ1Mzc5ZDI4MDAxNjJlMjVmM2MzEgsSBxCu-qfdvhIYAZIBJAoKcHJvamVjdF9pZBIWQhQxNzkwMDY0Nzc5NjMwODIwODExNQ&filename=&opi=96797242",
+        "mimeType": "text/html",
+        "name": "projects/17900647796308208115/files/e41ba9dff885410b850a04d48f9f7add"
+      },
+      "id": "2c1c919b148942a1a9c3a0d15bbbd54d",
+      "name": "projects/17900647796308208115/screens/2c1c919b148942a1a9c3a0d15bbbd54d",
+      "prompt": "Build SCREEN: 01 Menu, concept A 'CUBE DROP'. A long scrolling QR menu page for 'POV' (بوف), fresh mango-first juice shop in Cairo, Egypt. Mobile screen (390px wide). Light theme only, warm cream canvas background (#FFF8E7), pure white cards, 28px card corner radiuses. Strictly view-only QR menu: NO cart, NO bag, NO checkout, NO login, NO bottom navigation tab bar, and do NOT draw a phone status bar. Use Readex Pro font for all Latin and Arabic text. Every item and category has English and Arabic with lang=\"ar\" dir=\"rtl\".\n\n1. TOP HEADER:\n- Left: POV Logo mark + wordmark using image {{DATA:IMAGE:IMAGE_2}}.\n- Right: A round subtle pill/button with round language/info icon (Material Symbol 'translate' or 'info') and Cairo badge 'Cairo · القاهرة'.\n\n2. HERO SECTION (\"CUBE DROP\"):\n- Big mango-yellow background block (#F9CD18) with very rounded bottom corners (rounded-b-[40px]), overflow-hidden, with generous padding.\n- Left column / text area:\n  * Headline: 'Pick your POV.' in huge purple (#7243AB) Readex Pro 800 (tracking-tight, leading-none).\n  * Arabic tagline directly under: '<span lang=\"ar\" dir=\"rtl\" class=\"text-pov-purple/90 font-bold text-lg block mt-1\">اختيارك ... وجهة نظرك</span>'\n  * Chunky pill badge below: teal background (#17AE9D) with white bold text: 'Fresh Egyptian mangoes, cut daily' / 'مانجو مصري طازج يومياً'.\n- Right side / visual:\n  * A large photorealistic cup of signature POV Mango juice {{DATA:IMAGE:IMAGE_4}} (clean cutout / rounded frame).\n  * Signatures motif: Big flat rounded diamonds (rotated squares with rounded corners rx/ry) in orange (#F7941D), teal (#17AE9D), and yellow (#F9CD18), along with small sprinkle dots, playfully tumbling down from the top edge directly into the cup like the logo! Flat graphic shapes around the cup.\n\n3. STICKY CATEGORY CHIPS:\n- Sticky horizontal scroll container with backdrop blur or warm cream bg, shadow-sm.\n- Chunky pill chips:\n  * Active chip: POV Purple (#7243AB) with white text: 'Mango Signatures • مانجو بوف المميزة'\n  * Fresh Cubes • مكعبات فريش (cream/white chip with dark border)\n  * Smoothies & Shakes • سموذي وميلك شيك\n  * Fresh Juices • عصائر فريش\n  * Seasonal • أصناف الموسم\n\n4. ALL FIVE CATEGORIES (Full detailed content):\n\nCategory 1: Mango Signatures | مانجو بوف المميزة\n- Bold colour-block section header in POV purple (#7243AB) with white text, a decorative rounded diamond cube icon, and bilingual title: 'Mango Signatures' and '<span lang=\"ar\" dir=\"rtl\">مانجو بوف المميزة</span>'.\n- 2-column grid of tall pure white cards (rounded-[24px], p-3, shadow-sm, border border-purple-100):\n  * Card 1 (POV Mango):\n    - Photo {{DATA:IMAGE:IMAGE_4}} rounded-2xl relative\n    - Coral sticker badge overlapping photo corner: 'Best seller | الأكثر طلبًا' (bg-[#F2654A] text-white text-[10px] font-bold px-2 py-0.5 rounded-full -rotate-3)\n    - Rotated sticker price tag: Mango yellow badge with bold purple text '95 EGP / ٩٥ ج.م' (-rotate-2 shadow-sm font-extrabold)\n    - Title: 'POV Mango' (font-bold text-ink)\n    - Arabic: '<span lang=\"ar\" dir=\"rtl\" class=\"text-xs text-[#6F6280] font-medium\">مانجو بوف</span>'\n    - Subtext: 'Pure thick Egyptian mango purée & fresh cubes'\n  * Card 2 (POV Classic, mango with milk):\n    - Photo {{DATA:IMAGE:IMAGE_4}}\n    - Rotated sticker price tag: Mango yellow badge '110 EGP / ١١٠ ج.م' (rotate-2 font-extrabold)\n    - Title: 'POV Classic'\n    - Arabic: '<span lang=\"ar\" dir=\"rtl\" class=\"text-xs text-[#6F6280]\">كلاسيك بوف</span>'\n    - Subtext: 'Mango blended with fresh chilled milk'\n  * Card 3 (Mango x Strawberry):\n    - Photo {{DATA:IMAGE:IMAGE_5}}\n    - Rotated sticker price tag: Coral badge '115 EGP / ١١٥ ج.م' (-rotate-2 font-extrabold)\n    - Title: 'Mango x Strawberry'\n    - Arabic: '<span lang=\"ar\" dir=\"rtl\" class=\"text-xs text-[#6F6280]\">مانجو فراولة</span>'\n    - Subtext: 'Layered mango & vibrant strawberry purée'\n  * Card 4 (Mango Passion):\n    - Photo {{DATA:IMAGE:IMAGE_4}}\n    - Rotated sticker price tag: Mango yellow badge '125 EGP / ١٢٥ ج.م' (rotate-3 font-extrabold)\n    - Title: 'Mango Passion'\n    - Arabic: '<span lang=\"ar\" dir=\"rtl\" class=\"text-xs text-[#6F6280]\">مانجو باشن</span>'\n    - Subtext: 'Sweet mango with tangy passion fruit drizzle'\n  * Card 5 (POV Cocktail):\n    - Spanning 2 columns or prominent card with photo {{DATA:IMAGE:IMAGE_5}}\n    - Rotated sticker price tag: '145 EGP / ١٤٥ ج.م'\n    - Title: 'POV Cocktail'\n    - Arabic: '<span lang=\"ar\" dir=\"rtl\" class=\"text-xs text-[#6F6280]\">كوكتيل بوف</span>'\n    - Subtext: 'Layered mango, strawberry, guava & avocado'\n\nCategory 2: Fresh Cubes | مكعبات فريش\n- Yellow colour-block section header (#F9CD18) with deep purple text and rounded diamond icon: 'Fresh Cubes' & '<span lang=\"ar\" dir=\"rtl\">مكعبات فريش</span>'.\n- One wide yellow feature card (bg-[#FFF3C4] border-2 border-[#F9CD18] rounded-[28px] p-5 relative overflow-hidden):\n  * The cup photo {{DATA:IMAGE:IMAGE_6}} is positioned breaking out of the card top or right side with fresh cut mango cubes glistening.\n  * Title: 'Mango Cubes cup'\n  * Arabic: '<span lang=\"ar\" dir=\"rtl\" class=\"text-sm font-semibold text-[#7243AB]\">كوب مكعبات مانجو</span>'\n  * Price sticker: Big rotated coral sticker '#F2654A' with white text '85 EGP / ٨٥ ج.م'.\n  * Badge: '100% Egyptian Mango • No added sugar'\n\nCategory 3: Smoothies & Shakes | سموذي وميلك شيك\n- Teal colour-block section header (#17AE9D) with white text: 'Smoothies & Shakes' & '<span lang=\"ar\" dir=\"rtl\">سموذي وميلك شيك</span>'.\n- Two cards side by side (2-column white cards rounded-[24px] p-3 shadow-sm):\n  * Mango Smoothie: photo {{DATA:IMAGE:IMAGE_4}}, price sticker '120 EGP / ١٢٠ ج.م', Arabic '<span lang=\"ar\" dir=\"rtl\">سموذي مانجو</span>'\n  * Mango Milkshake: photo {{DATA:IMAGE:IMAGE_5}}, price sticker '135 EGP / ١٣٥ ج.م', Arabic '<span lang=\"ar\" dir=\"rtl\">ميلك شيك مانجو</span>'\n\nCategory 4: Fresh Juices | عصائر فريش\n- Coral colour-block section header (#F2654A) with white text: 'Fresh Juices' & '<span lang=\"ar\" dir=\"rtl\">عصائر فريش</span>'.\n- Compact list of horizontal items in white card shells:\n  * Fresh Orange | برتقال فريش — 70 EGP\n  * Strawberry | فراولة — 85 EGP\n  * Watermelon Mint | بطيخ بالنعناع — 75 EGP\n  * Guava Nectar | جوافة — 80 EGP\n  * Sugarcane Lime | قصب بالليمون — 60 EGP\n  Each list row has a round fresh fruit thumbnail icon/photo, clear bold English name, Arabic name below in muted text, and a neat rotated sticker price badge on the right.\n\nCategory 5: Seasonal | أصناف الموسم\n- Orange colour-block section header (#F7941D) with white text: 'Seasonal' & '<span lang=\"ar\" dir=\"rtl\">أصناف الموسم</span>'.\n- Horizontal scroll cards with a bold 'Seasonal | موسمي' badge:\n  * Card 1: Pomegranate Press | رمان — 105 EGP (with ruby badge and description: 'Cold-pressed Upper Egypt pomegranates')\n  * Card 2: Keitt Last Call mango | مانجو كيت آخر الموسم — 130 EGP (description: 'Late harvest sweet Keitt mango, limited daily batches')\n\n5. FOOTER:\n- Warm cream block (#FFF1D6 or #FFF8E7 with dashed border):\n  * POV Logo mark {{DATA:IMAGE:IMAGE_2}} centered.\n  * Tagline: \"Your Choice. Your Point Of View.\"\n  * Arabic tagline: '<span lang=\"ar\" dir=\"rtl\" class=\"block font-bold text-pov-purple mt-1\">اختيارك ... وجهة نظرك</span>'\n  * Hours: \"Open daily 12 PM – 2 AM · Cairo\"\n  * Pill note: \"Prices in EGP include all taxes • أسعارنا بالجنيه المصري شاملة الضريبة\"\n  * Clear generous padding at bottom. NO bottom nav tab bar.\n\nEnsure stunning visual craft, art-directed playful vibe, rich flat rounded diamonds confetti accents, sticker aesthetics, and clean typography.\n## Available Images\nYou MUST include the following images in this design. You must reference them\nby putting their exact placeholder IDs in `src` attributes or CSS\n`background-image` rules. Do NOT use external URLs or generate new\nplaceholders. Preserve these IDs exactly as written. Read each image's\nDescription to understand its subject, intended section, and visual role.\n\n- {{DATA:IMAGE:IMAGE_2}}\n  Alt Text: POV Logo\n  Description: POV brand logo mark: rounded purple U-shaped cup outline with four rounded diamond mango cubes falling into it (yellow on top, two teal at sides, large orange in middle) with small orange and teal sprinkling dots, alongside bold geometric sans wordmark 'POV' with P in purple, O in mango yellow, and V in teal.. Brand logo. - Primary color: #7243ab\n- Font: rubik\n- Mode: light\n- Roundness: rounded-full\n\n  Dimensions: 512x512\n  Aspect Ratio: 1.00\n  Colors: #17AE9D, #7243AB, #F7941D, #F9CD18\n- {{DATA:IMAGE:IMAGE_4}}\n  Alt Text: Commercial product photography of a premium chilled fresh Egyptian mango juice in a transparent plastic takeaway cup with clear dome lid and straw, filled with thick golden-orange mango purée and topped with fresh cut mango cubes, placed on a soft pastel yellow and cream background with soft natural lighting and subtle studio shadow, ultra clean, high resolution, no text, no logos.\n  Description: Commercial product photography of a premium chilled fresh Egyptian mango juice in a transparent plastic takeaway cup with clear dome lid and straw, filled with thick golden-orange mango purée and topped with fresh cut mango cubes, placed on a soft pastel yellow and cream background with soft natural lighting and subtle studio shadow, ultra clean, high resolution, no text, no logos.\n  Dimensions: 1024x1024\n  Aspect Ratio: 1.00\n- {{DATA:IMAGE:IMAGE_5}}\n  Alt Text: Commercial product photography of a two-toned fresh fruit drink in a clear takeaway cup with dome lid: layered fresh Egyptian mango juice and bright red strawberry purée, condensation droplets, clean warm pastel studio background, high resolution, no text, no logo.\n  Description: Commercial product photography of a two-toned fresh fruit drink in a clear takeaway cup with dome lid: layered fresh Egyptian mango juice and bright red strawberry purée, condensation droplets, clean warm pastel studio background, high resolution, no text, no logo.\n  Dimensions: 1024x1024\n  Aspect Ratio: 1.00\n- {{DATA:IMAGE:IMAGE_6}}\n  Alt Text: Commercial product photography of a clear plastic takeaway cup packed with fresh cut vibrant orange Egyptian mango cubes glistening with natural juice, dome lid, on a warm cream studio background with soft studio light and realistic shadow, high resolution, no text, no watermark, no logo.\n  Description: Commercial product photography of a clear plastic takeaway cup packed with fresh cut vibrant orange Egyptian mango cubes glistening with natural juice, dome lid, on a warm cream studio background with soft studio light and realistic shadow, high resolution, no text, no watermark, no logo.\n  Dimensions: 1024x1024\n  Aspect Ratio: 1.00\n",
+      "screenMetadata": {
+        "agentType": "PRO_AGENT",
+        "status": "COMPLETE"
+      },
+      "screenType": "DESIGN",
+      "screenshot": {
+        "downloadUrl": "https://lh3.googleusercontent.com/aida/AEtjO1WtnYLekp4s9Z5QE6ajPboX0VJWPg9rZce293PabitwI2hG9VBKOcbCZReLLeTDV3xziFnJhIHZV-gOSLNkAv6kaLo9yObP7Yrk_dNdWwunYjNIdPhfaqA0oJFV2EahfRZywcEtfVjXsw4oGhC_89NKw44x6Iva-qAXSReVAZzlqpWxheEjUXv_BcecdBiBfQm27dIQ_DJk-B_MXJjldujE_M-v27xV1cEL8Jjdad5ws4IBgSDx64fwc2L4",
+        "name": "projects/17900647796308208115/files/82944de6321a46288b1f388aa3a6e06c"
+      },
+      "theme": {
+        "bodyFont": "RUBIK",
+        "bodyFontFamily": "Rubik",
+        "colorMode": "LIGHT",
+        "colorVariant": "FIDELITY",
+        "customColor": "#7243ab",
+        "font": "RUBIK",
+        "headlineFont": "RUBIK",
+        "headlineFontFamily": "Rubik",
+        "labelFont": "RUBIK",
+        "labelFontFamily": "Rubik",
+        "namedColors": {
+          "background": "#fff7ff",
+          "error": "#ba1a1a",
+          "error_container": "#ffdad6",
+          "inverse_on_surface": "#f9ecff",
+          "inverse_primary": "#d9b9ff",
+          "inverse_surface": "#3b2752",
+          "on_background": "#25113b",
+          "on_error": "#ffffff",
+          "on_error_container": "#93000a",
+          "on_primary": "#ffffff",
+          "on_primary_container": "#e3caff",
+          "on_primary_fixed": "#2a0054",
+          "on_primary_fixed_variant": "#5c2c94",
+          "on_secondary": "#ffffff",
+          "on_secondary_container": "#6f5900",
+          "on_secondary_fixed": "#231b00",
+          "on_secondary_fixed_variant": "#564500",
+          "on_surface": "#25113b",
+          "on_surface_variant": "#4b4451",
+          "on_tertiary": "#ffffff",
+          "on_tertiary_container": "#ffca9a",
+          "on_tertiary_fixed": "#2d1600",
+          "on_tertiary_fixed_variant": "#6b3b00",
+          "outline": "#7c7482",
+          "outline_variant": "#cdc3d3",
+          "primary": "#592991",
+          "primary_container": "#7243ab",
+          "primary_fixed": "#eedbff",
+          "primary_fixed_dim": "#d9b9ff",
+          "secondary": "#725c00",
+          "secondary_container": "#fcd01d",
+          "secondary_fixed": "#ffe07f",
+          "secondary_fixed_dim": "#edc200",
+          "surface": "#fff7ff",
+          "surface_bright": "#fff7ff",
+          "surface_container": "#f7e9ff",
+          "surface_container_high": "#f3e2ff",
+          "surface_container_highest": "#efdbff",
+          "surface_container_low": "#fbf0ff",
+          "surface_container_lowest": "#ffffff",
+          "surface_dim": "#e9d1ff",
+          "surface_tint": "#7546ae",
+          "surface_variant": "#efdbff",
+          "tertiary": "#673900",
+          "tertiary_container": "#884d00",
+          "tertiary_fixed": "#ffdcbf",
+          "tertiary_fixed_dim": "#ffb874"
+        },
+        "overrideNeutralColor": "#2a1640",
+        "overridePrimaryColor": "#7243ab",
+        "overrideSecondaryColor": "#f9cd18",
+        "overrideTertiaryColor": "#f7941d",
+        "roundness": "ROUND_FULL",
+        "spacing": {
+          "gutter": "1rem",
+          "margin": "1.25rem",
+          "space-lg": "1.5rem",
+          "space-md": "1rem",
+          "space-sm": "0.5rem",
+          "space-xl": "2rem",
+          "space-xs": "0.25rem"
+        },
+        "spacingScale": 2,
+        "typography": {
+          "body-lg": {
+            "fontFamily": "Rubik",
+            "fontSize": "17px",
+            "fontWeight": "400",
+            "lineHeight": "24px"
+          },
+          "body-md": {
+            "fontFamily": "Rubik",
+            "fontSize": "15px",
+            "fontWeight": "400",
+            "lineHeight": "22px"
+          },
+          "body-sm": {
+            "fontFamily": "Rubik",
+            "fontSize": "13px",
+            "fontWeight": "400",
+            "lineHeight": "18px"
+          },
+          "display-hero": {
+            "fontFamily": "Rubik",
+            "fontSize": "40px",
+            "fontWeight": "800",
+            "letterSpacing": "-0.02em",
+            "lineHeight": "44px"
+          },
+          "headline-lg": {
+            "fontFamily": "Rubik",
+            "fontSize": "30px",
+            "fontWeight": "700",
+            "letterSpacing": "-0.01em",
+            "lineHeight": "36px"
+          },
+          "headline-md": {
+            "fontFamily": "Rubik",
+            "fontSize": "24px",
+            "fontWeight": "700",
+            "lineHeight": "30px"
+          },
+          "headline-sm": {
+            "fontFamily": "Rubik",
+            "fontSize": "20px",
+            "fontWeight": "600",
+            "lineHeight": "26px"
+          },
+          "label-lg": {
+            "fontFamily": "Rubik",
+            "fontSize": "15px",
+            "fontWeight": "700",
+            "letterSpacing": "0.01em",
+            "lineHeight": "18px"
+          },
+          "label-md": {
+            "fontFamily": "Rubik",
+            "fontSize": "13px",
+            "fontWeight": "700",
+            "lineHeight": "16px"
+          },
+          "label-sm": {
+            "fontFamily": "Rubik",
+            "fontSize": "11px",
+            "fontWeight": "800",
+            "letterSpacing": "0.04em",
+            "lineHeight": "14px"
+          },
+          "price-tag": {
+            "fontFamily": "Rubik",
+            "fontSize": "18px",
+            "fontWeight": "900",
+            "lineHeight": "20px"
+          }
+        }
+      },
+      "title": "01 Menu - CUBE DROP (POV Mango)",
+      "width": "780",
+      "images": [
+        {
+          "generatedBy": "interactive_ui_controller",
+          "height": "512",
+          "htmlCode": {
+            "downloadUrl": "https://contribution.usercontent.google.com/download?c=CgthaWRhX2NvZGVmeBJ8Eh1hcHBfY29tcGFuaW9uX2dlbmVyYXRlZF9maWxlcxpbCiVodG1sX2JiNmIyZjM5YzQ1ZDQ5MjI4MGNiYmEyMmNjMTk4NzIyEgsSBxCu-qfdvhIYAZIBJAoKcHJvamVjdF9pZBIWQhQxNzkwMDY0Nzc5NjMwODIwODExNQ&filename=&opi=96797242",
+            "mimeType": "image/svg+xml",
+            "name": "projects/17900647796308208115/files/15a80d4cf06644b7b4e00c369200ed21"
+          },
+          "id": "bbd9dd02c1194f4198a080c308f3100c",
+          "name": "projects/17900647796308208115/screens/bbd9dd02c1194f4198a080c308f3100c",
+          "prompt": "POV brand logo mark: rounded purple U-shaped cup outline with four rounded diamond mango cubes falling into it (yellow on top, two teal at sides, large orange in middle) with small orange and teal sprinkling dots, alongside bold geometric sans wordmark 'POV' with P in purple, O in mango yellow, and V in teal.. Brand logo. - Primary color: #7243ab\n- Font: rubik\n- Mode: light\n- Roundness: rounded-full\n",
+          "screenMetadata": {
+            "agentType": "PRO_AGENT",
+            "displayMode": "SVG",
+            "status": "COMPLETE"
+          },
+          "screenType": "IMAGE",
+          "screenshot": {
+            "downloadUrl": "https://lh3.googleusercontent.com/aida/AEtjO1UdNgOUaRqVJm9vpikvhfkBsnPQngnb_W6KzdXEAEQW9igt2TQF5JoTKA9r5b4HA-Os25D06eDOa5cD5rGHQe7EbhLZ0kauCvuHpcoHBFMIH1VPdqYnEyu-8L-vxW7_FPa0zDkaizBWI490PBoVwYT0b0hCgismGaJwJzRO7VhX3P4cA0q4vq2qx0dOE30paBNEZFOWOgM4kHiHI-zF7JtRBq8RWj4n-DF6IQ027s-S40IZd6nZxrdIRZkd",
+            "name": "projects/17900647796308208115/files/cc279277e6f3423a995148dd0dfa1848"
+          },
+          "theme": {},
+          "title": "POV Logo",
+          "width": "512",
+          "imageUrl": "https://lh3.googleusercontent.com/aida/AEtjO1UdNgOUaRqVJm9vpikvhfkBsnPQngnb_W6KzdXEAEQW9igt2TQF5JoTKA9r5b4HA-Os25D06eDOa5cD5rGHQe7EbhLZ0kauCvuHpcoHBFMIH1VPdqYnEyu-8L-vxW7_FPa0zDkaizBWI490PBoVwYT0b0hCgismGaJwJzRO7VhX3P4cA0q4vq2qx0dOE30paBNEZFOWOgM4kHiHI-zF7JtRBq8RWj4n-DF6IQ027s-S40IZd6nZxrdIRZkd"
+        },
+        {
+          "generatedBy": "interactive_ui_controller",
+          "height": "1024",
+          "id": "7907b6954aa74905b5932f640278885f",
+          "name": "projects/17900647796308208115/screens/7907b6954aa74905b5932f640278885f",
+          "prompt": "Commercial product photography of a premium chilled fresh Egyptian mango juice in a transparent plastic takeaway cup with clear dome lid and straw, filled with thick golden-orange mango purée and topped with fresh cut mango cubes, placed on a soft pastel yellow and cream background with soft natural lighting and subtle studio shadow, ultra clean, high resolution, no text, no logos.",
+          "screenMetadata": {
+            "agentType": "PRO_AGENT",
+            "status": "COMPLETE"
+          },
+          "screenType": "IMAGE",
+          "screenshot": {
+            "downloadUrl": "https://lh3.googleusercontent.com/aida/AEtjO1U6EMl1NE2TXTi5YZY080GzpsvbVgew8Sg0osVIg2eByZHR94hoE1ADKbbCYMGjbQpu8-KTOZtzXCqluad2rfK_yFSH3aufKa0rAaN6_2hEjNIxpAb1QN510q3ykghMEaHnrsdKgmw0geefIS1ccUrnPfbJNZPHjl65QCaDmMPjUnbKOqistK7ChqRqODxJnQoM9-ZEONqZynRf1P4jKRU-d3H9vgdgiJhGE_SW34AhHUIdmiM_eIanUTE",
+            "name": "projects/17900647796308208115/files/cc16ec8d23674a3dbc65f0e6a0da1a40"
+          },
+          "theme": {},
+          "title": "Commercial product photography of a premium chilled fresh Egyptian mango juice in a transparent plastic takeaway cup with clear dome lid and straw, filled with thick golden-orange mango purée and topped with fresh cut mango cubes, placed on a soft pastel yellow and cream background with soft natural lighting and subtle studio shadow, ultra clean, high resolution, no text, no logos.",
+          "width": "1024",
+          "imageUrl": "https://lh3.googleusercontent.com/aida/AEtjO1U6EMl1NE2TXTi5YZY080GzpsvbVgew8Sg0osVIg2eByZHR94hoE1ADKbbCYMGjbQpu8-KTOZtzXCqluad2rfK_yFSH3aufKa0rAaN6_2hEjNIxpAb1QN510q3ykghMEaHnrsdKgmw0geefIS1ccUrnPfbJNZPHjl65QCaDmMPjUnbKOqistK7ChqRqODxJnQoM9-ZEONqZynRf1P4jKRU-d3H9vgdgiJhGE_SW34AhHUIdmiM_eIanUTE"
+        },
+        {
+          "generatedBy": "interactive_ui_controller",
+          "height": "1024",
+          "id": "a6a731365b9343ecaadac0c72f43c7b0",
+          "name": "projects/17900647796308208115/screens/a6a731365b9343ecaadac0c72f43c7b0",
+          "prompt": "Commercial product photography of a clear plastic takeaway cup packed with fresh cut vibrant orange Egyptian mango cubes glistening with natural juice, dome lid, on a warm cream studio background with soft studio light and realistic shadow, high resolution, no text, no watermark, no logo.",
+          "screenMetadata": {
+            "agentType": "PRO_AGENT",
+            "status": "COMPLETE"
+          },
+          "screenType": "IMAGE",
+          "screenshot": {
+            "downloadUrl": "https://lh3.googleusercontent.com/aida/AEtjO1X15Ww8Vb2lFqgMnUT9qkomTNU2HmtgWmpZLH3SU-xqfKZ0EfJfDTmTSD4pJDLoSd1JWywdPUd35KUvxeIzyTrivVcWksbNncDFLCnwkvwb5Z-CRp1rpPjjh_4Vy6QT6e_GvFI2MS_bta277zvjXFX6doFhEXr5VE25fQyDlD3JehjTdS-5TvOkcgW4mOA5GiSoXGxGbjzbzORuNKRcSgZ-mIJvwyEe_m_KFieLIevp1PPcnPB9Qj5yQpyT",
+            "name": "projects/17900647796308208115/files/cc635057fba34915910563df0358fb44"
+          },
+          "theme": {},
+          "title": "Commercial product photography of a clear plastic takeaway cup packed with fresh cut vibrant orange Egyptian mango cubes glistening with natural juice, dome lid, on a warm cream studio background with soft studio light and realistic shadow, high resolution, no text, no watermark, no logo.",
+          "width": "1024",
+          "imageUrl": "https://lh3.googleusercontent.com/aida/AEtjO1X15Ww8Vb2lFqgMnUT9qkomTNU2HmtgWmpZLH3SU-xqfKZ0EfJfDTmTSD4pJDLoSd1JWywdPUd35KUvxeIzyTrivVcWksbNncDFLCnwkvwb5Z-CRp1rpPjjh_4Vy6QT6e_GvFI2MS_bta277zvjXFX6doFhEXr5VE25fQyDlD3JehjTdS-5TvOkcgW4mOA5GiSoXGxGbjzbzORuNKRcSgZ-mIJvwyEe_m_KFieLIevp1PPcnPB9Qj5yQpyT"
+        },
+        {
+          "generatedBy": "interactive_ui_controller",
+          "height": "1024",
+          "id": "7eb5597675e14e17926951843390e19c",
+          "name": "projects/17900647796308208115/screens/7eb5597675e14e17926951843390e19c",
+          "prompt": "Commercial product photography of a two-toned fresh fruit drink in a clear takeaway cup with dome lid: layered fresh Egyptian mango juice and bright red strawberry purée, condensation droplets, clean warm pastel studio background, high resolution, no text, no logo.",
+          "screenMetadata": {
+            "agentType": "PRO_AGENT",
+            "status": "COMPLETE"
+          },
+          "screenType": "IMAGE",
+          "screenshot": {
+            "downloadUrl": "https://lh3.googleusercontent.com/aida/AEtjO1VlmvKRfQOU5I9bTpdYlWVBSVvS97kxKEOHFaoRnF05WeSfpy_tXLH8qPGDh3KueqiOrYZd1wyx80OJQECXkR1Uez4rs8Bea-uEYdE7obDtbwgGppNgGAEvXRcZAU_9Brq9uZEbV-nAcgs-Bc1FdkFnEfKOlwMs8-pYVx-ESrzBv1ohdsU1xA8ZW0Zgs4i0H6OblUoC8ArBLieROu56wKzfAdwpnsAmzTDFCfRxSRdbN6urP0S0fvqtYCEw",
+            "name": "projects/17900647796308208115/files/82febf06c49041ecbbfe1d69b9978bb0"
+          },
+          "theme": {},
+          "title": "Commercial product photography of a two-toned fresh fruit drink in a clear takeaway cup with dome lid: layered fresh Egyptian mango juice and bright red strawberry purée, condensation droplets, clean warm pastel studio background, high resolution, no text, no logo.",
+          "width": "1024",
+          "imageUrl": "https://lh3.googleusercontent.com/aida/AEtjO1VlmvKRfQOU5I9bTpdYlWVBSVvS97kxKEOHFaoRnF05WeSfpy_tXLH8qPGDh3KueqiOrYZd1wyx80OJQECXkR1Uez4rs8Bea-uEYdE7obDtbwgGppNgGAEvXRcZAU_9Brq9uZEbV-nAcgs-Bc1FdkFnEfKOlwMs8-pYVx-ESrzBv1ohdsU1xA8ZW0Zgs4i0H6OblUoC8ArBLieROu56wKzfAdwpnsAmzTDFCfRxSRdbN6urP0S0fvqtYCEw"
+        }
+      ],
+      "agentText": "I have designed and generated **Screen 01: Menu — Concept A \"CUBE DROP\"** for **POV (بوف)**, Cairo's fresh mango-first juice shop, following the playful, bold, and art-directed **\"Mango Pop\"** creative identity.\n\n### Key Design Highlights:\n1. **Brand & Identity (\"Mango Pop\")**:\n   - Custom SVG vector logo rendered directly with the signature U-shaped purple cup, tumbling rounded diamond \"mango cubes\" (yellow, teal, orange), and geometric wordmark with tricolor letters (`P` in purple, `O` in mango yellow, `V` in teal).\n   - Rich brand color palette: POV Purple (`#7243AB`), Mango Yellow (`#F9CD18`), Mango Orange (`#F7941D`), Teal (`#17AE9D`), and Coral (`#F2654A`) on a warm cream canvas (`#FFF8E7`).\n\n2. **Hero Section (\"CUBE DROP\")**:\n   - Deep mango yellow block with generous rounded bottom edges (`rounded-b-[40px]`).\n   - Huge tight typography in **Readex Pro 800**: *\"Pick your POV.\"*, paired seamlessly with the Arabic tagline *\"اختيارك ... وجهة نظرك\"* (`lang=\"ar\" dir=\"rtl\"`), and a teal badge (*\"Fresh Egyptian mangoes, cut daily\"*).\n   - Signature commercial product photography of the chilled POV Mango takeaway cup with flat rounded diamond cubes and confetti dots dynamically falling into the cup.\n\n3. **Sticky Category Filter Pills**:\n   - Chunky pill chips for smooth in-store browsing across all 5 sections, with the active *\"Mango Signatures • مانجو بوف المميزة\"* highlighted in POV Purple.\n\n4. **All 5 Menu Categories with Complete Bilingual Copy & Sticker Pricing**:\n   - **Mango Signatures** (Purple header block): 2-column white card grid featuring *POV Mango* (with coral *\"Best seller | الأكثر طلبًا\"* sticker), *POV Classic*, *Mango x Strawberry*, *Mango Passion*, and the full-width spotlight on *POV Cocktail*. All prices feature tilted sticker-style badges with dual Latin & Arabic currency (`EGP` / `ج.م`).\n   - **Fresh Cubes** (Yellow header block): Featured wide card showcasing the glistening *Mango Cubes cup* (85 EGP) with cutout framing and a *\"100% Egyptian Mango • No Sugar\"* pill.\n   - **Smoothies & Shakes** (Teal header block): Dual cards for *Mango Smoothie* (120 EGP) and *Mango Milkshake* (135 EGP).\n   - **Fresh Juices** (Coral header block): Clean compact list view with circular fruit thumbnails and sticker prices (*Fresh Orange*, *Strawberry*, *Watermelon Mint*, *Guava Nectar*, *Sugarcane Lime*).\n   - **Seasonal** (Orange header block): Horizontal scroll featuring limited-batch *Pomegranate Press* (105 EGP) and *Keitt Last Call mango* (130 EGP).\n\n5. **Warm Brand Footer**:\n   - Centered POV logo, brand taglines, operating hours (*Open daily 12 PM – 2 AM · Cairo*), tax-inclusive badge, and generous breathing room. Zero checkout/cart friction and no tab bar, tailored strictly for QR scanning at the counter.",
+      "suggestions": [
+        "Create Concept B with an alternate hero or layout arrangement",
+        "Generate an interactive drink detail modal when an item is tapped",
+        "Create the Arabic-first RTL layout variation of the menu"
+      ],
+      "imageUrl": "https://lh3.googleusercontent.com/aida/AEtjO1WtnYLekp4s9Z5QE6ajPboX0VJWPg9rZce293PabitwI2hG9VBKOcbCZReLLeTDV3xziFnJhIHZV-gOSLNkAv6kaLo9yObP7Yrk_dNdWwunYjNIdPhfaqA0oJFV2EahfRZywcEtfVjXsw4oGhC_89NKw44x6Iva-qAXSReVAZzlqpWxheEjUXv_BcecdBiBfQm27dIQ_DJk-B_MXJjldujE_M-v27xV1cEL8Jjdad5ws4IBgSDx64fwc2L4"
+    }
+  }
+}

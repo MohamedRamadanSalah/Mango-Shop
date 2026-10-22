@@ -1,0 +1,1008 @@
+{
+  "success": true,
+  "data": {
+    "resource": "screen",
+    "id": "75d805ec60ed427cbab8fdff2f1f7fbc",
+    "project": "16234525681964602718",
+    "title": "POV - Home Screen",
+    "device": "MOBILE",
+    "screenType": "DESIGN",
+    "canvasUrl": "https://stitch.google.com/projects/16234525681964602718?node-id=75d805ec60ed427cbab8fdff2f1f7fbc",
+    "imageUrl": "https://lh3.googleusercontent.com/aida/AEtjO1X_RrI6yK4scnRy5nDGRxx-g4SyMJQePzK_y0tCBswiDwNKNs0mmwvTkpidWMZ-lVk6KDKuwOlgnA8fIE7uGeY43zEq45wVVat23y9dcQhFFnjtbwG1sihixhPUA__mz5L2u8_9nd35oOTrqfvIbsTBXSvoZZoMJZL73p2jrvmr5u8JklO8nFtbrIT1Lx5RhOmu04YBMnckUJXettznP8FhRbPt08XgvT1lAYrIzBEmBQAeKKi0e2OlCfMv",
+    "htmlCode": {
+      "downloadUrl": "https://contribution.usercontent.google.com/download?c=CgthaWRhX2NvZGVmeBJ8Eh1hcHBfY29tcGFuaW9uX2dlbmVyYXRlZF9maWxlcxpbCiVodG1sXzM4NTczZTZjODA0YzQyMTM5ZGE3OTgzZTMxOTg0ZTRkEgsSBxCu-qfdvhIYAZIBJAoKcHJvamVjdF9pZBIWQhQxNjIzNDUyNTY4MTk2NDYwMjcxOA&filename=&opi=96797242",
+      "mimeType": "text/html",
+      "name": "projects/16234525681964602718/files/f6ded3fbf23b485097938206053def39"
+    },
+    "images": [
+      {
+        "generatedBy": "interactive_ui_controller",
+        "height": "896",
+        "id": "22e4da87174141f582139dca6c846888",
+        "name": "projects/16234525681964602718/screens/22e4da87174141f582139dca6c846888",
+        "prompt": "Commercial studio product photography: a single clear PET plastic cup with a transparent dome lid and a white straw, full of thick golden rich fresh Egyptian mango juice, standing on a seamless warm butter-yellow backdrop (#FEE3A0). Soft natural daylight from the left, gentle soft shadow cast on the surface. Sliced juicy ripe mango halves showing rich orange-yellow flesh neatly arranged beside the cup. Crisp condensation water droplets on the clear cup. Clean, minimalist studio setup, shot at 85mm lens, shallow depth of field, sharp focus, photorealistic, no text, no logos, no labels, 8k resolution.",
+        "screenMetadata": {
+          "agentType": "PRO_AGENT",
+          "status": "COMPLETE"
+        },
+        "screenType": "IMAGE",
+        "screenshot": {
+          "downloadUrl": "https://lh3.googleusercontent.com/aida/AEtjO1Xx8r69r6gKt4rBIi-6mjwty7LxyVXdGyoMQhZv_X6qVaPjQMq9rn7RyMW_rtHI5hlgsQ5mN1QP77cSMGDUAMcrIinp3svCLhxwRSquKUBMUC4p-unOtDzjJI7K6noBIeAFukzmex8qf98GeKMlF6y4MihTLXY6YQn4NhoilngYa1E3B-zunbSTYjKy-q0x8ZjOW05s4VeaiMo4S0j1D8tiB4RpPhrLrjgXHgtCdh9EGy4WkbRjjeqMl_8L",
+          "name": "projects/16234525681964602718/files/4eececbcdf2b41c5a4dd17f316f7b611"
+        },
+        "theme": {},
+        "title": "Commercial studio product photography: a single clear PET plastic cup with a transparent dome lid and a white straw, full of thick golden rich fresh Egyptian mango juice, standing on a seamless warm butter-yellow backdrop (#FEE3A0). Soft natural daylight from the left, gentle soft shadow cast on the surface. Sliced juicy ripe mango halves showing rich orange-yellow flesh neatly arranged beside the cup. Crisp condensation water droplets on the clear cup. Clean, minimalist studio setup, shot at 85mm lens, shallow depth of field, sharp focus, photorealistic, no text, no logos, no labels, 8k resolution.",
+        "width": "1200",
+        "imageUrl": "https://lh3.googleusercontent.com/aida/AEtjO1Xx8r69r6gKt4rBIi-6mjwty7LxyVXdGyoMQhZv_X6qVaPjQMq9rn7RyMW_rtHI5hlgsQ5mN1QP77cSMGDUAMcrIinp3svCLhxwRSquKUBMUC4p-unOtDzjJI7K6noBIeAFukzmex8qf98GeKMlF6y4MihTLXY6YQn4NhoilngYa1E3B-zunbSTYjKy-q0x8ZjOW05s4VeaiMo4S0j1D8tiB4RpPhrLrjgXHgtCdh9EGy4WkbRjjeqMl_8L"
+      }
+    ],
+    "rawScreen": {
+      "outputComponents": [
+        {
+          "designSystem": {
+            "designSystem": {
+              "displayName": "Color Study Editorial",
+              "styleGuidelines": "## Brand & Style\n\nThe design system embodies an editorial, gallery-grade aesthetic tailored for a high-end, fresh mango-first juice bar rooted in Cairo. Merging the restrained architectural discipline of Apple with the warm, apothecary intimacy of Aesop, the system positions artisanal fruit blending as a sensory craft and modern culinary ritual.\n\nThe visual tone is defined by vast, deliberate whitespace, structured hairline framing, and museum-like focus on hyper-realistic studio product photography. The UI avoids traditional quick-service eatery tropes—no garish splash graphics, busy badges, or loud promotional ribbons. Instead, it invites the user into a contemplative, sensory space where juice blends are cataloged like seasonal botanical vintages. Tactile sophistication, whisper-quiet micro-interactions, and pristine editorial balance evoke effortless luxury and pure ingredient integrity.\n\n## Layout & Spacing\n\nThe layout is built upon an architectural grid with deliberate, asymmetrical breathing room.\n\n- **Grid Architecture:** \n  - Mobile (390px base): 4-column fluid grid, 20px outer margin (`margin: 1.25rem`), 16px column gutter (`gutter: 1rem`).\n  - Tablet (768px): 8-column grid, 32px outer margin, 24px gutter.\n  - Desktop (1200px+): 12-column grid max-width container (1280px), 48px outer margin (`margin-desktop: 3rem`), 32px column gutter (`gutter-desktop: 2rem`).\n- **Whitespace Philosophy:** Spacing favors generous vertical stacking (`space-xl` and above) between curated product studies, creating an intentional pace that resists hurried scrolling. Product images bleed to edge or sit flush against hairline grid columns like an art catalogue.\n- **Rhythm & Structure:** Thin dividing rules (`#E5DED2`) delineate sections, accompanied by strict alignment of micro-label metadata to the left grid boundary and pricing/actions to the right.\n\n## Elevation & Depth\n\nVisual hierarchy is communicated through planar layering, hairline framing, and ambient, barely perceptible shadows, eschewing heavy 3D skeuomorphism or artificial elevation.\n\n- **Planar Stacking:** Surfaces advance using tinted grounding (`#FAF8F4` base against `#F3EFE8` inset panels or floating checkout drawers).\n- **Hairlines as Spatial Anchors:** All elevated elements (modals, sheets, sticky order bars) are outlined with a crisp 1px border of `#E5DED2`.\n- **Atmospheric Ambient Shadows:** When an element floats over imagery or content (e.g., sticky bag summary, bespoke modal sheets), it employs a wide, diffuse shadow: `box-shadow: 0 16px 40px -12px rgba(43, 22, 56, 0.06)`. The aubergine undertone in the shadow prevents dirty gray casts and keeps the light warm and natural.\n\n## Components\n\n### Buttons\n- **Primary Action:** Deep aubergine `#2B1638` background, warm white `#FAF8F4` text, 4px border radius, 48px mobile touch height. Zero heavy drop-shadows; hover state shifts subtly to brand purple `#7243AB`.\n- **Secondary / Ghost:** 1px hairline border `#E5DED2`, transparent background, `#2B1638` text. Hover transitions to `#F3EFE8` fill.\n- **Expressive Accent Button:** POV purple `#7243AB` solid background used exclusively for seasonal releases or primary conversion funnels.\n\n### Chips & Flavor Selectors\n- Pill-shaped or subtle 4px rounded rectangles. Default: `#FAF8F4` surface with 1px `#E5DED2` border and `#2B1638` body text.\n- Selected State: Outlined in `#7243AB` with a delicate 10% purple tint fill, or marked with a micro dot indicator in teal `#17AE9D` or yellow `#F9CD18` denoting flavor notes.\n\n### Cards & Editorial Vignettes\n- Structured around a tall 4:5 or 3:4 aspect ratio studio image of bottled nectar or fresh fruit compositions on neutral stone backgrounds.\n- Enclosed with 1px `#E5DED2` perimeter line or left unbordered with strict typographic alignment below.\n- Metadata layout: Uppercase tracking category label above, large serif item title, tasting notes in italic serif, and price aligned flush right.\n\n### Input Fields\n- Understated baseline or full-box with 1px `#E5DED2` border, `#FAF8F4` fill, and generous vertical padding (14px).\n- Focus State: Replaces border with `#7243AB` hairline without glowing outer rings. Placeholder text in `#9B8C9F`.\n\n### Checkboxes & Radio Selectors\n- Minimalist 18px squares/circles with 1px `#E5DED2` borders.\n- Checked State: Deep aubergine `#2B1638` fill with an ultra-thin white checkmark or inner dot.\n\n### Lists & Ingredient Breakdowns\n- Hairline horizontal dividers (`#E5DED2`) spanning edge-to-edge.\n- Left-aligned typographic label paired with right-aligned numeric measures (brix level, pulp ratio, origin) in micro-spaced uppercase sans-serif.\n\n### Sticky Bottom Bar (Mobile 390px)\n- Anchored to bottom with safe-area padding. Translucent `#FAF8F4` background with `backdrop-filter: blur(16px)` and a 1px top border in `#E5DED2`.\n- Houses order volume indicator, subtotal in deep aubergine, and full-width or side-car primary action button.",
+              "theme": {
+                "bodyFont": "INTER",
+                "bodyFontFamily": "Inter",
+                "colorMode": "LIGHT",
+                "colorVariant": "FIDELITY",
+                "customColor": "#7243ab",
+                "designMd": "---\nname: Color Study Editorial\ncolors:\n  surface: '#fff7fc'\n  surface-dim: '#eecffc'\n  surface-bright: '#fff7fc'\n  surface-container-lowest: '#ffffff'\n  surface-container-low: '#fdefff'\n  surface-container: '#fae8ff'\n  surface-container-high: '#f7e1ff'\n  surface-container-highest: '#f4d9ff'\n  on-surface: '#271234'\n  on-surface-variant: '#4b4451'\n  inverse-surface: '#3d284a'\n  inverse-on-surface: '#fcecff'\n  outline: '#7c7482'\n  outline-variant: '#cdc3d3'\n  surface-tint: '#7546ae'\n  primary: '#592991'\n  on-primary: '#ffffff'\n  primary-container: '#7243ab'\n  on-primary-container: '#e3caff'\n  inverse-primary: '#d9b9ff'\n  secondary: '#725c00'\n  on-secondary: '#ffffff'\n  secondary-container: '#fcd01d'\n  on-secondary-container: '#6f5900'\n  tertiary: '#004d44'\n  on-tertiary: '#ffffff'\n  tertiary-container: '#00675c'\n  on-tertiary-container: '#68e8d5'\n  error: '#ba1a1a'\n  on-error: '#ffffff'\n  error-container: '#ffdad6'\n  on-error-container: '#93000a'\n  primary-fixed: '#eedbff'\n  primary-fixed-dim: '#d9b9ff'\n  on-primary-fixed: '#2a0054'\n  on-primary-fixed-variant: '#5c2c94'\n  secondary-fixed: '#ffe07f'\n  secondary-fixed-dim: '#edc200'\n  on-secondary-fixed: '#231b00'\n  on-secondary-fixed-variant: '#564500'\n  tertiary-fixed: '#79f7e4'\n  tertiary-fixed-dim: '#59dac8'\n  on-tertiary-fixed: '#00201c'\n  on-tertiary-fixed-variant: '#005048'\n  background: '#fff7fc'\n  on-background: '#271234'\n  surface-variant: '#f4d9ff'\ntypography:\n  display-lg:\n    fontFamily: Newsreader\n    fontSize: 52px\n    fontWeight: '400'\n    lineHeight: 58px\n    letterSpacing: -0.02em\n  display-lg-mobile:\n    fontFamily: Newsreader\n    fontSize: 38px\n    fontWeight: '400'\n    lineHeight: 44px\n    letterSpacing: -0.015em\n  headline-lg:\n    fontFamily: Newsreader\n    fontSize: 36px\n    fontWeight: '400'\n    lineHeight: 42px\n    letterSpacing: -0.01em\n  headline-lg-mobile:\n    fontFamily: Newsreader\n    fontSize: 28px\n    fontWeight: '400'\n    lineHeight: 34px\n    letterSpacing: -0.01em\n  headline-md:\n    fontFamily: Newsreader\n    fontSize: 24px\n    fontWeight: '400'\n    lineHeight: 30px\n    letterSpacing: -0.005em\n  headline-sm:\n    fontFamily: Newsreader\n    fontSize: 20px\n    fontWeight: '400'\n    lineHeight: 26px\n    letterSpacing: 0em\n  body-lg:\n    fontFamily: Inter\n    fontSize: 16px\n    fontWeight: '400'\n    lineHeight: 26px\n    letterSpacing: -0.01em\n  body-md:\n    fontFamily: Inter\n    fontSize: 14px\n    fontWeight: '400'\n    lineHeight: 22px\n    letterSpacing: 0em\n  body-sm:\n    fontFamily: Inter\n    fontSize: 12px\n    fontWeight: '400'\n    lineHeight: 18px\n    letterSpacing: 0.01em\n  label-lg:\n    fontFamily: Inter\n    fontSize: 13px\n    fontWeight: '600'\n    lineHeight: 16px\n    letterSpacing: 0.08em\n  label-md:\n    fontFamily: Inter\n    fontSize: 11px\n    fontWeight: '500'\n    lineHeight: 14px\n    letterSpacing: 0.1em\n  label-sm:\n    fontFamily: Inter\n    fontSize: 10px\n    fontWeight: '600'\n    lineHeight: 12px\n    letterSpacing: 0.12em\nrounded:\n  sm: 0.125rem\n  DEFAULT: 0.25rem\n  md: 0.375rem\n  lg: 0.5rem\n  xl: 0.75rem\n  full: 9999px\nspacing:\n  gutter: 1rem\n  gutter-desktop: 2rem\n  margin: 1.25rem\n  margin-desktop: 3rem\n  space-xs: 0.25rem\n  space-sm: 0.5rem\n  space-md: 1rem\n  space-lg: 1.5rem\n  space-xl: 2.5rem\n---\n\n## Brand & Style\n\nThe design system embodies an editorial, gallery-grade aesthetic tailored for a high-end, fresh mango-first juice bar rooted in Cairo. Merging the restrained architectural discipline of Apple with the warm, apothecary intimacy of Aesop, the system positions artisanal fruit blending as a sensory craft and modern culinary ritual.\n\nThe visual tone is defined by vast, deliberate whitespace, structured hairline framing, and museum-like focus on hyper-realistic studio product photography. The UI avoids traditional quick-service eatery tropes—no garish splash graphics, busy badges, or loud promotional ribbons. Instead, it invites the user into a contemplative, sensory space where juice blends are cataloged like seasonal botanical vintages. Tactile sophistication, whisper-quiet micro-interactions, and pristine editorial balance evoke effortless luxury and pure ingredient integrity.\n\n## Colors\n\nThe palette is anchored in warm, sunlit organic neutrals, contrasted with deep, sculptural aubergine ink, and punctuated by precise, restrained chromatic signals.\n\n- **Background & Canvas:** `#FAF8F4` acts as the warm white foundation across all viewports. Secondary surfaces, such as subtle product panels or card insets, use an ultra-soft tint `#F3EFE8`.\n- **Text & Structure:** Deep aubergine `#2B1638` serves as the primary text, icon, and prominent structural element, imparting far greater richness and depth than flat neutral black. Secondary supporting text softens into `#6E5D77`, and subtle metadata into `#9B8C9F`.\n- **Hairline Dividers & Outlines:** `#E5DED2` forms delicate 1px borders that organize editorial grids without adding visual heaviness.\n- **Brand Accents:**\n  - **Primary Purple (`#7243AB`):** Used sparingly for key transactional triggers, active tabs, and refined focal moments.\n  - **Mango Yellow (`#F9CD18`):** Evokes sun-drenched Egyptian mango harvest, applied to selected botanical tags, highlights, and subtle rating accents.\n  - **Teal (`#17AE9D`):** Evokes refreshing vitality, reserved for cold-pressed identifiers and secondary nutritional badges.\n  - **Status:** Success `#17AE9D`, Warning `#F9CD18`, Error `#B83A4B`.\n\n## Typography\n\nThe typography pairs an authoritative, high-elegance editorial serif for display scales with a calibrated, modern grotesque sans-serif for UI clarity and informational rigor.\n\n- **Headlines & Editorial Titles:** Set in large, sentence-case serif with soft, natural phrasing. Refined italic variants should be used selectively for signature words, seasonal origins (e.g., *Ismailia*, *Alphonso*), or tasting notes to introduce rhythm and artisanal warmth.\n- **Body & Editorial Narratives:** Clean, uncluttered, set in deep aubergine at comfortable reading measures to convey provenance and craftsmanship.\n- **Micro-Labels & UI Indicators:** Set strictly in uppercase sans-serif with expanded tracking (`0.08em` to `0.12em`) and medium/semibold weight. This creates an apothecary-like cataloging hierarchy across price tags, origin stamps, and nutrition manifests.\n\n## Layout & Spacing\n\nThe layout is built upon an architectural grid with deliberate, asymmetrical breathing room.\n\n- **Grid Architecture:** \n  - Mobile (390px base): 4-column fluid grid, 20px outer margin (`margin: 1.25rem`), 16px column gutter (`gutter: 1rem`).\n  - Tablet (768px): 8-column grid, 32px outer margin, 24px gutter.\n  - Desktop (1200px+): 12-column grid max-width container (1280px), 48px outer margin (`margin-desktop: 3rem`), 32px column gutter (`gutter-desktop: 2rem`).\n- **Whitespace Philosophy:** Spacing favors generous vertical stacking (`space-xl` and above) between curated product studies, creating an intentional pace that resists hurried scrolling. Product images bleed to edge or sit flush against hairline grid columns like an art catalogue.\n- **Rhythm & Structure:** Thin dividing rules (`#E5DED2`) delineate sections, accompanied by strict alignment of micro-label metadata to the left grid boundary and pricing/actions to the right.\n\n## Elevation & Depth\n\nVisual hierarchy is communicated through planar layering, hairline framing, and ambient, barely perceptible shadows, eschewing heavy 3D skeuomorphism or artificial elevation.\n\n- **Planar Stacking:** Surfaces advance using tinted grounding (`#FAF8F4` base against `#F3EFE8` inset panels or floating checkout drawers).\n- **Hairlines as Spatial Anchors:** All elevated elements (modals, sheets, sticky order bars) are outlined with a crisp 1px border of `#E5DED2`.\n- **Atmospheric Ambient Shadows:** When an element floats over imagery or content (e.g., sticky bag summary, bespoke modal sheets), it employs a wide, diffuse shadow: `box-shadow: 0 16px 40px -12px rgba(43, 22, 56, 0.06)`. The aubergine undertone in the shadow prevents dirty gray casts and keeps the light warm and natural.\n\n## Shapes\n\nThe design language uses soft, measured curvature (`roundedness: 1`), conveying clean architectural precision rather than toy-like roundness.\n\n- **Interactive Controls & Inputs:** Base radius of `0.25rem` (4px) ensures crisp corners that maintain alignment with the hairline grid.\n- **Cards & Modals:** Standardized at `rounded-lg` (0.5rem / 8px) to soften the perimeter while respecting the editorial feel.\n- **Botanical / Flavor Badges:** Curated exceptions allow full pill capsules for micro-tags (e.g., harvest year, single-origin indicator) to contrast neatly against the rectilinear product frames.\n\n## Components\n\n### Buttons\n- **Primary Action:** Deep aubergine `#2B1638` background, warm white `#FAF8F4` text, 4px border radius, 48px mobile touch height. Zero heavy drop-shadows; hover state shifts subtly to brand purple `#7243AB`.\n- **Secondary / Ghost:** 1px hairline border `#E5DED2`, transparent background, `#2B1638` text. Hover transitions to `#F3EFE8` fill.\n- **Expressive Accent Button:** POV purple `#7243AB` solid background used exclusively for seasonal releases or primary conversion funnels.\n\n### Chips & Flavor Selectors\n- Pill-shaped or subtle 4px rounded rectangles. Default: `#FAF8F4` surface with 1px `#E5DED2` border and `#2B1638` body text.\n- Selected State: Outlined in `#7243AB` with a delicate 10% purple tint fill, or marked with a micro dot indicator in teal `#17AE9D` or yellow `#F9CD18` denoting flavor notes.\n\n### Cards & Editorial Vignettes\n- Structured around a tall 4:5 or 3:4 aspect ratio studio image of bottled nectar or fresh fruit compositions on neutral stone backgrounds.\n- Enclosed with 1px `#E5DED2` perimeter line or left unbordered with strict typographic alignment below.\n- Metadata layout: Uppercase tracking category label above, large serif item title, tasting notes in italic serif, and price aligned flush right.\n\n### Input Fields\n- Understated baseline or full-box with 1px `#E5DED2` border, `#FAF8F4` fill, and generous vertical padding (14px).\n- Focus State: Replaces border with `#7243AB` hairline without glowing outer rings. Placeholder text in `#9B8C9F`.\n\n### Checkboxes & Radio Selectors\n- Minimalist 18px squares/circles with 1px `#E5DED2` borders.\n- Checked State: Deep aubergine `#2B1638` fill with an ultra-thin white checkmark or inner dot.\n\n### Lists & Ingredient Breakdowns\n- Hairline horizontal dividers (`#E5DED2`) spanning edge-to-edge.\n- Left-aligned typographic label paired with right-aligned numeric measures (brix level, pulp ratio, origin) in micro-spaced uppercase sans-serif.\n\n### Sticky Bottom Bar (Mobile 390px)\n- Anchored to bottom with safe-area padding. Translucent `#FAF8F4` background with `backdrop-filter: blur(16px)` and a 1px top border in `#E5DED2`.\n- Houses order volume indicator, subtotal in deep aubergine, and full-width or side-car primary action button.",
+                "font": "NEWSREADER",
+                "headlineFont": "NEWSREADER",
+                "headlineFontFamily": "Newsreader",
+                "labelFont": "INTER",
+                "labelFontFamily": "Inter",
+                "namedColors": {
+                  "background": "#fff7fc",
+                  "error": "#ba1a1a",
+                  "error_container": "#ffdad6",
+                  "inverse_on_surface": "#fcecff",
+                  "inverse_primary": "#d9b9ff",
+                  "inverse_surface": "#3d284a",
+                  "on_background": "#271234",
+                  "on_error": "#ffffff",
+                  "on_error_container": "#93000a",
+                  "on_primary": "#ffffff",
+                  "on_primary_container": "#e3caff",
+                  "on_primary_fixed": "#2a0054",
+                  "on_primary_fixed_variant": "#5c2c94",
+                  "on_secondary": "#ffffff",
+                  "on_secondary_container": "#6f5900",
+                  "on_secondary_fixed": "#231b00",
+                  "on_secondary_fixed_variant": "#564500",
+                  "on_surface": "#271234",
+                  "on_surface_variant": "#4b4451",
+                  "on_tertiary": "#ffffff",
+                  "on_tertiary_container": "#68e8d5",
+                  "on_tertiary_fixed": "#00201c",
+                  "on_tertiary_fixed_variant": "#005048",
+                  "outline": "#7c7482",
+                  "outline_variant": "#cdc3d3",
+                  "primary": "#592991",
+                  "primary_container": "#7243ab",
+                  "primary_fixed": "#eedbff",
+                  "primary_fixed_dim": "#d9b9ff",
+                  "secondary": "#725c00",
+                  "secondary_container": "#fcd01d",
+                  "secondary_fixed": "#ffe07f",
+                  "secondary_fixed_dim": "#edc200",
+                  "surface": "#fff7fc",
+                  "surface_bright": "#fff7fc",
+                  "surface_container": "#fae8ff",
+                  "surface_container_high": "#f7e1ff",
+                  "surface_container_highest": "#f4d9ff",
+                  "surface_container_low": "#fdefff",
+                  "surface_container_lowest": "#ffffff",
+                  "surface_dim": "#eecffc",
+                  "surface_tint": "#7546ae",
+                  "surface_variant": "#f4d9ff",
+                  "tertiary": "#004d44",
+                  "tertiary_container": "#00675c",
+                  "tertiary_fixed": "#79f7e4",
+                  "tertiary_fixed_dim": "#59dac8"
+                },
+                "overrideNeutralColor": "#2b1638",
+                "overridePrimaryColor": "#7243ab",
+                "overrideSecondaryColor": "#f9cd18",
+                "overrideTertiaryColor": "#17ae9d",
+                "roundness": "ROUND_FOUR",
+                "spacing": {
+                  "gutter": "1rem",
+                  "gutter-desktop": "2rem",
+                  "margin": "1.25rem",
+                  "margin-desktop": "3rem",
+                  "space-lg": "1.5rem",
+                  "space-md": "1rem",
+                  "space-sm": "0.5rem",
+                  "space-xl": "2.5rem",
+                  "space-xs": "0.25rem"
+                },
+                "spacingScale": 2,
+                "typography": {
+                  "body-lg": {
+                    "fontFamily": "Inter",
+                    "fontSize": "16px",
+                    "fontWeight": "400",
+                    "letterSpacing": "-0.01em",
+                    "lineHeight": "26px"
+                  },
+                  "body-md": {
+                    "fontFamily": "Inter",
+                    "fontSize": "14px",
+                    "fontWeight": "400",
+                    "letterSpacing": "0em",
+                    "lineHeight": "22px"
+                  },
+                  "body-sm": {
+                    "fontFamily": "Inter",
+                    "fontSize": "12px",
+                    "fontWeight": "400",
+                    "letterSpacing": "0.01em",
+                    "lineHeight": "18px"
+                  },
+                  "display-lg": {
+                    "fontFamily": "Newsreader",
+                    "fontSize": "52px",
+                    "fontWeight": "400",
+                    "letterSpacing": "-0.02em",
+                    "lineHeight": "58px"
+                  },
+                  "display-lg-mobile": {
+                    "fontFamily": "Newsreader",
+                    "fontSize": "38px",
+                    "fontWeight": "400",
+                    "letterSpacing": "-0.015em",
+                    "lineHeight": "44px"
+                  },
+                  "headline-lg": {
+                    "fontFamily": "Newsreader",
+                    "fontSize": "36px",
+                    "fontWeight": "400",
+                    "letterSpacing": "-0.01em",
+                    "lineHeight": "42px"
+                  },
+                  "headline-lg-mobile": {
+                    "fontFamily": "Newsreader",
+                    "fontSize": "28px",
+                    "fontWeight": "400",
+                    "letterSpacing": "-0.01em",
+                    "lineHeight": "34px"
+                  },
+                  "headline-md": {
+                    "fontFamily": "Newsreader",
+                    "fontSize": "24px",
+                    "fontWeight": "400",
+                    "letterSpacing": "-0.005em",
+                    "lineHeight": "30px"
+                  },
+                  "headline-sm": {
+                    "fontFamily": "Newsreader",
+                    "fontSize": "20px",
+                    "fontWeight": "400",
+                    "letterSpacing": "0em",
+                    "lineHeight": "26px"
+                  },
+                  "label-lg": {
+                    "fontFamily": "Inter",
+                    "fontSize": "13px",
+                    "fontWeight": "600",
+                    "letterSpacing": "0.08em",
+                    "lineHeight": "16px"
+                  },
+                  "label-md": {
+                    "fontFamily": "Inter",
+                    "fontSize": "11px",
+                    "fontWeight": "500",
+                    "letterSpacing": "0.1em",
+                    "lineHeight": "14px"
+                  },
+                  "label-sm": {
+                    "fontFamily": "Inter",
+                    "fontSize": "10px",
+                    "fontWeight": "600",
+                    "letterSpacing": "0.12em",
+                    "lineHeight": "12px"
+                  }
+                }
+              }
+            },
+            "name": "assets/01ff00b7f5d74024a71c792ede9ba442",
+            "version": "1"
+          }
+        },
+        {
+          "design": {
+            "screens": [
+              {
+                "generatedBy": "interactive_ui_controller",
+                "height": "896",
+                "id": "22e4da87174141f582139dca6c846888",
+                "name": "projects/16234525681964602718/screens/22e4da87174141f582139dca6c846888",
+                "prompt": "Commercial studio product photography: a single clear PET plastic cup with a transparent dome lid and a white straw, full of thick golden rich fresh Egyptian mango juice, standing on a seamless warm butter-yellow backdrop (#FEE3A0). Soft natural daylight from the left, gentle soft shadow cast on the surface. Sliced juicy ripe mango halves showing rich orange-yellow flesh neatly arranged beside the cup. Crisp condensation water droplets on the clear cup. Clean, minimalist studio setup, shot at 85mm lens, shallow depth of field, sharp focus, photorealistic, no text, no logos, no labels, 8k resolution.",
+                "screenMetadata": {
+                  "agentType": "PRO_AGENT",
+                  "status": "COMPLETE"
+                },
+                "screenType": "IMAGE",
+                "screenshot": {
+                  "downloadUrl": "https://lh3.googleusercontent.com/aida/AEtjO1Xx8r69r6gKt4rBIi-6mjwty7LxyVXdGyoMQhZv_X6qVaPjQMq9rn7RyMW_rtHI5hlgsQ5mN1QP77cSMGDUAMcrIinp3svCLhxwRSquKUBMUC4p-unOtDzjJI7K6noBIeAFukzmex8qf98GeKMlF6y4MihTLXY6YQn4NhoilngYa1E3B-zunbSTYjKy-q0x8ZjOW05s4VeaiMo4S0j1D8tiB4RpPhrLrjgXHgtCdh9EGy4WkbRjjeqMl_8L",
+                  "name": "projects/16234525681964602718/files/4eececbcdf2b41c5a4dd17f316f7b611"
+                },
+                "theme": {},
+                "title": "Commercial studio product photography: a single clear PET plastic cup with a transparent dome lid and a white straw, full of thick golden rich fresh Egyptian mango juice, standing on a seamless warm butter-yellow backdrop (#FEE3A0). Soft natural daylight from the left, gentle soft shadow cast on the surface. Sliced juicy ripe mango halves showing rich orange-yellow flesh neatly arranged beside the cup. Crisp condensation water droplets on the clear cup. Clean, minimalist studio setup, shot at 85mm lens, shallow depth of field, sharp focus, photorealistic, no text, no logos, no labels, 8k resolution.",
+                "width": "1200"
+              },
+              {
+                "designSystem": {
+                  "designSystem": {
+                    "displayName": "Color Study Editorial",
+                    "styleGuidelines": "## Brand & Style\n\nThe design system embodies an editorial, gallery-grade aesthetic tailored for a high-end, fresh mango-first juice bar rooted in Cairo. Merging the restrained architectural discipline of Apple with the warm, apothecary intimacy of Aesop, the system positions artisanal fruit blending as a sensory craft and modern culinary ritual.\n\nThe visual tone is defined by vast, deliberate whitespace, structured hairline framing, and museum-like focus on hyper-realistic studio product photography. The UI avoids traditional quick-service eatery tropes—no garish splash graphics, busy badges, or loud promotional ribbons. Instead, it invites the user into a contemplative, sensory space where juice blends are cataloged like seasonal botanical vintages. Tactile sophistication, whisper-quiet micro-interactions, and pristine editorial balance evoke effortless luxury and pure ingredient integrity.\n\n## Layout & Spacing\n\nThe layout is built upon an architectural grid with deliberate, asymmetrical breathing room.\n\n- **Grid Architecture:** \n  - Mobile (390px base): 4-column fluid grid, 20px outer margin (`margin: 1.25rem`), 16px column gutter (`gutter: 1rem`).\n  - Tablet (768px): 8-column grid, 32px outer margin, 24px gutter.\n  - Desktop (1200px+): 12-column grid max-width container (1280px), 48px outer margin (`margin-desktop: 3rem`), 32px column gutter (`gutter-desktop: 2rem`).\n- **Whitespace Philosophy:** Spacing favors generous vertical stacking (`space-xl` and above) between curated product studies, creating an intentional pace that resists hurried scrolling. Product images bleed to edge or sit flush against hairline grid columns like an art catalogue.\n- **Rhythm & Structure:** Thin dividing rules (`#E5DED2`) delineate sections, accompanied by strict alignment of micro-label metadata to the left grid boundary and pricing/actions to the right.\n\n## Elevation & Depth\n\nVisual hierarchy is communicated through planar layering, hairline framing, and ambient, barely perceptible shadows, eschewing heavy 3D skeuomorphism or artificial elevation.\n\n- **Planar Stacking:** Surfaces advance using tinted grounding (`#FAF8F4` base against `#F3EFE8` inset panels or floating checkout drawers).\n- **Hairlines as Spatial Anchors:** All elevated elements (modals, sheets, sticky order bars) are outlined with a crisp 1px border of `#E5DED2`.\n- **Atmospheric Ambient Shadows:** When an element floats over imagery or content (e.g., sticky bag summary, bespoke modal sheets), it employs a wide, diffuse shadow: `box-shadow: 0 16px 40px -12px rgba(43, 22, 56, 0.06)`. The aubergine undertone in the shadow prevents dirty gray casts and keeps the light warm and natural.\n\n## Components\n\n### Buttons\n- **Primary Action:** Deep aubergine `#2B1638` background, warm white `#FAF8F4` text, 4px border radius, 48px mobile touch height. Zero heavy drop-shadows; hover state shifts subtly to brand purple `#7243AB`.\n- **Secondary / Ghost:** 1px hairline border `#E5DED2`, transparent background, `#2B1638` text. Hover transitions to `#F3EFE8` fill.\n- **Expressive Accent Button:** POV purple `#7243AB` solid background used exclusively for seasonal releases or primary conversion funnels.\n\n### Chips & Flavor Selectors\n- Pill-shaped or subtle 4px rounded rectangles. Default: `#FAF8F4` surface with 1px `#E5DED2` border and `#2B1638` body text.\n- Selected State: Outlined in `#7243AB` with a delicate 10% purple tint fill, or marked with a micro dot indicator in teal `#17AE9D` or yellow `#F9CD18` denoting flavor notes.\n\n### Cards & Editorial Vignettes\n- Structured around a tall 4:5 or 3:4 aspect ratio studio image of bottled nectar or fresh fruit compositions on neutral stone backgrounds.\n- Enclosed with 1px `#E5DED2` perimeter line or left unbordered with strict typographic alignment below.\n- Metadata layout: Uppercase tracking category label above, large serif item title, tasting notes in italic serif, and price aligned flush right.\n\n### Input Fields\n- Understated baseline or full-box with 1px `#E5DED2` border, `#FAF8F4` fill, and generous vertical padding (14px).\n- Focus State: Replaces border with `#7243AB` hairline without glowing outer rings. Placeholder text in `#9B8C9F`.\n\n### Checkboxes & Radio Selectors\n- Minimalist 18px squares/circles with 1px `#E5DED2` borders.\n- Checked State: Deep aubergine `#2B1638` fill with an ultra-thin white checkmark or inner dot.\n\n### Lists & Ingredient Breakdowns\n- Hairline horizontal dividers (`#E5DED2`) spanning edge-to-edge.\n- Left-aligned typographic label paired with right-aligned numeric measures (brix level, pulp ratio, origin) in micro-spaced uppercase sans-serif.\n\n### Sticky Bottom Bar (Mobile 390px)\n- Anchored to bottom with safe-area padding. Translucent `#FAF8F4` background with `backdrop-filter: blur(16px)` and a 1px top border in `#E5DED2`.\n- Houses order volume indicator, subtotal in deep aubergine, and full-width or side-car primary action button.",
+                    "theme": {
+                      "bodyFont": "INTER",
+                      "bodyFontFamily": "Inter",
+                      "colorMode": "LIGHT",
+                      "colorVariant": "FIDELITY",
+                      "customColor": "#7243ab",
+                      "designMd": "---\nname: Color Study Editorial\ncolors:\n  surface: '#fff7fc'\n  surface-dim: '#eecffc'\n  surface-bright: '#fff7fc'\n  surface-container-lowest: '#ffffff'\n  surface-container-low: '#fdefff'\n  surface-container: '#fae8ff'\n  surface-container-high: '#f7e1ff'\n  surface-container-highest: '#f4d9ff'\n  on-surface: '#271234'\n  on-surface-variant: '#4b4451'\n  inverse-surface: '#3d284a'\n  inverse-on-surface: '#fcecff'\n  outline: '#7c7482'\n  outline-variant: '#cdc3d3'\n  surface-tint: '#7546ae'\n  primary: '#592991'\n  on-primary: '#ffffff'\n  primary-container: '#7243ab'\n  on-primary-container: '#e3caff'\n  inverse-primary: '#d9b9ff'\n  secondary: '#725c00'\n  on-secondary: '#ffffff'\n  secondary-container: '#fcd01d'\n  on-secondary-container: '#6f5900'\n  tertiary: '#004d44'\n  on-tertiary: '#ffffff'\n  tertiary-container: '#00675c'\n  on-tertiary-container: '#68e8d5'\n  error: '#ba1a1a'\n  on-error: '#ffffff'\n  error-container: '#ffdad6'\n  on-error-container: '#93000a'\n  primary-fixed: '#eedbff'\n  primary-fixed-dim: '#d9b9ff'\n  on-primary-fixed: '#2a0054'\n  on-primary-fixed-variant: '#5c2c94'\n  secondary-fixed: '#ffe07f'\n  secondary-fixed-dim: '#edc200'\n  on-secondary-fixed: '#231b00'\n  on-secondary-fixed-variant: '#564500'\n  tertiary-fixed: '#79f7e4'\n  tertiary-fixed-dim: '#59dac8'\n  on-tertiary-fixed: '#00201c'\n  on-tertiary-fixed-variant: '#005048'\n  background: '#fff7fc'\n  on-background: '#271234'\n  surface-variant: '#f4d9ff'\ntypography:\n  display-lg:\n    fontFamily: Newsreader\n    fontSize: 52px\n    fontWeight: '400'\n    lineHeight: 58px\n    letterSpacing: -0.02em\n  display-lg-mobile:\n    fontFamily: Newsreader\n    fontSize: 38px\n    fontWeight: '400'\n    lineHeight: 44px\n    letterSpacing: -0.015em\n  headline-lg:\n    fontFamily: Newsreader\n    fontSize: 36px\n    fontWeight: '400'\n    lineHeight: 42px\n    letterSpacing: -0.01em\n  headline-lg-mobile:\n    fontFamily: Newsreader\n    fontSize: 28px\n    fontWeight: '400'\n    lineHeight: 34px\n    letterSpacing: -0.01em\n  headline-md:\n    fontFamily: Newsreader\n    fontSize: 24px\n    fontWeight: '400'\n    lineHeight: 30px\n    letterSpacing: -0.005em\n  headline-sm:\n    fontFamily: Newsreader\n    fontSize: 20px\n    fontWeight: '400'\n    lineHeight: 26px\n    letterSpacing: 0em\n  body-lg:\n    fontFamily: Inter\n    fontSize: 16px\n    fontWeight: '400'\n    lineHeight: 26px\n    letterSpacing: -0.01em\n  body-md:\n    fontFamily: Inter\n    fontSize: 14px\n    fontWeight: '400'\n    lineHeight: 22px\n    letterSpacing: 0em\n  body-sm:\n    fontFamily: Inter\n    fontSize: 12px\n    fontWeight: '400'\n    lineHeight: 18px\n    letterSpacing: 0.01em\n  label-lg:\n    fontFamily: Inter\n    fontSize: 13px\n    fontWeight: '600'\n    lineHeight: 16px\n    letterSpacing: 0.08em\n  label-md:\n    fontFamily: Inter\n    fontSize: 11px\n    fontWeight: '500'\n    lineHeight: 14px\n    letterSpacing: 0.1em\n  label-sm:\n    fontFamily: Inter\n    fontSize: 10px\n    fontWeight: '600'\n    lineHeight: 12px\n    letterSpacing: 0.12em\nrounded:\n  sm: 0.125rem\n  DEFAULT: 0.25rem\n  md: 0.375rem\n  lg: 0.5rem\n  xl: 0.75rem\n  full: 9999px\nspacing:\n  gutter: 1rem\n  gutter-desktop: 2rem\n  margin: 1.25rem\n  margin-desktop: 3rem\n  space-xs: 0.25rem\n  space-sm: 0.5rem\n  space-md: 1rem\n  space-lg: 1.5rem\n  space-xl: 2.5rem\n---\n\n## Brand & Style\n\nThe design system embodies an editorial, gallery-grade aesthetic tailored for a high-end, fresh mango-first juice bar rooted in Cairo. Merging the restrained architectural discipline of Apple with the warm, apothecary intimacy of Aesop, the system positions artisanal fruit blending as a sensory craft and modern culinary ritual.\n\nThe visual tone is defined by vast, deliberate whitespace, structured hairline framing, and museum-like focus on hyper-realistic studio product photography. The UI avoids traditional quick-service eatery tropes—no garish splash graphics, busy badges, or loud promotional ribbons. Instead, it invites the user into a contemplative, sensory space where juice blends are cataloged like seasonal botanical vintages. Tactile sophistication, whisper-quiet micro-interactions, and pristine editorial balance evoke effortless luxury and pure ingredient integrity.\n\n## Colors\n\nThe palette is anchored in warm, sunlit organic neutrals, contrasted with deep, sculptural aubergine ink, and punctuated by precise, restrained chromatic signals.\n\n- **Background & Canvas:** `#FAF8F4` acts as the warm white foundation across all viewports. Secondary surfaces, such as subtle product panels or card insets, use an ultra-soft tint `#F3EFE8`.\n- **Text & Structure:** Deep aubergine `#2B1638` serves as the primary text, icon, and prominent structural element, imparting far greater richness and depth than flat neutral black. Secondary supporting text softens into `#6E5D77`, and subtle metadata into `#9B8C9F`.\n- **Hairline Dividers & Outlines:** `#E5DED2` forms delicate 1px borders that organize editorial grids without adding visual heaviness.\n- **Brand Accents:**\n  - **Primary Purple (`#7243AB`):** Used sparingly for key transactional triggers, active tabs, and refined focal moments.\n  - **Mango Yellow (`#F9CD18`):** Evokes sun-drenched Egyptian mango harvest, applied to selected botanical tags, highlights, and subtle rating accents.\n  - **Teal (`#17AE9D`):** Evokes refreshing vitality, reserved for cold-pressed identifiers and secondary nutritional badges.\n  - **Status:** Success `#17AE9D`, Warning `#F9CD18`, Error `#B83A4B`.\n\n## Typography\n\nThe typography pairs an authoritative, high-elegance editorial serif for display scales with a calibrated, modern grotesque sans-serif for UI clarity and informational rigor.\n\n- **Headlines & Editorial Titles:** Set in large, sentence-case serif with soft, natural phrasing. Refined italic variants should be used selectively for signature words, seasonal origins (e.g., *Ismailia*, *Alphonso*), or tasting notes to introduce rhythm and artisanal warmth.\n- **Body & Editorial Narratives:** Clean, uncluttered, set in deep aubergine at comfortable reading measures to convey provenance and craftsmanship.\n- **Micro-Labels & UI Indicators:** Set strictly in uppercase sans-serif with expanded tracking (`0.08em` to `0.12em`) and medium/semibold weight. This creates an apothecary-like cataloging hierarchy across price tags, origin stamps, and nutrition manifests.\n\n## Layout & Spacing\n\nThe layout is built upon an architectural grid with deliberate, asymmetrical breathing room.\n\n- **Grid Architecture:** \n  - Mobile (390px base): 4-column fluid grid, 20px outer margin (`margin: 1.25rem`), 16px column gutter (`gutter: 1rem`).\n  - Tablet (768px): 8-column grid, 32px outer margin, 24px gutter.\n  - Desktop (1200px+): 12-column grid max-width container (1280px), 48px outer margin (`margin-desktop: 3rem`), 32px column gutter (`gutter-desktop: 2rem`).\n- **Whitespace Philosophy:** Spacing favors generous vertical stacking (`space-xl` and above) between curated product studies, creating an intentional pace that resists hurried scrolling. Product images bleed to edge or sit flush against hairline grid columns like an art catalogue.\n- **Rhythm & Structure:** Thin dividing rules (`#E5DED2`) delineate sections, accompanied by strict alignment of micro-label metadata to the left grid boundary and pricing/actions to the right.\n\n## Elevation & Depth\n\nVisual hierarchy is communicated through planar layering, hairline framing, and ambient, barely perceptible shadows, eschewing heavy 3D skeuomorphism or artificial elevation.\n\n- **Planar Stacking:** Surfaces advance using tinted grounding (`#FAF8F4` base against `#F3EFE8` inset panels or floating checkout drawers).\n- **Hairlines as Spatial Anchors:** All elevated elements (modals, sheets, sticky order bars) are outlined with a crisp 1px border of `#E5DED2`.\n- **Atmospheric Ambient Shadows:** When an element floats over imagery or content (e.g., sticky bag summary, bespoke modal sheets), it employs a wide, diffuse shadow: `box-shadow: 0 16px 40px -12px rgba(43, 22, 56, 0.06)`. The aubergine undertone in the shadow prevents dirty gray casts and keeps the light warm and natural.\n\n## Shapes\n\nThe design language uses soft, measured curvature (`roundedness: 1`), conveying clean architectural precision rather than toy-like roundness.\n\n- **Interactive Controls & Inputs:** Base radius of `0.25rem` (4px) ensures crisp corners that maintain alignment with the hairline grid.\n- **Cards & Modals:** Standardized at `rounded-lg` (0.5rem / 8px) to soften the perimeter while respecting the editorial feel.\n- **Botanical / Flavor Badges:** Curated exceptions allow full pill capsules for micro-tags (e.g., harvest year, single-origin indicator) to contrast neatly against the rectilinear product frames.\n\n## Components\n\n### Buttons\n- **Primary Action:** Deep aubergine `#2B1638` background, warm white `#FAF8F4` text, 4px border radius, 48px mobile touch height. Zero heavy drop-shadows; hover state shifts subtly to brand purple `#7243AB`.\n- **Secondary / Ghost:** 1px hairline border `#E5DED2`, transparent background, `#2B1638` text. Hover transitions to `#F3EFE8` fill.\n- **Expressive Accent Button:** POV purple `#7243AB` solid background used exclusively for seasonal releases or primary conversion funnels.\n\n### Chips & Flavor Selectors\n- Pill-shaped or subtle 4px rounded rectangles. Default: `#FAF8F4` surface with 1px `#E5DED2` border and `#2B1638` body text.\n- Selected State: Outlined in `#7243AB` with a delicate 10% purple tint fill, or marked with a micro dot indicator in teal `#17AE9D` or yellow `#F9CD18` denoting flavor notes.\n\n### Cards & Editorial Vignettes\n- Structured around a tall 4:5 or 3:4 aspect ratio studio image of bottled nectar or fresh fruit compositions on neutral stone backgrounds.\n- Enclosed with 1px `#E5DED2` perimeter line or left unbordered with strict typographic alignment below.\n- Metadata layout: Uppercase tracking category label above, large serif item title, tasting notes in italic serif, and price aligned flush right.\n\n### Input Fields\n- Understated baseline or full-box with 1px `#E5DED2` border, `#FAF8F4` fill, and generous vertical padding (14px).\n- Focus State: Replaces border with `#7243AB` hairline without glowing outer rings. Placeholder text in `#9B8C9F`.\n\n### Checkboxes & Radio Selectors\n- Minimalist 18px squares/circles with 1px `#E5DED2` borders.\n- Checked State: Deep aubergine `#2B1638` fill with an ultra-thin white checkmark or inner dot.\n\n### Lists & Ingredient Breakdowns\n- Hairline horizontal dividers (`#E5DED2`) spanning edge-to-edge.\n- Left-aligned typographic label paired with right-aligned numeric measures (brix level, pulp ratio, origin) in micro-spaced uppercase sans-serif.\n\n### Sticky Bottom Bar (Mobile 390px)\n- Anchored to bottom with safe-area padding. Translucent `#FAF8F4` background with `backdrop-filter: blur(16px)` and a 1px top border in `#E5DED2`.\n- Houses order volume indicator, subtotal in deep aubergine, and full-width or side-car primary action button.",
+                      "font": "NEWSREADER",
+                      "headlineFont": "NEWSREADER",
+                      "headlineFontFamily": "Newsreader",
+                      "labelFont": "INTER",
+                      "labelFontFamily": "Inter",
+                      "namedColors": {
+                        "background": "#fff7fc",
+                        "error": "#ba1a1a",
+                        "error_container": "#ffdad6",
+                        "inverse_on_surface": "#fcecff",
+                        "inverse_primary": "#d9b9ff",
+                        "inverse_surface": "#3d284a",
+                        "on_background": "#271234",
+                        "on_error": "#ffffff",
+                        "on_error_container": "#93000a",
+                        "on_primary": "#ffffff",
+                        "on_primary_container": "#e3caff",
+                        "on_primary_fixed": "#2a0054",
+                        "on_primary_fixed_variant": "#5c2c94",
+                        "on_secondary": "#ffffff",
+                        "on_secondary_container": "#6f5900",
+                        "on_secondary_fixed": "#231b00",
+                        "on_secondary_fixed_variant": "#564500",
+                        "on_surface": "#271234",
+                        "on_surface_variant": "#4b4451",
+                        "on_tertiary": "#ffffff",
+                        "on_tertiary_container": "#68e8d5",
+                        "on_tertiary_fixed": "#00201c",
+                        "on_tertiary_fixed_variant": "#005048",
+                        "outline": "#7c7482",
+                        "outline_variant": "#cdc3d3",
+                        "primary": "#592991",
+                        "primary_container": "#7243ab",
+                        "primary_fixed": "#eedbff",
+                        "primary_fixed_dim": "#d9b9ff",
+                        "secondary": "#725c00",
+                        "secondary_container": "#fcd01d",
+                        "secondary_fixed": "#ffe07f",
+                        "secondary_fixed_dim": "#edc200",
+                        "surface": "#fff7fc",
+                        "surface_bright": "#fff7fc",
+                        "surface_container": "#fae8ff",
+                        "surface_container_high": "#f7e1ff",
+                        "surface_container_highest": "#f4d9ff",
+                        "surface_container_low": "#fdefff",
+                        "surface_container_lowest": "#ffffff",
+                        "surface_dim": "#eecffc",
+                        "surface_tint": "#7546ae",
+                        "surface_variant": "#f4d9ff",
+                        "tertiary": "#004d44",
+                        "tertiary_container": "#00675c",
+                        "tertiary_fixed": "#79f7e4",
+                        "tertiary_fixed_dim": "#59dac8"
+                      },
+                      "overrideNeutralColor": "#2b1638",
+                      "overridePrimaryColor": "#7243ab",
+                      "overrideSecondaryColor": "#f9cd18",
+                      "overrideTertiaryColor": "#17ae9d",
+                      "roundness": "ROUND_FOUR",
+                      "spacing": {
+                        "gutter": "1rem",
+                        "gutter-desktop": "2rem",
+                        "margin": "1.25rem",
+                        "margin-desktop": "3rem",
+                        "space-lg": "1.5rem",
+                        "space-md": "1rem",
+                        "space-sm": "0.5rem",
+                        "space-xl": "2.5rem",
+                        "space-xs": "0.25rem"
+                      },
+                      "spacingScale": 2,
+                      "typography": {
+                        "body-lg": {
+                          "fontFamily": "Inter",
+                          "fontSize": "16px",
+                          "fontWeight": "400",
+                          "letterSpacing": "-0.01em",
+                          "lineHeight": "26px"
+                        },
+                        "body-md": {
+                          "fontFamily": "Inter",
+                          "fontSize": "14px",
+                          "fontWeight": "400",
+                          "letterSpacing": "0em",
+                          "lineHeight": "22px"
+                        },
+                        "body-sm": {
+                          "fontFamily": "Inter",
+                          "fontSize": "12px",
+                          "fontWeight": "400",
+                          "letterSpacing": "0.01em",
+                          "lineHeight": "18px"
+                        },
+                        "display-lg": {
+                          "fontFamily": "Newsreader",
+                          "fontSize": "52px",
+                          "fontWeight": "400",
+                          "letterSpacing": "-0.02em",
+                          "lineHeight": "58px"
+                        },
+                        "display-lg-mobile": {
+                          "fontFamily": "Newsreader",
+                          "fontSize": "38px",
+                          "fontWeight": "400",
+                          "letterSpacing": "-0.015em",
+                          "lineHeight": "44px"
+                        },
+                        "headline-lg": {
+                          "fontFamily": "Newsreader",
+                          "fontSize": "36px",
+                          "fontWeight": "400",
+                          "letterSpacing": "-0.01em",
+                          "lineHeight": "42px"
+                        },
+                        "headline-lg-mobile": {
+                          "fontFamily": "Newsreader",
+                          "fontSize": "28px",
+                          "fontWeight": "400",
+                          "letterSpacing": "-0.01em",
+                          "lineHeight": "34px"
+                        },
+                        "headline-md": {
+                          "fontFamily": "Newsreader",
+                          "fontSize": "24px",
+                          "fontWeight": "400",
+                          "letterSpacing": "-0.005em",
+                          "lineHeight": "30px"
+                        },
+                        "headline-sm": {
+                          "fontFamily": "Newsreader",
+                          "fontSize": "20px",
+                          "fontWeight": "400",
+                          "letterSpacing": "0em",
+                          "lineHeight": "26px"
+                        },
+                        "label-lg": {
+                          "fontFamily": "Inter",
+                          "fontSize": "13px",
+                          "fontWeight": "600",
+                          "letterSpacing": "0.08em",
+                          "lineHeight": "16px"
+                        },
+                        "label-md": {
+                          "fontFamily": "Inter",
+                          "fontSize": "11px",
+                          "fontWeight": "500",
+                          "letterSpacing": "0.1em",
+                          "lineHeight": "14px"
+                        },
+                        "label-sm": {
+                          "fontFamily": "Inter",
+                          "fontSize": "10px",
+                          "fontWeight": "600",
+                          "letterSpacing": "0.12em",
+                          "lineHeight": "12px"
+                        }
+                      }
+                    }
+                  },
+                  "name": "assets/01ff00b7f5d74024a71c792ede9ba442",
+                  "version": "1"
+                },
+                "deviceType": "MOBILE",
+                "generatedBy": "figaro_agent",
+                "height": "4424",
+                "htmlCode": {
+                  "downloadUrl": "https://contribution.usercontent.google.com/download?c=CgthaWRhX2NvZGVmeBJ8Eh1hcHBfY29tcGFuaW9uX2dlbmVyYXRlZF9maWxlcxpbCiVodG1sXzM4NTczZTZjODA0YzQyMTM5ZGE3OTgzZTMxOTg0ZTRkEgsSBxCu-qfdvhIYAZIBJAoKcHJvamVjdF9pZBIWQhQxNjIzNDUyNTY4MTk2NDYwMjcxOA&filename=&opi=96797242",
+                  "mimeType": "text/html",
+                  "name": "projects/16234525681964602718/files/f6ded3fbf23b485097938206053def39"
+                },
+                "id": "75d805ec60ed427cbab8fdff2f1f7fbc",
+                "name": "projects/16234525681964602718/screens/75d805ec60ed427cbab8fdff2f1f7fbc",
+                "prompt": "HOME SCREEN for POV (بوف) - Cairo's premium mango-first juice bar.\nMobile screen, 390px wide, LIGHT theme only.\nBackground canvas: warm white #FAF8F4 throughout, text in deep aubergine #2B1638, hairline dividers #E5DED2, accent POV purple #7243AB.\n\nTypography rules:\n- Headings: 'Instrument Serif', serif (large, elegant, sentence case, occasional refined italic).\n- Body and microcopy: 'Inter', sans-serif, crisp tracking, small uppercase letter-spaced category labels.\n\nHEADER (Top bar):\n- Minimal sticky header on #FAF8F4.\n- Left: search icon (Material Symbols 'search').\n- Center: Centered POV geometric wordmark logo where P is purple (<span style=\"color:#7243AB\">P</span>), O is yellow (<span style=\"color:#F9CD18\">O</span>), V is teal (<span style=\"color:#17AE9D\">V</span>), with a tiny discreet Arabic mark below or beside (بوف).\n- Right: bag icon (Material Symbols 'shopping_bag') with a small refined badge showing '2'.\n\nHERO SECTION:\n- Above photo headline:\n  - Small uppercase kicker: \"ZAMALEK & NEW CAIRO\" or \"PRESSED FRESH DAILY\" with letter-spacing tracking-widest.\n  - Serif headline: \"Fresh mango, pressed to order.\"\n  - Short subtitle line: \"Cut and poured in Cairo every morning.\"\n  - Quiet text link button: \"View the menu →\" in deep aubergine with underline or quiet arrow.\n- Hero product image:\n  - Tall color-block product photo using {{DATA:IMAGE:IMAGE_8}} (POV Mango in clear dome cup on butter-yellow backdrop with fresh mango slices). Rounded corners (e.g. rounded-2xl), clean presentation.\n  - Small caption or tag: \"POV Mango\" — \"95 EGP\".\n\nCOLOR STUDY PRODUCT GRID (2-column grid):\n- Section header: quiet uppercase label \"COLOR STUDY / FRESH JUICES\" or \"THE COLLECTION\" with hairline border.\n- 2-column grid of square color-block product cards:\n  1. Fresh Orange: Image {{DATA:IMAGE:IMAGE_6}}, Name \"Fresh Orange\" in Instrument Serif, Price \"70 EGP\" in small Inter text.\n  2. Guava Nectar: Image {{DATA:IMAGE:IMAGE_4}}, Name \"Guava Nectar\" in Instrument Serif, Price \"80 EGP\" in small Inter text.\n  3. Watermelon Mint: Image {{DATA:IMAGE:IMAGE_5}}, Name \"Watermelon Mint\" in Instrument Serif, Price \"75 EGP\" in small Inter text.\n  4. Sugarcane Lime: Image {{DATA:IMAGE:IMAGE_3}}, Name \"Sugarcane Lime\" in Instrument Serif, Price \"60 EGP\" in small Inter text.\n- Each card has rounded-2xl corners, clean minimal framing, with title and price neatly placed below each image.\n\n\"IN SEASON\" SECTION:\n- Section header with small uppercase label \"IN SEASON\" and month label \"OCTOBER\" on the right.\n- Headline: \"Pomegranate Press\" in serif with short note \"Hand-seeded Upper Egypt pomegranates.\"\n- One wide photo using {{DATA:IMAGE:IMAGE_2}} (Pomegranate Press in clear cup with ruby arils on warm backdrop).\n- Price and action: \"105 EGP\" and a subtle \"Order Seasonal\" button/tag.\n\nBRAND STORYTELLING / ETHOS (Aesop meets Apple studio feel):\n- Subtle minimal banner: \"Your Choice. Your Point Of View.\"\n- Cairo craft note: \"100% pure fruit. Zero added sugar or syrups. Sourced from Ismailia orchards.\"\n\nBOTTOM NAVIGATION:\n- Fixed bottom bar on #FAF8F4 with hairline top border #E5DED2.\n- 4 navigation tabs:\n  1. Home (active, colored #7243AB, icon 'home' or 'local_florist')\n  2. Menu (icon 'restaurant_menu')\n  3. Bag (icon 'shopping_bag' with small pill badge '2')\n  4. Account (icon 'person')\n- Generous bottom padding for safe area.",
+                "screenMetadata": {
+                  "agentType": "PRO_AGENT",
+                  "status": "COMPLETE"
+                },
+                "screenType": "DESIGN",
+                "screenshot": {
+                  "downloadUrl": "https://lh3.googleusercontent.com/aida/AEtjO1X_RrI6yK4scnRy5nDGRxx-g4SyMJQePzK_y0tCBswiDwNKNs0mmwvTkpidWMZ-lVk6KDKuwOlgnA8fIE7uGeY43zEq45wVVat23y9dcQhFFnjtbwG1sihixhPUA__mz5L2u8_9nd35oOTrqfvIbsTBXSvoZZoMJZL73p2jrvmr5u8JklO8nFtbrIT1Lx5RhOmu04YBMnckUJXettznP8FhRbPt08XgvT1lAYrIzBEmBQAeKKi0e2OlCfMv",
+                  "name": "projects/16234525681964602718/files/f4f9c5b5c5f34192bd6e26a2a84430a0"
+                },
+                "theme": {
+                  "bodyFont": "INTER",
+                  "bodyFontFamily": "Inter",
+                  "colorMode": "LIGHT",
+                  "colorVariant": "FIDELITY",
+                  "customColor": "#7243ab",
+                  "font": "NEWSREADER",
+                  "headlineFont": "NEWSREADER",
+                  "headlineFontFamily": "Newsreader",
+                  "labelFont": "INTER",
+                  "labelFontFamily": "Inter",
+                  "namedColors": {
+                    "background": "#fff7fc",
+                    "error": "#ba1a1a",
+                    "error_container": "#ffdad6",
+                    "inverse_on_surface": "#fcecff",
+                    "inverse_primary": "#d9b9ff",
+                    "inverse_surface": "#3d284a",
+                    "on_background": "#271234",
+                    "on_error": "#ffffff",
+                    "on_error_container": "#93000a",
+                    "on_primary": "#ffffff",
+                    "on_primary_container": "#e3caff",
+                    "on_primary_fixed": "#2a0054",
+                    "on_primary_fixed_variant": "#5c2c94",
+                    "on_secondary": "#ffffff",
+                    "on_secondary_container": "#6f5900",
+                    "on_secondary_fixed": "#231b00",
+                    "on_secondary_fixed_variant": "#564500",
+                    "on_surface": "#271234",
+                    "on_surface_variant": "#4b4451",
+                    "on_tertiary": "#ffffff",
+                    "on_tertiary_container": "#68e8d5",
+                    "on_tertiary_fixed": "#00201c",
+                    "on_tertiary_fixed_variant": "#005048",
+                    "outline": "#7c7482",
+                    "outline_variant": "#cdc3d3",
+                    "primary": "#592991",
+                    "primary_container": "#7243ab",
+                    "primary_fixed": "#eedbff",
+                    "primary_fixed_dim": "#d9b9ff",
+                    "secondary": "#725c00",
+                    "secondary_container": "#fcd01d",
+                    "secondary_fixed": "#ffe07f",
+                    "secondary_fixed_dim": "#edc200",
+                    "surface": "#fff7fc",
+                    "surface_bright": "#fff7fc",
+                    "surface_container": "#fae8ff",
+                    "surface_container_high": "#f7e1ff",
+                    "surface_container_highest": "#f4d9ff",
+                    "surface_container_low": "#fdefff",
+                    "surface_container_lowest": "#ffffff",
+                    "surface_dim": "#eecffc",
+                    "surface_tint": "#7546ae",
+                    "surface_variant": "#f4d9ff",
+                    "tertiary": "#004d44",
+                    "tertiary_container": "#00675c",
+                    "tertiary_fixed": "#79f7e4",
+                    "tertiary_fixed_dim": "#59dac8"
+                  },
+                  "overrideNeutralColor": "#2b1638",
+                  "overridePrimaryColor": "#7243ab",
+                  "overrideSecondaryColor": "#f9cd18",
+                  "overrideTertiaryColor": "#17ae9d",
+                  "roundness": "ROUND_FOUR",
+                  "spacing": {
+                    "gutter": "1rem",
+                    "gutter-desktop": "2rem",
+                    "margin": "1.25rem",
+                    "margin-desktop": "3rem",
+                    "space-lg": "1.5rem",
+                    "space-md": "1rem",
+                    "space-sm": "0.5rem",
+                    "space-xl": "2.5rem",
+                    "space-xs": "0.25rem"
+                  },
+                  "spacingScale": 2,
+                  "typography": {
+                    "body-lg": {
+                      "fontFamily": "Inter",
+                      "fontSize": "16px",
+                      "fontWeight": "400",
+                      "letterSpacing": "-0.01em",
+                      "lineHeight": "26px"
+                    },
+                    "body-md": {
+                      "fontFamily": "Inter",
+                      "fontSize": "14px",
+                      "fontWeight": "400",
+                      "letterSpacing": "0em",
+                      "lineHeight": "22px"
+                    },
+                    "body-sm": {
+                      "fontFamily": "Inter",
+                      "fontSize": "12px",
+                      "fontWeight": "400",
+                      "letterSpacing": "0.01em",
+                      "lineHeight": "18px"
+                    },
+                    "display-lg": {
+                      "fontFamily": "Newsreader",
+                      "fontSize": "52px",
+                      "fontWeight": "400",
+                      "letterSpacing": "-0.02em",
+                      "lineHeight": "58px"
+                    },
+                    "display-lg-mobile": {
+                      "fontFamily": "Newsreader",
+                      "fontSize": "38px",
+                      "fontWeight": "400",
+                      "letterSpacing": "-0.015em",
+                      "lineHeight": "44px"
+                    },
+                    "headline-lg": {
+                      "fontFamily": "Newsreader",
+                      "fontSize": "36px",
+                      "fontWeight": "400",
+                      "letterSpacing": "-0.01em",
+                      "lineHeight": "42px"
+                    },
+                    "headline-lg-mobile": {
+                      "fontFamily": "Newsreader",
+                      "fontSize": "28px",
+                      "fontWeight": "400",
+                      "letterSpacing": "-0.01em",
+                      "lineHeight": "34px"
+                    },
+                    "headline-md": {
+                      "fontFamily": "Newsreader",
+                      "fontSize": "24px",
+                      "fontWeight": "400",
+                      "letterSpacing": "-0.005em",
+                      "lineHeight": "30px"
+                    },
+                    "headline-sm": {
+                      "fontFamily": "Newsreader",
+                      "fontSize": "20px",
+                      "fontWeight": "400",
+                      "letterSpacing": "0em",
+                      "lineHeight": "26px"
+                    },
+                    "label-lg": {
+                      "fontFamily": "Inter",
+                      "fontSize": "13px",
+                      "fontWeight": "600",
+                      "letterSpacing": "0.08em",
+                      "lineHeight": "16px"
+                    },
+                    "label-md": {
+                      "fontFamily": "Inter",
+                      "fontSize": "11px",
+                      "fontWeight": "500",
+                      "letterSpacing": "0.1em",
+                      "lineHeight": "14px"
+                    },
+                    "label-sm": {
+                      "fontFamily": "Inter",
+                      "fontSize": "10px",
+                      "fontWeight": "600",
+                      "letterSpacing": "0.12em",
+                      "lineHeight": "12px"
+                    }
+                  }
+                },
+                "title": "POV - Home Screen",
+                "width": "780"
+              }
+            ],
+            "theme": {}
+          }
+        },
+        {
+          "text": "Here is the mobile **Home Screen** for **POV (بوف)**, Cairo's premium mango-first juice bar.\n\n### Design Highlights & \"Color Study\" Art Direction\n1. **Header & Brand Identity**:\n   - Centered geometric **POV** wordmark with the brand colorway: purple **P** (`#7243AB`), yellow **O** (`#F9CD18`), and teal **V** (`#17AE9D`), paired with the subtle Arabic mark **بوف**.\n   - Balanced with a search icon on the left and a shopping bag with cart count badge `2` on the right.\n\n2. **Hero Feature — \"Fresh mango, pressed to order\"**:\n   - Location tag: `ZAMALEK & NEW CAIRO · PRESSED FRESH DAILY`.\n   - Editorial headline in *Instrument Serif*, accompanied by the subtitle *\"Cut and poured in Cairo every morning.\"* and the subtle text link *\"View the menu →\"*.\n   - Commercial studio hero photo of the signature **POV Mango (95 EGP)** in a clear PET dome cup set against a butter-yellow seamless backdrop (`#FEE3A0`).\n\n3. **Color Study 2-Column Product Grid**:\n   - Each juice is photographed in real studio lighting on its fruit-tone backdrop:\n     - **Fresh Orange (70 EGP)** — Baladi citrus\n     - **Guava Nectar (80 EGP)** — Delta valley pink guava\n     - **Watermelon Mint (75 EGP)** — Sinai red watermelon\n     - **Sugarcane Lime (60 EGP)** — Upper Egypt cane\n   - Clean typographic pairing of serif titles with precise sans-serif pricing and origin notes.\n\n4. **\"In Season\" October Feature**:\n   - Highlighting **Pomegranate Press (105 EGP)** with Upper Egypt provenance notes, brix level, cold press specs, and a direct CTA button.\n\n5. **Brand Ethos & Bottom Navigation**:\n   - Clean statement for *\"Your Choice. Your Point Of View.\"* highlighting 100% pure fruit sourced directly from Ismailia orchards.\n   - Fixed 4-destination navigation: **Home** (active in brand purple), **Menu**, **Bag (2)**, and **Account**."
+        },
+        {
+          "suggestion": "Generate the full 'Menu' screen with all drink categories"
+        },
+        {
+          "suggestion": "Design the 'POV Mango' Product Detail screen with customization options"
+        },
+        {
+          "suggestion": "Create the 'Bag' checkout slide-over drawer"
+        }
+      ],
+      "projectId": "16234525681964602718",
+      "sessionId": "16223038767986549058",
+      "designSystem": {
+        "designSystem": {
+          "displayName": "Color Study Editorial",
+          "styleGuidelines": "## Brand & Style\n\nThe design system embodies an editorial, gallery-grade aesthetic tailored for a high-end, fresh mango-first juice bar rooted in Cairo. Merging the restrained architectural discipline of Apple with the warm, apothecary intimacy of Aesop, the system positions artisanal fruit blending as a sensory craft and modern culinary ritual.\n\nThe visual tone is defined by vast, deliberate whitespace, structured hairline framing, and museum-like focus on hyper-realistic studio product photography. The UI avoids traditional quick-service eatery tropes—no garish splash graphics, busy badges, or loud promotional ribbons. Instead, it invites the user into a contemplative, sensory space where juice blends are cataloged like seasonal botanical vintages. Tactile sophistication, whisper-quiet micro-interactions, and pristine editorial balance evoke effortless luxury and pure ingredient integrity.\n\n## Layout & Spacing\n\nThe layout is built upon an architectural grid with deliberate, asymmetrical breathing room.\n\n- **Grid Architecture:** \n  - Mobile (390px base): 4-column fluid grid, 20px outer margin (`margin: 1.25rem`), 16px column gutter (`gutter: 1rem`).\n  - Tablet (768px): 8-column grid, 32px outer margin, 24px gutter.\n  - Desktop (1200px+): 12-column grid max-width container (1280px), 48px outer margin (`margin-desktop: 3rem`), 32px column gutter (`gutter-desktop: 2rem`).\n- **Whitespace Philosophy:** Spacing favors generous vertical stacking (`space-xl` and above) between curated product studies, creating an intentional pace that resists hurried scrolling. Product images bleed to edge or sit flush against hairline grid columns like an art catalogue.\n- **Rhythm & Structure:** Thin dividing rules (`#E5DED2`) delineate sections, accompanied by strict alignment of micro-label metadata to the left grid boundary and pricing/actions to the right.\n\n## Elevation & Depth\n\nVisual hierarchy is communicated through planar layering, hairline framing, and ambient, barely perceptible shadows, eschewing heavy 3D skeuomorphism or artificial elevation.\n\n- **Planar Stacking:** Surfaces advance using tinted grounding (`#FAF8F4` base against `#F3EFE8` inset panels or floating checkout drawers).\n- **Hairlines as Spatial Anchors:** All elevated elements (modals, sheets, sticky order bars) are outlined with a crisp 1px border of `#E5DED2`.\n- **Atmospheric Ambient Shadows:** When an element floats over imagery or content (e.g., sticky bag summary, bespoke modal sheets), it employs a wide, diffuse shadow: `box-shadow: 0 16px 40px -12px rgba(43, 22, 56, 0.06)`. The aubergine undertone in the shadow prevents dirty gray casts and keeps the light warm and natural.\n\n## Components\n\n### Buttons\n- **Primary Action:** Deep aubergine `#2B1638` background, warm white `#FAF8F4` text, 4px border radius, 48px mobile touch height. Zero heavy drop-shadows; hover state shifts subtly to brand purple `#7243AB`.\n- **Secondary / Ghost:** 1px hairline border `#E5DED2`, transparent background, `#2B1638` text. Hover transitions to `#F3EFE8` fill.\n- **Expressive Accent Button:** POV purple `#7243AB` solid background used exclusively for seasonal releases or primary conversion funnels.\n\n### Chips & Flavor Selectors\n- Pill-shaped or subtle 4px rounded rectangles. Default: `#FAF8F4` surface with 1px `#E5DED2` border and `#2B1638` body text.\n- Selected State: Outlined in `#7243AB` with a delicate 10% purple tint fill, or marked with a micro dot indicator in teal `#17AE9D` or yellow `#F9CD18` denoting flavor notes.\n\n### Cards & Editorial Vignettes\n- Structured around a tall 4:5 or 3:4 aspect ratio studio image of bottled nectar or fresh fruit compositions on neutral stone backgrounds.\n- Enclosed with 1px `#E5DED2` perimeter line or left unbordered with strict typographic alignment below.\n- Metadata layout: Uppercase tracking category label above, large serif item title, tasting notes in italic serif, and price aligned flush right.\n\n### Input Fields\n- Understated baseline or full-box with 1px `#E5DED2` border, `#FAF8F4` fill, and generous vertical padding (14px).\n- Focus State: Replaces border with `#7243AB` hairline without glowing outer rings. Placeholder text in `#9B8C9F`.\n\n### Checkboxes & Radio Selectors\n- Minimalist 18px squares/circles with 1px `#E5DED2` borders.\n- Checked State: Deep aubergine `#2B1638` fill with an ultra-thin white checkmark or inner dot.\n\n### Lists & Ingredient Breakdowns\n- Hairline horizontal dividers (`#E5DED2`) spanning edge-to-edge.\n- Left-aligned typographic label paired with right-aligned numeric measures (brix level, pulp ratio, origin) in micro-spaced uppercase sans-serif.\n\n### Sticky Bottom Bar (Mobile 390px)\n- Anchored to bottom with safe-area padding. Translucent `#FAF8F4` background with `backdrop-filter: blur(16px)` and a 1px top border in `#E5DED2`.\n- Houses order volume indicator, subtotal in deep aubergine, and full-width or side-car primary action button.",
+          "theme": {
+            "bodyFont": "INTER",
+            "bodyFontFamily": "Inter",
+            "colorMode": "LIGHT",
+            "colorVariant": "FIDELITY",
+            "customColor": "#7243ab",
+            "designMd": "---\nname: Color Study Editorial\ncolors:\n  surface: '#fff7fc'\n  surface-dim: '#eecffc'\n  surface-bright: '#fff7fc'\n  surface-container-lowest: '#ffffff'\n  surface-container-low: '#fdefff'\n  surface-container: '#fae8ff'\n  surface-container-high: '#f7e1ff'\n  surface-container-highest: '#f4d9ff'\n  on-surface: '#271234'\n  on-surface-variant: '#4b4451'\n  inverse-surface: '#3d284a'\n  inverse-on-surface: '#fcecff'\n  outline: '#7c7482'\n  outline-variant: '#cdc3d3'\n  surface-tint: '#7546ae'\n  primary: '#592991'\n  on-primary: '#ffffff'\n  primary-container: '#7243ab'\n  on-primary-container: '#e3caff'\n  inverse-primary: '#d9b9ff'\n  secondary: '#725c00'\n  on-secondary: '#ffffff'\n  secondary-container: '#fcd01d'\n  on-secondary-container: '#6f5900'\n  tertiary: '#004d44'\n  on-tertiary: '#ffffff'\n  tertiary-container: '#00675c'\n  on-tertiary-container: '#68e8d5'\n  error: '#ba1a1a'\n  on-error: '#ffffff'\n  error-container: '#ffdad6'\n  on-error-container: '#93000a'\n  primary-fixed: '#eedbff'\n  primary-fixed-dim: '#d9b9ff'\n  on-primary-fixed: '#2a0054'\n  on-primary-fixed-variant: '#5c2c94'\n  secondary-fixed: '#ffe07f'\n  secondary-fixed-dim: '#edc200'\n  on-secondary-fixed: '#231b00'\n  on-secondary-fixed-variant: '#564500'\n  tertiary-fixed: '#79f7e4'\n  tertiary-fixed-dim: '#59dac8'\n  on-tertiary-fixed: '#00201c'\n  on-tertiary-fixed-variant: '#005048'\n  background: '#fff7fc'\n  on-background: '#271234'\n  surface-variant: '#f4d9ff'\ntypography:\n  display-lg:\n    fontFamily: Newsreader\n    fontSize: 52px\n    fontWeight: '400'\n    lineHeight: 58px\n    letterSpacing: -0.02em\n  display-lg-mobile:\n    fontFamily: Newsreader\n    fontSize: 38px\n    fontWeight: '400'\n    lineHeight: 44px\n    letterSpacing: -0.015em\n  headline-lg:\n    fontFamily: Newsreader\n    fontSize: 36px\n    fontWeight: '400'\n    lineHeight: 42px\n    letterSpacing: -0.01em\n  headline-lg-mobile:\n    fontFamily: Newsreader\n    fontSize: 28px\n    fontWeight: '400'\n    lineHeight: 34px\n    letterSpacing: -0.01em\n  headline-md:\n    fontFamily: Newsreader\n    fontSize: 24px\n    fontWeight: '400'\n    lineHeight: 30px\n    letterSpacing: -0.005em\n  headline-sm:\n    fontFamily: Newsreader\n    fontSize: 20px\n    fontWeight: '400'\n    lineHeight: 26px\n    letterSpacing: 0em\n  body-lg:\n    fontFamily: Inter\n    fontSize: 16px\n    fontWeight: '400'\n    lineHeight: 26px\n    letterSpacing: -0.01em\n  body-md:\n    fontFamily: Inter\n    fontSize: 14px\n    fontWeight: '400'\n    lineHeight: 22px\n    letterSpacing: 0em\n  body-sm:\n    fontFamily: Inter\n    fontSize: 12px\n    fontWeight: '400'\n    lineHeight: 18px\n    letterSpacing: 0.01em\n  label-lg:\n    fontFamily: Inter\n    fontSize: 13px\n    fontWeight: '600'\n    lineHeight: 16px\n    letterSpacing: 0.08em\n  label-md:\n    fontFamily: Inter\n    fontSize: 11px\n    fontWeight: '500'\n    lineHeight: 14px\n    letterSpacing: 0.1em\n  label-sm:\n    fontFamily: Inter\n    fontSize: 10px\n    fontWeight: '600'\n    lineHeight: 12px\n    letterSpacing: 0.12em\nrounded:\n  sm: 0.125rem\n  DEFAULT: 0.25rem\n  md: 0.375rem\n  lg: 0.5rem\n  xl: 0.75rem\n  full: 9999px\nspacing:\n  gutter: 1rem\n  gutter-desktop: 2rem\n  margin: 1.25rem\n  margin-desktop: 3rem\n  space-xs: 0.25rem\n  space-sm: 0.5rem\n  space-md: 1rem\n  space-lg: 1.5rem\n  space-xl: 2.5rem\n---\n\n## Brand & Style\n\nThe design system embodies an editorial, gallery-grade aesthetic tailored for a high-end, fresh mango-first juice bar rooted in Cairo. Merging the restrained architectural discipline of Apple with the warm, apothecary intimacy of Aesop, the system positions artisanal fruit blending as a sensory craft and modern culinary ritual.\n\nThe visual tone is defined by vast, deliberate whitespace, structured hairline framing, and museum-like focus on hyper-realistic studio product photography. The UI avoids traditional quick-service eatery tropes—no garish splash graphics, busy badges, or loud promotional ribbons. Instead, it invites the user into a contemplative, sensory space where juice blends are cataloged like seasonal botanical vintages. Tactile sophistication, whisper-quiet micro-interactions, and pristine editorial balance evoke effortless luxury and pure ingredient integrity.\n\n## Colors\n\nThe palette is anchored in warm, sunlit organic neutrals, contrasted with deep, sculptural aubergine ink, and punctuated by precise, restrained chromatic signals.\n\n- **Background & Canvas:** `#FAF8F4` acts as the warm white foundation across all viewports. Secondary surfaces, such as subtle product panels or card insets, use an ultra-soft tint `#F3EFE8`.\n- **Text & Structure:** Deep aubergine `#2B1638` serves as the primary text, icon, and prominent structural element, imparting far greater richness and depth than flat neutral black. Secondary supporting text softens into `#6E5D77`, and subtle metadata into `#9B8C9F`.\n- **Hairline Dividers & Outlines:** `#E5DED2` forms delicate 1px borders that organize editorial grids without adding visual heaviness.\n- **Brand Accents:**\n  - **Primary Purple (`#7243AB`):** Used sparingly for key transactional triggers, active tabs, and refined focal moments.\n  - **Mango Yellow (`#F9CD18`):** Evokes sun-drenched Egyptian mango harvest, applied to selected botanical tags, highlights, and subtle rating accents.\n  - **Teal (`#17AE9D`):** Evokes refreshing vitality, reserved for cold-pressed identifiers and secondary nutritional badges.\n  - **Status:** Success `#17AE9D`, Warning `#F9CD18`, Error `#B83A4B`.\n\n## Typography\n\nThe typography pairs an authoritative, high-elegance editorial serif for display scales with a calibrated, modern grotesque sans-serif for UI clarity and informational rigor.\n\n- **Headlines & Editorial Titles:** Set in large, sentence-case serif with soft, natural phrasing. Refined italic variants should be used selectively for signature words, seasonal origins (e.g., *Ismailia*, *Alphonso*), or tasting notes to introduce rhythm and artisanal warmth.\n- **Body & Editorial Narratives:** Clean, uncluttered, set in deep aubergine at comfortable reading measures to convey provenance and craftsmanship.\n- **Micro-Labels & UI Indicators:** Set strictly in uppercase sans-serif with expanded tracking (`0.08em` to `0.12em`) and medium/semibold weight. This creates an apothecary-like cataloging hierarchy across price tags, origin stamps, and nutrition manifests.\n\n## Layout & Spacing\n\nThe layout is built upon an architectural grid with deliberate, asymmetrical breathing room.\n\n- **Grid Architecture:** \n  - Mobile (390px base): 4-column fluid grid, 20px outer margin (`margin: 1.25rem`), 16px column gutter (`gutter: 1rem`).\n  - Tablet (768px): 8-column grid, 32px outer margin, 24px gutter.\n  - Desktop (1200px+): 12-column grid max-width container (1280px), 48px outer margin (`margin-desktop: 3rem`), 32px column gutter (`gutter-desktop: 2rem`).\n- **Whitespace Philosophy:** Spacing favors generous vertical stacking (`space-xl` and above) between curated product studies, creating an intentional pace that resists hurried scrolling. Product images bleed to edge or sit flush against hairline grid columns like an art catalogue.\n- **Rhythm & Structure:** Thin dividing rules (`#E5DED2`) delineate sections, accompanied by strict alignment of micro-label metadata to the left grid boundary and pricing/actions to the right.\n\n## Elevation & Depth\n\nVisual hierarchy is communicated through planar layering, hairline framing, and ambient, barely perceptible shadows, eschewing heavy 3D skeuomorphism or artificial elevation.\n\n- **Planar Stacking:** Surfaces advance using tinted grounding (`#FAF8F4` base against `#F3EFE8` inset panels or floating checkout drawers).\n- **Hairlines as Spatial Anchors:** All elevated elements (modals, sheets, sticky order bars) are outlined with a crisp 1px border of `#E5DED2`.\n- **Atmospheric Ambient Shadows:** When an element floats over imagery or content (e.g., sticky bag summary, bespoke modal sheets), it employs a wide, diffuse shadow: `box-shadow: 0 16px 40px -12px rgba(43, 22, 56, 0.06)`. The aubergine undertone in the shadow prevents dirty gray casts and keeps the light warm and natural.\n\n## Shapes\n\nThe design language uses soft, measured curvature (`roundedness: 1`), conveying clean architectural precision rather than toy-like roundness.\n\n- **Interactive Controls & Inputs:** Base radius of `0.25rem` (4px) ensures crisp corners that maintain alignment with the hairline grid.\n- **Cards & Modals:** Standardized at `rounded-lg` (0.5rem / 8px) to soften the perimeter while respecting the editorial feel.\n- **Botanical / Flavor Badges:** Curated exceptions allow full pill capsules for micro-tags (e.g., harvest year, single-origin indicator) to contrast neatly against the rectilinear product frames.\n\n## Components\n\n### Buttons\n- **Primary Action:** Deep aubergine `#2B1638` background, warm white `#FAF8F4` text, 4px border radius, 48px mobile touch height. Zero heavy drop-shadows; hover state shifts subtly to brand purple `#7243AB`.\n- **Secondary / Ghost:** 1px hairline border `#E5DED2`, transparent background, `#2B1638` text. Hover transitions to `#F3EFE8` fill.\n- **Expressive Accent Button:** POV purple `#7243AB` solid background used exclusively for seasonal releases or primary conversion funnels.\n\n### Chips & Flavor Selectors\n- Pill-shaped or subtle 4px rounded rectangles. Default: `#FAF8F4` surface with 1px `#E5DED2` border and `#2B1638` body text.\n- Selected State: Outlined in `#7243AB` with a delicate 10% purple tint fill, or marked with a micro dot indicator in teal `#17AE9D` or yellow `#F9CD18` denoting flavor notes.\n\n### Cards & Editorial Vignettes\n- Structured around a tall 4:5 or 3:4 aspect ratio studio image of bottled nectar or fresh fruit compositions on neutral stone backgrounds.\n- Enclosed with 1px `#E5DED2` perimeter line or left unbordered with strict typographic alignment below.\n- Metadata layout: Uppercase tracking category label above, large serif item title, tasting notes in italic serif, and price aligned flush right.\n\n### Input Fields\n- Understated baseline or full-box with 1px `#E5DED2` border, `#FAF8F4` fill, and generous vertical padding (14px).\n- Focus State: Replaces border with `#7243AB` hairline without glowing outer rings. Placeholder text in `#9B8C9F`.\n\n### Checkboxes & Radio Selectors\n- Minimalist 18px squares/circles with 1px `#E5DED2` borders.\n- Checked State: Deep aubergine `#2B1638` fill with an ultra-thin white checkmark or inner dot.\n\n### Lists & Ingredient Breakdowns\n- Hairline horizontal dividers (`#E5DED2`) spanning edge-to-edge.\n- Left-aligned typographic label paired with right-aligned numeric measures (brix level, pulp ratio, origin) in micro-spaced uppercase sans-serif.\n\n### Sticky Bottom Bar (Mobile 390px)\n- Anchored to bottom with safe-area padding. Translucent `#FAF8F4` background with `backdrop-filter: blur(16px)` and a 1px top border in `#E5DED2`.\n- Houses order volume indicator, subtotal in deep aubergine, and full-width or side-car primary action button.",
+            "font": "NEWSREADER",
+            "headlineFont": "NEWSREADER",
+            "headlineFontFamily": "Newsreader",
+            "labelFont": "INTER",
+            "labelFontFamily": "Inter",
+            "namedColors": {
+              "background": "#fff7fc",
+              "error": "#ba1a1a",
+              "error_container": "#ffdad6",
+              "inverse_on_surface": "#fcecff",
+              "inverse_primary": "#d9b9ff",
+              "inverse_surface": "#3d284a",
+              "on_background": "#271234",
+              "on_error": "#ffffff",
+              "on_error_container": "#93000a",
+              "on_primary": "#ffffff",
+              "on_primary_container": "#e3caff",
+              "on_primary_fixed": "#2a0054",
+              "on_primary_fixed_variant": "#5c2c94",
+              "on_secondary": "#ffffff",
+              "on_secondary_container": "#6f5900",
+              "on_secondary_fixed": "#231b00",
+              "on_secondary_fixed_variant": "#564500",
+              "on_surface": "#271234",
+              "on_surface_variant": "#4b4451",
+              "on_tertiary": "#ffffff",
+              "on_tertiary_container": "#68e8d5",
+              "on_tertiary_fixed": "#00201c",
+              "on_tertiary_fixed_variant": "#005048",
+              "outline": "#7c7482",
+              "outline_variant": "#cdc3d3",
+              "primary": "#592991",
+              "primary_container": "#7243ab",
+              "primary_fixed": "#eedbff",
+              "primary_fixed_dim": "#d9b9ff",
+              "secondary": "#725c00",
+              "secondary_container": "#fcd01d",
+              "secondary_fixed": "#ffe07f",
+              "secondary_fixed_dim": "#edc200",
+              "surface": "#fff7fc",
+              "surface_bright": "#fff7fc",
+              "surface_container": "#fae8ff",
+              "surface_container_high": "#f7e1ff",
+              "surface_container_highest": "#f4d9ff",
+              "surface_container_low": "#fdefff",
+              "surface_container_lowest": "#ffffff",
+              "surface_dim": "#eecffc",
+              "surface_tint": "#7546ae",
+              "surface_variant": "#f4d9ff",
+              "tertiary": "#004d44",
+              "tertiary_container": "#00675c",
+              "tertiary_fixed": "#79f7e4",
+              "tertiary_fixed_dim": "#59dac8"
+            },
+            "overrideNeutralColor": "#2b1638",
+            "overridePrimaryColor": "#7243ab",
+            "overrideSecondaryColor": "#f9cd18",
+            "overrideTertiaryColor": "#17ae9d",
+            "roundness": "ROUND_FOUR",
+            "spacing": {
+              "gutter": "1rem",
+              "gutter-desktop": "2rem",
+              "margin": "1.25rem",
+              "margin-desktop": "3rem",
+              "space-lg": "1.5rem",
+              "space-md": "1rem",
+              "space-sm": "0.5rem",
+              "space-xl": "2.5rem",
+              "space-xs": "0.25rem"
+            },
+            "spacingScale": 2,
+            "typography": {
+              "body-lg": {
+                "fontFamily": "Inter",
+                "fontSize": "16px",
+                "fontWeight": "400",
+                "letterSpacing": "-0.01em",
+                "lineHeight": "26px"
+              },
+              "body-md": {
+                "fontFamily": "Inter",
+                "fontSize": "14px",
+                "fontWeight": "400",
+                "letterSpacing": "0em",
+                "lineHeight": "22px"
+              },
+              "body-sm": {
+                "fontFamily": "Inter",
+                "fontSize": "12px",
+                "fontWeight": "400",
+                "letterSpacing": "0.01em",
+                "lineHeight": "18px"
+              },
+              "display-lg": {
+                "fontFamily": "Newsreader",
+                "fontSize": "52px",
+                "fontWeight": "400",
+                "letterSpacing": "-0.02em",
+                "lineHeight": "58px"
+              },
+              "display-lg-mobile": {
+                "fontFamily": "Newsreader",
+                "fontSize": "38px",
+                "fontWeight": "400",
+                "letterSpacing": "-0.015em",
+                "lineHeight": "44px"
+              },
+              "headline-lg": {
+                "fontFamily": "Newsreader",
+                "fontSize": "36px",
+                "fontWeight": "400",
+                "letterSpacing": "-0.01em",
+                "lineHeight": "42px"
+              },
+              "headline-lg-mobile": {
+                "fontFamily": "Newsreader",
+                "fontSize": "28px",
+                "fontWeight": "400",
+                "letterSpacing": "-0.01em",
+                "lineHeight": "34px"
+              },
+              "headline-md": {
+                "fontFamily": "Newsreader",
+                "fontSize": "24px",
+                "fontWeight": "400",
+                "letterSpacing": "-0.005em",
+                "lineHeight": "30px"
+              },
+              "headline-sm": {
+                "fontFamily": "Newsreader",
+                "fontSize": "20px",
+                "fontWeight": "400",
+                "letterSpacing": "0em",
+                "lineHeight": "26px"
+              },
+              "label-lg": {
+                "fontFamily": "Inter",
+                "fontSize": "13px",
+                "fontWeight": "600",
+                "letterSpacing": "0.08em",
+                "lineHeight": "16px"
+              },
+              "label-md": {
+                "fontFamily": "Inter",
+                "fontSize": "11px",
+                "fontWeight": "500",
+                "letterSpacing": "0.1em",
+                "lineHeight": "14px"
+              },
+              "label-sm": {
+                "fontFamily": "Inter",
+                "fontSize": "10px",
+                "fontWeight": "600",
+                "letterSpacing": "0.12em",
+                "lineHeight": "12px"
+              }
+            }
+          }
+        },
+        "name": "assets/01ff00b7f5d74024a71c792ede9ba442",
+        "version": "1"
+      },
+      "deviceType": "MOBILE",
+      "generatedBy": "figaro_agent",
+      "height": "4424",
+      "htmlCode": {
+        "downloadUrl": "https://contribution.usercontent.google.com/download?c=CgthaWRhX2NvZGVmeBJ8Eh1hcHBfY29tcGFuaW9uX2dlbmVyYXRlZF9maWxlcxpbCiVodG1sXzM4NTczZTZjODA0YzQyMTM5ZGE3OTgzZTMxOTg0ZTRkEgsSBxCu-qfdvhIYAZIBJAoKcHJvamVjdF9pZBIWQhQxNjIzNDUyNTY4MTk2NDYwMjcxOA&filename=&opi=96797242",
+        "mimeType": "text/html",
+        "name": "projects/16234525681964602718/files/f6ded3fbf23b485097938206053def39"
+      },
+      "id": "75d805ec60ed427cbab8fdff2f1f7fbc",
+      "name": "projects/16234525681964602718/screens/75d805ec60ed427cbab8fdff2f1f7fbc",
+      "prompt": "HOME SCREEN for POV (بوف) - Cairo's premium mango-first juice bar.\nMobile screen, 390px wide, LIGHT theme only.\nBackground canvas: warm white #FAF8F4 throughout, text in deep aubergine #2B1638, hairline dividers #E5DED2, accent POV purple #7243AB.\n\nTypography rules:\n- Headings: 'Instrument Serif', serif (large, elegant, sentence case, occasional refined italic).\n- Body and microcopy: 'Inter', sans-serif, crisp tracking, small uppercase letter-spaced category labels.\n\nHEADER (Top bar):\n- Minimal sticky header on #FAF8F4.\n- Left: search icon (Material Symbols 'search').\n- Center: Centered POV geometric wordmark logo where P is purple (<span style=\"color:#7243AB\">P</span>), O is yellow (<span style=\"color:#F9CD18\">O</span>), V is teal (<span style=\"color:#17AE9D\">V</span>), with a tiny discreet Arabic mark below or beside (بوف).\n- Right: bag icon (Material Symbols 'shopping_bag') with a small refined badge showing '2'.\n\nHERO SECTION:\n- Above photo headline:\n  - Small uppercase kicker: \"ZAMALEK & NEW CAIRO\" or \"PRESSED FRESH DAILY\" with letter-spacing tracking-widest.\n  - Serif headline: \"Fresh mango, pressed to order.\"\n  - Short subtitle line: \"Cut and poured in Cairo every morning.\"\n  - Quiet text link button: \"View the menu →\" in deep aubergine with underline or quiet arrow.\n- Hero product image:\n  - Tall color-block product photo using {{DATA:IMAGE:IMAGE_8}} (POV Mango in clear dome cup on butter-yellow backdrop with fresh mango slices). Rounded corners (e.g. rounded-2xl), clean presentation.\n  - Small caption or tag: \"POV Mango\" — \"95 EGP\".\n\nCOLOR STUDY PRODUCT GRID (2-column grid):\n- Section header: quiet uppercase label \"COLOR STUDY / FRESH JUICES\" or \"THE COLLECTION\" with hairline border.\n- 2-column grid of square color-block product cards:\n  1. Fresh Orange: Image {{DATA:IMAGE:IMAGE_6}}, Name \"Fresh Orange\" in Instrument Serif, Price \"70 EGP\" in small Inter text.\n  2. Guava Nectar: Image {{DATA:IMAGE:IMAGE_4}}, Name \"Guava Nectar\" in Instrument Serif, Price \"80 EGP\" in small Inter text.\n  3. Watermelon Mint: Image {{DATA:IMAGE:IMAGE_5}}, Name \"Watermelon Mint\" in Instrument Serif, Price \"75 EGP\" in small Inter text.\n  4. Sugarcane Lime: Image {{DATA:IMAGE:IMAGE_3}}, Name \"Sugarcane Lime\" in Instrument Serif, Price \"60 EGP\" in small Inter text.\n- Each card has rounded-2xl corners, clean minimal framing, with title and price neatly placed below each image.\n\n\"IN SEASON\" SECTION:\n- Section header with small uppercase label \"IN SEASON\" and month label \"OCTOBER\" on the right.\n- Headline: \"Pomegranate Press\" in serif with short note \"Hand-seeded Upper Egypt pomegranates.\"\n- One wide photo using {{DATA:IMAGE:IMAGE_2}} (Pomegranate Press in clear cup with ruby arils on warm backdrop).\n- Price and action: \"105 EGP\" and a subtle \"Order Seasonal\" button/tag.\n\nBRAND STORYTELLING / ETHOS (Aesop meets Apple studio feel):\n- Subtle minimal banner: \"Your Choice. Your Point Of View.\"\n- Cairo craft note: \"100% pure fruit. Zero added sugar or syrups. Sourced from Ismailia orchards.\"\n\nBOTTOM NAVIGATION:\n- Fixed bottom bar on #FAF8F4 with hairline top border #E5DED2.\n- 4 navigation tabs:\n  1. Home (active, colored #7243AB, icon 'home' or 'local_florist')\n  2. Menu (icon 'restaurant_menu')\n  3. Bag (icon 'shopping_bag' with small pill badge '2')\n  4. Account (icon 'person')\n- Generous bottom padding for safe area.",
+      "screenMetadata": {
+        "agentType": "PRO_AGENT",
+        "status": "COMPLETE"
+      },
+      "screenType": "DESIGN",
+      "screenshot": {
+        "downloadUrl": "https://lh3.googleusercontent.com/aida/AEtjO1X_RrI6yK4scnRy5nDGRxx-g4SyMJQePzK_y0tCBswiDwNKNs0mmwvTkpidWMZ-lVk6KDKuwOlgnA8fIE7uGeY43zEq45wVVat23y9dcQhFFnjtbwG1sihixhPUA__mz5L2u8_9nd35oOTrqfvIbsTBXSvoZZoMJZL73p2jrvmr5u8JklO8nFtbrIT1Lx5RhOmu04YBMnckUJXettznP8FhRbPt08XgvT1lAYrIzBEmBQAeKKi0e2OlCfMv",
+        "name": "projects/16234525681964602718/files/f4f9c5b5c5f34192bd6e26a2a84430a0"
+      },
+      "theme": {
+        "bodyFont": "INTER",
+        "bodyFontFamily": "Inter",
+        "colorMode": "LIGHT",
+        "colorVariant": "FIDELITY",
+        "customColor": "#7243ab",
+        "font": "NEWSREADER",
+        "headlineFont": "NEWSREADER",
+        "headlineFontFamily": "Newsreader",
+        "labelFont": "INTER",
+        "labelFontFamily": "Inter",
+        "namedColors": {
+          "background": "#fff7fc",
+          "error": "#ba1a1a",
+          "error_container": "#ffdad6",
+          "inverse_on_surface": "#fcecff",
+          "inverse_primary": "#d9b9ff",
+          "inverse_surface": "#3d284a",
+          "on_background": "#271234",
+          "on_error": "#ffffff",
+          "on_error_container": "#93000a",
+          "on_primary": "#ffffff",
+          "on_primary_container": "#e3caff",
+          "on_primary_fixed": "#2a0054",
+          "on_primary_fixed_variant": "#5c2c94",
+          "on_secondary": "#ffffff",
+          "on_secondary_container": "#6f5900",
+          "on_secondary_fixed": "#231b00",
+          "on_secondary_fixed_variant": "#564500",
+          "on_surface": "#271234",
+          "on_surface_variant": "#4b4451",
+          "on_tertiary": "#ffffff",
+          "on_tertiary_container": "#68e8d5",
+          "on_tertiary_fixed": "#00201c",
+          "on_tertiary_fixed_variant": "#005048",
+          "outline": "#7c7482",
+          "outline_variant": "#cdc3d3",
+          "primary": "#592991",
+          "primary_container": "#7243ab",
+          "primary_fixed": "#eedbff",
+          "primary_fixed_dim": "#d9b9ff",
+          "secondary": "#725c00",
+          "secondary_container": "#fcd01d",
+          "secondary_fixed": "#ffe07f",
+          "secondary_fixed_dim": "#edc200",
+          "surface": "#fff7fc",
+          "surface_bright": "#fff7fc",
+          "surface_container": "#fae8ff",
+          "surface_container_high": "#f7e1ff",
+          "surface_container_highest": "#f4d9ff",
+          "surface_container_low": "#fdefff",
+          "surface_container_lowest": "#ffffff",
+          "surface_dim": "#eecffc",
+          "surface_tint": "#7546ae",
+          "surface_variant": "#f4d9ff",
+          "tertiary": "#004d44",
+          "tertiary_container": "#00675c",
+          "tertiary_fixed": "#79f7e4",
+          "tertiary_fixed_dim": "#59dac8"
+        },
+        "overrideNeutralColor": "#2b1638",
+        "overridePrimaryColor": "#7243ab",
+        "overrideSecondaryColor": "#f9cd18",
+        "overrideTertiaryColor": "#17ae9d",
+        "roundness": "ROUND_FOUR",
+        "spacing": {
+          "gutter": "1rem",
+          "gutter-desktop": "2rem",
+          "margin": "1.25rem",
+          "margin-desktop": "3rem",
+          "space-lg": "1.5rem",
+          "space-md": "1rem",
+          "space-sm": "0.5rem",
+          "space-xl": "2.5rem",
+          "space-xs": "0.25rem"
+        },
+        "spacingScale": 2,
+        "typography": {
+          "body-lg": {
+            "fontFamily": "Inter",
+            "fontSize": "16px",
+            "fontWeight": "400",
+            "letterSpacing": "-0.01em",
+            "lineHeight": "26px"
+          },
+          "body-md": {
+            "fontFamily": "Inter",
+            "fontSize": "14px",
+            "fontWeight": "400",
+            "letterSpacing": "0em",
+            "lineHeight": "22px"
+          },
+          "body-sm": {
+            "fontFamily": "Inter",
+            "fontSize": "12px",
+            "fontWeight": "400",
+            "letterSpacing": "0.01em",
+            "lineHeight": "18px"
+          },
+          "display-lg": {
+            "fontFamily": "Newsreader",
+            "fontSize": "52px",
+            "fontWeight": "400",
+            "letterSpacing": "-0.02em",
+            "lineHeight": "58px"
+          },
+          "display-lg-mobile": {
+            "fontFamily": "Newsreader",
+            "fontSize": "38px",
+            "fontWeight": "400",
+            "letterSpacing": "-0.015em",
+            "lineHeight": "44px"
+          },
+          "headline-lg": {
+            "fontFamily": "Newsreader",
+            "fontSize": "36px",
+            "fontWeight": "400",
+            "letterSpacing": "-0.01em",
+            "lineHeight": "42px"
+          },
+          "headline-lg-mobile": {
+            "fontFamily": "Newsreader",
+            "fontSize": "28px",
+            "fontWeight": "400",
+            "letterSpacing": "-0.01em",
+            "lineHeight": "34px"
+          },
+          "headline-md": {
+            "fontFamily": "Newsreader",
+            "fontSize": "24px",
+            "fontWeight": "400",
+            "letterSpacing": "-0.005em",
+            "lineHeight": "30px"
+          },
+          "headline-sm": {
+            "fontFamily": "Newsreader",
+            "fontSize": "20px",
+            "fontWeight": "400",
+            "letterSpacing": "0em",
+            "lineHeight": "26px"
+          },
+          "label-lg": {
+            "fontFamily": "Inter",
+            "fontSize": "13px",
+            "fontWeight": "600",
+            "letterSpacing": "0.08em",
+            "lineHeight": "16px"
+          },
+          "label-md": {
+            "fontFamily": "Inter",
+            "fontSize": "11px",
+            "fontWeight": "500",
+            "letterSpacing": "0.1em",
+            "lineHeight": "14px"
+          },
+          "label-sm": {
+            "fontFamily": "Inter",
+            "fontSize": "10px",
+            "fontWeight": "600",
+            "letterSpacing": "0.12em",
+            "lineHeight": "12px"
+          }
+        }
+      },
+      "title": "POV - Home Screen",
+      "width": "780",
+      "images": [
+        {
+          "generatedBy": "interactive_ui_controller",
+          "height": "896",
+          "id": "22e4da87174141f582139dca6c846888",
+          "name": "projects/16234525681964602718/screens/22e4da87174141f582139dca6c846888",
+          "prompt": "Commercial studio product photography: a single clear PET plastic cup with a transparent dome lid and a white straw, full of thick golden rich fresh Egyptian mango juice, standing on a seamless warm butter-yellow backdrop (#FEE3A0). Soft natural daylight from the left, gentle soft shadow cast on the surface. Sliced juicy ripe mango halves showing rich orange-yellow flesh neatly arranged beside the cup. Crisp condensation water droplets on the clear cup. Clean, minimalist studio setup, shot at 85mm lens, shallow depth of field, sharp focus, photorealistic, no text, no logos, no labels, 8k resolution.",
+          "screenMetadata": {
+            "agentType": "PRO_AGENT",
+            "status": "COMPLETE"
+          },
+          "screenType": "IMAGE",
+          "screenshot": {
+            "downloadUrl": "https://lh3.googleusercontent.com/aida/AEtjO1Xx8r69r6gKt4rBIi-6mjwty7LxyVXdGyoMQhZv_X6qVaPjQMq9rn7RyMW_rtHI5hlgsQ5mN1QP77cSMGDUAMcrIinp3svCLhxwRSquKUBMUC4p-unOtDzjJI7K6noBIeAFukzmex8qf98GeKMlF6y4MihTLXY6YQn4NhoilngYa1E3B-zunbSTYjKy-q0x8ZjOW05s4VeaiMo4S0j1D8tiB4RpPhrLrjgXHgtCdh9EGy4WkbRjjeqMl_8L",
+            "name": "projects/16234525681964602718/files/4eececbcdf2b41c5a4dd17f316f7b611"
+          },
+          "theme": {},
+          "title": "Commercial studio product photography: a single clear PET plastic cup with a transparent dome lid and a white straw, full of thick golden rich fresh Egyptian mango juice, standing on a seamless warm butter-yellow backdrop (#FEE3A0). Soft natural daylight from the left, gentle soft shadow cast on the surface. Sliced juicy ripe mango halves showing rich orange-yellow flesh neatly arranged beside the cup. Crisp condensation water droplets on the clear cup. Clean, minimalist studio setup, shot at 85mm lens, shallow depth of field, sharp focus, photorealistic, no text, no logos, no labels, 8k resolution.",
+          "width": "1200",
+          "imageUrl": "https://lh3.googleusercontent.com/aida/AEtjO1Xx8r69r6gKt4rBIi-6mjwty7LxyVXdGyoMQhZv_X6qVaPjQMq9rn7RyMW_rtHI5hlgsQ5mN1QP77cSMGDUAMcrIinp3svCLhxwRSquKUBMUC4p-unOtDzjJI7K6noBIeAFukzmex8qf98GeKMlF6y4MihTLXY6YQn4NhoilngYa1E3B-zunbSTYjKy-q0x8ZjOW05s4VeaiMo4S0j1D8tiB4RpPhrLrjgXHgtCdh9EGy4WkbRjjeqMl_8L"
+        }
+      ],
+      "agentText": "Here is the mobile **Home Screen** for **POV (بوف)**, Cairo's premium mango-first juice bar.\n\n### Design Highlights & \"Color Study\" Art Direction\n1. **Header & Brand Identity**:\n   - Centered geometric **POV** wordmark with the brand colorway: purple **P** (`#7243AB`), yellow **O** (`#F9CD18`), and teal **V** (`#17AE9D`), paired with the subtle Arabic mark **بوف**.\n   - Balanced with a search icon on the left and a shopping bag with cart count badge `2` on the right.\n\n2. **Hero Feature — \"Fresh mango, pressed to order\"**:\n   - Location tag: `ZAMALEK & NEW CAIRO · PRESSED FRESH DAILY`.\n   - Editorial headline in *Instrument Serif*, accompanied by the subtitle *\"Cut and poured in Cairo every morning.\"* and the subtle text link *\"View the menu →\"*.\n   - Commercial studio hero photo of the signature **POV Mango (95 EGP)** in a clear PET dome cup set against a butter-yellow seamless backdrop (`#FEE3A0`).\n\n3. **Color Study 2-Column Product Grid**:\n   - Each juice is photographed in real studio lighting on its fruit-tone backdrop:\n     - **Fresh Orange (70 EGP)** — Baladi citrus\n     - **Guava Nectar (80 EGP)** — Delta valley pink guava\n     - **Watermelon Mint (75 EGP)** — Sinai red watermelon\n     - **Sugarcane Lime (60 EGP)** — Upper Egypt cane\n   - Clean typographic pairing of serif titles with precise sans-serif pricing and origin notes.\n\n4. **\"In Season\" October Feature**:\n   - Highlighting **Pomegranate Press (105 EGP)** with Upper Egypt provenance notes, brix level, cold press specs, and a direct CTA button.\n\n5. **Brand Ethos & Bottom Navigation**:\n   - Clean statement for *\"Your Choice. Your Point Of View.\"* highlighting 100% pure fruit sourced directly from Ismailia orchards.\n   - Fixed 4-destination navigation: **Home** (active in brand purple), **Menu**, **Bag (2)**, and **Account**.",
+      "suggestions": [
+        "Generate the full 'Menu' screen with all drink categories",
+        "Design the 'POV Mango' Product Detail screen with customization options",
+        "Create the 'Bag' checkout slide-over drawer"
+      ],
+      "imageUrl": "https://lh3.googleusercontent.com/aida/AEtjO1X_RrI6yK4scnRy5nDGRxx-g4SyMJQePzK_y0tCBswiDwNKNs0mmwvTkpidWMZ-lVk6KDKuwOlgnA8fIE7uGeY43zEq45wVVat23y9dcQhFFnjtbwG1sihixhPUA__mz5L2u8_9nd35oOTrqfvIbsTBXSvoZZoMJZL73p2jrvmr5u8JklO8nFtbrIT1Lx5RhOmu04YBMnckUJXettznP8FhRbPt08XgvT1lAYrIzBEmBQAeKKi0e2OlCfMv"
+    }
+  }
+}

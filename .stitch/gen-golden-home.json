@@ -1,0 +1,1185 @@
+{
+  "success": true,
+  "data": {
+    "resource": "screen",
+    "id": "844cba6d12014c8ea69b5b672f2c3e38",
+    "project": "16234525681964602718",
+    "title": "POV Home - Golden Hour",
+    "device": "MOBILE",
+    "screenType": "DESIGN",
+    "canvasUrl": "https://stitch.google.com/projects/16234525681964602718?node-id=844cba6d12014c8ea69b5b672f2c3e38",
+    "imageUrl": "https://lh3.googleusercontent.com/aida/AEtjO1UbEHn2EaAS-O6Za6dDRaiK_H3tP3kQ3zuiSjNH18bDIQAwMWnQbFIUt04KPplum9y0n-vCPOdCOMuuLTG0ryBt-galloCf8rcn8Y6fjX2RIMEEGf7p3JobzdfB8u9T-Ad5bbj9XHFjOsMSeaRrsg4jn0GALc-UAGxKCdIwtgmuUKlVwPoWCwciMNixTlPob-c9MI0iQVfkXYZaI7GlloQq0OXwN7qxc5ncAr442y6TWBRTaJoyHpmS_q-O",
+    "htmlCode": {
+      "downloadUrl": "https://contribution.usercontent.google.com/download?c=CgthaWRhX2NvZGVmeBJ8Eh1hcHBfY29tcGFuaW9uX2dlbmVyYXRlZF9maWxlcxpbCiVodG1sX2JmMGU5M2RmOGUyMzQ4ZDM5Y2I2MjkzMmFiZjkzMjdjEgsSBxCu-qfdvhIYAZIBJAoKcHJvamVjdF9pZBIWQhQxNjIzNDUyNTY4MTk2NDYwMjcxOA&filename=&opi=96797242",
+      "mimeType": "text/html",
+      "name": "projects/16234525681964602718/files/802836cb493f493c816294383106d060"
+    },
+    "images": [
+      {
+        "generatedBy": "interactive_ui_controller",
+        "height": "1200",
+        "id": "e69295dc4e3948bbafe1f292c9642241",
+        "name": "projects/16234525681964602718/screens/e69295dc4e3948bbafe1f292c9642241",
+        "prompt": "Commercial lifestyle food photography: a single clear PET plastic cup with a transparent dome lid and white straw filled with rich, vibrant, golden-orange fresh mango juice with ice condensation on the cup, sitting on a warm sun-bleached terracotta stone ledge. Dramatic late-afternoon golden hour Cairo sunlight casting crisp, deep palm-leaf shadows across the cup and surface. Rich golden glow, backlit liquid, real ripe sliced mangoes with deep orange flesh and green skins resting beside the cup on stone. Minimalist, premium summer campaign aesthetic, editorial, high-end studio lifestyle shoot, 85mm lens, sharp focus, 8k, absolutely no text or watermark.",
+        "screenMetadata": {
+          "agentType": "PRO_AGENT",
+          "status": "COMPLETE"
+        },
+        "screenType": "IMAGE",
+        "screenshot": {
+          "downloadUrl": "https://lh3.googleusercontent.com/aida/AEtjO1XB5Ght7Vs3rRYNSOlw3X1StcYBVDUz2YC8xaXA8AK8gSH0jjHtvYI_0t0QLhUooyQbPOvEhGUoXx-N2Sd9x7dWz0Lc5bvwwjE29eKODM2zbrVdRXofvy-YZ2hJtG4Wf6_GSR3kMPQ6G_UAOWGcMZx3BslSPTA1r5ubzi9QMEQMjpQ0-klEDKXN3EUv8iv4bUT4r-lV6KICvixb3QEkUHeaxPseu24wcHDEhVXJxuWwsN9ait703zjgf8w",
+          "name": "projects/16234525681964602718/files/6b2f68af45a0421d81adde6b1430fd07"
+        },
+        "theme": {},
+        "title": "Commercial lifestyle food photography: a single clear PET plastic cup with a transparent dome lid and white straw filled with rich, vibrant, golden-orange fresh mango juice with ice condensation on the cup, sitting on a warm sun-bleached terracotta stone ledge. Dramatic late-afternoon golden hour Cairo sunlight casting crisp, deep palm-leaf shadows across the cup and surface. Rich golden glow, backlit liquid, real ripe sliced mangoes with deep orange flesh and green skins resting beside the cup on stone. Minimalist, premium summer campaign aesthetic, editorial, high-end studio lifestyle shoot, 85mm lens, sharp focus, 8k, absolutely no text or watermark.",
+        "width": "896",
+        "imageUrl": "https://lh3.googleusercontent.com/aida/AEtjO1XB5Ght7Vs3rRYNSOlw3X1StcYBVDUz2YC8xaXA8AK8gSH0jjHtvYI_0t0QLhUooyQbPOvEhGUoXx-N2Sd9x7dWz0Lc5bvwwjE29eKODM2zbrVdRXofvy-YZ2hJtG4Wf6_GSR3kMPQ6G_UAOWGcMZx3BslSPTA1r5ubzi9QMEQMjpQ0-klEDKXN3EUv8iv4bUT4r-lV6KICvixb3QEkUHeaxPseu24wcHDEhVXJxuWwsN9ait703zjgf8w"
+      },
+      {
+        "generatedBy": "interactive_ui_controller",
+        "height": "1200",
+        "id": "1935120132cc4b0aa5d6a69aa55928e5",
+        "name": "projects/16234525681964602718/screens/1935120132cc4b0aa5d6a69aa55928e5",
+        "prompt": "Commercial food photography: a clear plastic cup with a dome lid and straw, showing a vibrant layered drink of rich yellow mango juice and bright red fresh strawberry juice, sitting on warm rustic sandstone under warm golden hour sunlight with delicate palm frond shadows. Fresh sliced strawberries and mango cheek beside the cup. Crisp condensation droplets, photorealistic commercial product shot, 8k, no text.",
+        "screenMetadata": {
+          "agentType": "PRO_AGENT",
+          "status": "COMPLETE"
+        },
+        "screenType": "IMAGE",
+        "screenshot": {
+          "downloadUrl": "https://lh3.googleusercontent.com/aida/AEtjO1Wo6kEPbzTR7MRjDonPt7hGaSGHRyaTdN6XpfpuMn0t5FvuY8ikBXgW3wFA_60jYAtmsccGFPNRJnYhP26IxU8c7J4sljXAe61kUAL67YBGMnnZHeeUUngjI3A-WMNcAFSQmhUl-UDgMppCXtx-qCvquDyk3ZhilYRm364BS8zE72_QcG_W7bH3Agg9JzRtnpV84xD8Zr_Di9TpmHAJxjN6T_DimW2_7SZlsQ4WGZEyINiBaplGlIIzEUPn",
+          "name": "projects/16234525681964602718/files/cb3e68d5143746369b7dbfa48f7ce463"
+        },
+        "theme": {},
+        "title": "Commercial food photography: a clear plastic cup with a dome lid and straw, showing a vibrant layered drink of rich yellow mango juice and bright red fresh strawberry juice, sitting on warm rustic sandstone under warm golden hour sunlight with delicate palm frond shadows. Fresh sliced strawberries and mango cheek beside the cup. Crisp condensation droplets, photorealistic commercial product shot, 8k, no text.",
+        "width": "896",
+        "imageUrl": "https://lh3.googleusercontent.com/aida/AEtjO1Wo6kEPbzTR7MRjDonPt7hGaSGHRyaTdN6XpfpuMn0t5FvuY8ikBXgW3wFA_60jYAtmsccGFPNRJnYhP26IxU8c7J4sljXAe61kUAL67YBGMnnZHeeUUngjI3A-WMNcAFSQmhUl-UDgMppCXtx-qCvquDyk3ZhilYRm364BS8zE72_QcG_W7bH3Agg9JzRtnpV84xD8Zr_Di9TpmHAJxjN6T_DimW2_7SZlsQ4WGZEyINiBaplGlIIzEUPn"
+      },
+      {
+        "generatedBy": "interactive_ui_controller",
+        "height": "1200",
+        "id": "d33acc40a7d0469580e8dd0d8ddf15bc",
+        "name": "projects/16234525681964602718/screens/d33acc40a7d0469580e8dd0d8ddf15bc",
+        "prompt": "Commercial food photography: a clear plastic cup with dome lid and straw filled with an exotic layered Egyptian cocktail juice (vibrant layers of rich mango, ruby strawberry, pink guava, and creamy pale green avocado puree), sitting on warm terracotta stone bathed in warm golden hour afternoon sunlight with soft palm shadow streaks. Fresh fruit garnishes nearby. Ultra photorealistic, crisp condensation, 8k, no text.",
+        "screenMetadata": {
+          "agentType": "PRO_AGENT",
+          "status": "COMPLETE"
+        },
+        "screenType": "IMAGE",
+        "screenshot": {
+          "downloadUrl": "https://lh3.googleusercontent.com/aida/AEtjO1X2Z26ojsi_eQrRwj49SeBneMD_y0X2lv69D6Hwk3e6HTV0VYjFyL3B_h7raL5IbGAlEnYtGs8GTuykg1kQ6FaxRDE0rWqiOoWJJAnm8AbLh2sbYyf-Q3GC_107AuJf-XAg9LwGMLGhNEoHnxwOOrVvVm1-5sEHAwUltA_tcBWZKo-fVI9fodtX2Gf79PykODu0a8SEML-Odf_RNE--T0BX6WARW_GaJFUuaA8YEzWRtbDfsfT8DdwqLV1Q",
+          "name": "projects/16234525681964602718/files/1e204c4a738d4020acee5c27b511caba"
+        },
+        "theme": {},
+        "title": "Commercial food photography: a clear plastic cup with dome lid and straw filled with an exotic layered Egyptian cocktail juice (vibrant layers of rich mango, ruby strawberry, pink guava, and creamy pale green avocado puree), sitting on warm terracotta stone bathed in warm golden hour afternoon sunlight with soft palm shadow streaks. Fresh fruit garnishes nearby. Ultra photorealistic, crisp condensation, 8k, no text.",
+        "width": "896",
+        "imageUrl": "https://lh3.googleusercontent.com/aida/AEtjO1X2Z26ojsi_eQrRwj49SeBneMD_y0X2lv69D6Hwk3e6HTV0VYjFyL3B_h7raL5IbGAlEnYtGs8GTuykg1kQ6FaxRDE0rWqiOoWJJAnm8AbLh2sbYyf-Q3GC_107AuJf-XAg9LwGMLGhNEoHnxwOOrVvVm1-5sEHAwUltA_tcBWZKo-fVI9fodtX2Gf79PykODu0a8SEML-Odf_RNE--T0BX6WARW_GaJFUuaA8YEzWRtbDfsfT8DdwqLV1Q"
+      },
+      {
+        "generatedBy": "interactive_ui_controller",
+        "height": "768",
+        "id": "88832eaa21514fec90fec73257cd3e09",
+        "name": "projects/16234525681964602718/screens/88832eaa21514fec90fec73257cd3e09",
+        "prompt": "Commercial editorial food photography banner: ripe Egyptian Keitt mangoes sliced open showing juicy deep orange flesh, alongside a chilled clear cup of golden mango juice with dome lid and condensation on a warm sun-drenched limestone ledge with dramatic warm golden hour light and palm leaf shadows. Premium summer luxury fruit campaign, photorealistic, 8k, no text.",
+        "screenMetadata": {
+          "agentType": "PRO_AGENT",
+          "status": "COMPLETE"
+        },
+        "screenType": "IMAGE",
+        "screenshot": {
+          "downloadUrl": "https://lh3.googleusercontent.com/aida/AEtjO1U_4SdITF-y_sYYtw4vFSfbdUERIIzAmvSeswzeuD717892ng6U-ntUV6BqVipZEiX9uGa3VRf6o7IkVTPFoCUr_BYlNoU9beVUiUENw5EnJzQU310dD1ixBMDLNXYLM2PQu4ArJtlCX41vNyv7leoRqPUXl2ssZD0Vxt0t-UB128vZVZRmLi6PEZ5DaQalqJNw3jjAoOfjaIqxgJv94Gjr7NQeECN7fq4f50-k-fitrmr4meFsczb6Zoho",
+          "name": "projects/16234525681964602718/files/b7590841ecfc4983839661fa115c2d4c"
+        },
+        "theme": {},
+        "title": "Commercial editorial food photography banner: ripe Egyptian Keitt mangoes sliced open showing juicy deep orange flesh, alongside a chilled clear cup of golden mango juice with dome lid and condensation on a warm sun-drenched limestone ledge with dramatic warm golden hour light and palm leaf shadows. Premium summer luxury fruit campaign, photorealistic, 8k, no text.",
+        "width": "1376",
+        "imageUrl": "https://lh3.googleusercontent.com/aida/AEtjO1U_4SdITF-y_sYYtw4vFSfbdUERIIzAmvSeswzeuD717892ng6U-ntUV6BqVipZEiX9uGa3VRf6o7IkVTPFoCUr_BYlNoU9beVUiUENw5EnJzQU310dD1ixBMDLNXYLM2PQu4ArJtlCX41vNyv7leoRqPUXl2ssZD0Vxt0t-UB128vZVZRmLi6PEZ5DaQalqJNw3jjAoOfjaIqxgJv94Gjr7NQeECN7fq4f50-k-fitrmr4meFsczb6Zoho"
+      }
+    ],
+    "rawScreen": {
+      "outputComponents": [
+        {
+          "designSystem": {
+            "designSystem": {
+              "displayName": "POV Golden Hour",
+              "styleGuidelines": "## Brand & Style\n\nThe design system establishes a high-energy, sensory-driven luxury editorial experience centered around Egypt's seasonal mango culture. Tailored for urban tastemakers and culinary enthusiasts in Cairo, the visual tone balances the relaxed opulence of Mediterranean golden hour with bold, contemporary street-level warmth.\n\nThe style fuses High-Contrast Editorial with Tactile Warmth:\n- **Canvas Atmosphere:** Sun-drenched, ripe organic warmth rather than sterile retail whites.\n- **Graphic Impact:** Tight, condensed display typography paired with deliberate color-blocked surfaces.\n- **Brand Resonance:** Playful, high-end, and vibrant—positioning fresh seasonal juice as an aspirational, craft-centric ritual.\n\n## Layout & Spacing\n\nThe structural layout uses a fluid grid system calibrated for mobile-first utility, optimized around a 390px base viewport width:\n\n- **Mobile (390px - 767px):** 4-column fluid layout with `1.25rem` (20px) outer canvas margins and `0.75rem` (12px) gutters. Product grids use two asymmetrical or paired columns.\n- **Tablet (768px - 1023px):** 8-column layout with `1.5rem` (24px) gutters and margins.\n- **Desktop (1024px+):** 12-column layout maxed at 1280px container width with `1.5rem` (24px) gutters and auto-centered outer margins.\n- **Spacing Rhythm:** Built on a 4px baseline. Vertical stack intervals favor distinct section breathing room (`space-xl`) between seasonal promotional features and structured product catalogs.\n\n## Elevation & Depth\n\nDepth is established through rich color zoning and warm ambient luminescence rather than generic neutral gray dropshadows:\n\n- **Level 0 (Flat Ground):** Base canvas `#FFF4E2`. Elements lie integrated directly into the visual landscape.\n- **Level 1 (Product Cards & Shelves):** Pure white `#FFFFFF` or tinted cream `#FFFBF4` surfaces lifted by subtle warm ambient diffusion: `0px 8px 24px -4px rgba(30, 18, 38, 0.06), 0px 2px 6px -1px rgba(249, 168, 37, 0.08)`.\n- **Level 2 (Modals, Overlays, Floating Baskets):** Lifted with strong physical presence using `0px 16px 36px -6px rgba(30, 18, 38, 0.14)`.\n- **Active State Highlights:** Tactile displacement where interactive cards slightly scale down (0.98x) with a concentrated tint highlight rather than heavy, artificial elevation spikes.\n\n## Components\n\n### Buttons\n- **Primary:** Filled with `#7243AB`, white label text (`#FFFFFF`), uppercase Archivo Narrow SemiBold, 12px corner radius. Padding: `14px 24px`.\n- **Secondary (Sun Tint):** Filled with `#F9A825`, text in Deep Ink (`#1E1226`).\n- **Ghost/Tertiary:** Burnt Orange (`#E8590C`) border (1.5px) with transparent fill, matching text color.\n\n### Chips & Filters\n- **Default State:** Canvas tint `#FEECC7`, Deep Ink text (`#1E1226`), 9999px pill radius, padding `8px 16px`.\n- **Selected State:** Solid POV Purple `#7243AB`, white text, with immediate layout feedback.\n\n### Cards\n- **Product Card:** Background `#FFFFFF`, 20px border radius, ambient warm shadow, padding `16px`. Product photography bleeds edge-to-edge across the card head, crowned with an absolute-positioned badge (e.g., \"FAS HIGH HARVEST\").\n\n### Input Fields\n- **Search & Customization Fields:** Background `#FFFBF4`, 1.5px subtle outline `#EEDCC0`, 12px border radius. Focus state shifts outline to `#7243AB` with a 2px stroke, accompanied by body-md typography.\n\n### Checkboxes & Radio Selectors\n- **Custom Toppings & Sweetness Toggles:** Circular radios and softly rounded (6px) checkboxes. Unchecked uses `#EEDCC0` borders; checked states display a solid `#7243AB` fill with an interior white checkmark.\n\n### Specialized Component: Mango Intensity Meter\n- Visual segmented pill bar indicating sweetness and pulp thickness across juice varieties, using `#F9A825` active indicators over a muted `#FFF4E2` track.",
+              "theme": {
+                "bodyFont": "INTER",
+                "bodyFontFamily": "Inter",
+                "colorMode": "LIGHT",
+                "colorVariant": "FIDELITY",
+                "customColor": "#7243ab",
+                "designMd": "---\nname: POV Golden Hour\ncolors:\n  surface: '#fff7fd'\n  surface-dim: '#e7d3f0'\n  surface-bright: '#fff7fd'\n  surface-container-lowest: '#ffffff'\n  surface-container-low: '#fdefff'\n  surface-container: '#fae8ff'\n  surface-container-high: '#f6e1fe'\n  surface-container-highest: '#f0dcf8'\n  on-surface: '#23172b'\n  on-surface-variant: '#4b4451'\n  inverse-surface: '#392b41'\n  inverse-on-surface: '#fbecff'\n  outline: '#7c7482'\n  outline-variant: '#cdc3d3'\n  surface-tint: '#7546ae'\n  primary: '#592991'\n  on-primary: '#ffffff'\n  primary-container: '#7243ab'\n  on-primary-container: '#e3caff'\n  inverse-primary: '#d9b9ff'\n  secondary: '#835400'\n  on-secondary: '#ffffff'\n  secondary-container: '#fcab28'\n  on-secondary-container: '#694300'\n  tertiary: '#7a2900'\n  on-tertiary: '#ffffff'\n  tertiary-container: '#a13900'\n  on-tertiary-container: '#ffc7b2'\n  error: '#ba1a1a'\n  on-error: '#ffffff'\n  error-container: '#ffdad6'\n  on-error-container: '#93000a'\n  primary-fixed: '#eedbff'\n  primary-fixed-dim: '#d9b9ff'\n  on-primary-fixed: '#2a0054'\n  on-primary-fixed-variant: '#5c2c94'\n  secondary-fixed: '#ffddb5'\n  secondary-fixed-dim: '#ffb957'\n  on-secondary-fixed: '#2a1800'\n  on-secondary-fixed-variant: '#643f00'\n  tertiary-fixed: '#ffdbce'\n  tertiary-fixed-dim: '#ffb598'\n  on-tertiary-fixed: '#370e00'\n  on-tertiary-fixed-variant: '#7f2b00'\n  background: '#fff7fd'\n  on-background: '#23172b'\n  surface-variant: '#f0dcf8'\ntypography:\n  display-hero:\n    fontFamily: Archivo Narrow\n    fontSize: 56px\n    fontWeight: '800'\n    lineHeight: 58px\n    letterSpacing: -0.03em\n  display-hero-mobile:\n    fontFamily: Archivo Narrow\n    fontSize: 40px\n    fontWeight: '800'\n    lineHeight: 42px\n    letterSpacing: -0.03em\n  headline-lg:\n    fontFamily: Archivo Narrow\n    fontSize: 36px\n    fontWeight: '800'\n    lineHeight: 40px\n    letterSpacing: -0.02em\n  headline-lg-mobile:\n    fontFamily: Archivo Narrow\n    fontSize: 28px\n    fontWeight: '800'\n    lineHeight: 32px\n    letterSpacing: -0.02em\n  headline-md:\n    fontFamily: Archivo Narrow\n    fontSize: 24px\n    fontWeight: '700'\n    lineHeight: 28px\n    letterSpacing: -0.01em\n  headline-sm:\n    fontFamily: Archivo Narrow\n    fontSize: 20px\n    fontWeight: '700'\n    lineHeight: 24px\n    letterSpacing: 0em\n  body-lg:\n    fontFamily: Inter\n    fontSize: 18px\n    fontWeight: '400'\n    lineHeight: 26px\n    letterSpacing: -0.01em\n  body-md:\n    fontFamily: Inter\n    fontSize: 15px\n    fontWeight: '400'\n    lineHeight: 22px\n    letterSpacing: 0em\n  body-sm:\n    fontFamily: Inter\n    fontSize: 13px\n    fontWeight: '400'\n    lineHeight: 18px\n    letterSpacing: 0.01em\n  label-lg:\n    fontFamily: Inter\n    fontSize: 14px\n    fontWeight: '600'\n    lineHeight: 18px\n    letterSpacing: 0.02em\n  label-md:\n    fontFamily: Inter\n    fontSize: 12px\n    fontWeight: '600'\n    lineHeight: 16px\n    letterSpacing: 0.04em\n  label-sm:\n    fontFamily: Inter\n    fontSize: 10px\n    fontWeight: '700'\n    lineHeight: 14px\n    letterSpacing: 0.06em\nrounded:\n  sm: 0.25rem\n  DEFAULT: 0.5rem\n  md: 0.75rem\n  lg: 1rem\n  xl: 1.5rem\n  full: 9999px\nspacing:\n  gutter: 1rem\n  gutter-mobile: 0.75rem\n  margin: 1.5rem\n  margin-mobile: 1.25rem\n  space-xs: 0.25rem\n  space-sm: 0.5rem\n  space-md: 1rem\n  space-lg: 1.25rem\n  space-xl: 2rem\n---\n\n## Brand & Style\n\nThe design system establishes a high-energy, sensory-driven luxury editorial experience centered around Egypt's seasonal mango culture. Tailored for urban tastemakers and culinary enthusiasts in Cairo, the visual tone balances the relaxed opulence of Mediterranean golden hour with bold, contemporary street-level warmth.\n\nThe style fuses High-Contrast Editorial with Tactile Warmth:\n- **Canvas Atmosphere:** Sun-drenched, ripe organic warmth rather than sterile retail whites.\n- **Graphic Impact:** Tight, condensed display typography paired with deliberate color-blocked surfaces.\n- **Brand Resonance:** Playful, high-end, and vibrant—positioning fresh seasonal juice as an aspirational, craft-centric ritual.\n\n## Colors\n\nThe palette directly references peak summer harvest and late-afternoon Nile light:\n\n- **Primary Action (POV Purple - `#7243AB`):** Reserved strictly for primary interactive triggers, checkout CTAs, active indicators, and high-visibility badges.\n- **Secondary (Sun Mango - `#F9A825`):** Expresses the core harvest identity, foundational category fills, and interactive highlights.\n- **Tertiary (Burnt Orange - `#E8590C`):** Drives urgent secondary calls-to-action, seasonal highlights, temperature warnings, and price points.\n- **Neutral (Deep Ink - `#1E1226`):** Provides anchor contrast for all textual content, icons, and precise boundary lines.\n- **Background Canvas (`#FFF4E2`):** Base canvas tone representing warm solar cream. Elevated surfaces utilize pure white (`#FFFFFF`) or tinted mango-cream (`#FEECC7`) to create natural depth without defaulting to cold grays.\n- **Accent Brand Accents:** The wordmark accent palette introduces Mango Yellow (`#F9CD18`) and Nile Oasis Teal (`#17AE9D`) strictly for iconography, flavor badges, and celebratory moments.\n\n## Typography\n\nTypography delivers a high-fashion, editorial pace. All headline levels require an uppercase transformation coupled with tight tracking to simulate physical poster art. Body copy relies on Inter to guarantee effortless legibility during quick digital ordering flows.\n\n- **Headlines:** Set in Archivo Narrow ExtraBold. Always transform to uppercase for section headers, promotional punchlines, and product titles.\n- **Body & Captions:** Handled by Inter with standard capitalizations and generous vertical leading to counterbalance the dense, punchy headers.\n- **Labels & Microcopy:** Rendered with semi-bold to bold weights, maintaining slight letter-spacing expansions to ensure immediate scannability on handheld screens.\n\n## Layout & Spacing\n\nThe structural layout uses a fluid grid system calibrated for mobile-first utility, optimized around a 390px base viewport width:\n\n- **Mobile (390px - 767px):** 4-column fluid layout with `1.25rem` (20px) outer canvas margins and `0.75rem` (12px) gutters. Product grids use two asymmetrical or paired columns.\n- **Tablet (768px - 1023px):** 8-column layout with `1.5rem` (24px) gutters and margins.\n- **Desktop (1024px+):** 12-column layout maxed at 1280px container width with `1.5rem` (24px) gutters and auto-centered outer margins.\n- **Spacing Rhythm:** Built on a 4px baseline. Vertical stack intervals favor distinct section breathing room (`space-xl`) between seasonal promotional features and structured product catalogs.\n\n## Elevation & Depth\n\nDepth is established through rich color zoning and warm ambient luminescence rather than generic neutral gray dropshadows:\n\n- **Level 0 (Flat Ground):** Base canvas `#FFF4E2`. Elements lie integrated directly into the visual landscape.\n- **Level 1 (Product Cards & Shelves):** Pure white `#FFFFFF` or tinted cream `#FFFBF4` surfaces lifted by subtle warm ambient diffusion: `0px 8px 24px -4px rgba(30, 18, 38, 0.06), 0px 2px 6px -1px rgba(249, 168, 37, 0.08)`.\n- **Level 2 (Modals, Overlays, Floating Baskets):** Lifted with strong physical presence using `0px 16px 36px -6px rgba(30, 18, 38, 0.14)`.\n- **Active State Highlights:** Tactile displacement where interactive cards slightly scale down (0.98x) with a concentrated tint highlight rather than heavy, artificial elevation spikes.\n\n## Shapes\n\nThe design system employs a curated curvature standard that balances organic fruit contours with sleek architectural containment:\n\n- **Product & Content Cards:** Fixed at `1.25rem` (20px) border-radius, creating an approachable, tactile card contour.\n- **Buttons & Action Triggers:** Standardized at `0.75rem` (12px) for structured utility, scaling up to full pill form (`9999px`) for quick-filter chips and sticky bottom floating bars.\n- **Media Containers:** Juice visuals and photography frames inherit the strict `20px` radius, reinforced with an inner clip-path to ensure border clipping remains seamless across all high-density displays.\n\n## Components\n\n### Buttons\n- **Primary:** Filled with `#7243AB`, white label text (`#FFFFFF`), uppercase Archivo Narrow SemiBold, 12px corner radius. Padding: `14px 24px`.\n- **Secondary (Sun Tint):** Filled with `#F9A825`, text in Deep Ink (`#1E1226`).\n- **Ghost/Tertiary:** Burnt Orange (`#E8590C`) border (1.5px) with transparent fill, matching text color.\n\n### Chips & Filters\n- **Default State:** Canvas tint `#FEECC7`, Deep Ink text (`#1E1226`), 9999px pill radius, padding `8px 16px`.\n- **Selected State:** Solid POV Purple `#7243AB`, white text, with immediate layout feedback.\n\n### Cards\n- **Product Card:** Background `#FFFFFF`, 20px border radius, ambient warm shadow, padding `16px`. Product photography bleeds edge-to-edge across the card head, crowned with an absolute-positioned badge (e.g., \"FAS HIGH HARVEST\").\n\n### Input Fields\n- **Search & Customization Fields:** Background `#FFFBF4`, 1.5px subtle outline `#EEDCC0`, 12px border radius. Focus state shifts outline to `#7243AB` with a 2px stroke, accompanied by body-md typography.\n\n### Checkboxes & Radio Selectors\n- **Custom Toppings & Sweetness Toggles:** Circular radios and softly rounded (6px) checkboxes. Unchecked uses `#EEDCC0` borders; checked states display a solid `#7243AB` fill with an interior white checkmark.\n\n### Specialized Component: Mango Intensity Meter\n- Visual segmented pill bar indicating sweetness and pulp thickness across juice varieties, using `#F9A825` active indicators over a muted `#FFF4E2` track.",
+                "font": "ARCHIVO_NARROW",
+                "headlineFont": "ARCHIVO_NARROW",
+                "headlineFontFamily": "Archivo Narrow",
+                "labelFont": "INTER",
+                "labelFontFamily": "Inter",
+                "namedColors": {
+                  "background": "#fff7fd",
+                  "error": "#ba1a1a",
+                  "error_container": "#ffdad6",
+                  "inverse_on_surface": "#fbecff",
+                  "inverse_primary": "#d9b9ff",
+                  "inverse_surface": "#392b41",
+                  "on_background": "#23172b",
+                  "on_error": "#ffffff",
+                  "on_error_container": "#93000a",
+                  "on_primary": "#ffffff",
+                  "on_primary_container": "#e3caff",
+                  "on_primary_fixed": "#2a0054",
+                  "on_primary_fixed_variant": "#5c2c94",
+                  "on_secondary": "#ffffff",
+                  "on_secondary_container": "#694300",
+                  "on_secondary_fixed": "#2a1800",
+                  "on_secondary_fixed_variant": "#643f00",
+                  "on_surface": "#23172b",
+                  "on_surface_variant": "#4b4451",
+                  "on_tertiary": "#ffffff",
+                  "on_tertiary_container": "#ffc7b2",
+                  "on_tertiary_fixed": "#370e00",
+                  "on_tertiary_fixed_variant": "#7f2b00",
+                  "outline": "#7c7482",
+                  "outline_variant": "#cdc3d3",
+                  "primary": "#592991",
+                  "primary_container": "#7243ab",
+                  "primary_fixed": "#eedbff",
+                  "primary_fixed_dim": "#d9b9ff",
+                  "secondary": "#835400",
+                  "secondary_container": "#fcab28",
+                  "secondary_fixed": "#ffddb5",
+                  "secondary_fixed_dim": "#ffb957",
+                  "surface": "#fff7fd",
+                  "surface_bright": "#fff7fd",
+                  "surface_container": "#fae8ff",
+                  "surface_container_high": "#f6e1fe",
+                  "surface_container_highest": "#f0dcf8",
+                  "surface_container_low": "#fdefff",
+                  "surface_container_lowest": "#ffffff",
+                  "surface_dim": "#e7d3f0",
+                  "surface_tint": "#7546ae",
+                  "surface_variant": "#f0dcf8",
+                  "tertiary": "#7a2900",
+                  "tertiary_container": "#a13900",
+                  "tertiary_fixed": "#ffdbce",
+                  "tertiary_fixed_dim": "#ffb598"
+                },
+                "overrideNeutralColor": "#1e1226",
+                "overridePrimaryColor": "#7243ab",
+                "overrideSecondaryColor": "#f9a825",
+                "overrideTertiaryColor": "#e8590c",
+                "roundness": "ROUND_EIGHT",
+                "spacing": {
+                  "gutter": "1rem",
+                  "gutter-mobile": "0.75rem",
+                  "margin": "1.5rem",
+                  "margin-mobile": "1.25rem",
+                  "space-lg": "1.25rem",
+                  "space-md": "1rem",
+                  "space-sm": "0.5rem",
+                  "space-xl": "2rem",
+                  "space-xs": "0.25rem"
+                },
+                "spacingScale": 2,
+                "typography": {
+                  "body-lg": {
+                    "fontFamily": "Inter",
+                    "fontSize": "18px",
+                    "fontWeight": "400",
+                    "letterSpacing": "-0.01em",
+                    "lineHeight": "26px"
+                  },
+                  "body-md": {
+                    "fontFamily": "Inter",
+                    "fontSize": "15px",
+                    "fontWeight": "400",
+                    "letterSpacing": "0em",
+                    "lineHeight": "22px"
+                  },
+                  "body-sm": {
+                    "fontFamily": "Inter",
+                    "fontSize": "13px",
+                    "fontWeight": "400",
+                    "letterSpacing": "0.01em",
+                    "lineHeight": "18px"
+                  },
+                  "display-hero": {
+                    "fontFamily": "Archivo Narrow",
+                    "fontSize": "56px",
+                    "fontWeight": "800",
+                    "letterSpacing": "-0.03em",
+                    "lineHeight": "58px"
+                  },
+                  "display-hero-mobile": {
+                    "fontFamily": "Archivo Narrow",
+                    "fontSize": "40px",
+                    "fontWeight": "800",
+                    "letterSpacing": "-0.03em",
+                    "lineHeight": "42px"
+                  },
+                  "headline-lg": {
+                    "fontFamily": "Archivo Narrow",
+                    "fontSize": "36px",
+                    "fontWeight": "800",
+                    "letterSpacing": "-0.02em",
+                    "lineHeight": "40px"
+                  },
+                  "headline-lg-mobile": {
+                    "fontFamily": "Archivo Narrow",
+                    "fontSize": "28px",
+                    "fontWeight": "800",
+                    "letterSpacing": "-0.02em",
+                    "lineHeight": "32px"
+                  },
+                  "headline-md": {
+                    "fontFamily": "Archivo Narrow",
+                    "fontSize": "24px",
+                    "fontWeight": "700",
+                    "letterSpacing": "-0.01em",
+                    "lineHeight": "28px"
+                  },
+                  "headline-sm": {
+                    "fontFamily": "Archivo Narrow",
+                    "fontSize": "20px",
+                    "fontWeight": "700",
+                    "letterSpacing": "0em",
+                    "lineHeight": "24px"
+                  },
+                  "label-lg": {
+                    "fontFamily": "Inter",
+                    "fontSize": "14px",
+                    "fontWeight": "600",
+                    "letterSpacing": "0.02em",
+                    "lineHeight": "18px"
+                  },
+                  "label-md": {
+                    "fontFamily": "Inter",
+                    "fontSize": "12px",
+                    "fontWeight": "600",
+                    "letterSpacing": "0.04em",
+                    "lineHeight": "16px"
+                  },
+                  "label-sm": {
+                    "fontFamily": "Inter",
+                    "fontSize": "10px",
+                    "fontWeight": "700",
+                    "letterSpacing": "0.06em",
+                    "lineHeight": "14px"
+                  }
+                }
+              }
+            },
+            "name": "assets/36df791e77ae42dfac7a6f0b5f80c8db",
+            "version": "1"
+          }
+        },
+        {
+          "design": {
+            "screens": [
+              {
+                "generatedBy": "interactive_ui_controller",
+                "height": "1200",
+                "id": "e69295dc4e3948bbafe1f292c9642241",
+                "name": "projects/16234525681964602718/screens/e69295dc4e3948bbafe1f292c9642241",
+                "prompt": "Commercial lifestyle food photography: a single clear PET plastic cup with a transparent dome lid and white straw filled with rich, vibrant, golden-orange fresh mango juice with ice condensation on the cup, sitting on a warm sun-bleached terracotta stone ledge. Dramatic late-afternoon golden hour Cairo sunlight casting crisp, deep palm-leaf shadows across the cup and surface. Rich golden glow, backlit liquid, real ripe sliced mangoes with deep orange flesh and green skins resting beside the cup on stone. Minimalist, premium summer campaign aesthetic, editorial, high-end studio lifestyle shoot, 85mm lens, sharp focus, 8k, absolutely no text or watermark.",
+                "screenMetadata": {
+                  "agentType": "PRO_AGENT",
+                  "status": "COMPLETE"
+                },
+                "screenType": "IMAGE",
+                "screenshot": {
+                  "downloadUrl": "https://lh3.googleusercontent.com/aida/AEtjO1XB5Ght7Vs3rRYNSOlw3X1StcYBVDUz2YC8xaXA8AK8gSH0jjHtvYI_0t0QLhUooyQbPOvEhGUoXx-N2Sd9x7dWz0Lc5bvwwjE29eKODM2zbrVdRXofvy-YZ2hJtG4Wf6_GSR3kMPQ6G_UAOWGcMZx3BslSPTA1r5ubzi9QMEQMjpQ0-klEDKXN3EUv8iv4bUT4r-lV6KICvixb3QEkUHeaxPseu24wcHDEhVXJxuWwsN9ait703zjgf8w",
+                  "name": "projects/16234525681964602718/files/6b2f68af45a0421d81adde6b1430fd07"
+                },
+                "theme": {},
+                "title": "Commercial lifestyle food photography: a single clear PET plastic cup with a transparent dome lid and white straw filled with rich, vibrant, golden-orange fresh mango juice with ice condensation on the cup, sitting on a warm sun-bleached terracotta stone ledge. Dramatic late-afternoon golden hour Cairo sunlight casting crisp, deep palm-leaf shadows across the cup and surface. Rich golden glow, backlit liquid, real ripe sliced mangoes with deep orange flesh and green skins resting beside the cup on stone. Minimalist, premium summer campaign aesthetic, editorial, high-end studio lifestyle shoot, 85mm lens, sharp focus, 8k, absolutely no text or watermark.",
+                "width": "896"
+              },
+              {
+                "generatedBy": "interactive_ui_controller",
+                "height": "1200",
+                "id": "1935120132cc4b0aa5d6a69aa55928e5",
+                "name": "projects/16234525681964602718/screens/1935120132cc4b0aa5d6a69aa55928e5",
+                "prompt": "Commercial food photography: a clear plastic cup with a dome lid and straw, showing a vibrant layered drink of rich yellow mango juice and bright red fresh strawberry juice, sitting on warm rustic sandstone under warm golden hour sunlight with delicate palm frond shadows. Fresh sliced strawberries and mango cheek beside the cup. Crisp condensation droplets, photorealistic commercial product shot, 8k, no text.",
+                "screenMetadata": {
+                  "agentType": "PRO_AGENT",
+                  "status": "COMPLETE"
+                },
+                "screenType": "IMAGE",
+                "screenshot": {
+                  "downloadUrl": "https://lh3.googleusercontent.com/aida/AEtjO1Wo6kEPbzTR7MRjDonPt7hGaSGHRyaTdN6XpfpuMn0t5FvuY8ikBXgW3wFA_60jYAtmsccGFPNRJnYhP26IxU8c7J4sljXAe61kUAL67YBGMnnZHeeUUngjI3A-WMNcAFSQmhUl-UDgMppCXtx-qCvquDyk3ZhilYRm364BS8zE72_QcG_W7bH3Agg9JzRtnpV84xD8Zr_Di9TpmHAJxjN6T_DimW2_7SZlsQ4WGZEyINiBaplGlIIzEUPn",
+                  "name": "projects/16234525681964602718/files/cb3e68d5143746369b7dbfa48f7ce463"
+                },
+                "theme": {},
+                "title": "Commercial food photography: a clear plastic cup with a dome lid and straw, showing a vibrant layered drink of rich yellow mango juice and bright red fresh strawberry juice, sitting on warm rustic sandstone under warm golden hour sunlight with delicate palm frond shadows. Fresh sliced strawberries and mango cheek beside the cup. Crisp condensation droplets, photorealistic commercial product shot, 8k, no text.",
+                "width": "896"
+              },
+              {
+                "generatedBy": "interactive_ui_controller",
+                "height": "1200",
+                "id": "d33acc40a7d0469580e8dd0d8ddf15bc",
+                "name": "projects/16234525681964602718/screens/d33acc40a7d0469580e8dd0d8ddf15bc",
+                "prompt": "Commercial food photography: a clear plastic cup with dome lid and straw filled with an exotic layered Egyptian cocktail juice (vibrant layers of rich mango, ruby strawberry, pink guava, and creamy pale green avocado puree), sitting on warm terracotta stone bathed in warm golden hour afternoon sunlight with soft palm shadow streaks. Fresh fruit garnishes nearby. Ultra photorealistic, crisp condensation, 8k, no text.",
+                "screenMetadata": {
+                  "agentType": "PRO_AGENT",
+                  "status": "COMPLETE"
+                },
+                "screenType": "IMAGE",
+                "screenshot": {
+                  "downloadUrl": "https://lh3.googleusercontent.com/aida/AEtjO1X2Z26ojsi_eQrRwj49SeBneMD_y0X2lv69D6Hwk3e6HTV0VYjFyL3B_h7raL5IbGAlEnYtGs8GTuykg1kQ6FaxRDE0rWqiOoWJJAnm8AbLh2sbYyf-Q3GC_107AuJf-XAg9LwGMLGhNEoHnxwOOrVvVm1-5sEHAwUltA_tcBWZKo-fVI9fodtX2Gf79PykODu0a8SEML-Odf_RNE--T0BX6WARW_GaJFUuaA8YEzWRtbDfsfT8DdwqLV1Q",
+                  "name": "projects/16234525681964602718/files/1e204c4a738d4020acee5c27b511caba"
+                },
+                "theme": {},
+                "title": "Commercial food photography: a clear plastic cup with dome lid and straw filled with an exotic layered Egyptian cocktail juice (vibrant layers of rich mango, ruby strawberry, pink guava, and creamy pale green avocado puree), sitting on warm terracotta stone bathed in warm golden hour afternoon sunlight with soft palm shadow streaks. Fresh fruit garnishes nearby. Ultra photorealistic, crisp condensation, 8k, no text.",
+                "width": "896"
+              },
+              {
+                "generatedBy": "interactive_ui_controller",
+                "height": "768",
+                "id": "88832eaa21514fec90fec73257cd3e09",
+                "name": "projects/16234525681964602718/screens/88832eaa21514fec90fec73257cd3e09",
+                "prompt": "Commercial editorial food photography banner: ripe Egyptian Keitt mangoes sliced open showing juicy deep orange flesh, alongside a chilled clear cup of golden mango juice with dome lid and condensation on a warm sun-drenched limestone ledge with dramatic warm golden hour light and palm leaf shadows. Premium summer luxury fruit campaign, photorealistic, 8k, no text.",
+                "screenMetadata": {
+                  "agentType": "PRO_AGENT",
+                  "status": "COMPLETE"
+                },
+                "screenType": "IMAGE",
+                "screenshot": {
+                  "downloadUrl": "https://lh3.googleusercontent.com/aida/AEtjO1U_4SdITF-y_sYYtw4vFSfbdUERIIzAmvSeswzeuD717892ng6U-ntUV6BqVipZEiX9uGa3VRf6o7IkVTPFoCUr_BYlNoU9beVUiUENw5EnJzQU310dD1ixBMDLNXYLM2PQu4ArJtlCX41vNyv7leoRqPUXl2ssZD0Vxt0t-UB128vZVZRmLi6PEZ5DaQalqJNw3jjAoOfjaIqxgJv94Gjr7NQeECN7fq4f50-k-fitrmr4meFsczb6Zoho",
+                  "name": "projects/16234525681964602718/files/b7590841ecfc4983839661fa115c2d4c"
+                },
+                "theme": {},
+                "title": "Commercial editorial food photography banner: ripe Egyptian Keitt mangoes sliced open showing juicy deep orange flesh, alongside a chilled clear cup of golden mango juice with dome lid and condensation on a warm sun-drenched limestone ledge with dramatic warm golden hour light and palm leaf shadows. Premium summer luxury fruit campaign, photorealistic, 8k, no text.",
+                "width": "1376"
+              },
+              {
+                "designSystem": {
+                  "designSystem": {
+                    "displayName": "POV Golden Hour",
+                    "styleGuidelines": "## Brand & Style\n\nThe design system establishes a high-energy, sensory-driven luxury editorial experience centered around Egypt's seasonal mango culture. Tailored for urban tastemakers and culinary enthusiasts in Cairo, the visual tone balances the relaxed opulence of Mediterranean golden hour with bold, contemporary street-level warmth.\n\nThe style fuses High-Contrast Editorial with Tactile Warmth:\n- **Canvas Atmosphere:** Sun-drenched, ripe organic warmth rather than sterile retail whites.\n- **Graphic Impact:** Tight, condensed display typography paired with deliberate color-blocked surfaces.\n- **Brand Resonance:** Playful, high-end, and vibrant—positioning fresh seasonal juice as an aspirational, craft-centric ritual.\n\n## Layout & Spacing\n\nThe structural layout uses a fluid grid system calibrated for mobile-first utility, optimized around a 390px base viewport width:\n\n- **Mobile (390px - 767px):** 4-column fluid layout with `1.25rem` (20px) outer canvas margins and `0.75rem` (12px) gutters. Product grids use two asymmetrical or paired columns.\n- **Tablet (768px - 1023px):** 8-column layout with `1.5rem` (24px) gutters and margins.\n- **Desktop (1024px+):** 12-column layout maxed at 1280px container width with `1.5rem` (24px) gutters and auto-centered outer margins.\n- **Spacing Rhythm:** Built on a 4px baseline. Vertical stack intervals favor distinct section breathing room (`space-xl`) between seasonal promotional features and structured product catalogs.\n\n## Elevation & Depth\n\nDepth is established through rich color zoning and warm ambient luminescence rather than generic neutral gray dropshadows:\n\n- **Level 0 (Flat Ground):** Base canvas `#FFF4E2`. Elements lie integrated directly into the visual landscape.\n- **Level 1 (Product Cards & Shelves):** Pure white `#FFFFFF` or tinted cream `#FFFBF4` surfaces lifted by subtle warm ambient diffusion: `0px 8px 24px -4px rgba(30, 18, 38, 0.06), 0px 2px 6px -1px rgba(249, 168, 37, 0.08)`.\n- **Level 2 (Modals, Overlays, Floating Baskets):** Lifted with strong physical presence using `0px 16px 36px -6px rgba(30, 18, 38, 0.14)`.\n- **Active State Highlights:** Tactile displacement where interactive cards slightly scale down (0.98x) with a concentrated tint highlight rather than heavy, artificial elevation spikes.\n\n## Components\n\n### Buttons\n- **Primary:** Filled with `#7243AB`, white label text (`#FFFFFF`), uppercase Archivo Narrow SemiBold, 12px corner radius. Padding: `14px 24px`.\n- **Secondary (Sun Tint):** Filled with `#F9A825`, text in Deep Ink (`#1E1226`).\n- **Ghost/Tertiary:** Burnt Orange (`#E8590C`) border (1.5px) with transparent fill, matching text color.\n\n### Chips & Filters\n- **Default State:** Canvas tint `#FEECC7`, Deep Ink text (`#1E1226`), 9999px pill radius, padding `8px 16px`.\n- **Selected State:** Solid POV Purple `#7243AB`, white text, with immediate layout feedback.\n\n### Cards\n- **Product Card:** Background `#FFFFFF`, 20px border radius, ambient warm shadow, padding `16px`. Product photography bleeds edge-to-edge across the card head, crowned with an absolute-positioned badge (e.g., \"FAS HIGH HARVEST\").\n\n### Input Fields\n- **Search & Customization Fields:** Background `#FFFBF4`, 1.5px subtle outline `#EEDCC0`, 12px border radius. Focus state shifts outline to `#7243AB` with a 2px stroke, accompanied by body-md typography.\n\n### Checkboxes & Radio Selectors\n- **Custom Toppings & Sweetness Toggles:** Circular radios and softly rounded (6px) checkboxes. Unchecked uses `#EEDCC0` borders; checked states display a solid `#7243AB` fill with an interior white checkmark.\n\n### Specialized Component: Mango Intensity Meter\n- Visual segmented pill bar indicating sweetness and pulp thickness across juice varieties, using `#F9A825` active indicators over a muted `#FFF4E2` track.",
+                    "theme": {
+                      "bodyFont": "INTER",
+                      "bodyFontFamily": "Inter",
+                      "colorMode": "LIGHT",
+                      "colorVariant": "FIDELITY",
+                      "customColor": "#7243ab",
+                      "designMd": "---\nname: POV Golden Hour\ncolors:\n  surface: '#fff7fd'\n  surface-dim: '#e7d3f0'\n  surface-bright: '#fff7fd'\n  surface-container-lowest: '#ffffff'\n  surface-container-low: '#fdefff'\n  surface-container: '#fae8ff'\n  surface-container-high: '#f6e1fe'\n  surface-container-highest: '#f0dcf8'\n  on-surface: '#23172b'\n  on-surface-variant: '#4b4451'\n  inverse-surface: '#392b41'\n  inverse-on-surface: '#fbecff'\n  outline: '#7c7482'\n  outline-variant: '#cdc3d3'\n  surface-tint: '#7546ae'\n  primary: '#592991'\n  on-primary: '#ffffff'\n  primary-container: '#7243ab'\n  on-primary-container: '#e3caff'\n  inverse-primary: '#d9b9ff'\n  secondary: '#835400'\n  on-secondary: '#ffffff'\n  secondary-container: '#fcab28'\n  on-secondary-container: '#694300'\n  tertiary: '#7a2900'\n  on-tertiary: '#ffffff'\n  tertiary-container: '#a13900'\n  on-tertiary-container: '#ffc7b2'\n  error: '#ba1a1a'\n  on-error: '#ffffff'\n  error-container: '#ffdad6'\n  on-error-container: '#93000a'\n  primary-fixed: '#eedbff'\n  primary-fixed-dim: '#d9b9ff'\n  on-primary-fixed: '#2a0054'\n  on-primary-fixed-variant: '#5c2c94'\n  secondary-fixed: '#ffddb5'\n  secondary-fixed-dim: '#ffb957'\n  on-secondary-fixed: '#2a1800'\n  on-secondary-fixed-variant: '#643f00'\n  tertiary-fixed: '#ffdbce'\n  tertiary-fixed-dim: '#ffb598'\n  on-tertiary-fixed: '#370e00'\n  on-tertiary-fixed-variant: '#7f2b00'\n  background: '#fff7fd'\n  on-background: '#23172b'\n  surface-variant: '#f0dcf8'\ntypography:\n  display-hero:\n    fontFamily: Archivo Narrow\n    fontSize: 56px\n    fontWeight: '800'\n    lineHeight: 58px\n    letterSpacing: -0.03em\n  display-hero-mobile:\n    fontFamily: Archivo Narrow\n    fontSize: 40px\n    fontWeight: '800'\n    lineHeight: 42px\n    letterSpacing: -0.03em\n  headline-lg:\n    fontFamily: Archivo Narrow\n    fontSize: 36px\n    fontWeight: '800'\n    lineHeight: 40px\n    letterSpacing: -0.02em\n  headline-lg-mobile:\n    fontFamily: Archivo Narrow\n    fontSize: 28px\n    fontWeight: '800'\n    lineHeight: 32px\n    letterSpacing: -0.02em\n  headline-md:\n    fontFamily: Archivo Narrow\n    fontSize: 24px\n    fontWeight: '700'\n    lineHeight: 28px\n    letterSpacing: -0.01em\n  headline-sm:\n    fontFamily: Archivo Narrow\n    fontSize: 20px\n    fontWeight: '700'\n    lineHeight: 24px\n    letterSpacing: 0em\n  body-lg:\n    fontFamily: Inter\n    fontSize: 18px\n    fontWeight: '400'\n    lineHeight: 26px\n    letterSpacing: -0.01em\n  body-md:\n    fontFamily: Inter\n    fontSize: 15px\n    fontWeight: '400'\n    lineHeight: 22px\n    letterSpacing: 0em\n  body-sm:\n    fontFamily: Inter\n    fontSize: 13px\n    fontWeight: '400'\n    lineHeight: 18px\n    letterSpacing: 0.01em\n  label-lg:\n    fontFamily: Inter\n    fontSize: 14px\n    fontWeight: '600'\n    lineHeight: 18px\n    letterSpacing: 0.02em\n  label-md:\n    fontFamily: Inter\n    fontSize: 12px\n    fontWeight: '600'\n    lineHeight: 16px\n    letterSpacing: 0.04em\n  label-sm:\n    fontFamily: Inter\n    fontSize: 10px\n    fontWeight: '700'\n    lineHeight: 14px\n    letterSpacing: 0.06em\nrounded:\n  sm: 0.25rem\n  DEFAULT: 0.5rem\n  md: 0.75rem\n  lg: 1rem\n  xl: 1.5rem\n  full: 9999px\nspacing:\n  gutter: 1rem\n  gutter-mobile: 0.75rem\n  margin: 1.5rem\n  margin-mobile: 1.25rem\n  space-xs: 0.25rem\n  space-sm: 0.5rem\n  space-md: 1rem\n  space-lg: 1.25rem\n  space-xl: 2rem\n---\n\n## Brand & Style\n\nThe design system establishes a high-energy, sensory-driven luxury editorial experience centered around Egypt's seasonal mango culture. Tailored for urban tastemakers and culinary enthusiasts in Cairo, the visual tone balances the relaxed opulence of Mediterranean golden hour with bold, contemporary street-level warmth.\n\nThe style fuses High-Contrast Editorial with Tactile Warmth:\n- **Canvas Atmosphere:** Sun-drenched, ripe organic warmth rather than sterile retail whites.\n- **Graphic Impact:** Tight, condensed display typography paired with deliberate color-blocked surfaces.\n- **Brand Resonance:** Playful, high-end, and vibrant—positioning fresh seasonal juice as an aspirational, craft-centric ritual.\n\n## Colors\n\nThe palette directly references peak summer harvest and late-afternoon Nile light:\n\n- **Primary Action (POV Purple - `#7243AB`):** Reserved strictly for primary interactive triggers, checkout CTAs, active indicators, and high-visibility badges.\n- **Secondary (Sun Mango - `#F9A825`):** Expresses the core harvest identity, foundational category fills, and interactive highlights.\n- **Tertiary (Burnt Orange - `#E8590C`):** Drives urgent secondary calls-to-action, seasonal highlights, temperature warnings, and price points.\n- **Neutral (Deep Ink - `#1E1226`):** Provides anchor contrast for all textual content, icons, and precise boundary lines.\n- **Background Canvas (`#FFF4E2`):** Base canvas tone representing warm solar cream. Elevated surfaces utilize pure white (`#FFFFFF`) or tinted mango-cream (`#FEECC7`) to create natural depth without defaulting to cold grays.\n- **Accent Brand Accents:** The wordmark accent palette introduces Mango Yellow (`#F9CD18`) and Nile Oasis Teal (`#17AE9D`) strictly for iconography, flavor badges, and celebratory moments.\n\n## Typography\n\nTypography delivers a high-fashion, editorial pace. All headline levels require an uppercase transformation coupled with tight tracking to simulate physical poster art. Body copy relies on Inter to guarantee effortless legibility during quick digital ordering flows.\n\n- **Headlines:** Set in Archivo Narrow ExtraBold. Always transform to uppercase for section headers, promotional punchlines, and product titles.\n- **Body & Captions:** Handled by Inter with standard capitalizations and generous vertical leading to counterbalance the dense, punchy headers.\n- **Labels & Microcopy:** Rendered with semi-bold to bold weights, maintaining slight letter-spacing expansions to ensure immediate scannability on handheld screens.\n\n## Layout & Spacing\n\nThe structural layout uses a fluid grid system calibrated for mobile-first utility, optimized around a 390px base viewport width:\n\n- **Mobile (390px - 767px):** 4-column fluid layout with `1.25rem` (20px) outer canvas margins and `0.75rem` (12px) gutters. Product grids use two asymmetrical or paired columns.\n- **Tablet (768px - 1023px):** 8-column layout with `1.5rem` (24px) gutters and margins.\n- **Desktop (1024px+):** 12-column layout maxed at 1280px container width with `1.5rem` (24px) gutters and auto-centered outer margins.\n- **Spacing Rhythm:** Built on a 4px baseline. Vertical stack intervals favor distinct section breathing room (`space-xl`) between seasonal promotional features and structured product catalogs.\n\n## Elevation & Depth\n\nDepth is established through rich color zoning and warm ambient luminescence rather than generic neutral gray dropshadows:\n\n- **Level 0 (Flat Ground):** Base canvas `#FFF4E2`. Elements lie integrated directly into the visual landscape.\n- **Level 1 (Product Cards & Shelves):** Pure white `#FFFFFF` or tinted cream `#FFFBF4` surfaces lifted by subtle warm ambient diffusion: `0px 8px 24px -4px rgba(30, 18, 38, 0.06), 0px 2px 6px -1px rgba(249, 168, 37, 0.08)`.\n- **Level 2 (Modals, Overlays, Floating Baskets):** Lifted with strong physical presence using `0px 16px 36px -6px rgba(30, 18, 38, 0.14)`.\n- **Active State Highlights:** Tactile displacement where interactive cards slightly scale down (0.98x) with a concentrated tint highlight rather than heavy, artificial elevation spikes.\n\n## Shapes\n\nThe design system employs a curated curvature standard that balances organic fruit contours with sleek architectural containment:\n\n- **Product & Content Cards:** Fixed at `1.25rem` (20px) border-radius, creating an approachable, tactile card contour.\n- **Buttons & Action Triggers:** Standardized at `0.75rem` (12px) for structured utility, scaling up to full pill form (`9999px`) for quick-filter chips and sticky bottom floating bars.\n- **Media Containers:** Juice visuals and photography frames inherit the strict `20px` radius, reinforced with an inner clip-path to ensure border clipping remains seamless across all high-density displays.\n\n## Components\n\n### Buttons\n- **Primary:** Filled with `#7243AB`, white label text (`#FFFFFF`), uppercase Archivo Narrow SemiBold, 12px corner radius. Padding: `14px 24px`.\n- **Secondary (Sun Tint):** Filled with `#F9A825`, text in Deep Ink (`#1E1226`).\n- **Ghost/Tertiary:** Burnt Orange (`#E8590C`) border (1.5px) with transparent fill, matching text color.\n\n### Chips & Filters\n- **Default State:** Canvas tint `#FEECC7`, Deep Ink text (`#1E1226`), 9999px pill radius, padding `8px 16px`.\n- **Selected State:** Solid POV Purple `#7243AB`, white text, with immediate layout feedback.\n\n### Cards\n- **Product Card:** Background `#FFFFFF`, 20px border radius, ambient warm shadow, padding `16px`. Product photography bleeds edge-to-edge across the card head, crowned with an absolute-positioned badge (e.g., \"FAS HIGH HARVEST\").\n\n### Input Fields\n- **Search & Customization Fields:** Background `#FFFBF4`, 1.5px subtle outline `#EEDCC0`, 12px border radius. Focus state shifts outline to `#7243AB` with a 2px stroke, accompanied by body-md typography.\n\n### Checkboxes & Radio Selectors\n- **Custom Toppings & Sweetness Toggles:** Circular radios and softly rounded (6px) checkboxes. Unchecked uses `#EEDCC0` borders; checked states display a solid `#7243AB` fill with an interior white checkmark.\n\n### Specialized Component: Mango Intensity Meter\n- Visual segmented pill bar indicating sweetness and pulp thickness across juice varieties, using `#F9A825` active indicators over a muted `#FFF4E2` track.",
+                      "font": "ARCHIVO_NARROW",
+                      "headlineFont": "ARCHIVO_NARROW",
+                      "headlineFontFamily": "Archivo Narrow",
+                      "labelFont": "INTER",
+                      "labelFontFamily": "Inter",
+                      "namedColors": {
+                        "background": "#fff7fd",
+                        "error": "#ba1a1a",
+                        "error_container": "#ffdad6",
+                        "inverse_on_surface": "#fbecff",
+                        "inverse_primary": "#d9b9ff",
+                        "inverse_surface": "#392b41",
+                        "on_background": "#23172b",
+                        "on_error": "#ffffff",
+                        "on_error_container": "#93000a",
+                        "on_primary": "#ffffff",
+                        "on_primary_container": "#e3caff",
+                        "on_primary_fixed": "#2a0054",
+                        "on_primary_fixed_variant": "#5c2c94",
+                        "on_secondary": "#ffffff",
+                        "on_secondary_container": "#694300",
+                        "on_secondary_fixed": "#2a1800",
+                        "on_secondary_fixed_variant": "#643f00",
+                        "on_surface": "#23172b",
+                        "on_surface_variant": "#4b4451",
+                        "on_tertiary": "#ffffff",
+                        "on_tertiary_container": "#ffc7b2",
+                        "on_tertiary_fixed": "#370e00",
+                        "on_tertiary_fixed_variant": "#7f2b00",
+                        "outline": "#7c7482",
+                        "outline_variant": "#cdc3d3",
+                        "primary": "#592991",
+                        "primary_container": "#7243ab",
+                        "primary_fixed": "#eedbff",
+                        "primary_fixed_dim": "#d9b9ff",
+                        "secondary": "#835400",
+                        "secondary_container": "#fcab28",
+                        "secondary_fixed": "#ffddb5",
+                        "secondary_fixed_dim": "#ffb957",
+                        "surface": "#fff7fd",
+                        "surface_bright": "#fff7fd",
+                        "surface_container": "#fae8ff",
+                        "surface_container_high": "#f6e1fe",
+                        "surface_container_highest": "#f0dcf8",
+                        "surface_container_low": "#fdefff",
+                        "surface_container_lowest": "#ffffff",
+                        "surface_dim": "#e7d3f0",
+                        "surface_tint": "#7546ae",
+                        "surface_variant": "#f0dcf8",
+                        "tertiary": "#7a2900",
+                        "tertiary_container": "#a13900",
+                        "tertiary_fixed": "#ffdbce",
+                        "tertiary_fixed_dim": "#ffb598"
+                      },
+                      "overrideNeutralColor": "#1e1226",
+                      "overridePrimaryColor": "#7243ab",
+                      "overrideSecondaryColor": "#f9a825",
+                      "overrideTertiaryColor": "#e8590c",
+                      "roundness": "ROUND_EIGHT",
+                      "spacing": {
+                        "gutter": "1rem",
+                        "gutter-mobile": "0.75rem",
+                        "margin": "1.5rem",
+                        "margin-mobile": "1.25rem",
+                        "space-lg": "1.25rem",
+                        "space-md": "1rem",
+                        "space-sm": "0.5rem",
+                        "space-xl": "2rem",
+                        "space-xs": "0.25rem"
+                      },
+                      "spacingScale": 2,
+                      "typography": {
+                        "body-lg": {
+                          "fontFamily": "Inter",
+                          "fontSize": "18px",
+                          "fontWeight": "400",
+                          "letterSpacing": "-0.01em",
+                          "lineHeight": "26px"
+                        },
+                        "body-md": {
+                          "fontFamily": "Inter",
+                          "fontSize": "15px",
+                          "fontWeight": "400",
+                          "letterSpacing": "0em",
+                          "lineHeight": "22px"
+                        },
+                        "body-sm": {
+                          "fontFamily": "Inter",
+                          "fontSize": "13px",
+                          "fontWeight": "400",
+                          "letterSpacing": "0.01em",
+                          "lineHeight": "18px"
+                        },
+                        "display-hero": {
+                          "fontFamily": "Archivo Narrow",
+                          "fontSize": "56px",
+                          "fontWeight": "800",
+                          "letterSpacing": "-0.03em",
+                          "lineHeight": "58px"
+                        },
+                        "display-hero-mobile": {
+                          "fontFamily": "Archivo Narrow",
+                          "fontSize": "40px",
+                          "fontWeight": "800",
+                          "letterSpacing": "-0.03em",
+                          "lineHeight": "42px"
+                        },
+                        "headline-lg": {
+                          "fontFamily": "Archivo Narrow",
+                          "fontSize": "36px",
+                          "fontWeight": "800",
+                          "letterSpacing": "-0.02em",
+                          "lineHeight": "40px"
+                        },
+                        "headline-lg-mobile": {
+                          "fontFamily": "Archivo Narrow",
+                          "fontSize": "28px",
+                          "fontWeight": "800",
+                          "letterSpacing": "-0.02em",
+                          "lineHeight": "32px"
+                        },
+                        "headline-md": {
+                          "fontFamily": "Archivo Narrow",
+                          "fontSize": "24px",
+                          "fontWeight": "700",
+                          "letterSpacing": "-0.01em",
+                          "lineHeight": "28px"
+                        },
+                        "headline-sm": {
+                          "fontFamily": "Archivo Narrow",
+                          "fontSize": "20px",
+                          "fontWeight": "700",
+                          "letterSpacing": "0em",
+                          "lineHeight": "24px"
+                        },
+                        "label-lg": {
+                          "fontFamily": "Inter",
+                          "fontSize": "14px",
+                          "fontWeight": "600",
+                          "letterSpacing": "0.02em",
+                          "lineHeight": "18px"
+                        },
+                        "label-md": {
+                          "fontFamily": "Inter",
+                          "fontSize": "12px",
+                          "fontWeight": "600",
+                          "letterSpacing": "0.04em",
+                          "lineHeight": "16px"
+                        },
+                        "label-sm": {
+                          "fontFamily": "Inter",
+                          "fontSize": "10px",
+                          "fontWeight": "700",
+                          "letterSpacing": "0.06em",
+                          "lineHeight": "14px"
+                        }
+                      }
+                    }
+                  },
+                  "name": "assets/36df791e77ae42dfac7a6f0b5f80c8db",
+                  "version": "1"
+                },
+                "deviceType": "MOBILE",
+                "generatedBy": "figaro_agent",
+                "height": "4144",
+                "htmlCode": {
+                  "downloadUrl": "https://contribution.usercontent.google.com/download?c=CgthaWRhX2NvZGVmeBJ8Eh1hcHBfY29tcGFuaW9uX2dlbmVyYXRlZF9maWxlcxpbCiVodG1sX2JmMGU5M2RmOGUyMzQ4ZDM5Y2I2MjkzMmFiZjkzMjdjEgsSBxCu-qfdvhIYAZIBJAoKcHJvamVjdF9pZBIWQhQxNjIzNDUyNTY4MTk2NDYwMjcxOA&filename=&opi=96797242",
+                  "mimeType": "text/html",
+                  "name": "projects/16234525681964602718/files/802836cb493f493c816294383106d060"
+                },
+                "id": "844cba6d12014c8ea69b5b672f2c3e38",
+                "name": "projects/16234525681964602718/screens/844cba6d12014c8ea69b5b672f2c3e38",
+                "prompt": "Create the mobile HOME SCREEN for POV (بوف) juice shop (390px mobile layout, LIGHT theme only).\n\nBrand & Style Guide:\n- Palette: Warm cream background (#FFF4E2), sun mango (#F9A825), burnt orange (#E8590C), ink text (#1E1226), POV purple (#7243AB) for primary buttons.\n- Wordmark: \"POV\" brand logo at top-left with styled letters: 'P' in purple (#7243AB), 'O' in yellow (#F9CD18), and 'V' in teal (#17AE9D) in heavy bold geometric sans, followed by subtle Arabic wordmark 'بوف' or tagline 'Cairo'. Right side has search icon (Material Symbols 'search').\n- Typography: Archivo ExtraBold for headlines, tight, uppercase; Inter for body and prices.\n- Bottom Navigation: 4 items (Home, Menu, Bag with count badge '2', Account) using Material Symbols (home, restaurant_menu, shopping_bag, person).\n\nDetailed Page Structure:\n1. Top App Bar:\n   - Clean, sticky header over warm cream (#FFF4E2) or overlaying top.\n   - Left: Tri-color wordmark <span style=\"color:#7243AB\">P</span><span style=\"color:#F9CD18\">O</span><span style=\"color:#17AE9D\">V</span> <span class=\"text-xs uppercase tracking-widest text-[#1E1226]/50 ml-1 font-bold\">بوف</span>\n   - Right: Circular button or clean icon for 'search'.\n\n2. Hero Section (about 60% of screen height):\n   - Full-bleed photo using {{DATA:IMAGE:IMAGE_8}} (sun-drenched POV Mango in Cairo golden hour on stone ledge with palm leaf shadows).\n   - Subtle dark/golden gradient overlay at the bottom of the photo to ensure legible contrast.\n   - Over the bottom of the photo:\n     * Huge uppercase headline in Archivo ExtraBold: \"MANGO SEASON IS HERE\"\n     * Catchy subtitle / tagline: \"Pure Egyptian Keitt mango, pressed fresh daily.\"\n     * Call-to-action button: sun-mango or POV purple button with rounded-full padding: \"Order now\" with an arrow icon.\n\n3. Category Tabs:\n   - Horizontal row of category tabs formatted as clean text with an elegant underline indicator on the active one (NO pill chips):\n     * Active tab: \"Mango Signatures\" (bold #1E1226 text with 2px solid #E8590C or #7243AB underline)\n     * Inactive tabs: \"Fresh Cubes\", \"Smoothies & Shakes\", \"Fresh Juices\", \"Seasonal\" (text-[#1E1226]/60, hover/press state).\n\n4. Signatures Section:\n   - Section title \"Signatures\" in bold Archivo uppercase with a subtitle or count.\n   - Horizontally scrolling container featuring large portrait cards with 20px rounded corners (rounded-[20px]), photography-led, warm white/cream card surfaces:\n     * Card 1: Image {{DATA:IMAGE:IMAGE_8}}, title \"POV Mango\", description \"100% pure Egyptian Keitt mango nectar, cold-pressed\", price \"95 EGP\", circular add button (+) in POV purple (#7243AB).\n     * Card 2: Image {{DATA:IMAGE:IMAGE_9}}, title \"Mango x Strawberry\", description \"Golden Keitt mango layered with fresh sweet strawberry juice\", price \"115 EGP\", circular add button (+) in POV purple (#7243AB).\n     * Card 3: Image {{DATA:IMAGE:IMAGE_10}}, title \"POV Cocktail\", description \"Layered Keitt mango, strawberry, pink guava & avocado cream\", price \"145 EGP\", circular add button (+) in POV purple (#7243AB).\n\n5. Seasonal Special Banner:\n   - Wide banner photo using {{DATA:IMAGE:IMAGE_11}} featuring Egyptian Keitt mangoes in golden hour.\n   - Tag / Badge: \"SEASONAL HARVEST\"\n   - Headline: \"Last call: Keitt mango\"\n   - Body: \"Rich, fiberless golden harvest from Ismailia. Limited seasonal run.\"\n   - Price tag: \"130 EGP\" and a quick \"Add to Bag\" action.\n\n6. Fresh Juices Quick Grid (showcasing menu items):\n   - Featuring Fresh Orange (70 EGP) using {{DATA:IMAGE:IMAGE_6}}, Strawberry (85 EGP) using {{DATA:IMAGE:IMAGE_7}}, Watermelon Mint (75 EGP) using {{DATA:IMAGE:IMAGE_5}}, and Guava Nectar (80 EGP) using {{DATA:IMAGE:IMAGE_4}}.\n\n7. Fixed Bottom Navigation Bar:\n   - 4 destinations: Home (active), Menu, Bag (with red/purple notification badge showing '2'), Account.\n   - High-contrast, clean docked layout.\n\nEnsure immaculate styling, 390px mobile layout, crisp shadows, and photorealistic imagery throughout.\n## Available Images\nYou MUST include the following images in this design. You must reference them\nby putting their exact placeholder IDs in `src` attributes or CSS\n`background-image` rules. Do NOT use external URLs or generate new\nplaceholders. Preserve these IDs exactly as written. Read each image's\nDescription to understand its subject, intended section, and visual role.\n\n- {{DATA:IMAGE:IMAGE_4}}\n  Description: Commercial studio product photography: a single clear PET plastic cup with a transparent dome lid and a white straw, full of thick creamy pink guava juice, standing on a seamless warm butter-yellow backdrop (#FEE3A0). Soft natural daylight from the left, gentle soft shadow cast on the surface. Whole green-yellow guavas and cut pink guava halves showing seeds beside the cup. Crisp condensation droplets on the clear cup. Clean, minimalist studio setup, shot at 85mm lens, shallow depth of field, sharp focus, photorealistic, no text, no logos, no labels, 8k resolution.\n  Dimensions: 1024x1024\n  Aspect Ratio: 1.00\n- {{DATA:IMAGE:IMAGE_5}}\n  Description: Commercial studio product photography: a single clear PET plastic cup with a transparent dome lid and a white straw, full of refreshing ruby red watermelon juice, standing on a seamless warm butter-yellow backdrop (#FEE3A0). Soft natural daylight from the left, gentle soft shadow cast on the surface. Fresh vibrant watermelon triangular wedges and a sprig of fresh green mint leaves beside the cup. Crisp condensation droplets on the clear cup. Clean, minimalist studio setup, shot at 85mm lens, shallow depth of field, sharp focus, photorealistic, no text, no logos, no labels, 8k resolution.\n  Dimensions: 1024x1024\n  Aspect Ratio: 1.00\n- {{DATA:IMAGE:IMAGE_6}}\n  Description: Commercial studio product photography: a single clear PET plastic cup with a transparent dome lid and a white straw, full of vibrant fresh orange juice, standing on a seamless warm butter-yellow backdrop (#FEE3A0). Soft natural daylight from the left, gentle soft shadow cast on the surface. Whole fresh oranges and juicy cut orange halves arranged neatly beside the cup. Crisp condensation water droplets on the clear plastic cup. Clean, minimalist studio setup, shot at 85mm lens, shallow depth of field, sharp focus on the cup and fruit, photorealistic, no text, no logos, no labels, 8k resolution.\n  Dimensions: 1024x1024\n  Aspect Ratio: 1.00\n- {{DATA:IMAGE:IMAGE_7}}\n  Description: Commercial studio product photography: a single clear PET plastic cup with a transparent dome lid and a white straw, full of bright red strawberry juice, standing on a seamless warm butter-yellow backdrop (#FEE3A0). Soft natural daylight from the left, gentle soft shadow cast on the surface. Fresh ripe red strawberries with green stems and strawberry slices arranged beside the cup. Crisp condensation water droplets on the clear plastic cup. Clean, minimalist studio setup, shot at 85mm lens, shallow depth of field, sharp focus on the cup and fruit, photorealistic, no text, no logos, no labels, 8k resolution.\n  Dimensions: 1024x1024\n  Aspect Ratio: 1.00\n",
+                "screenMetadata": {
+                  "agentType": "PRO_AGENT",
+                  "status": "COMPLETE"
+                },
+                "screenType": "DESIGN",
+                "screenshot": {
+                  "downloadUrl": "https://lh3.googleusercontent.com/aida/AEtjO1UbEHn2EaAS-O6Za6dDRaiK_H3tP3kQ3zuiSjNH18bDIQAwMWnQbFIUt04KPplum9y0n-vCPOdCOMuuLTG0ryBt-galloCf8rcn8Y6fjX2RIMEEGf7p3JobzdfB8u9T-Ad5bbj9XHFjOsMSeaRrsg4jn0GALc-UAGxKCdIwtgmuUKlVwPoWCwciMNixTlPob-c9MI0iQVfkXYZaI7GlloQq0OXwN7qxc5ncAr442y6TWBRTaJoyHpmS_q-O",
+                  "name": "projects/16234525681964602718/files/4ef45e2d2ee14836aaeb9f7fd37687ec"
+                },
+                "theme": {
+                  "bodyFont": "INTER",
+                  "bodyFontFamily": "Inter",
+                  "colorMode": "LIGHT",
+                  "colorVariant": "FIDELITY",
+                  "customColor": "#7243ab",
+                  "font": "ARCHIVO_NARROW",
+                  "headlineFont": "ARCHIVO_NARROW",
+                  "headlineFontFamily": "Archivo Narrow",
+                  "labelFont": "INTER",
+                  "labelFontFamily": "Inter",
+                  "namedColors": {
+                    "background": "#fff7fd",
+                    "error": "#ba1a1a",
+                    "error_container": "#ffdad6",
+                    "inverse_on_surface": "#fbecff",
+                    "inverse_primary": "#d9b9ff",
+                    "inverse_surface": "#392b41",
+                    "on_background": "#23172b",
+                    "on_error": "#ffffff",
+                    "on_error_container": "#93000a",
+                    "on_primary": "#ffffff",
+                    "on_primary_container": "#e3caff",
+                    "on_primary_fixed": "#2a0054",
+                    "on_primary_fixed_variant": "#5c2c94",
+                    "on_secondary": "#ffffff",
+                    "on_secondary_container": "#694300",
+                    "on_secondary_fixed": "#2a1800",
+                    "on_secondary_fixed_variant": "#643f00",
+                    "on_surface": "#23172b",
+                    "on_surface_variant": "#4b4451",
+                    "on_tertiary": "#ffffff",
+                    "on_tertiary_container": "#ffc7b2",
+                    "on_tertiary_fixed": "#370e00",
+                    "on_tertiary_fixed_variant": "#7f2b00",
+                    "outline": "#7c7482",
+                    "outline_variant": "#cdc3d3",
+                    "primary": "#592991",
+                    "primary_container": "#7243ab",
+                    "primary_fixed": "#eedbff",
+                    "primary_fixed_dim": "#d9b9ff",
+                    "secondary": "#835400",
+                    "secondary_container": "#fcab28",
+                    "secondary_fixed": "#ffddb5",
+                    "secondary_fixed_dim": "#ffb957",
+                    "surface": "#fff7fd",
+                    "surface_bright": "#fff7fd",
+                    "surface_container": "#fae8ff",
+                    "surface_container_high": "#f6e1fe",
+                    "surface_container_highest": "#f0dcf8",
+                    "surface_container_low": "#fdefff",
+                    "surface_container_lowest": "#ffffff",
+                    "surface_dim": "#e7d3f0",
+                    "surface_tint": "#7546ae",
+                    "surface_variant": "#f0dcf8",
+                    "tertiary": "#7a2900",
+                    "tertiary_container": "#a13900",
+                    "tertiary_fixed": "#ffdbce",
+                    "tertiary_fixed_dim": "#ffb598"
+                  },
+                  "overrideNeutralColor": "#1e1226",
+                  "overridePrimaryColor": "#7243ab",
+                  "overrideSecondaryColor": "#f9a825",
+                  "overrideTertiaryColor": "#e8590c",
+                  "roundness": "ROUND_EIGHT",
+                  "spacing": {
+                    "gutter": "1rem",
+                    "gutter-mobile": "0.75rem",
+                    "margin": "1.5rem",
+                    "margin-mobile": "1.25rem",
+                    "space-lg": "1.25rem",
+                    "space-md": "1rem",
+                    "space-sm": "0.5rem",
+                    "space-xl": "2rem",
+                    "space-xs": "0.25rem"
+                  },
+                  "spacingScale": 2,
+                  "typography": {
+                    "body-lg": {
+                      "fontFamily": "Inter",
+                      "fontSize": "18px",
+                      "fontWeight": "400",
+                      "letterSpacing": "-0.01em",
+                      "lineHeight": "26px"
+                    },
+                    "body-md": {
+                      "fontFamily": "Inter",
+                      "fontSize": "15px",
+                      "fontWeight": "400",
+                      "letterSpacing": "0em",
+                      "lineHeight": "22px"
+                    },
+                    "body-sm": {
+                      "fontFamily": "Inter",
+                      "fontSize": "13px",
+                      "fontWeight": "400",
+                      "letterSpacing": "0.01em",
+                      "lineHeight": "18px"
+                    },
+                    "display-hero": {
+                      "fontFamily": "Archivo Narrow",
+                      "fontSize": "56px",
+                      "fontWeight": "800",
+                      "letterSpacing": "-0.03em",
+                      "lineHeight": "58px"
+                    },
+                    "display-hero-mobile": {
+                      "fontFamily": "Archivo Narrow",
+                      "fontSize": "40px",
+                      "fontWeight": "800",
+                      "letterSpacing": "-0.03em",
+                      "lineHeight": "42px"
+                    },
+                    "headline-lg": {
+                      "fontFamily": "Archivo Narrow",
+                      "fontSize": "36px",
+                      "fontWeight": "800",
+                      "letterSpacing": "-0.02em",
+                      "lineHeight": "40px"
+                    },
+                    "headline-lg-mobile": {
+                      "fontFamily": "Archivo Narrow",
+                      "fontSize": "28px",
+                      "fontWeight": "800",
+                      "letterSpacing": "-0.02em",
+                      "lineHeight": "32px"
+                    },
+                    "headline-md": {
+                      "fontFamily": "Archivo Narrow",
+                      "fontSize": "24px",
+                      "fontWeight": "700",
+                      "letterSpacing": "-0.01em",
+                      "lineHeight": "28px"
+                    },
+                    "headline-sm": {
+                      "fontFamily": "Archivo Narrow",
+                      "fontSize": "20px",
+                      "fontWeight": "700",
+                      "letterSpacing": "0em",
+                      "lineHeight": "24px"
+                    },
+                    "label-lg": {
+                      "fontFamily": "Inter",
+                      "fontSize": "14px",
+                      "fontWeight": "600",
+                      "letterSpacing": "0.02em",
+                      "lineHeight": "18px"
+                    },
+                    "label-md": {
+                      "fontFamily": "Inter",
+                      "fontSize": "12px",
+                      "fontWeight": "600",
+                      "letterSpacing": "0.04em",
+                      "lineHeight": "16px"
+                    },
+                    "label-sm": {
+                      "fontFamily": "Inter",
+                      "fontSize": "10px",
+                      "fontWeight": "700",
+                      "letterSpacing": "0.06em",
+                      "lineHeight": "14px"
+                    }
+                  }
+                },
+                "title": "POV Home - Golden Hour",
+                "width": "780"
+              }
+            ],
+            "theme": {}
+          }
+        },
+        {
+          "text": "I have designed the **POV Home Screen** (`390px` mobile layout) based on your \"Golden Hour\" campaign direction:\n\n### Key Design Highlights:\n1. **Top Bar & Brand Identity**:\n   - Clean top bar displaying the exact tri-color geometric **POV** wordmark (<span style=\"color:#7243AB\">**P**</span> in purple `#7243AB`, <span style=\"color:#F9CD18\">**O**</span> in sun yellow `#F9CD18`, and <span style=\"color:#17AE9D\">**V**</span> in teal `#17AE9D`), paired with the Arabic mark **بوف** and city tag **Cairo**, with the `search` icon on the right.\n\n2. **Hero Section (~60% screen height)**:\n   - Full-bleed commercial lifestyle food photography of the POV Mango juice cup on a warm sunlit stone ledge with dramatic Cairo golden-hour palm frond shadows.\n   - High-contrast, bottom-anchored typography featuring the bold uppercase headline **\"MANGO SEASON IS HERE\"**, a tagline highlighting pure Keitt mango with zero added sugar, and an eye-catching **\"Order now\"** call to action.\n\n3. **Category Tabs (Text with Underline)**:\n   - Clean horizontal text navigation with an active underline indicator for **\"Mango Signatures\"** (no pill chips), followed by *Fresh Cubes*, *Smoothies & Shakes*, *Fresh Juices*, and *Seasonal*.\n\n4. **Signatures Section**:\n   - Large 20px-radius portrait cards featuring authentic commercial drinks photography:\n     - **POV Mango** (95 EGP)\n     - **Mango x Strawberry** (115 EGP)\n     - **POV Cocktail** layered blend (145 EGP)\n     - Equipped with POV purple (`#7243AB`) circular add buttons.\n\n5. **Seasonal Special Wide Banner**:\n   - Editorial Keitt mango banner with palm shadows for **\"Last call: Keitt mango\"** at **130 EGP** with direct \"Add to Bag\".\n\n6. **Fresh Juices Grid & Bottom Navigation**:\n   - Studio product showcases for Fresh Orange (70 EGP), Strawberry (85 EGP), Watermelon Mint (75 EGP), and Guava Nectar (80 EGP).\n   - Fixed 4-item bottom navigation bar: **Home** (active), **Menu**, **Bag** (with a count badge of `2`), and **Account**."
+        },
+        {
+          "suggestion": "Design the Product Detail / Customization modal for POV Mango"
+        },
+        {
+          "suggestion": "Create the full Menu screen with category filtering"
+        },
+        {
+          "suggestion": "Design the Bag / Checkout drawer showing current items"
+        }
+      ],
+      "projectId": "16234525681964602718",
+      "sessionId": "10595650255744453769",
+      "designSystem": {
+        "designSystem": {
+          "displayName": "POV Golden Hour",
+          "styleGuidelines": "## Brand & Style\n\nThe design system establishes a high-energy, sensory-driven luxury editorial experience centered around Egypt's seasonal mango culture. Tailored for urban tastemakers and culinary enthusiasts in Cairo, the visual tone balances the relaxed opulence of Mediterranean golden hour with bold, contemporary street-level warmth.\n\nThe style fuses High-Contrast Editorial with Tactile Warmth:\n- **Canvas Atmosphere:** Sun-drenched, ripe organic warmth rather than sterile retail whites.\n- **Graphic Impact:** Tight, condensed display typography paired with deliberate color-blocked surfaces.\n- **Brand Resonance:** Playful, high-end, and vibrant—positioning fresh seasonal juice as an aspirational, craft-centric ritual.\n\n## Layout & Spacing\n\nThe structural layout uses a fluid grid system calibrated for mobile-first utility, optimized around a 390px base viewport width:\n\n- **Mobile (390px - 767px):** 4-column fluid layout with `1.25rem` (20px) outer canvas margins and `0.75rem` (12px) gutters. Product grids use two asymmetrical or paired columns.\n- **Tablet (768px - 1023px):** 8-column layout with `1.5rem` (24px) gutters and margins.\n- **Desktop (1024px+):** 12-column layout maxed at 1280px container width with `1.5rem` (24px) gutters and auto-centered outer margins.\n- **Spacing Rhythm:** Built on a 4px baseline. Vertical stack intervals favor distinct section breathing room (`space-xl`) between seasonal promotional features and structured product catalogs.\n\n## Elevation & Depth\n\nDepth is established through rich color zoning and warm ambient luminescence rather than generic neutral gray dropshadows:\n\n- **Level 0 (Flat Ground):** Base canvas `#FFF4E2`. Elements lie integrated directly into the visual landscape.\n- **Level 1 (Product Cards & Shelves):** Pure white `#FFFFFF` or tinted cream `#FFFBF4` surfaces lifted by subtle warm ambient diffusion: `0px 8px 24px -4px rgba(30, 18, 38, 0.06), 0px 2px 6px -1px rgba(249, 168, 37, 0.08)`.\n- **Level 2 (Modals, Overlays, Floating Baskets):** Lifted with strong physical presence using `0px 16px 36px -6px rgba(30, 18, 38, 0.14)`.\n- **Active State Highlights:** Tactile displacement where interactive cards slightly scale down (0.98x) with a concentrated tint highlight rather than heavy, artificial elevation spikes.\n\n## Components\n\n### Buttons\n- **Primary:** Filled with `#7243AB`, white label text (`#FFFFFF`), uppercase Archivo Narrow SemiBold, 12px corner radius. Padding: `14px 24px`.\n- **Secondary (Sun Tint):** Filled with `#F9A825`, text in Deep Ink (`#1E1226`).\n- **Ghost/Tertiary:** Burnt Orange (`#E8590C`) border (1.5px) with transparent fill, matching text color.\n\n### Chips & Filters\n- **Default State:** Canvas tint `#FEECC7`, Deep Ink text (`#1E1226`), 9999px pill radius, padding `8px 16px`.\n- **Selected State:** Solid POV Purple `#7243AB`, white text, with immediate layout feedback.\n\n### Cards\n- **Product Card:** Background `#FFFFFF`, 20px border radius, ambient warm shadow, padding `16px`. Product photography bleeds edge-to-edge across the card head, crowned with an absolute-positioned badge (e.g., \"FAS HIGH HARVEST\").\n\n### Input Fields\n- **Search & Customization Fields:** Background `#FFFBF4`, 1.5px subtle outline `#EEDCC0`, 12px border radius. Focus state shifts outline to `#7243AB` with a 2px stroke, accompanied by body-md typography.\n\n### Checkboxes & Radio Selectors\n- **Custom Toppings & Sweetness Toggles:** Circular radios and softly rounded (6px) checkboxes. Unchecked uses `#EEDCC0` borders; checked states display a solid `#7243AB` fill with an interior white checkmark.\n\n### Specialized Component: Mango Intensity Meter\n- Visual segmented pill bar indicating sweetness and pulp thickness across juice varieties, using `#F9A825` active indicators over a muted `#FFF4E2` track.",
+          "theme": {
+            "bodyFont": "INTER",
+            "bodyFontFamily": "Inter",
+            "colorMode": "LIGHT",
+            "colorVariant": "FIDELITY",
+            "customColor": "#7243ab",
+            "designMd": "---\nname: POV Golden Hour\ncolors:\n  surface: '#fff7fd'\n  surface-dim: '#e7d3f0'\n  surface-bright: '#fff7fd'\n  surface-container-lowest: '#ffffff'\n  surface-container-low: '#fdefff'\n  surface-container: '#fae8ff'\n  surface-container-high: '#f6e1fe'\n  surface-container-highest: '#f0dcf8'\n  on-surface: '#23172b'\n  on-surface-variant: '#4b4451'\n  inverse-surface: '#392b41'\n  inverse-on-surface: '#fbecff'\n  outline: '#7c7482'\n  outline-variant: '#cdc3d3'\n  surface-tint: '#7546ae'\n  primary: '#592991'\n  on-primary: '#ffffff'\n  primary-container: '#7243ab'\n  on-primary-container: '#e3caff'\n  inverse-primary: '#d9b9ff'\n  secondary: '#835400'\n  on-secondary: '#ffffff'\n  secondary-container: '#fcab28'\n  on-secondary-container: '#694300'\n  tertiary: '#7a2900'\n  on-tertiary: '#ffffff'\n  tertiary-container: '#a13900'\n  on-tertiary-container: '#ffc7b2'\n  error: '#ba1a1a'\n  on-error: '#ffffff'\n  error-container: '#ffdad6'\n  on-error-container: '#93000a'\n  primary-fixed: '#eedbff'\n  primary-fixed-dim: '#d9b9ff'\n  on-primary-fixed: '#2a0054'\n  on-primary-fixed-variant: '#5c2c94'\n  secondary-fixed: '#ffddb5'\n  secondary-fixed-dim: '#ffb957'\n  on-secondary-fixed: '#2a1800'\n  on-secondary-fixed-variant: '#643f00'\n  tertiary-fixed: '#ffdbce'\n  tertiary-fixed-dim: '#ffb598'\n  on-tertiary-fixed: '#370e00'\n  on-tertiary-fixed-variant: '#7f2b00'\n  background: '#fff7fd'\n  on-background: '#23172b'\n  surface-variant: '#f0dcf8'\ntypography:\n  display-hero:\n    fontFamily: Archivo Narrow\n    fontSize: 56px\n    fontWeight: '800'\n    lineHeight: 58px\n    letterSpacing: -0.03em\n  display-hero-mobile:\n    fontFamily: Archivo Narrow\n    fontSize: 40px\n    fontWeight: '800'\n    lineHeight: 42px\n    letterSpacing: -0.03em\n  headline-lg:\n    fontFamily: Archivo Narrow\n    fontSize: 36px\n    fontWeight: '800'\n    lineHeight: 40px\n    letterSpacing: -0.02em\n  headline-lg-mobile:\n    fontFamily: Archivo Narrow\n    fontSize: 28px\n    fontWeight: '800'\n    lineHeight: 32px\n    letterSpacing: -0.02em\n  headline-md:\n    fontFamily: Archivo Narrow\n    fontSize: 24px\n    fontWeight: '700'\n    lineHeight: 28px\n    letterSpacing: -0.01em\n  headline-sm:\n    fontFamily: Archivo Narrow\n    fontSize: 20px\n    fontWeight: '700'\n    lineHeight: 24px\n    letterSpacing: 0em\n  body-lg:\n    fontFamily: Inter\n    fontSize: 18px\n    fontWeight: '400'\n    lineHeight: 26px\n    letterSpacing: -0.01em\n  body-md:\n    fontFamily: Inter\n    fontSize: 15px\n    fontWeight: '400'\n    lineHeight: 22px\n    letterSpacing: 0em\n  body-sm:\n    fontFamily: Inter\n    fontSize: 13px\n    fontWeight: '400'\n    lineHeight: 18px\n    letterSpacing: 0.01em\n  label-lg:\n    fontFamily: Inter\n    fontSize: 14px\n    fontWeight: '600'\n    lineHeight: 18px\n    letterSpacing: 0.02em\n  label-md:\n    fontFamily: Inter\n    fontSize: 12px\n    fontWeight: '600'\n    lineHeight: 16px\n    letterSpacing: 0.04em\n  label-sm:\n    fontFamily: Inter\n    fontSize: 10px\n    fontWeight: '700'\n    lineHeight: 14px\n    letterSpacing: 0.06em\nrounded:\n  sm: 0.25rem\n  DEFAULT: 0.5rem\n  md: 0.75rem\n  lg: 1rem\n  xl: 1.5rem\n  full: 9999px\nspacing:\n  gutter: 1rem\n  gutter-mobile: 0.75rem\n  margin: 1.5rem\n  margin-mobile: 1.25rem\n  space-xs: 0.25rem\n  space-sm: 0.5rem\n  space-md: 1rem\n  space-lg: 1.25rem\n  space-xl: 2rem\n---\n\n## Brand & Style\n\nThe design system establishes a high-energy, sensory-driven luxury editorial experience centered around Egypt's seasonal mango culture. Tailored for urban tastemakers and culinary enthusiasts in Cairo, the visual tone balances the relaxed opulence of Mediterranean golden hour with bold, contemporary street-level warmth.\n\nThe style fuses High-Contrast Editorial with Tactile Warmth:\n- **Canvas Atmosphere:** Sun-drenched, ripe organic warmth rather than sterile retail whites.\n- **Graphic Impact:** Tight, condensed display typography paired with deliberate color-blocked surfaces.\n- **Brand Resonance:** Playful, high-end, and vibrant—positioning fresh seasonal juice as an aspirational, craft-centric ritual.\n\n## Colors\n\nThe palette directly references peak summer harvest and late-afternoon Nile light:\n\n- **Primary Action (POV Purple - `#7243AB`):** Reserved strictly for primary interactive triggers, checkout CTAs, active indicators, and high-visibility badges.\n- **Secondary (Sun Mango - `#F9A825`):** Expresses the core harvest identity, foundational category fills, and interactive highlights.\n- **Tertiary (Burnt Orange - `#E8590C`):** Drives urgent secondary calls-to-action, seasonal highlights, temperature warnings, and price points.\n- **Neutral (Deep Ink - `#1E1226`):** Provides anchor contrast for all textual content, icons, and precise boundary lines.\n- **Background Canvas (`#FFF4E2`):** Base canvas tone representing warm solar cream. Elevated surfaces utilize pure white (`#FFFFFF`) or tinted mango-cream (`#FEECC7`) to create natural depth without defaulting to cold grays.\n- **Accent Brand Accents:** The wordmark accent palette introduces Mango Yellow (`#F9CD18`) and Nile Oasis Teal (`#17AE9D`) strictly for iconography, flavor badges, and celebratory moments.\n\n## Typography\n\nTypography delivers a high-fashion, editorial pace. All headline levels require an uppercase transformation coupled with tight tracking to simulate physical poster art. Body copy relies on Inter to guarantee effortless legibility during quick digital ordering flows.\n\n- **Headlines:** Set in Archivo Narrow ExtraBold. Always transform to uppercase for section headers, promotional punchlines, and product titles.\n- **Body & Captions:** Handled by Inter with standard capitalizations and generous vertical leading to counterbalance the dense, punchy headers.\n- **Labels & Microcopy:** Rendered with semi-bold to bold weights, maintaining slight letter-spacing expansions to ensure immediate scannability on handheld screens.\n\n## Layout & Spacing\n\nThe structural layout uses a fluid grid system calibrated for mobile-first utility, optimized around a 390px base viewport width:\n\n- **Mobile (390px - 767px):** 4-column fluid layout with `1.25rem` (20px) outer canvas margins and `0.75rem` (12px) gutters. Product grids use two asymmetrical or paired columns.\n- **Tablet (768px - 1023px):** 8-column layout with `1.5rem` (24px) gutters and margins.\n- **Desktop (1024px+):** 12-column layout maxed at 1280px container width with `1.5rem` (24px) gutters and auto-centered outer margins.\n- **Spacing Rhythm:** Built on a 4px baseline. Vertical stack intervals favor distinct section breathing room (`space-xl`) between seasonal promotional features and structured product catalogs.\n\n## Elevation & Depth\n\nDepth is established through rich color zoning and warm ambient luminescence rather than generic neutral gray dropshadows:\n\n- **Level 0 (Flat Ground):** Base canvas `#FFF4E2`. Elements lie integrated directly into the visual landscape.\n- **Level 1 (Product Cards & Shelves):** Pure white `#FFFFFF` or tinted cream `#FFFBF4` surfaces lifted by subtle warm ambient diffusion: `0px 8px 24px -4px rgba(30, 18, 38, 0.06), 0px 2px 6px -1px rgba(249, 168, 37, 0.08)`.\n- **Level 2 (Modals, Overlays, Floating Baskets):** Lifted with strong physical presence using `0px 16px 36px -6px rgba(30, 18, 38, 0.14)`.\n- **Active State Highlights:** Tactile displacement where interactive cards slightly scale down (0.98x) with a concentrated tint highlight rather than heavy, artificial elevation spikes.\n\n## Shapes\n\nThe design system employs a curated curvature standard that balances organic fruit contours with sleek architectural containment:\n\n- **Product & Content Cards:** Fixed at `1.25rem` (20px) border-radius, creating an approachable, tactile card contour.\n- **Buttons & Action Triggers:** Standardized at `0.75rem` (12px) for structured utility, scaling up to full pill form (`9999px`) for quick-filter chips and sticky bottom floating bars.\n- **Media Containers:** Juice visuals and photography frames inherit the strict `20px` radius, reinforced with an inner clip-path to ensure border clipping remains seamless across all high-density displays.\n\n## Components\n\n### Buttons\n- **Primary:** Filled with `#7243AB`, white label text (`#FFFFFF`), uppercase Archivo Narrow SemiBold, 12px corner radius. Padding: `14px 24px`.\n- **Secondary (Sun Tint):** Filled with `#F9A825`, text in Deep Ink (`#1E1226`).\n- **Ghost/Tertiary:** Burnt Orange (`#E8590C`) border (1.5px) with transparent fill, matching text color.\n\n### Chips & Filters\n- **Default State:** Canvas tint `#FEECC7`, Deep Ink text (`#1E1226`), 9999px pill radius, padding `8px 16px`.\n- **Selected State:** Solid POV Purple `#7243AB`, white text, with immediate layout feedback.\n\n### Cards\n- **Product Card:** Background `#FFFFFF`, 20px border radius, ambient warm shadow, padding `16px`. Product photography bleeds edge-to-edge across the card head, crowned with an absolute-positioned badge (e.g., \"FAS HIGH HARVEST\").\n\n### Input Fields\n- **Search & Customization Fields:** Background `#FFFBF4`, 1.5px subtle outline `#EEDCC0`, 12px border radius. Focus state shifts outline to `#7243AB` with a 2px stroke, accompanied by body-md typography.\n\n### Checkboxes & Radio Selectors\n- **Custom Toppings & Sweetness Toggles:** Circular radios and softly rounded (6px) checkboxes. Unchecked uses `#EEDCC0` borders; checked states display a solid `#7243AB` fill with an interior white checkmark.\n\n### Specialized Component: Mango Intensity Meter\n- Visual segmented pill bar indicating sweetness and pulp thickness across juice varieties, using `#F9A825` active indicators over a muted `#FFF4E2` track.",
+            "font": "ARCHIVO_NARROW",
+            "headlineFont": "ARCHIVO_NARROW",
+            "headlineFontFamily": "Archivo Narrow",
+            "labelFont": "INTER",
+            "labelFontFamily": "Inter",
+            "namedColors": {
+              "background": "#fff7fd",
+              "error": "#ba1a1a",
+              "error_container": "#ffdad6",
+              "inverse_on_surface": "#fbecff",
+              "inverse_primary": "#d9b9ff",
+              "inverse_surface": "#392b41",
+              "on_background": "#23172b",
+              "on_error": "#ffffff",
+              "on_error_container": "#93000a",
+              "on_primary": "#ffffff",
+              "on_primary_container": "#e3caff",
+              "on_primary_fixed": "#2a0054",
+              "on_primary_fixed_variant": "#5c2c94",
+              "on_secondary": "#ffffff",
+              "on_secondary_container": "#694300",
+              "on_secondary_fixed": "#2a1800",
+              "on_secondary_fixed_variant": "#643f00",
+              "on_surface": "#23172b",
+              "on_surface_variant": "#4b4451",
+              "on_tertiary": "#ffffff",
+              "on_tertiary_container": "#ffc7b2",
+              "on_tertiary_fixed": "#370e00",
+              "on_tertiary_fixed_variant": "#7f2b00",
+              "outline": "#7c7482",
+              "outline_variant": "#cdc3d3",
+              "primary": "#592991",
+              "primary_container": "#7243ab",
+              "primary_fixed": "#eedbff",
+              "primary_fixed_dim": "#d9b9ff",
+              "secondary": "#835400",
+              "secondary_container": "#fcab28",
+              "secondary_fixed": "#ffddb5",
+              "secondary_fixed_dim": "#ffb957",
+              "surface": "#fff7fd",
+              "surface_bright": "#fff7fd",
+              "surface_container": "#fae8ff",
+              "surface_container_high": "#f6e1fe",
+              "surface_container_highest": "#f0dcf8",
+              "surface_container_low": "#fdefff",
+              "surface_container_lowest": "#ffffff",
+              "surface_dim": "#e7d3f0",
+              "surface_tint": "#7546ae",
+              "surface_variant": "#f0dcf8",
+              "tertiary": "#7a2900",
+              "tertiary_container": "#a13900",
+              "tertiary_fixed": "#ffdbce",
+              "tertiary_fixed_dim": "#ffb598"
+            },
+            "overrideNeutralColor": "#1e1226",
+            "overridePrimaryColor": "#7243ab",
+            "overrideSecondaryColor": "#f9a825",
+            "overrideTertiaryColor": "#e8590c",
+            "roundness": "ROUND_EIGHT",
+            "spacing": {
+              "gutter": "1rem",
+              "gutter-mobile": "0.75rem",
+              "margin": "1.5rem",
+              "margin-mobile": "1.25rem",
+              "space-lg": "1.25rem",
+              "space-md": "1rem",
+              "space-sm": "0.5rem",
+              "space-xl": "2rem",
+              "space-xs": "0.25rem"
+            },
+            "spacingScale": 2,
+            "typography": {
+              "body-lg": {
+                "fontFamily": "Inter",
+                "fontSize": "18px",
+                "fontWeight": "400",
+                "letterSpacing": "-0.01em",
+                "lineHeight": "26px"
+              },
+              "body-md": {
+                "fontFamily": "Inter",
+                "fontSize": "15px",
+                "fontWeight": "400",
+                "letterSpacing": "0em",
+                "lineHeight": "22px"
+              },
+              "body-sm": {
+                "fontFamily": "Inter",
+                "fontSize": "13px",
+                "fontWeight": "400",
+                "letterSpacing": "0.01em",
+                "lineHeight": "18px"
+              },
+              "display-hero": {
+                "fontFamily": "Archivo Narrow",
+                "fontSize": "56px",
+                "fontWeight": "800",
+                "letterSpacing": "-0.03em",
+                "lineHeight": "58px"
+              },
+              "display-hero-mobile": {
+                "fontFamily": "Archivo Narrow",
+                "fontSize": "40px",
+                "fontWeight": "800",
+                "letterSpacing": "-0.03em",
+                "lineHeight": "42px"
+              },
+              "headline-lg": {
+                "fontFamily": "Archivo Narrow",
+                "fontSize": "36px",
+                "fontWeight": "800",
+                "letterSpacing": "-0.02em",
+                "lineHeight": "40px"
+              },
+              "headline-lg-mobile": {
+                "fontFamily": "Archivo Narrow",
+                "fontSize": "28px",
+                "fontWeight": "800",
+                "letterSpacing": "-0.02em",
+                "lineHeight": "32px"
+              },
+              "headline-md": {
+                "fontFamily": "Archivo Narrow",
+                "fontSize": "24px",
+                "fontWeight": "700",
+                "letterSpacing": "-0.01em",
+                "lineHeight": "28px"
+              },
+              "headline-sm": {
+                "fontFamily": "Archivo Narrow",
+                "fontSize": "20px",
+                "fontWeight": "700",
+                "letterSpacing": "0em",
+                "lineHeight": "24px"
+              },
+              "label-lg": {
+                "fontFamily": "Inter",
+                "fontSize": "14px",
+                "fontWeight": "600",
+                "letterSpacing": "0.02em",
+                "lineHeight": "18px"
+              },
+              "label-md": {
+                "fontFamily": "Inter",
+                "fontSize": "12px",
+                "fontWeight": "600",
+                "letterSpacing": "0.04em",
+                "lineHeight": "16px"
+              },
+              "label-sm": {
+                "fontFamily": "Inter",
+                "fontSize": "10px",
+                "fontWeight": "700",
+                "letterSpacing": "0.06em",
+                "lineHeight": "14px"
+              }
+            }
+          }
+        },
+        "name": "assets/36df791e77ae42dfac7a6f0b5f80c8db",
+        "version": "1"
+      },
+      "deviceType": "MOBILE",
+      "generatedBy": "figaro_agent",
+      "height": "4144",
+      "htmlCode": {
+        "downloadUrl": "https://contribution.usercontent.google.com/download?c=CgthaWRhX2NvZGVmeBJ8Eh1hcHBfY29tcGFuaW9uX2dlbmVyYXRlZF9maWxlcxpbCiVodG1sX2JmMGU5M2RmOGUyMzQ4ZDM5Y2I2MjkzMmFiZjkzMjdjEgsSBxCu-qfdvhIYAZIBJAoKcHJvamVjdF9pZBIWQhQxNjIzNDUyNTY4MTk2NDYwMjcxOA&filename=&opi=96797242",
+        "mimeType": "text/html",
+        "name": "projects/16234525681964602718/files/802836cb493f493c816294383106d060"
+      },
+      "id": "844cba6d12014c8ea69b5b672f2c3e38",
+      "name": "projects/16234525681964602718/screens/844cba6d12014c8ea69b5b672f2c3e38",
+      "prompt": "Create the mobile HOME SCREEN for POV (بوف) juice shop (390px mobile layout, LIGHT theme only).\n\nBrand & Style Guide:\n- Palette: Warm cream background (#FFF4E2), sun mango (#F9A825), burnt orange (#E8590C), ink text (#1E1226), POV purple (#7243AB) for primary buttons.\n- Wordmark: \"POV\" brand logo at top-left with styled letters: 'P' in purple (#7243AB), 'O' in yellow (#F9CD18), and 'V' in teal (#17AE9D) in heavy bold geometric sans, followed by subtle Arabic wordmark 'بوف' or tagline 'Cairo'. Right side has search icon (Material Symbols 'search').\n- Typography: Archivo ExtraBold for headlines, tight, uppercase; Inter for body and prices.\n- Bottom Navigation: 4 items (Home, Menu, Bag with count badge '2', Account) using Material Symbols (home, restaurant_menu, shopping_bag, person).\n\nDetailed Page Structure:\n1. Top App Bar:\n   - Clean, sticky header over warm cream (#FFF4E2) or overlaying top.\n   - Left: Tri-color wordmark <span style=\"color:#7243AB\">P</span><span style=\"color:#F9CD18\">O</span><span style=\"color:#17AE9D\">V</span> <span class=\"text-xs uppercase tracking-widest text-[#1E1226]/50 ml-1 font-bold\">بوف</span>\n   - Right: Circular button or clean icon for 'search'.\n\n2. Hero Section (about 60% of screen height):\n   - Full-bleed photo using {{DATA:IMAGE:IMAGE_8}} (sun-drenched POV Mango in Cairo golden hour on stone ledge with palm leaf shadows).\n   - Subtle dark/golden gradient overlay at the bottom of the photo to ensure legible contrast.\n   - Over the bottom of the photo:\n     * Huge uppercase headline in Archivo ExtraBold: \"MANGO SEASON IS HERE\"\n     * Catchy subtitle / tagline: \"Pure Egyptian Keitt mango, pressed fresh daily.\"\n     * Call-to-action button: sun-mango or POV purple button with rounded-full padding: \"Order now\" with an arrow icon.\n\n3. Category Tabs:\n   - Horizontal row of category tabs formatted as clean text with an elegant underline indicator on the active one (NO pill chips):\n     * Active tab: \"Mango Signatures\" (bold #1E1226 text with 2px solid #E8590C or #7243AB underline)\n     * Inactive tabs: \"Fresh Cubes\", \"Smoothies & Shakes\", \"Fresh Juices\", \"Seasonal\" (text-[#1E1226]/60, hover/press state).\n\n4. Signatures Section:\n   - Section title \"Signatures\" in bold Archivo uppercase with a subtitle or count.\n   - Horizontally scrolling container featuring large portrait cards with 20px rounded corners (rounded-[20px]), photography-led, warm white/cream card surfaces:\n     * Card 1: Image {{DATA:IMAGE:IMAGE_8}}, title \"POV Mango\", description \"100% pure Egyptian Keitt mango nectar, cold-pressed\", price \"95 EGP\", circular add button (+) in POV purple (#7243AB).\n     * Card 2: Image {{DATA:IMAGE:IMAGE_9}}, title \"Mango x Strawberry\", description \"Golden Keitt mango layered with fresh sweet strawberry juice\", price \"115 EGP\", circular add button (+) in POV purple (#7243AB).\n     * Card 3: Image {{DATA:IMAGE:IMAGE_10}}, title \"POV Cocktail\", description \"Layered Keitt mango, strawberry, pink guava & avocado cream\", price \"145 EGP\", circular add button (+) in POV purple (#7243AB).\n\n5. Seasonal Special Banner:\n   - Wide banner photo using {{DATA:IMAGE:IMAGE_11}} featuring Egyptian Keitt mangoes in golden hour.\n   - Tag / Badge: \"SEASONAL HARVEST\"\n   - Headline: \"Last call: Keitt mango\"\n   - Body: \"Rich, fiberless golden harvest from Ismailia. Limited seasonal run.\"\n   - Price tag: \"130 EGP\" and a quick \"Add to Bag\" action.\n\n6. Fresh Juices Quick Grid (showcasing menu items):\n   - Featuring Fresh Orange (70 EGP) using {{DATA:IMAGE:IMAGE_6}}, Strawberry (85 EGP) using {{DATA:IMAGE:IMAGE_7}}, Watermelon Mint (75 EGP) using {{DATA:IMAGE:IMAGE_5}}, and Guava Nectar (80 EGP) using {{DATA:IMAGE:IMAGE_4}}.\n\n7. Fixed Bottom Navigation Bar:\n   - 4 destinations: Home (active), Menu, Bag (with red/purple notification badge showing '2'), Account.\n   - High-contrast, clean docked layout.\n\nEnsure immaculate styling, 390px mobile layout, crisp shadows, and photorealistic imagery throughout.\n## Available Images\nYou MUST include the following images in this design. You must reference them\nby putting their exact placeholder IDs in `src` attributes or CSS\n`background-image` rules. Do NOT use external URLs or generate new\nplaceholders. Preserve these IDs exactly as written. Read each image's\nDescription to understand its subject, intended section, and visual role.\n\n- {{DATA:IMAGE:IMAGE_4}}\n  Description: Commercial studio product photography: a single clear PET plastic cup with a transparent dome lid and a white straw, full of thick creamy pink guava juice, standing on a seamless warm butter-yellow backdrop (#FEE3A0). Soft natural daylight from the left, gentle soft shadow cast on the surface. Whole green-yellow guavas and cut pink guava halves showing seeds beside the cup. Crisp condensation droplets on the clear cup. Clean, minimalist studio setup, shot at 85mm lens, shallow depth of field, sharp focus, photorealistic, no text, no logos, no labels, 8k resolution.\n  Dimensions: 1024x1024\n  Aspect Ratio: 1.00\n- {{DATA:IMAGE:IMAGE_5}}\n  Description: Commercial studio product photography: a single clear PET plastic cup with a transparent dome lid and a white straw, full of refreshing ruby red watermelon juice, standing on a seamless warm butter-yellow backdrop (#FEE3A0). Soft natural daylight from the left, gentle soft shadow cast on the surface. Fresh vibrant watermelon triangular wedges and a sprig of fresh green mint leaves beside the cup. Crisp condensation droplets on the clear cup. Clean, minimalist studio setup, shot at 85mm lens, shallow depth of field, sharp focus, photorealistic, no text, no logos, no labels, 8k resolution.\n  Dimensions: 1024x1024\n  Aspect Ratio: 1.00\n- {{DATA:IMAGE:IMAGE_6}}\n  Description: Commercial studio product photography: a single clear PET plastic cup with a transparent dome lid and a white straw, full of vibrant fresh orange juice, standing on a seamless warm butter-yellow backdrop (#FEE3A0). Soft natural daylight from the left, gentle soft shadow cast on the surface. Whole fresh oranges and juicy cut orange halves arranged neatly beside the cup. Crisp condensation water droplets on the clear plastic cup. Clean, minimalist studio setup, shot at 85mm lens, shallow depth of field, sharp focus on the cup and fruit, photorealistic, no text, no logos, no labels, 8k resolution.\n  Dimensions: 1024x1024\n  Aspect Ratio: 1.00\n- {{DATA:IMAGE:IMAGE_7}}\n  Description: Commercial studio product photography: a single clear PET plastic cup with a transparent dome lid and a white straw, full of bright red strawberry juice, standing on a seamless warm butter-yellow backdrop (#FEE3A0). Soft natural daylight from the left, gentle soft shadow cast on the surface. Fresh ripe red strawberries with green stems and strawberry slices arranged beside the cup. Crisp condensation water droplets on the clear plastic cup. Clean, minimalist studio setup, shot at 85mm lens, shallow depth of field, sharp focus on the cup and fruit, photorealistic, no text, no logos, no labels, 8k resolution.\n  Dimensions: 1024x1024\n  Aspect Ratio: 1.00\n",
+      "screenMetadata": {
+        "agentType": "PRO_AGENT",
+        "status": "COMPLETE"
+      },
+      "screenType": "DESIGN",
+      "screenshot": {
+        "downloadUrl": "https://lh3.googleusercontent.com/aida/AEtjO1UbEHn2EaAS-O6Za6dDRaiK_H3tP3kQ3zuiSjNH18bDIQAwMWnQbFIUt04KPplum9y0n-vCPOdCOMuuLTG0ryBt-galloCf8rcn8Y6fjX2RIMEEGf7p3JobzdfB8u9T-Ad5bbj9XHFjOsMSeaRrsg4jn0GALc-UAGxKCdIwtgmuUKlVwPoWCwciMNixTlPob-c9MI0iQVfkXYZaI7GlloQq0OXwN7qxc5ncAr442y6TWBRTaJoyHpmS_q-O",
+        "name": "projects/16234525681964602718/files/4ef45e2d2ee14836aaeb9f7fd37687ec"
+      },
+      "theme": {
+        "bodyFont": "INTER",
+        "bodyFontFamily": "Inter",
+        "colorMode": "LIGHT",
+        "colorVariant": "FIDELITY",
+        "customColor": "#7243ab",
+        "font": "ARCHIVO_NARROW",
+        "headlineFont": "ARCHIVO_NARROW",
+        "headlineFontFamily": "Archivo Narrow",
+        "labelFont": "INTER",
+        "labelFontFamily": "Inter",
+        "namedColors": {
+          "background": "#fff7fd",
+          "error": "#ba1a1a",
+          "error_container": "#ffdad6",
+          "inverse_on_surface": "#fbecff",
+          "inverse_primary": "#d9b9ff",
+          "inverse_surface": "#392b41",
+          "on_background": "#23172b",
+          "on_error": "#ffffff",
+          "on_error_container": "#93000a",
+          "on_primary": "#ffffff",
+          "on_primary_container": "#e3caff",
+          "on_primary_fixed": "#2a0054",
+          "on_primary_fixed_variant": "#5c2c94",
+          "on_secondary": "#ffffff",
+          "on_secondary_container": "#694300",
+          "on_secondary_fixed": "#2a1800",
+          "on_secondary_fixed_variant": "#643f00",
+          "on_surface": "#23172b",
+          "on_surface_variant": "#4b4451",
+          "on_tertiary": "#ffffff",
+          "on_tertiary_container": "#ffc7b2",
+          "on_tertiary_fixed": "#370e00",
+          "on_tertiary_fixed_variant": "#7f2b00",
+          "outline": "#7c7482",
+          "outline_variant": "#cdc3d3",
+          "primary": "#592991",
+          "primary_container": "#7243ab",
+          "primary_fixed": "#eedbff",
+          "primary_fixed_dim": "#d9b9ff",
+          "secondary": "#835400",
+          "secondary_container": "#fcab28",
+          "secondary_fixed": "#ffddb5",
+          "secondary_fixed_dim": "#ffb957",
+          "surface": "#fff7fd",
+          "surface_bright": "#fff7fd",
+          "surface_container": "#fae8ff",
+          "surface_container_high": "#f6e1fe",
+          "surface_container_highest": "#f0dcf8",
+          "surface_container_low": "#fdefff",
+          "surface_container_lowest": "#ffffff",
+          "surface_dim": "#e7d3f0",
+          "surface_tint": "#7546ae",
+          "surface_variant": "#f0dcf8",
+          "tertiary": "#7a2900",
+          "tertiary_container": "#a13900",
+          "tertiary_fixed": "#ffdbce",
+          "tertiary_fixed_dim": "#ffb598"
+        },
+        "overrideNeutralColor": "#1e1226",
+        "overridePrimaryColor": "#7243ab",
+        "overrideSecondaryColor": "#f9a825",
+        "overrideTertiaryColor": "#e8590c",
+        "roundness": "ROUND_EIGHT",
+        "spacing": {
+          "gutter": "1rem",
+          "gutter-mobile": "0.75rem",
+          "margin": "1.5rem",
+          "margin-mobile": "1.25rem",
+          "space-lg": "1.25rem",
+          "space-md": "1rem",
+          "space-sm": "0.5rem",
+          "space-xl": "2rem",
+          "space-xs": "0.25rem"
+        },
+        "spacingScale": 2,
+        "typography": {
+          "body-lg": {
+            "fontFamily": "Inter",
+            "fontSize": "18px",
+            "fontWeight": "400",
+            "letterSpacing": "-0.01em",
+            "lineHeight": "26px"
+          },
+          "body-md": {
+            "fontFamily": "Inter",
+            "fontSize": "15px",
+            "fontWeight": "400",
+            "letterSpacing": "0em",
+            "lineHeight": "22px"
+          },
+          "body-sm": {
+            "fontFamily": "Inter",
+            "fontSize": "13px",
+            "fontWeight": "400",
+            "letterSpacing": "0.01em",
+            "lineHeight": "18px"
+          },
+          "display-hero": {
+            "fontFamily": "Archivo Narrow",
+            "fontSize": "56px",
+            "fontWeight": "800",
+            "letterSpacing": "-0.03em",
+            "lineHeight": "58px"
+          },
+          "display-hero-mobile": {
+            "fontFamily": "Archivo Narrow",
+            "fontSize": "40px",
+            "fontWeight": "800",
+            "letterSpacing": "-0.03em",
+            "lineHeight": "42px"
+          },
+          "headline-lg": {
+            "fontFamily": "Archivo Narrow",
+            "fontSize": "36px",
+            "fontWeight": "800",
+            "letterSpacing": "-0.02em",
+            "lineHeight": "40px"
+          },
+          "headline-lg-mobile": {
+            "fontFamily": "Archivo Narrow",
+            "fontSize": "28px",
+            "fontWeight": "800",
+            "letterSpacing": "-0.02em",
+            "lineHeight": "32px"
+          },
+          "headline-md": {
+            "fontFamily": "Archivo Narrow",
+            "fontSize": "24px",
+            "fontWeight": "700",
+            "letterSpacing": "-0.01em",
+            "lineHeight": "28px"
+          },
+          "headline-sm": {
+            "fontFamily": "Archivo Narrow",
+            "fontSize": "20px",
+            "fontWeight": "700",
+            "letterSpacing": "0em",
+            "lineHeight": "24px"
+          },
+          "label-lg": {
+            "fontFamily": "Inter",
+            "fontSize": "14px",
+            "fontWeight": "600",
+            "letterSpacing": "0.02em",
+            "lineHeight": "18px"
+          },
+          "label-md": {
+            "fontFamily": "Inter",
+            "fontSize": "12px",
+            "fontWeight": "600",
+            "letterSpacing": "0.04em",
+            "lineHeight": "16px"
+          },
+          "label-sm": {
+            "fontFamily": "Inter",
+            "fontSize": "10px",
+            "fontWeight": "700",
+            "letterSpacing": "0.06em",
+            "lineHeight": "14px"
+          }
+        }
+      },
+      "title": "POV Home - Golden Hour",
+      "width": "780",
+      "images": [
+        {
+          "generatedBy": "interactive_ui_controller",
+          "height": "1200",
+          "id": "e69295dc4e3948bbafe1f292c9642241",
+          "name": "projects/16234525681964602718/screens/e69295dc4e3948bbafe1f292c9642241",
+          "prompt": "Commercial lifestyle food photography: a single clear PET plastic cup with a transparent dome lid and white straw filled with rich, vibrant, golden-orange fresh mango juice with ice condensation on the cup, sitting on a warm sun-bleached terracotta stone ledge. Dramatic late-afternoon golden hour Cairo sunlight casting crisp, deep palm-leaf shadows across the cup and surface. Rich golden glow, backlit liquid, real ripe sliced mangoes with deep orange flesh and green skins resting beside the cup on stone. Minimalist, premium summer campaign aesthetic, editorial, high-end studio lifestyle shoot, 85mm lens, sharp focus, 8k, absolutely no text or watermark.",
+          "screenMetadata": {
+            "agentType": "PRO_AGENT",
+            "status": "COMPLETE"
+          },
+          "screenType": "IMAGE",
+          "screenshot": {
+            "downloadUrl": "https://lh3.googleusercontent.com/aida/AEtjO1XB5Ght7Vs3rRYNSOlw3X1StcYBVDUz2YC8xaXA8AK8gSH0jjHtvYI_0t0QLhUooyQbPOvEhGUoXx-N2Sd9x7dWz0Lc5bvwwjE29eKODM2zbrVdRXofvy-YZ2hJtG4Wf6_GSR3kMPQ6G_UAOWGcMZx3BslSPTA1r5ubzi9QMEQMjpQ0-klEDKXN3EUv8iv4bUT4r-lV6KICvixb3QEkUHeaxPseu24wcHDEhVXJxuWwsN9ait703zjgf8w",
+            "name": "projects/16234525681964602718/files/6b2f68af45a0421d81adde6b1430fd07"
+          },
+          "theme": {},
+          "title": "Commercial lifestyle food photography: a single clear PET plastic cup with a transparent dome lid and white straw filled with rich, vibrant, golden-orange fresh mango juice with ice condensation on the cup, sitting on a warm sun-bleached terracotta stone ledge. Dramatic late-afternoon golden hour Cairo sunlight casting crisp, deep palm-leaf shadows across the cup and surface. Rich golden glow, backlit liquid, real ripe sliced mangoes with deep orange flesh and green skins resting beside the cup on stone. Minimalist, premium summer campaign aesthetic, editorial, high-end studio lifestyle shoot, 85mm lens, sharp focus, 8k, absolutely no text or watermark.",
+          "width": "896",
+          "imageUrl": "https://lh3.googleusercontent.com/aida/AEtjO1XB5Ght7Vs3rRYNSOlw3X1StcYBVDUz2YC8xaXA8AK8gSH0jjHtvYI_0t0QLhUooyQbPOvEhGUoXx-N2Sd9x7dWz0Lc5bvwwjE29eKODM2zbrVdRXofvy-YZ2hJtG4Wf6_GSR3kMPQ6G_UAOWGcMZx3BslSPTA1r5ubzi9QMEQMjpQ0-klEDKXN3EUv8iv4bUT4r-lV6KICvixb3QEkUHeaxPseu24wcHDEhVXJxuWwsN9ait703zjgf8w"
+        },
+        {
+          "generatedBy": "interactive_ui_controller",
+          "height": "1200",
+          "id": "1935120132cc4b0aa5d6a69aa55928e5",
+          "name": "projects/16234525681964602718/screens/1935120132cc4b0aa5d6a69aa55928e5",
+          "prompt": "Commercial food photography: a clear plastic cup with a dome lid and straw, showing a vibrant layered drink of rich yellow mango juice and bright red fresh strawberry juice, sitting on warm rustic sandstone under warm golden hour sunlight with delicate palm frond shadows. Fresh sliced strawberries and mango cheek beside the cup. Crisp condensation droplets, photorealistic commercial product shot, 8k, no text.",
+          "screenMetadata": {
+            "agentType": "PRO_AGENT",
+            "status": "COMPLETE"
+          },
+          "screenType": "IMAGE",
+          "screenshot": {
+            "downloadUrl": "https://lh3.googleusercontent.com/aida/AEtjO1Wo6kEPbzTR7MRjDonPt7hGaSGHRyaTdN6XpfpuMn0t5FvuY8ikBXgW3wFA_60jYAtmsccGFPNRJnYhP26IxU8c7J4sljXAe61kUAL67YBGMnnZHeeUUngjI3A-WMNcAFSQmhUl-UDgMppCXtx-qCvquDyk3ZhilYRm364BS8zE72_QcG_W7bH3Agg9JzRtnpV84xD8Zr_Di9TpmHAJxjN6T_DimW2_7SZlsQ4WGZEyINiBaplGlIIzEUPn",
+            "name": "projects/16234525681964602718/files/cb3e68d5143746369b7dbfa48f7ce463"
+          },
+          "theme": {},
+          "title": "Commercial food photography: a clear plastic cup with a dome lid and straw, showing a vibrant layered drink of rich yellow mango juice and bright red fresh strawberry juice, sitting on warm rustic sandstone under warm golden hour sunlight with delicate palm frond shadows. Fresh sliced strawberries and mango cheek beside the cup. Crisp condensation droplets, photorealistic commercial product shot, 8k, no text.",
+          "width": "896",
+          "imageUrl": "https://lh3.googleusercontent.com/aida/AEtjO1Wo6kEPbzTR7MRjDonPt7hGaSGHRyaTdN6XpfpuMn0t5FvuY8ikBXgW3wFA_60jYAtmsccGFPNRJnYhP26IxU8c7J4sljXAe61kUAL67YBGMnnZHeeUUngjI3A-WMNcAFSQmhUl-UDgMppCXtx-qCvquDyk3ZhilYRm364BS8zE72_QcG_W7bH3Agg9JzRtnpV84xD8Zr_Di9TpmHAJxjN6T_DimW2_7SZlsQ4WGZEyINiBaplGlIIzEUPn"
+        },
+        {
+          "generatedBy": "interactive_ui_controller",
+          "height": "1200",
+          "id": "d33acc40a7d0469580e8dd0d8ddf15bc",
+          "name": "projects/16234525681964602718/screens/d33acc40a7d0469580e8dd0d8ddf15bc",
+          "prompt": "Commercial food photography: a clear plastic cup with dome lid and straw filled with an exotic layered Egyptian cocktail juice (vibrant layers of rich mango, ruby strawberry, pink guava, and creamy pale green avocado puree), sitting on warm terracotta stone bathed in warm golden hour afternoon sunlight with soft palm shadow streaks. Fresh fruit garnishes nearby. Ultra photorealistic, crisp condensation, 8k, no text.",
+          "screenMetadata": {
+            "agentType": "PRO_AGENT",
+            "status": "COMPLETE"
+          },
+          "screenType": "IMAGE",
+          "screenshot": {
+            "downloadUrl": "https://lh3.googleusercontent.com/aida/AEtjO1X2Z26ojsi_eQrRwj49SeBneMD_y0X2lv69D6Hwk3e6HTV0VYjFyL3B_h7raL5IbGAlEnYtGs8GTuykg1kQ6FaxRDE0rWqiOoWJJAnm8AbLh2sbYyf-Q3GC_107AuJf-XAg9LwGMLGhNEoHnxwOOrVvVm1-5sEHAwUltA_tcBWZKo-fVI9fodtX2Gf79PykODu0a8SEML-Odf_RNE--T0BX6WARW_GaJFUuaA8YEzWRtbDfsfT8DdwqLV1Q",
+            "name": "projects/16234525681964602718/files/1e204c4a738d4020acee5c27b511caba"
+          },
+          "theme": {},
+          "title": "Commercial food photography: a clear plastic cup with dome lid and straw filled with an exotic layered Egyptian cocktail juice (vibrant layers of rich mango, ruby strawberry, pink guava, and creamy pale green avocado puree), sitting on warm terracotta stone bathed in warm golden hour afternoon sunlight with soft palm shadow streaks. Fresh fruit garnishes nearby. Ultra photorealistic, crisp condensation, 8k, no text.",
+          "width": "896",
+          "imageUrl": "https://lh3.googleusercontent.com/aida/AEtjO1X2Z26ojsi_eQrRwj49SeBneMD_y0X2lv69D6Hwk3e6HTV0VYjFyL3B_h7raL5IbGAlEnYtGs8GTuykg1kQ6FaxRDE0rWqiOoWJJAnm8AbLh2sbYyf-Q3GC_107AuJf-XAg9LwGMLGhNEoHnxwOOrVvVm1-5sEHAwUltA_tcBWZKo-fVI9fodtX2Gf79PykODu0a8SEML-Odf_RNE--T0BX6WARW_GaJFUuaA8YEzWRtbDfsfT8DdwqLV1Q"
+        },
+        {
+          "generatedBy": "interactive_ui_controller",
+          "height": "768",
+          "id": "88832eaa21514fec90fec73257cd3e09",
+          "name": "projects/16234525681964602718/screens/88832eaa21514fec90fec73257cd3e09",
+          "prompt": "Commercial editorial food photography banner: ripe Egyptian Keitt mangoes sliced open showing juicy deep orange flesh, alongside a chilled clear cup of golden mango juice with dome lid and condensation on a warm sun-drenched limestone ledge with dramatic warm golden hour light and palm leaf shadows. Premium summer luxury fruit campaign, photorealistic, 8k, no text.",
+          "screenMetadata": {
+            "agentType": "PRO_AGENT",
+            "status": "COMPLETE"
+          },
+          "screenType": "IMAGE",
+          "screenshot": {
+            "downloadUrl": "https://lh3.googleusercontent.com/aida/AEtjO1U_4SdITF-y_sYYtw4vFSfbdUERIIzAmvSeswzeuD717892ng6U-ntUV6BqVipZEiX9uGa3VRf6o7IkVTPFoCUr_BYlNoU9beVUiUENw5EnJzQU310dD1ixBMDLNXYLM2PQu4ArJtlCX41vNyv7leoRqPUXl2ssZD0Vxt0t-UB128vZVZRmLi6PEZ5DaQalqJNw3jjAoOfjaIqxgJv94Gjr7NQeECN7fq4f50-k-fitrmr4meFsczb6Zoho",
+            "name": "projects/16234525681964602718/files/b7590841ecfc4983839661fa115c2d4c"
+          },
+          "theme": {},
+          "title": "Commercial editorial food photography banner: ripe Egyptian Keitt mangoes sliced open showing juicy deep orange flesh, alongside a chilled clear cup of golden mango juice with dome lid and condensation on a warm sun-drenched limestone ledge with dramatic warm golden hour light and palm leaf shadows. Premium summer luxury fruit campaign, photorealistic, 8k, no text.",
+          "width": "1376",
+          "imageUrl": "https://lh3.googleusercontent.com/aida/AEtjO1U_4SdITF-y_sYYtw4vFSfbdUERIIzAmvSeswzeuD717892ng6U-ntUV6BqVipZEiX9uGa3VRf6o7IkVTPFoCUr_BYlNoU9beVUiUENw5EnJzQU310dD1ixBMDLNXYLM2PQu4ArJtlCX41vNyv7leoRqPUXl2ssZD0Vxt0t-UB128vZVZRmLi6PEZ5DaQalqJNw3jjAoOfjaIqxgJv94Gjr7NQeECN7fq4f50-k-fitrmr4meFsczb6Zoho"
+        }
+      ],
+      "agentText": "I have designed the **POV Home Screen** (`390px` mobile layout) based on your \"Golden Hour\" campaign direction:\n\n### Key Design Highlights:\n1. **Top Bar & Brand Identity**:\n   - Clean top bar displaying the exact tri-color geometric **POV** wordmark (<span style=\"color:#7243AB\">**P**</span> in purple `#7243AB`, <span style=\"color:#F9CD18\">**O**</span> in sun yellow `#F9CD18`, and <span style=\"color:#17AE9D\">**V**</span> in teal `#17AE9D`), paired with the Arabic mark **بوف** and city tag **Cairo**, with the `search` icon on the right.\n\n2. **Hero Section (~60% screen height)**:\n   - Full-bleed commercial lifestyle food photography of the POV Mango juice cup on a warm sunlit stone ledge with dramatic Cairo golden-hour palm frond shadows.\n   - High-contrast, bottom-anchored typography featuring the bold uppercase headline **\"MANGO SEASON IS HERE\"**, a tagline highlighting pure Keitt mango with zero added sugar, and an eye-catching **\"Order now\"** call to action.\n\n3. **Category Tabs (Text with Underline)**:\n   - Clean horizontal text navigation with an active underline indicator for **\"Mango Signatures\"** (no pill chips), followed by *Fresh Cubes*, *Smoothies & Shakes*, *Fresh Juices*, and *Seasonal*.\n\n4. **Signatures Section**:\n   - Large 20px-radius portrait cards featuring authentic commercial drinks photography:\n     - **POV Mango** (95 EGP)\n     - **Mango x Strawberry** (115 EGP)\n     - **POV Cocktail** layered blend (145 EGP)\n     - Equipped with POV purple (`#7243AB`) circular add buttons.\n\n5. **Seasonal Special Wide Banner**:\n   - Editorial Keitt mango banner with palm shadows for **\"Last call: Keitt mango\"** at **130 EGP** with direct \"Add to Bag\".\n\n6. **Fresh Juices Grid & Bottom Navigation**:\n   - Studio product showcases for Fresh Orange (70 EGP), Strawberry (85 EGP), Watermelon Mint (75 EGP), and Guava Nectar (80 EGP).\n   - Fixed 4-item bottom navigation bar: **Home** (active), **Menu**, **Bag** (with a count badge of `2`), and **Account**.",
+      "suggestions": [
+        "Design the Product Detail / Customization modal for POV Mango",
+        "Create the full Menu screen with category filtering",
+        "Design the Bag / Checkout drawer showing current items"
+      ],
+      "imageUrl": "https://lh3.googleusercontent.com/aida/AEtjO1UbEHn2EaAS-O6Za6dDRaiK_H3tP3kQ3zuiSjNH18bDIQAwMWnQbFIUt04KPplum9y0n-vCPOdCOMuuLTG0ryBt-galloCf8rcn8Y6fjX2RIMEEGf7p3JobzdfB8u9T-Ad5bbj9XHFjOsMSeaRrsg4jn0GALc-UAGxKCdIwtgmuUKlVwPoWCwciMNixTlPob-c9MI0iQVfkXYZaI7GlloQq0OXwN7qxc5ncAr442y6TWBRTaJoyHpmS_q-O"
+    }
+  }
+}

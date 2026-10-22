@@ -1,0 +1,572 @@
+{
+  "success": true,
+  "data": {
+    "resource": "screen",
+    "id": "e3d8e6bc483a48aca1cd30016e850f02",
+    "project": "16234525681964602718",
+    "title": "POV High-Speed Commercial Photo Grid",
+    "device": "DESKTOP",
+    "screenType": "DESIGN",
+    "canvasUrl": "https://stitch.google.com/projects/16234525681964602718?node-id=e3d8e6bc483a48aca1cd30016e850f02",
+    "imageUrl": "https://lh3.googleusercontent.com/aida/AEtjO1WOyrk0WxGU4KqqJqd0xPCC4E0MeY1VSzbIxGF_hOU1iGuuxb53TWeHPx2FTml3MlOCrJrf7DJhLFKcAnx9tCMAFhQsgb63yoXEcC-YqXujaphQIANzmWYhoFWEx2EWFt-J-vBDdcvc_4lwaF7uOx-uzlcPqlbHPBAxuXEartbFgIBQQ-SyXcgDigI3qYBxX_fJauwkLAzxLJBWpxVBjmZ7U4_66JgGfSxq3u1dWEj3-OnNJKS7uAVKXfI",
+    "htmlCode": {
+      "downloadUrl": "https://contribution.usercontent.google.com/download?c=CgthaWRhX2NvZGVmeBJ8Eh1hcHBfY29tcGFuaW9uX2dlbmVyYXRlZF9maWxlcxpbCiVodG1sX2FlYzViMTVkN2E1MDRkYTI5ZGI1YzA3ODU2MTE5NzFjEgsSBxCu-qfdvhIYAZIBJAoKcHJvamVjdF9pZBIWQhQxNjIzNDUyNTY4MTk2NDYwMjcxOA&filename=&opi=96797242",
+      "mimeType": "text/html",
+      "name": "projects/16234525681964602718/files/c84a65a5502f44e3bfed833d91ebb37a"
+    },
+    "images": [
+      {
+        "generatedBy": "interactive_ui_controller",
+        "height": "1024",
+        "id": "4d5bb8dca6e44fb399795e44eee4d661",
+        "name": "projects/16234525681964602718/screens/4d5bb8dca6e44fb399795e44eee4d661",
+        "prompt": "Commercial studio product photography: high-speed frozen shot of a clear PET plastic cup with transparent dome lid and white straw filled with a vibrant layered two-tone drink of golden yellow mango juice and bright red strawberry juice. Sliced fresh red strawberries and ripe diced mango cubes levitating and floating frozen in mid-air around the cup with fine droplets. Seamless clean very light lavender studio backdrop (#F3EEFB), crisp bright studio lighting, soft subtle ground shadow. Ultra-sharp focus, photorealistic commercial photography, no text, no logos, no labels, no hands, no people.",
+        "screenMetadata": {
+          "agentType": "PRO_AGENT",
+          "status": "COMPLETE"
+        },
+        "screenType": "IMAGE",
+        "screenshot": {
+          "downloadUrl": "https://lh3.googleusercontent.com/aida/AEtjO1XSNO-ZTcH9CfsVb15Ght_DKeyV7Yoz1Hh4uGb4OSULRVfyy6T6qZoesoscl6-kO0gX9-QHwKOiwKpU_NnmkCNdjGjUIk71-CcA7bINTzoE8v2R4J6FkRI1-LGDlr_4NLjNhAjaYY5XDlARRddLM7MjyMine5iRgxaa3Q2-bnYSu_eA116DZQCFTRTjemAw9e3QSALfym19P0PPymAKq_p88Q6_3BFcXkJrqrvB_bhdtJ9aZlEX7oeCDTE_",
+          "name": "projects/16234525681964602718/files/6c31124d07c14a9897cabc7cf34e782f"
+        },
+        "theme": {},
+        "title": "Commercial studio product photography: high-speed frozen shot of a clear PET plastic cup with transparent dome lid and white straw filled with a vibrant layered two-tone drink of golden yellow mango juice and bright red strawberry juice. Sliced fresh red strawberries and ripe diced mango cubes levitating and floating frozen in mid-air around the cup with fine droplets. Seamless clean very light lavender studio backdrop (#F3EEFB), crisp bright studio lighting, soft subtle ground shadow. Ultra-sharp focus, photorealistic commercial photography, no text, no logos, no labels, no hands, no people.",
+        "width": "1024",
+        "imageUrl": "https://lh3.googleusercontent.com/aida/AEtjO1XSNO-ZTcH9CfsVb15Ght_DKeyV7Yoz1Hh4uGb4OSULRVfyy6T6qZoesoscl6-kO0gX9-QHwKOiwKpU_NnmkCNdjGjUIk71-CcA7bINTzoE8v2R4J6FkRI1-LGDlr_4NLjNhAjaYY5XDlARRddLM7MjyMine5iRgxaa3Q2-bnYSu_eA116DZQCFTRTjemAw9e3QSALfym19P0PPymAKq_p88Q6_3BFcXkJrqrvB_bhdtJ9aZlEX7oeCDTE_"
+      },
+      {
+        "generatedBy": "interactive_ui_controller",
+        "height": "1024",
+        "id": "540fc471e979435a97ff087061fd0b95",
+        "name": "projects/16234525681964602718/screens/540fc471e979435a97ff087061fd0b95",
+        "prompt": "Commercial studio product photography: high-speed action shot of vibrant ripe golden mango juice splashing out of a clear PET plastic cup with a transparent dome lid and white straw. Fresh golden mango cubes and glossy juice droplets frozen mid-air flying and splashing into and around the cup. Seamless clean very light lavender studio backdrop (#F3EEFB), crisp bright lighting, soft subtle studio shadow underneath. Ultra-sharp focus, photorealistic commercial beverage photography, no text, no logos, no labels, no hands, no people.",
+        "screenMetadata": {
+          "agentType": "PRO_AGENT",
+          "status": "COMPLETE"
+        },
+        "screenType": "IMAGE",
+        "screenshot": {
+          "downloadUrl": "https://lh3.googleusercontent.com/aida/AEtjO1UMs_f2Ny6WZZklMyPCIddNXm-VjmWT8L4nEOM0kFR_NqugMjgp0Ndn0MChd2Ybt50B1Fvxwjxs1ivDpAE2GTPmApQVcdUKMLnFNewT1QEI8TNdT8PHvPLVgOwZAiGAMFnfboiel2vF5mG9tnLd1TCO4i0TAxgS45wTwP8mcqnerzmKbWm2rgjNgyyYN03fydVt8pNnm18lO9rBQ5ABLvSW3ju6SNHWNqbmF2K85TdLQD2hGzeT7r01ChPX",
+          "name": "projects/16234525681964602718/files/ed94e4affc414df09cf8900819132341"
+        },
+        "theme": {},
+        "title": "Commercial studio product photography: high-speed action shot of vibrant ripe golden mango juice splashing out of a clear PET plastic cup with a transparent dome lid and white straw. Fresh golden mango cubes and glossy juice droplets frozen mid-air flying and splashing into and around the cup. Seamless clean very light lavender studio backdrop (#F3EEFB), crisp bright lighting, soft subtle studio shadow underneath. Ultra-sharp focus, photorealistic commercial beverage photography, no text, no logos, no labels, no hands, no people.",
+        "width": "1024",
+        "imageUrl": "https://lh3.googleusercontent.com/aida/AEtjO1UMs_f2Ny6WZZklMyPCIddNXm-VjmWT8L4nEOM0kFR_NqugMjgp0Ndn0MChd2Ybt50B1Fvxwjxs1ivDpAE2GTPmApQVcdUKMLnFNewT1QEI8TNdT8PHvPLVgOwZAiGAMFnfboiel2vF5mG9tnLd1TCO4i0TAxgS45wTwP8mcqnerzmKbWm2rgjNgyyYN03fydVt8pNnm18lO9rBQ5ABLvSW3ju6SNHWNqbmF2K85TdLQD2hGzeT7r01ChPX"
+      },
+      {
+        "generatedBy": "interactive_ui_controller",
+        "height": "1024",
+        "id": "da8551ba2a55465ea7f358802d6b3e4f",
+        "name": "projects/16234525681964602718/screens/da8551ba2a55465ea7f358802d6b3e4f",
+        "prompt": "Commercial studio product photography: high-speed frozen shot of a clear PET plastic cup with transparent dome lid and white straw filled with thick golden mango smoothie. Fresh ripe mango cubes and round banana slices along with golden droplets levitating and floating frozen in mid-air surrounding the cup. Seamless clean very light lavender studio backdrop (#F3EEFB), crisp bright studio lighting, soft subtle ground shadow. Ultra-sharp focus, photorealistic commercial food photography, no text, no logos, no labels, no hands, no people.",
+        "screenMetadata": {
+          "agentType": "PRO_AGENT",
+          "status": "COMPLETE"
+        },
+        "screenType": "IMAGE",
+        "screenshot": {
+          "downloadUrl": "https://lh3.googleusercontent.com/aida/AEtjO1WvH-cf5cMQhee_iWDomgLzzvt1OzQvMSCVIW8KjzvmeRMV_b-txiNrHS6phhkpM1imR_fgB01_GGVjFWHIRA_SKS9T4zLftWYuefAGjgO7lXugheCYXfoBvymVDVRf0DuEJKRatQOHuDp_edrwJ-8-X7xC3dEhlV-H_a_3wzpni3Jw6ZN1g3pcey_62_wPCUss6EoVPC181Q28kxcFxJQAGQAVNBcjsWILhFn0CbmnAji0niirNbPBdcE",
+          "name": "projects/16234525681964602718/files/80e80272517041c9982fc6c06c3140d8"
+        },
+        "theme": {},
+        "title": "Commercial studio product photography: high-speed frozen shot of a clear PET plastic cup with transparent dome lid and white straw filled with thick golden mango smoothie. Fresh ripe mango cubes and round banana slices along with golden droplets levitating and floating frozen in mid-air surrounding the cup. Seamless clean very light lavender studio backdrop (#F3EEFB), crisp bright studio lighting, soft subtle ground shadow. Ultra-sharp focus, photorealistic commercial food photography, no text, no logos, no labels, no hands, no people.",
+        "width": "1024",
+        "imageUrl": "https://lh3.googleusercontent.com/aida/AEtjO1WvH-cf5cMQhee_iWDomgLzzvt1OzQvMSCVIW8KjzvmeRMV_b-txiNrHS6phhkpM1imR_fgB01_GGVjFWHIRA_SKS9T4zLftWYuefAGjgO7lXugheCYXfoBvymVDVRf0DuEJKRatQOHuDp_edrwJ-8-X7xC3dEhlV-H_a_3wzpni3Jw6ZN1g3pcey_62_wPCUss6EoVPC181Q28kxcFxJQAGQAVNBcjsWILhFn0CbmnAji0niirNbPBdcE"
+      },
+      {
+        "generatedBy": "interactive_ui_controller",
+        "height": "1024",
+        "id": "1e253c2e9dc4425cbef7b35260f908f7",
+        "name": "projects/16234525681964602718/screens/1e253c2e9dc4425cbef7b35260f908f7",
+        "prompt": "Commercial studio product photography: high-speed frozen shot of a clear PET plastic cup with transparent dome lid and white straw filled with vibrant golden mango passion fruit drink. Fresh halved passion fruit showing glistening dark seeds and pulp, flying passion fruit seeds, and golden mango droplets levitating frozen in mid-air around the cup. Seamless clean very light lavender studio backdrop (#F3EEFB), crisp bright studio lighting, soft subtle ground shadow. Ultra-sharp focus, photorealistic commercial photography, no text, no logos, no labels, no hands, no people.",
+        "screenMetadata": {
+          "agentType": "PRO_AGENT",
+          "status": "COMPLETE"
+        },
+        "screenType": "IMAGE",
+        "screenshot": {
+          "downloadUrl": "https://lh3.googleusercontent.com/aida/AEtjO1V8zjEE5Wt0liXJDbx8mI_PzgNNdhOhXlwq4wUfBtAPyKfOES3D4i3gjeRR069UhXT86q-Qp-DwQ8nRa2oej-i1xx9lThFFOizqlckYydU6rN7qK2HK7ByIXXqkRnc6zudLvZtJPm4zkpUzEHzMyLFQ6oR1r_sd5YAd5r3q2p_K5fTXfGGQbaoNPYmwwkAr3u1GjcWTu7PNl43tJE4qdOQCbb5XFLqcLGZtnVEk1HmYnU-tifbdNRF6hfAS",
+          "name": "projects/16234525681964602718/files/0c116dcfc8c14fadadcce123d145ae89"
+        },
+        "theme": {},
+        "title": "Commercial studio product photography: high-speed frozen shot of a clear PET plastic cup with transparent dome lid and white straw filled with vibrant golden mango passion fruit drink. Fresh halved passion fruit showing glistening dark seeds and pulp, flying passion fruit seeds, and golden mango droplets levitating frozen in mid-air around the cup. Seamless clean very light lavender studio backdrop (#F3EEFB), crisp bright studio lighting, soft subtle ground shadow. Ultra-sharp focus, photorealistic commercial photography, no text, no logos, no labels, no hands, no people.",
+        "width": "1024",
+        "imageUrl": "https://lh3.googleusercontent.com/aida/AEtjO1V8zjEE5Wt0liXJDbx8mI_PzgNNdhOhXlwq4wUfBtAPyKfOES3D4i3gjeRR069UhXT86q-Qp-DwQ8nRa2oej-i1xx9lThFFOizqlckYydU6rN7qK2HK7ByIXXqkRnc6zudLvZtJPm4zkpUzEHzMyLFQ6oR1r_sd5YAd5r3q2p_K5fTXfGGQbaoNPYmwwkAr3u1GjcWTu7PNl43tJE4qdOQCbb5XFLqcLGZtnVEk1HmYnU-tifbdNRF6hfAS"
+      },
+      {
+        "generatedBy": "interactive_ui_controller",
+        "height": "1024",
+        "id": "8b1c08a5a75142a785a7dc8667a99f7c",
+        "name": "projects/16234525681964602718/screens/8b1c08a5a75142a785a7dc8667a99f7c",
+        "prompt": "Commercial studio product photography: clear plastic cup/tub filled with fresh golden diced mango cubes, with a tall dynamic column of juicy diced mango cubes and golden juice droplets levitating and floating vertically suspended in mid-air directly above the cup. Seamless clean very light lavender studio backdrop (#F3EEFB), crisp bright studio lighting, soft subtle ground shadow. Ultra-sharp focus, photorealistic commercial food photography, no text, no logos, no labels, no hands, no people.",
+        "screenMetadata": {
+          "agentType": "PRO_AGENT",
+          "status": "COMPLETE"
+        },
+        "screenType": "IMAGE",
+        "screenshot": {
+          "downloadUrl": "https://lh3.googleusercontent.com/aida/AEtjO1XBj3HtalSuhSbQPn4MbBViROCMrF47DFqAacYim90t1IyXZhN8Pa8oaApIGfFQDpNC8ZXjsug0DhRaxN_ocK069aNXOGW6pm1vD5Kjg4Yr-vgKJkC9zfNn9OixdNTjeO2ogHMa1Lw0a1JsFQmABQSU6HZW56wZkuDh_IDGg8fWIZlMnVRqNLg9ALVQwKzIwaZ-CzexjPzgAHx6gzMhVw-nksyHWo4-vkA5ugMT5ukv5ndl8VbzFf8BaVTT",
+          "name": "projects/16234525681964602718/files/711ca6f22cc94d3ba6ac1288e48a1221"
+        },
+        "theme": {},
+        "title": "Commercial studio product photography: clear plastic cup/tub filled with fresh golden diced mango cubes, with a tall dynamic column of juicy diced mango cubes and golden juice droplets levitating and floating vertically suspended in mid-air directly above the cup. Seamless clean very light lavender studio backdrop (#F3EEFB), crisp bright studio lighting, soft subtle ground shadow. Ultra-sharp focus, photorealistic commercial food photography, no text, no logos, no labels, no hands, no people.",
+        "width": "1024",
+        "imageUrl": "https://lh3.googleusercontent.com/aida/AEtjO1XBj3HtalSuhSbQPn4MbBViROCMrF47DFqAacYim90t1IyXZhN8Pa8oaApIGfFQDpNC8ZXjsug0DhRaxN_ocK069aNXOGW6pm1vD5Kjg4Yr-vgKJkC9zfNn9OixdNTjeO2ogHMa1Lw0a1JsFQmABQSU6HZW56wZkuDh_IDGg8fWIZlMnVRqNLg9ALVQwKzIwaZ-CzexjPzgAHx6gzMhVw-nksyHWo4-vkA5ugMT5ukv5ndl8VbzFf8BaVTT"
+      },
+      {
+        "generatedBy": "interactive_ui_controller",
+        "height": "1024",
+        "id": "80812c24c5fb42c0bfc1f3cc4f6f2ec9",
+        "name": "projects/16234525681964602718/screens/80812c24c5fb42c0bfc1f3cc4f6f2ec9",
+        "prompt": "Commercial studio product photography: high-speed action shot of a clear PET plastic cup with transparent dome lid and white straw filled with vibrant fresh orange juice. Fresh juicy orange slices, wedges, and vibrant orange juice droplets splashing and levitating frozen mid-air around the cup. Seamless clean very light lavender studio backdrop (#F3EEFB), crisp bright studio lighting, soft subtle ground shadow. Ultra-sharp focus, photorealistic commercial food photography, no text, no logos, no labels, no hands, no people.",
+        "screenMetadata": {
+          "agentType": "PRO_AGENT",
+          "status": "COMPLETE"
+        },
+        "screenType": "IMAGE",
+        "screenshot": {
+          "downloadUrl": "https://lh3.googleusercontent.com/aida/AEtjO1Vis59bAr5UGmDGAbuZinW_Q90EKaGQ8F55yPLgI5rPw5QmKyl2tUtyMjSK6DNMcGlOvqeL6ohQEhBzc1OQpAGvPQe50IyhlOy2tWMEm_W30Ih8hkEvvy-7tcChcD-J_pjZZxgFYQiLWUZq7wNNhY4zlK90cHpfwe3A9gPKeCx_a6bzjorTu4Fl4r8CXEh18JDgPooBfhvKUp8XtT0b3QyNVeDz5qTvsxwKr4DsiOKkoDH1tf2Gpc1afRch",
+          "name": "projects/16234525681964602718/files/e2e223e9c9734a32a2409f61946a8cad"
+        },
+        "theme": {},
+        "title": "Commercial studio product photography: high-speed action shot of a clear PET plastic cup with transparent dome lid and white straw filled with vibrant fresh orange juice. Fresh juicy orange slices, wedges, and vibrant orange juice droplets splashing and levitating frozen mid-air around the cup. Seamless clean very light lavender studio backdrop (#F3EEFB), crisp bright studio lighting, soft subtle ground shadow. Ultra-sharp focus, photorealistic commercial food photography, no text, no logos, no labels, no hands, no people.",
+        "width": "1024",
+        "imageUrl": "https://lh3.googleusercontent.com/aida/AEtjO1Vis59bAr5UGmDGAbuZinW_Q90EKaGQ8F55yPLgI5rPw5QmKyl2tUtyMjSK6DNMcGlOvqeL6ohQEhBzc1OQpAGvPQe50IyhlOy2tWMEm_W30Ih8hkEvvy-7tcChcD-J_pjZZxgFYQiLWUZq7wNNhY4zlK90cHpfwe3A9gPKeCx_a6bzjorTu4Fl4r8CXEh18JDgPooBfhvKUp8XtT0b3QyNVeDz5qTvsxwKr4DsiOKkoDH1tf2Gpc1afRch"
+      },
+      {
+        "generatedBy": "interactive_ui_controller",
+        "height": "1024",
+        "id": "014394e6a3e648e08b118c8ff35b397c",
+        "name": "projects/16234525681964602718/screens/014394e6a3e648e08b118c8ff35b397c",
+        "prompt": "Commercial studio product photography: high-speed frozen shot of a clear PET plastic cup with transparent dome lid and white straw filled with a creamy golden mango milkshake topped with swirls of fluffy white whipped cream, a single ripe mango cube on top, and dynamic white milk splashes and mango droplets frozen mid-air around the cup. Seamless clean very light lavender studio backdrop (#F3EEFB), crisp bright studio lighting, soft subtle ground shadow. Ultra-sharp focus, photorealistic commercial food photography, no text, no logos, no labels, no hands, no people.",
+        "screenMetadata": {
+          "agentType": "PRO_AGENT",
+          "status": "COMPLETE"
+        },
+        "screenType": "IMAGE",
+        "screenshot": {
+          "downloadUrl": "https://lh3.googleusercontent.com/aida/AEtjO1W4UrI3094cXBHsjqnhS1YI0MT7h0OWIf_gZqioXTol7Fy5DAzqGyZihEb5nF_Ms8u57KvlzAv5wG1G3vP1q12hy7e607gMNs-qbyD5v5F6wjFU17f7705lmVhg2n03UrcWuN6F1a1eTX258AjKpPqC8Rm-29UJ04XiBP7JCNHXjK9MEIMFfh0eL9N7vyILWnIQfex0_WBcfzksxW7daVnc50P_HHSkUQ6lbHmgjtxyaa2QChQFQzyN8zEt",
+          "name": "projects/16234525681964602718/files/93456ce7ba5d4e6da8af945f25550785"
+        },
+        "theme": {},
+        "title": "Commercial studio product photography: high-speed frozen shot of a clear PET plastic cup with transparent dome lid and white straw filled with a creamy golden mango milkshake topped with swirls of fluffy white whipped cream, a single ripe mango cube on top, and dynamic white milk splashes and mango droplets frozen mid-air around the cup. Seamless clean very light lavender studio backdrop (#F3EEFB), crisp bright studio lighting, soft subtle ground shadow. Ultra-sharp focus, photorealistic commercial food photography, no text, no logos, no labels, no hands, no people.",
+        "width": "1024",
+        "imageUrl": "https://lh3.googleusercontent.com/aida/AEtjO1W4UrI3094cXBHsjqnhS1YI0MT7h0OWIf_gZqioXTol7Fy5DAzqGyZihEb5nF_Ms8u57KvlzAv5wG1G3vP1q12hy7e607gMNs-qbyD5v5F6wjFU17f7705lmVhg2n03UrcWuN6F1a1eTX258AjKpPqC8Rm-29UJ04XiBP7JCNHXjK9MEIMFfh0eL9N7vyILWnIQfex0_WBcfzksxW7daVnc50P_HHSkUQ6lbHmgjtxyaa2QChQFQzyN8zEt"
+      },
+      {
+        "generatedBy": "interactive_ui_controller",
+        "height": "1024",
+        "id": "e823b387528648bbb41fa978a8fe36c2",
+        "name": "projects/16234525681964602718/screens/e823b387528648bbb41fa978a8fe36c2",
+        "prompt": "Commercial studio product photography: high-speed frozen shot of a clear PET plastic cup with transparent dome lid and white straw filled with vibrant deep ruby red watermelon juice. Fresh crisp red watermelon cubes, small black seeds, and fresh green mint leaves levitating and floating frozen mid-air around the cup with fine water droplets. Seamless clean very light lavender studio backdrop (#F3EEFB), crisp bright studio lighting, soft subtle ground shadow. Ultra-sharp focus, photorealistic commercial food photography, no text, no logos, no labels, no hands, no people.",
+        "screenMetadata": {
+          "agentType": "PRO_AGENT",
+          "status": "COMPLETE"
+        },
+        "screenType": "IMAGE",
+        "screenshot": {
+          "downloadUrl": "https://lh3.googleusercontent.com/aida/AEtjO1Xyhxa_yS_s9-j9eYI9sfyWcaH353JWwHudJvdyZ8NsJDP2BXSmnkFMgIyT6COF7zY6G4nlhPpfgofCiJD4R1OLui6UQiFnHvDJHT6Wm2QKhV3m-pGpdSJKbpP6vbzIhfv48AzjS29iXO_pnLhDAsSXcjOG3temOYIOIE5hNNsLY37zXby49mkva9Bqr-4H0tOKSwE-4N-qYTb-jkJH17U-oPZnlDnE0f9RH0-TaiTUl_Cfp0i9L5mtZHFv",
+          "name": "projects/16234525681964602718/files/7fc206657989489ab9432bde923901aa"
+        },
+        "theme": {},
+        "title": "Commercial studio product photography: high-speed frozen shot of a clear PET plastic cup with transparent dome lid and white straw filled with vibrant deep ruby red watermelon juice. Fresh crisp red watermelon cubes, small black seeds, and fresh green mint leaves levitating and floating frozen mid-air around the cup with fine water droplets. Seamless clean very light lavender studio backdrop (#F3EEFB), crisp bright studio lighting, soft subtle ground shadow. Ultra-sharp focus, photorealistic commercial food photography, no text, no logos, no labels, no hands, no people.",
+        "width": "1024",
+        "imageUrl": "https://lh3.googleusercontent.com/aida/AEtjO1Xyhxa_yS_s9-j9eYI9sfyWcaH353JWwHudJvdyZ8NsJDP2BXSmnkFMgIyT6COF7zY6G4nlhPpfgofCiJD4R1OLui6UQiFnHvDJHT6Wm2QKhV3m-pGpdSJKbpP6vbzIhfv48AzjS29iXO_pnLhDAsSXcjOG3temOYIOIE5hNNsLY37zXby49mkva9Bqr-4H0tOKSwE-4N-qYTb-jkJH17U-oPZnlDnE0f9RH0-TaiTUl_Cfp0i9L5mtZHFv"
+      }
+    ],
+    "rawScreen": {
+      "outputComponents": [
+        {
+          "design": {
+            "screens": [
+              {
+                "generatedBy": "interactive_ui_controller",
+                "height": "1024",
+                "id": "4d5bb8dca6e44fb399795e44eee4d661",
+                "name": "projects/16234525681964602718/screens/4d5bb8dca6e44fb399795e44eee4d661",
+                "prompt": "Commercial studio product photography: high-speed frozen shot of a clear PET plastic cup with transparent dome lid and white straw filled with a vibrant layered two-tone drink of golden yellow mango juice and bright red strawberry juice. Sliced fresh red strawberries and ripe diced mango cubes levitating and floating frozen in mid-air around the cup with fine droplets. Seamless clean very light lavender studio backdrop (#F3EEFB), crisp bright studio lighting, soft subtle ground shadow. Ultra-sharp focus, photorealistic commercial photography, no text, no logos, no labels, no hands, no people.",
+                "screenMetadata": {
+                  "agentType": "PRO_AGENT",
+                  "status": "COMPLETE"
+                },
+                "screenType": "IMAGE",
+                "screenshot": {
+                  "downloadUrl": "https://lh3.googleusercontent.com/aida/AEtjO1XSNO-ZTcH9CfsVb15Ght_DKeyV7Yoz1Hh4uGb4OSULRVfyy6T6qZoesoscl6-kO0gX9-QHwKOiwKpU_NnmkCNdjGjUIk71-CcA7bINTzoE8v2R4J6FkRI1-LGDlr_4NLjNhAjaYY5XDlARRddLM7MjyMine5iRgxaa3Q2-bnYSu_eA116DZQCFTRTjemAw9e3QSALfym19P0PPymAKq_p88Q6_3BFcXkJrqrvB_bhdtJ9aZlEX7oeCDTE_",
+                  "name": "projects/16234525681964602718/files/6c31124d07c14a9897cabc7cf34e782f"
+                },
+                "theme": {},
+                "title": "Commercial studio product photography: high-speed frozen shot of a clear PET plastic cup with transparent dome lid and white straw filled with a vibrant layered two-tone drink of golden yellow mango juice and bright red strawberry juice. Sliced fresh red strawberries and ripe diced mango cubes levitating and floating frozen in mid-air around the cup with fine droplets. Seamless clean very light lavender studio backdrop (#F3EEFB), crisp bright studio lighting, soft subtle ground shadow. Ultra-sharp focus, photorealistic commercial photography, no text, no logos, no labels, no hands, no people.",
+                "width": "1024"
+              },
+              {
+                "generatedBy": "interactive_ui_controller",
+                "height": "1024",
+                "id": "540fc471e979435a97ff087061fd0b95",
+                "name": "projects/16234525681964602718/screens/540fc471e979435a97ff087061fd0b95",
+                "prompt": "Commercial studio product photography: high-speed action shot of vibrant ripe golden mango juice splashing out of a clear PET plastic cup with a transparent dome lid and white straw. Fresh golden mango cubes and glossy juice droplets frozen mid-air flying and splashing into and around the cup. Seamless clean very light lavender studio backdrop (#F3EEFB), crisp bright lighting, soft subtle studio shadow underneath. Ultra-sharp focus, photorealistic commercial beverage photography, no text, no logos, no labels, no hands, no people.",
+                "screenMetadata": {
+                  "agentType": "PRO_AGENT",
+                  "status": "COMPLETE"
+                },
+                "screenType": "IMAGE",
+                "screenshot": {
+                  "downloadUrl": "https://lh3.googleusercontent.com/aida/AEtjO1UMs_f2Ny6WZZklMyPCIddNXm-VjmWT8L4nEOM0kFR_NqugMjgp0Ndn0MChd2Ybt50B1Fvxwjxs1ivDpAE2GTPmApQVcdUKMLnFNewT1QEI8TNdT8PHvPLVgOwZAiGAMFnfboiel2vF5mG9tnLd1TCO4i0TAxgS45wTwP8mcqnerzmKbWm2rgjNgyyYN03fydVt8pNnm18lO9rBQ5ABLvSW3ju6SNHWNqbmF2K85TdLQD2hGzeT7r01ChPX",
+                  "name": "projects/16234525681964602718/files/ed94e4affc414df09cf8900819132341"
+                },
+                "theme": {},
+                "title": "Commercial studio product photography: high-speed action shot of vibrant ripe golden mango juice splashing out of a clear PET plastic cup with a transparent dome lid and white straw. Fresh golden mango cubes and glossy juice droplets frozen mid-air flying and splashing into and around the cup. Seamless clean very light lavender studio backdrop (#F3EEFB), crisp bright lighting, soft subtle studio shadow underneath. Ultra-sharp focus, photorealistic commercial beverage photography, no text, no logos, no labels, no hands, no people.",
+                "width": "1024"
+              },
+              {
+                "generatedBy": "interactive_ui_controller",
+                "height": "1024",
+                "id": "da8551ba2a55465ea7f358802d6b3e4f",
+                "name": "projects/16234525681964602718/screens/da8551ba2a55465ea7f358802d6b3e4f",
+                "prompt": "Commercial studio product photography: high-speed frozen shot of a clear PET plastic cup with transparent dome lid and white straw filled with thick golden mango smoothie. Fresh ripe mango cubes and round banana slices along with golden droplets levitating and floating frozen in mid-air surrounding the cup. Seamless clean very light lavender studio backdrop (#F3EEFB), crisp bright studio lighting, soft subtle ground shadow. Ultra-sharp focus, photorealistic commercial food photography, no text, no logos, no labels, no hands, no people.",
+                "screenMetadata": {
+                  "agentType": "PRO_AGENT",
+                  "status": "COMPLETE"
+                },
+                "screenType": "IMAGE",
+                "screenshot": {
+                  "downloadUrl": "https://lh3.googleusercontent.com/aida/AEtjO1WvH-cf5cMQhee_iWDomgLzzvt1OzQvMSCVIW8KjzvmeRMV_b-txiNrHS6phhkpM1imR_fgB01_GGVjFWHIRA_SKS9T4zLftWYuefAGjgO7lXugheCYXfoBvymVDVRf0DuEJKRatQOHuDp_edrwJ-8-X7xC3dEhlV-H_a_3wzpni3Jw6ZN1g3pcey_62_wPCUss6EoVPC181Q28kxcFxJQAGQAVNBcjsWILhFn0CbmnAji0niirNbPBdcE",
+                  "name": "projects/16234525681964602718/files/80e80272517041c9982fc6c06c3140d8"
+                },
+                "theme": {},
+                "title": "Commercial studio product photography: high-speed frozen shot of a clear PET plastic cup with transparent dome lid and white straw filled with thick golden mango smoothie. Fresh ripe mango cubes and round banana slices along with golden droplets levitating and floating frozen in mid-air surrounding the cup. Seamless clean very light lavender studio backdrop (#F3EEFB), crisp bright studio lighting, soft subtle ground shadow. Ultra-sharp focus, photorealistic commercial food photography, no text, no logos, no labels, no hands, no people.",
+                "width": "1024"
+              },
+              {
+                "generatedBy": "interactive_ui_controller",
+                "height": "1024",
+                "id": "1e253c2e9dc4425cbef7b35260f908f7",
+                "name": "projects/16234525681964602718/screens/1e253c2e9dc4425cbef7b35260f908f7",
+                "prompt": "Commercial studio product photography: high-speed frozen shot of a clear PET plastic cup with transparent dome lid and white straw filled with vibrant golden mango passion fruit drink. Fresh halved passion fruit showing glistening dark seeds and pulp, flying passion fruit seeds, and golden mango droplets levitating frozen in mid-air around the cup. Seamless clean very light lavender studio backdrop (#F3EEFB), crisp bright studio lighting, soft subtle ground shadow. Ultra-sharp focus, photorealistic commercial photography, no text, no logos, no labels, no hands, no people.",
+                "screenMetadata": {
+                  "agentType": "PRO_AGENT",
+                  "status": "COMPLETE"
+                },
+                "screenType": "IMAGE",
+                "screenshot": {
+                  "downloadUrl": "https://lh3.googleusercontent.com/aida/AEtjO1V8zjEE5Wt0liXJDbx8mI_PzgNNdhOhXlwq4wUfBtAPyKfOES3D4i3gjeRR069UhXT86q-Qp-DwQ8nRa2oej-i1xx9lThFFOizqlckYydU6rN7qK2HK7ByIXXqkRnc6zudLvZtJPm4zkpUzEHzMyLFQ6oR1r_sd5YAd5r3q2p_K5fTXfGGQbaoNPYmwwkAr3u1GjcWTu7PNl43tJE4qdOQCbb5XFLqcLGZtnVEk1HmYnU-tifbdNRF6hfAS",
+                  "name": "projects/16234525681964602718/files/0c116dcfc8c14fadadcce123d145ae89"
+                },
+                "theme": {},
+                "title": "Commercial studio product photography: high-speed frozen shot of a clear PET plastic cup with transparent dome lid and white straw filled with vibrant golden mango passion fruit drink. Fresh halved passion fruit showing glistening dark seeds and pulp, flying passion fruit seeds, and golden mango droplets levitating frozen in mid-air around the cup. Seamless clean very light lavender studio backdrop (#F3EEFB), crisp bright studio lighting, soft subtle ground shadow. Ultra-sharp focus, photorealistic commercial photography, no text, no logos, no labels, no hands, no people.",
+                "width": "1024"
+              },
+              {
+                "generatedBy": "interactive_ui_controller",
+                "height": "1024",
+                "id": "8b1c08a5a75142a785a7dc8667a99f7c",
+                "name": "projects/16234525681964602718/screens/8b1c08a5a75142a785a7dc8667a99f7c",
+                "prompt": "Commercial studio product photography: clear plastic cup/tub filled with fresh golden diced mango cubes, with a tall dynamic column of juicy diced mango cubes and golden juice droplets levitating and floating vertically suspended in mid-air directly above the cup. Seamless clean very light lavender studio backdrop (#F3EEFB), crisp bright studio lighting, soft subtle ground shadow. Ultra-sharp focus, photorealistic commercial food photography, no text, no logos, no labels, no hands, no people.",
+                "screenMetadata": {
+                  "agentType": "PRO_AGENT",
+                  "status": "COMPLETE"
+                },
+                "screenType": "IMAGE",
+                "screenshot": {
+                  "downloadUrl": "https://lh3.googleusercontent.com/aida/AEtjO1XBj3HtalSuhSbQPn4MbBViROCMrF47DFqAacYim90t1IyXZhN8Pa8oaApIGfFQDpNC8ZXjsug0DhRaxN_ocK069aNXOGW6pm1vD5Kjg4Yr-vgKJkC9zfNn9OixdNTjeO2ogHMa1Lw0a1JsFQmABQSU6HZW56wZkuDh_IDGg8fWIZlMnVRqNLg9ALVQwKzIwaZ-CzexjPzgAHx6gzMhVw-nksyHWo4-vkA5ugMT5ukv5ndl8VbzFf8BaVTT",
+                  "name": "projects/16234525681964602718/files/711ca6f22cc94d3ba6ac1288e48a1221"
+                },
+                "theme": {},
+                "title": "Commercial studio product photography: clear plastic cup/tub filled with fresh golden diced mango cubes, with a tall dynamic column of juicy diced mango cubes and golden juice droplets levitating and floating vertically suspended in mid-air directly above the cup. Seamless clean very light lavender studio backdrop (#F3EEFB), crisp bright studio lighting, soft subtle ground shadow. Ultra-sharp focus, photorealistic commercial food photography, no text, no logos, no labels, no hands, no people.",
+                "width": "1024"
+              },
+              {
+                "generatedBy": "interactive_ui_controller",
+                "height": "1024",
+                "id": "80812c24c5fb42c0bfc1f3cc4f6f2ec9",
+                "name": "projects/16234525681964602718/screens/80812c24c5fb42c0bfc1f3cc4f6f2ec9",
+                "prompt": "Commercial studio product photography: high-speed action shot of a clear PET plastic cup with transparent dome lid and white straw filled with vibrant fresh orange juice. Fresh juicy orange slices, wedges, and vibrant orange juice droplets splashing and levitating frozen mid-air around the cup. Seamless clean very light lavender studio backdrop (#F3EEFB), crisp bright studio lighting, soft subtle ground shadow. Ultra-sharp focus, photorealistic commercial food photography, no text, no logos, no labels, no hands, no people.",
+                "screenMetadata": {
+                  "agentType": "PRO_AGENT",
+                  "status": "COMPLETE"
+                },
+                "screenType": "IMAGE",
+                "screenshot": {
+                  "downloadUrl": "https://lh3.googleusercontent.com/aida/AEtjO1Vis59bAr5UGmDGAbuZinW_Q90EKaGQ8F55yPLgI5rPw5QmKyl2tUtyMjSK6DNMcGlOvqeL6ohQEhBzc1OQpAGvPQe50IyhlOy2tWMEm_W30Ih8hkEvvy-7tcChcD-J_pjZZxgFYQiLWUZq7wNNhY4zlK90cHpfwe3A9gPKeCx_a6bzjorTu4Fl4r8CXEh18JDgPooBfhvKUp8XtT0b3QyNVeDz5qTvsxwKr4DsiOKkoDH1tf2Gpc1afRch",
+                  "name": "projects/16234525681964602718/files/e2e223e9c9734a32a2409f61946a8cad"
+                },
+                "theme": {},
+                "title": "Commercial studio product photography: high-speed action shot of a clear PET plastic cup with transparent dome lid and white straw filled with vibrant fresh orange juice. Fresh juicy orange slices, wedges, and vibrant orange juice droplets splashing and levitating frozen mid-air around the cup. Seamless clean very light lavender studio backdrop (#F3EEFB), crisp bright studio lighting, soft subtle ground shadow. Ultra-sharp focus, photorealistic commercial food photography, no text, no logos, no labels, no hands, no people.",
+                "width": "1024"
+              },
+              {
+                "generatedBy": "interactive_ui_controller",
+                "height": "1024",
+                "id": "014394e6a3e648e08b118c8ff35b397c",
+                "name": "projects/16234525681964602718/screens/014394e6a3e648e08b118c8ff35b397c",
+                "prompt": "Commercial studio product photography: high-speed frozen shot of a clear PET plastic cup with transparent dome lid and white straw filled with a creamy golden mango milkshake topped with swirls of fluffy white whipped cream, a single ripe mango cube on top, and dynamic white milk splashes and mango droplets frozen mid-air around the cup. Seamless clean very light lavender studio backdrop (#F3EEFB), crisp bright studio lighting, soft subtle ground shadow. Ultra-sharp focus, photorealistic commercial food photography, no text, no logos, no labels, no hands, no people.",
+                "screenMetadata": {
+                  "agentType": "PRO_AGENT",
+                  "status": "COMPLETE"
+                },
+                "screenType": "IMAGE",
+                "screenshot": {
+                  "downloadUrl": "https://lh3.googleusercontent.com/aida/AEtjO1W4UrI3094cXBHsjqnhS1YI0MT7h0OWIf_gZqioXTol7Fy5DAzqGyZihEb5nF_Ms8u57KvlzAv5wG1G3vP1q12hy7e607gMNs-qbyD5v5F6wjFU17f7705lmVhg2n03UrcWuN6F1a1eTX258AjKpPqC8Rm-29UJ04XiBP7JCNHXjK9MEIMFfh0eL9N7vyILWnIQfex0_WBcfzksxW7daVnc50P_HHSkUQ6lbHmgjtxyaa2QChQFQzyN8zEt",
+                  "name": "projects/16234525681964602718/files/93456ce7ba5d4e6da8af945f25550785"
+                },
+                "theme": {},
+                "title": "Commercial studio product photography: high-speed frozen shot of a clear PET plastic cup with transparent dome lid and white straw filled with a creamy golden mango milkshake topped with swirls of fluffy white whipped cream, a single ripe mango cube on top, and dynamic white milk splashes and mango droplets frozen mid-air around the cup. Seamless clean very light lavender studio backdrop (#F3EEFB), crisp bright studio lighting, soft subtle ground shadow. Ultra-sharp focus, photorealistic commercial food photography, no text, no logos, no labels, no hands, no people.",
+                "width": "1024"
+              },
+              {
+                "generatedBy": "interactive_ui_controller",
+                "height": "1024",
+                "id": "e823b387528648bbb41fa978a8fe36c2",
+                "name": "projects/16234525681964602718/screens/e823b387528648bbb41fa978a8fe36c2",
+                "prompt": "Commercial studio product photography: high-speed frozen shot of a clear PET plastic cup with transparent dome lid and white straw filled with vibrant deep ruby red watermelon juice. Fresh crisp red watermelon cubes, small black seeds, and fresh green mint leaves levitating and floating frozen mid-air around the cup with fine water droplets. Seamless clean very light lavender studio backdrop (#F3EEFB), crisp bright studio lighting, soft subtle ground shadow. Ultra-sharp focus, photorealistic commercial food photography, no text, no logos, no labels, no hands, no people.",
+                "screenMetadata": {
+                  "agentType": "PRO_AGENT",
+                  "status": "COMPLETE"
+                },
+                "screenType": "IMAGE",
+                "screenshot": {
+                  "downloadUrl": "https://lh3.googleusercontent.com/aida/AEtjO1Xyhxa_yS_s9-j9eYI9sfyWcaH353JWwHudJvdyZ8NsJDP2BXSmnkFMgIyT6COF7zY6G4nlhPpfgofCiJD4R1OLui6UQiFnHvDJHT6Wm2QKhV3m-pGpdSJKbpP6vbzIhfv48AzjS29iXO_pnLhDAsSXcjOG3temOYIOIE5hNNsLY37zXby49mkva9Bqr-4H0tOKSwE-4N-qYTb-jkJH17U-oPZnlDnE0f9RH0-TaiTUl_Cfp0i9L5mtZHFv",
+                  "name": "projects/16234525681964602718/files/7fc206657989489ab9432bde923901aa"
+                },
+                "theme": {},
+                "title": "Commercial studio product photography: high-speed frozen shot of a clear PET plastic cup with transparent dome lid and white straw filled with vibrant deep ruby red watermelon juice. Fresh crisp red watermelon cubes, small black seeds, and fresh green mint leaves levitating and floating frozen mid-air around the cup with fine water droplets. Seamless clean very light lavender studio backdrop (#F3EEFB), crisp bright studio lighting, soft subtle ground shadow. Ultra-sharp focus, photorealistic commercial food photography, no text, no logos, no labels, no hands, no people.",
+                "width": "1024"
+              },
+              {
+                "deviceType": "DESKTOP",
+                "generatedBy": "create_datastore_entry",
+                "height": "2048",
+                "htmlCode": {
+                  "downloadUrl": "https://contribution.usercontent.google.com/download?c=CgthaWRhX2NvZGVmeBJ8Eh1hcHBfY29tcGFuaW9uX2dlbmVyYXRlZF9maWxlcxpbCiVodG1sX2FlYzViMTVkN2E1MDRkYTI5ZGI1YzA3ODU2MTE5NzFjEgsSBxCu-qfdvhIYAZIBJAoKcHJvamVjdF9pZBIWQhQxNjIzNDUyNTY4MTk2NDYwMjcxOA&filename=&opi=96797242",
+                  "mimeType": "text/html",
+                  "name": "projects/16234525681964602718/files/c84a65a5502f44e3bfed833d91ebb37a"
+                },
+                "id": "e3d8e6bc483a48aca1cd30016e850f02",
+                "name": "projects/16234525681964602718/screens/e3d8e6bc483a48aca1cd30016e850f02",
+                "screenMetadata": {
+                  "agentType": "PRO_AGENT",
+                  "status": "COMPLETE"
+                },
+                "screenType": "DESIGN",
+                "screenshot": {
+                  "downloadUrl": "https://lh3.googleusercontent.com/aida/AEtjO1WOyrk0WxGU4KqqJqd0xPCC4E0MeY1VSzbIxGF_hOU1iGuuxb53TWeHPx2FTml3MlOCrJrf7DJhLFKcAnx9tCMAFhQsgb63yoXEcC-YqXujaphQIANzmWYhoFWEx2EWFt-J-vBDdcvc_4lwaF7uOx-uzlcPqlbHPBAxuXEartbFgIBQQ-SyXcgDigI3qYBxX_fJauwkLAzxLJBWpxVBjmZ7U4_66JgGfSxq3u1dWEj3-OnNJKS7uAVKXfI",
+                  "name": "projects/16234525681964602718/files/a7cb4f896cbd415796dd2928a715caea"
+                },
+                "theme": {},
+                "title": "POV High-Speed Commercial Photo Grid",
+                "width": "2560"
+              }
+            ],
+            "theme": {}
+          }
+        },
+        {
+          "text": "I have created the 1440px desktop web page with a clean 4-column grid displaying the eight high-speed commercial beverage photographs.\n\n### Overview & Visual Consistency\n- **Visual Style**: Clean, high-energy commercial studio photography set against a seamless, subtle light lavender backdrop (`#F3EEFB`) with crisp lighting, transparent dome cups, and suspended/levitating fruit slices, cubes, and droplets.\n- **Composition**:\n  1. `hero` — Fresh mango juice splashing with floating mango cubes (Commercial studio product photography: high-speed action shot of vibrant ripe golden mango juice splashing out of a clear PET plastic cup with a transparent dome lid and white straw. Fresh golden mango cubes and glossy juice droplets frozen mid-air flying and splashing into and around the cup. Seamless clean very light lavender studio backdrop (#F3EEFB), crisp bright lighting, soft subtle studio shadow underneath. Ultra-sharp focus, photorealistic commercial beverage photography, no text, no logos, no labels, no hands, no people.)\n  2. `smoothie` — Golden mango smoothie surrounded by levitating mango chunks and banana slices (Commercial studio product photography: high-speed frozen shot of a clear PET plastic cup with transparent dome lid and white straw filled with thick golden mango smoothie. Fresh ripe mango cubes and round banana slices along with golden droplets levitating and floating frozen in mid-air surrounding the cup. Seamless clean very light lavender studio backdrop (#F3EEFB), crisp bright studio lighting, soft subtle ground shadow. Ultra-sharp focus, photorealistic commercial food photography, no text, no logos, no labels, no hands, no people.)\n  3. `strawberry` — Two-tone layered mango-strawberry drink with floating strawberries and cubes (Commercial studio product photography: high-speed frozen shot of a clear PET plastic cup with transparent dome lid and white straw filled with a vibrant layered two-tone drink of golden yellow mango juice and bright red strawberry juice. Sliced fresh red strawberries and ripe diced mango cubes levitating and floating frozen in mid-air around the cup with fine droplets. Seamless clean very light lavender studio backdrop (#F3EEFB), crisp bright studio lighting, soft subtle ground shadow. Ultra-sharp focus, photorealistic commercial photography, no text, no logos, no labels, no hands, no people.)\n  4. `passion` — Mango passion fruit refresher with halved passion fruits and flying seeds (Commercial studio product photography: high-speed frozen shot of a clear PET plastic cup with transparent dome lid and white straw filled with vibrant golden mango passion fruit drink. Fresh halved passion fruit showing glistening dark seeds and pulp, flying passion fruit seeds, and golden mango droplets levitating frozen in mid-air around the cup. Seamless clean very light lavender studio backdrop (#F3EEFB), crisp bright studio lighting, soft subtle ground shadow. Ultra-sharp focus, photorealistic commercial photography, no text, no logos, no labels, no hands, no people.)\n  5. `cubes` — Clear tub overflowing with fresh mango chunks and a vertical column of cubes (Commercial studio product photography: clear plastic cup/tub filled with fresh golden diced mango cubes, with a tall dynamic column of juicy diced mango cubes and golden juice droplets levitating and floating vertically suspended in mid-air directly above the cup. Seamless clean very light lavender studio backdrop (#F3EEFB), crisp bright studio lighting, soft subtle ground shadow. Ultra-sharp focus, photorealistic commercial food photography, no text, no logos, no labels, no hands, no people.)\n  6. `orange` — Fresh orange juice with citrus wedges and droplet splashes (Commercial studio product photography: high-speed action shot of a clear PET plastic cup with transparent dome lid and white straw filled with vibrant fresh orange juice. Fresh juicy orange slices, wedges, and vibrant orange juice droplets splashing and levitating frozen mid-air around the cup. Seamless clean very light lavender studio backdrop (#F3EEFB), crisp bright studio lighting, soft subtle ground shadow. Ultra-sharp focus, photorealistic commercial food photography, no text, no logos, no labels, no hands, no people.)\n  7. `milkshake` — Golden mango shake topped with whipped cream, mango piece, and milk splash (Commercial studio product photography: high-speed frozen shot of a clear PET plastic cup with transparent dome lid and white straw filled with a creamy golden mango milkshake topped with swirls of fluffy white whipped cream, a single ripe mango cube on top, and dynamic white milk splashes and mango droplets frozen mid-air around the cup. Seamless clean very light lavender studio backdrop (#F3EEFB), crisp bright studio lighting, soft subtle ground shadow. Ultra-sharp focus, photorealistic commercial food photography, no text, no logos, no labels, no hands, no people.)\n  8. `watermelon` — Deep ruby watermelon juice with crisp cubes and mint leaves (Commercial studio product photography: high-speed frozen shot of a clear PET plastic cup with transparent dome lid and white straw filled with vibrant deep ruby red watermelon juice. Fresh crisp red watermelon cubes, small black seeds, and fresh green mint leaves levitating and floating frozen mid-air around the cup with fine water droplets. Seamless clean very light lavender studio backdrop (#F3EEFB), crisp bright studio lighting, soft subtle ground shadow. Ultra-sharp focus, photorealistic commercial food photography, no text, no logos, no labels, no hands, no people.)\n- **Layout**: Strictly minimal 1440px container on a pure white background (`#ffffff`), with rounded photo cards and one-word lowercase captions beneath each item, completely free of icons, buttons, or extraneous UI elements."
+        },
+        {
+          "suggestion": "Swap any of the photos into the mobile app home screen"
+        },
+        {
+          "suggestion": "Adjust grid spacing, corner radius, or typography"
+        },
+        {
+          "suggestion": "Generate high-res lifestyle scenes for marketing banners"
+        }
+      ],
+      "projectId": "16234525681964602718",
+      "sessionId": "14091397649220551585",
+      "deviceType": "DESKTOP",
+      "generatedBy": "create_datastore_entry",
+      "height": "2048",
+      "htmlCode": {
+        "downloadUrl": "https://contribution.usercontent.google.com/download?c=CgthaWRhX2NvZGVmeBJ8Eh1hcHBfY29tcGFuaW9uX2dlbmVyYXRlZF9maWxlcxpbCiVodG1sX2FlYzViMTVkN2E1MDRkYTI5ZGI1YzA3ODU2MTE5NzFjEgsSBxCu-qfdvhIYAZIBJAoKcHJvamVjdF9pZBIWQhQxNjIzNDUyNTY4MTk2NDYwMjcxOA&filename=&opi=96797242",
+        "mimeType": "text/html",
+        "name": "projects/16234525681964602718/files/c84a65a5502f44e3bfed833d91ebb37a"
+      },
+      "id": "e3d8e6bc483a48aca1cd30016e850f02",
+      "name": "projects/16234525681964602718/screens/e3d8e6bc483a48aca1cd30016e850f02",
+      "screenMetadata": {
+        "agentType": "PRO_AGENT",
+        "status": "COMPLETE"
+      },
+      "screenType": "DESIGN",
+      "screenshot": {
+        "downloadUrl": "https://lh3.googleusercontent.com/aida/AEtjO1WOyrk0WxGU4KqqJqd0xPCC4E0MeY1VSzbIxGF_hOU1iGuuxb53TWeHPx2FTml3MlOCrJrf7DJhLFKcAnx9tCMAFhQsgb63yoXEcC-YqXujaphQIANzmWYhoFWEx2EWFt-J-vBDdcvc_4lwaF7uOx-uzlcPqlbHPBAxuXEartbFgIBQQ-SyXcgDigI3qYBxX_fJauwkLAzxLJBWpxVBjmZ7U4_66JgGfSxq3u1dWEj3-OnNJKS7uAVKXfI",
+        "name": "projects/16234525681964602718/files/a7cb4f896cbd415796dd2928a715caea"
+      },
+      "theme": {},
+      "title": "POV High-Speed Commercial Photo Grid",
+      "width": "2560",
+      "images": [
+        {
+          "generatedBy": "interactive_ui_controller",
+          "height": "1024",
+          "id": "4d5bb8dca6e44fb399795e44eee4d661",
+          "name": "projects/16234525681964602718/screens/4d5bb8dca6e44fb399795e44eee4d661",
+          "prompt": "Commercial studio product photography: high-speed frozen shot of a clear PET plastic cup with transparent dome lid and white straw filled with a vibrant layered two-tone drink of golden yellow mango juice and bright red strawberry juice. Sliced fresh red strawberries and ripe diced mango cubes levitating and floating frozen in mid-air around the cup with fine droplets. Seamless clean very light lavender studio backdrop (#F3EEFB), crisp bright studio lighting, soft subtle ground shadow. Ultra-sharp focus, photorealistic commercial photography, no text, no logos, no labels, no hands, no people.",
+          "screenMetadata": {
+            "agentType": "PRO_AGENT",
+            "status": "COMPLETE"
+          },
+          "screenType": "IMAGE",
+          "screenshot": {
+            "downloadUrl": "https://lh3.googleusercontent.com/aida/AEtjO1XSNO-ZTcH9CfsVb15Ght_DKeyV7Yoz1Hh4uGb4OSULRVfyy6T6qZoesoscl6-kO0gX9-QHwKOiwKpU_NnmkCNdjGjUIk71-CcA7bINTzoE8v2R4J6FkRI1-LGDlr_4NLjNhAjaYY5XDlARRddLM7MjyMine5iRgxaa3Q2-bnYSu_eA116DZQCFTRTjemAw9e3QSALfym19P0PPymAKq_p88Q6_3BFcXkJrqrvB_bhdtJ9aZlEX7oeCDTE_",
+            "name": "projects/16234525681964602718/files/6c31124d07c14a9897cabc7cf34e782f"
+          },
+          "theme": {},
+          "title": "Commercial studio product photography: high-speed frozen shot of a clear PET plastic cup with transparent dome lid and white straw filled with a vibrant layered two-tone drink of golden yellow mango juice and bright red strawberry juice. Sliced fresh red strawberries and ripe diced mango cubes levitating and floating frozen in mid-air around the cup with fine droplets. Seamless clean very light lavender studio backdrop (#F3EEFB), crisp bright studio lighting, soft subtle ground shadow. Ultra-sharp focus, photorealistic commercial photography, no text, no logos, no labels, no hands, no people.",
+          "width": "1024",
+          "imageUrl": "https://lh3.googleusercontent.com/aida/AEtjO1XSNO-ZTcH9CfsVb15Ght_DKeyV7Yoz1Hh4uGb4OSULRVfyy6T6qZoesoscl6-kO0gX9-QHwKOiwKpU_NnmkCNdjGjUIk71-CcA7bINTzoE8v2R4J6FkRI1-LGDlr_4NLjNhAjaYY5XDlARRddLM7MjyMine5iRgxaa3Q2-bnYSu_eA116DZQCFTRTjemAw9e3QSALfym19P0PPymAKq_p88Q6_3BFcXkJrqrvB_bhdtJ9aZlEX7oeCDTE_"
+        },
+        {
+          "generatedBy": "interactive_ui_controller",
+          "height": "1024",
+          "id": "540fc471e979435a97ff087061fd0b95",
+          "name": "projects/16234525681964602718/screens/540fc471e979435a97ff087061fd0b95",
+          "prompt": "Commercial studio product photography: high-speed action shot of vibrant ripe golden mango juice splashing out of a clear PET plastic cup with a transparent dome lid and white straw. Fresh golden mango cubes and glossy juice droplets frozen mid-air flying and splashing into and around the cup. Seamless clean very light lavender studio backdrop (#F3EEFB), crisp bright lighting, soft subtle studio shadow underneath. Ultra-sharp focus, photorealistic commercial beverage photography, no text, no logos, no labels, no hands, no people.",
+          "screenMetadata": {
+            "agentType": "PRO_AGENT",
+            "status": "COMPLETE"
+          },
+          "screenType": "IMAGE",
+          "screenshot": {
+            "downloadUrl": "https://lh3.googleusercontent.com/aida/AEtjO1UMs_f2Ny6WZZklMyPCIddNXm-VjmWT8L4nEOM0kFR_NqugMjgp0Ndn0MChd2Ybt50B1Fvxwjxs1ivDpAE2GTPmApQVcdUKMLnFNewT1QEI8TNdT8PHvPLVgOwZAiGAMFnfboiel2vF5mG9tnLd1TCO4i0TAxgS45wTwP8mcqnerzmKbWm2rgjNgyyYN03fydVt8pNnm18lO9rBQ5ABLvSW3ju6SNHWNqbmF2K85TdLQD2hGzeT7r01ChPX",
+            "name": "projects/16234525681964602718/files/ed94e4affc414df09cf8900819132341"
+          },
+          "theme": {},
+          "title": "Commercial studio product photography: high-speed action shot of vibrant ripe golden mango juice splashing out of a clear PET plastic cup with a transparent dome lid and white straw. Fresh golden mango cubes and glossy juice droplets frozen mid-air flying and splashing into and around the cup. Seamless clean very light lavender studio backdrop (#F3EEFB), crisp bright lighting, soft subtle studio shadow underneath. Ultra-sharp focus, photorealistic commercial beverage photography, no text, no logos, no labels, no hands, no people.",
+          "width": "1024",
+          "imageUrl": "https://lh3.googleusercontent.com/aida/AEtjO1UMs_f2Ny6WZZklMyPCIddNXm-VjmWT8L4nEOM0kFR_NqugMjgp0Ndn0MChd2Ybt50B1Fvxwjxs1ivDpAE2GTPmApQVcdUKMLnFNewT1QEI8TNdT8PHvPLVgOwZAiGAMFnfboiel2vF5mG9tnLd1TCO4i0TAxgS45wTwP8mcqnerzmKbWm2rgjNgyyYN03fydVt8pNnm18lO9rBQ5ABLvSW3ju6SNHWNqbmF2K85TdLQD2hGzeT7r01ChPX"
+        },
+        {
+          "generatedBy": "interactive_ui_controller",
+          "height": "1024",
+          "id": "da8551ba2a55465ea7f358802d6b3e4f",
+          "name": "projects/16234525681964602718/screens/da8551ba2a55465ea7f358802d6b3e4f",
+          "prompt": "Commercial studio product photography: high-speed frozen shot of a clear PET plastic cup with transparent dome lid and white straw filled with thick golden mango smoothie. Fresh ripe mango cubes and round banana slices along with golden droplets levitating and floating frozen in mid-air surrounding the cup. Seamless clean very light lavender studio backdrop (#F3EEFB), crisp bright studio lighting, soft subtle ground shadow. Ultra-sharp focus, photorealistic commercial food photography, no text, no logos, no labels, no hands, no people.",
+          "screenMetadata": {
+            "agentType": "PRO_AGENT",
+            "status": "COMPLETE"
+          },
+          "screenType": "IMAGE",
+          "screenshot": {
+            "downloadUrl": "https://lh3.googleusercontent.com/aida/AEtjO1WvH-cf5cMQhee_iWDomgLzzvt1OzQvMSCVIW8KjzvmeRMV_b-txiNrHS6phhkpM1imR_fgB01_GGVjFWHIRA_SKS9T4zLftWYuefAGjgO7lXugheCYXfoBvymVDVRf0DuEJKRatQOHuDp_edrwJ-8-X7xC3dEhlV-H_a_3wzpni3Jw6ZN1g3pcey_62_wPCUss6EoVPC181Q28kxcFxJQAGQAVNBcjsWILhFn0CbmnAji0niirNbPBdcE",
+            "name": "projects/16234525681964602718/files/80e80272517041c9982fc6c06c3140d8"
+          },
+          "theme": {},
+          "title": "Commercial studio product photography: high-speed frozen shot of a clear PET plastic cup with transparent dome lid and white straw filled with thick golden mango smoothie. Fresh ripe mango cubes and round banana slices along with golden droplets levitating and floating frozen in mid-air surrounding the cup. Seamless clean very light lavender studio backdrop (#F3EEFB), crisp bright studio lighting, soft subtle ground shadow. Ultra-sharp focus, photorealistic commercial food photography, no text, no logos, no labels, no hands, no people.",
+          "width": "1024",
+          "imageUrl": "https://lh3.googleusercontent.com/aida/AEtjO1WvH-cf5cMQhee_iWDomgLzzvt1OzQvMSCVIW8KjzvmeRMV_b-txiNrHS6phhkpM1imR_fgB01_GGVjFWHIRA_SKS9T4zLftWYuefAGjgO7lXugheCYXfoBvymVDVRf0DuEJKRatQOHuDp_edrwJ-8-X7xC3dEhlV-H_a_3wzpni3Jw6ZN1g3pcey_62_wPCUss6EoVPC181Q28kxcFxJQAGQAVNBcjsWILhFn0CbmnAji0niirNbPBdcE"
+        },
+        {
+          "generatedBy": "interactive_ui_controller",
+          "height": "1024",
+          "id": "1e253c2e9dc4425cbef7b35260f908f7",
+          "name": "projects/16234525681964602718/screens/1e253c2e9dc4425cbef7b35260f908f7",
+          "prompt": "Commercial studio product photography: high-speed frozen shot of a clear PET plastic cup with transparent dome lid and white straw filled with vibrant golden mango passion fruit drink. Fresh halved passion fruit showing glistening dark seeds and pulp, flying passion fruit seeds, and golden mango droplets levitating frozen in mid-air around the cup. Seamless clean very light lavender studio backdrop (#F3EEFB), crisp bright studio lighting, soft subtle ground shadow. Ultra-sharp focus, photorealistic commercial photography, no text, no logos, no labels, no hands, no people.",
+          "screenMetadata": {
+            "agentType": "PRO_AGENT",
+            "status": "COMPLETE"
+          },
+          "screenType": "IMAGE",
+          "screenshot": {
+            "downloadUrl": "https://lh3.googleusercontent.com/aida/AEtjO1V8zjEE5Wt0liXJDbx8mI_PzgNNdhOhXlwq4wUfBtAPyKfOES3D4i3gjeRR069UhXT86q-Qp-DwQ8nRa2oej-i1xx9lThFFOizqlckYydU6rN7qK2HK7ByIXXqkRnc6zudLvZtJPm4zkpUzEHzMyLFQ6oR1r_sd5YAd5r3q2p_K5fTXfGGQbaoNPYmwwkAr3u1GjcWTu7PNl43tJE4qdOQCbb5XFLqcLGZtnVEk1HmYnU-tifbdNRF6hfAS",
+            "name": "projects/16234525681964602718/files/0c116dcfc8c14fadadcce123d145ae89"
+          },
+          "theme": {},
+          "title": "Commercial studio product photography: high-speed frozen shot of a clear PET plastic cup with transparent dome lid and white straw filled with vibrant golden mango passion fruit drink. Fresh halved passion fruit showing glistening dark seeds and pulp, flying passion fruit seeds, and golden mango droplets levitating frozen in mid-air around the cup. Seamless clean very light lavender studio backdrop (#F3EEFB), crisp bright studio lighting, soft subtle ground shadow. Ultra-sharp focus, photorealistic commercial photography, no text, no logos, no labels, no hands, no people.",
+          "width": "1024",
+          "imageUrl": "https://lh3.googleusercontent.com/aida/AEtjO1V8zjEE5Wt0liXJDbx8mI_PzgNNdhOhXlwq4wUfBtAPyKfOES3D4i3gjeRR069UhXT86q-Qp-DwQ8nRa2oej-i1xx9lThFFOizqlckYydU6rN7qK2HK7ByIXXqkRnc6zudLvZtJPm4zkpUzEHzMyLFQ6oR1r_sd5YAd5r3q2p_K5fTXfGGQbaoNPYmwwkAr3u1GjcWTu7PNl43tJE4qdOQCbb5XFLqcLGZtnVEk1HmYnU-tifbdNRF6hfAS"
+        },
+        {
+          "generatedBy": "interactive_ui_controller",
+          "height": "1024",
+          "id": "8b1c08a5a75142a785a7dc8667a99f7c",
+          "name": "projects/16234525681964602718/screens/8b1c08a5a75142a785a7dc8667a99f7c",
+          "prompt": "Commercial studio product photography: clear plastic cup/tub filled with fresh golden diced mango cubes, with a tall dynamic column of juicy diced mango cubes and golden juice droplets levitating and floating vertically suspended in mid-air directly above the cup. Seamless clean very light lavender studio backdrop (#F3EEFB), crisp bright studio lighting, soft subtle ground shadow. Ultra-sharp focus, photorealistic commercial food photography, no text, no logos, no labels, no hands, no people.",
+          "screenMetadata": {
+            "agentType": "PRO_AGENT",
+            "status": "COMPLETE"
+          },
+          "screenType": "IMAGE",
+          "screenshot": {
+            "downloadUrl": "https://lh3.googleusercontent.com/aida/AEtjO1XBj3HtalSuhSbQPn4MbBViROCMrF47DFqAacYim90t1IyXZhN8Pa8oaApIGfFQDpNC8ZXjsug0DhRaxN_ocK069aNXOGW6pm1vD5Kjg4Yr-vgKJkC9zfNn9OixdNTjeO2ogHMa1Lw0a1JsFQmABQSU6HZW56wZkuDh_IDGg8fWIZlMnVRqNLg9ALVQwKzIwaZ-CzexjPzgAHx6gzMhVw-nksyHWo4-vkA5ugMT5ukv5ndl8VbzFf8BaVTT",
+            "name": "projects/16234525681964602718/files/711ca6f22cc94d3ba6ac1288e48a1221"
+          },
+          "theme": {},
+          "title": "Commercial studio product photography: clear plastic cup/tub filled with fresh golden diced mango cubes, with a tall dynamic column of juicy diced mango cubes and golden juice droplets levitating and floating vertically suspended in mid-air directly above the cup. Seamless clean very light lavender studio backdrop (#F3EEFB), crisp bright studio lighting, soft subtle ground shadow. Ultra-sharp focus, photorealistic commercial food photography, no text, no logos, no labels, no hands, no people.",
+          "width": "1024",
+          "imageUrl": "https://lh3.googleusercontent.com/aida/AEtjO1XBj3HtalSuhSbQPn4MbBViROCMrF47DFqAacYim90t1IyXZhN8Pa8oaApIGfFQDpNC8ZXjsug0DhRaxN_ocK069aNXOGW6pm1vD5Kjg4Yr-vgKJkC9zfNn9OixdNTjeO2ogHMa1Lw0a1JsFQmABQSU6HZW56wZkuDh_IDGg8fWIZlMnVRqNLg9ALVQwKzIwaZ-CzexjPzgAHx6gzMhVw-nksyHWo4-vkA5ugMT5ukv5ndl8VbzFf8BaVTT"
+        },
+        {
+          "generatedBy": "interactive_ui_controller",
+          "height": "1024",
+          "id": "80812c24c5fb42c0bfc1f3cc4f6f2ec9",
+          "name": "projects/16234525681964602718/screens/80812c24c5fb42c0bfc1f3cc4f6f2ec9",
+          "prompt": "Commercial studio product photography: high-speed action shot of a clear PET plastic cup with transparent dome lid and white straw filled with vibrant fresh orange juice. Fresh juicy orange slices, wedges, and vibrant orange juice droplets splashing and levitating frozen mid-air around the cup. Seamless clean very light lavender studio backdrop (#F3EEFB), crisp bright studio lighting, soft subtle ground shadow. Ultra-sharp focus, photorealistic commercial food photography, no text, no logos, no labels, no hands, no people.",
+          "screenMetadata": {
+            "agentType": "PRO_AGENT",
+            "status": "COMPLETE"
+          },
+          "screenType": "IMAGE",
+          "screenshot": {
+            "downloadUrl": "https://lh3.googleusercontent.com/aida/AEtjO1Vis59bAr5UGmDGAbuZinW_Q90EKaGQ8F55yPLgI5rPw5QmKyl2tUtyMjSK6DNMcGlOvqeL6ohQEhBzc1OQpAGvPQe50IyhlOy2tWMEm_W30Ih8hkEvvy-7tcChcD-J_pjZZxgFYQiLWUZq7wNNhY4zlK90cHpfwe3A9gPKeCx_a6bzjorTu4Fl4r8CXEh18JDgPooBfhvKUp8XtT0b3QyNVeDz5qTvsxwKr4DsiOKkoDH1tf2Gpc1afRch",
+            "name": "projects/16234525681964602718/files/e2e223e9c9734a32a2409f61946a8cad"
+          },
+          "theme": {},
+          "title": "Commercial studio product photography: high-speed action shot of a clear PET plastic cup with transparent dome lid and white straw filled with vibrant fresh orange juice. Fresh juicy orange slices, wedges, and vibrant orange juice droplets splashing and levitating frozen mid-air around the cup. Seamless clean very light lavender studio backdrop (#F3EEFB), crisp bright studio lighting, soft subtle ground shadow. Ultra-sharp focus, photorealistic commercial food photography, no text, no logos, no labels, no hands, no people.",
+          "width": "1024",
+          "imageUrl": "https://lh3.googleusercontent.com/aida/AEtjO1Vis59bAr5UGmDGAbuZinW_Q90EKaGQ8F55yPLgI5rPw5QmKyl2tUtyMjSK6DNMcGlOvqeL6ohQEhBzc1OQpAGvPQe50IyhlOy2tWMEm_W30Ih8hkEvvy-7tcChcD-J_pjZZxgFYQiLWUZq7wNNhY4zlK90cHpfwe3A9gPKeCx_a6bzjorTu4Fl4r8CXEh18JDgPooBfhvKUp8XtT0b3QyNVeDz5qTvsxwKr4DsiOKkoDH1tf2Gpc1afRch"
+        },
+        {
+          "generatedBy": "interactive_ui_controller",
+          "height": "1024",
+          "id": "014394e6a3e648e08b118c8ff35b397c",
+          "name": "projects/16234525681964602718/screens/014394e6a3e648e08b118c8ff35b397c",
+          "prompt": "Commercial studio product photography: high-speed frozen shot of a clear PET plastic cup with transparent dome lid and white straw filled with a creamy golden mango milkshake topped with swirls of fluffy white whipped cream, a single ripe mango cube on top, and dynamic white milk splashes and mango droplets frozen mid-air around the cup. Seamless clean very light lavender studio backdrop (#F3EEFB), crisp bright studio lighting, soft subtle ground shadow. Ultra-sharp focus, photorealistic commercial food photography, no text, no logos, no labels, no hands, no people.",
+          "screenMetadata": {
+            "agentType": "PRO_AGENT",
+            "status": "COMPLETE"
+          },
+          "screenType": "IMAGE",
+          "screenshot": {
+            "downloadUrl": "https://lh3.googleusercontent.com/aida/AEtjO1W4UrI3094cXBHsjqnhS1YI0MT7h0OWIf_gZqioXTol7Fy5DAzqGyZihEb5nF_Ms8u57KvlzAv5wG1G3vP1q12hy7e607gMNs-qbyD5v5F6wjFU17f7705lmVhg2n03UrcWuN6F1a1eTX258AjKpPqC8Rm-29UJ04XiBP7JCNHXjK9MEIMFfh0eL9N7vyILWnIQfex0_WBcfzksxW7daVnc50P_HHSkUQ6lbHmgjtxyaa2QChQFQzyN8zEt",
+            "name": "projects/16234525681964602718/files/93456ce7ba5d4e6da8af945f25550785"
+          },
+          "theme": {},
+          "title": "Commercial studio product photography: high-speed frozen shot of a clear PET plastic cup with transparent dome lid and white straw filled with a creamy golden mango milkshake topped with swirls of fluffy white whipped cream, a single ripe mango cube on top, and dynamic white milk splashes and mango droplets frozen mid-air around the cup. Seamless clean very light lavender studio backdrop (#F3EEFB), crisp bright studio lighting, soft subtle ground shadow. Ultra-sharp focus, photorealistic commercial food photography, no text, no logos, no labels, no hands, no people.",
+          "width": "1024",
+          "imageUrl": "https://lh3.googleusercontent.com/aida/AEtjO1W4UrI3094cXBHsjqnhS1YI0MT7h0OWIf_gZqioXTol7Fy5DAzqGyZihEb5nF_Ms8u57KvlzAv5wG1G3vP1q12hy7e607gMNs-qbyD5v5F6wjFU17f7705lmVhg2n03UrcWuN6F1a1eTX258AjKpPqC8Rm-29UJ04XiBP7JCNHXjK9MEIMFfh0eL9N7vyILWnIQfex0_WBcfzksxW7daVnc50P_HHSkUQ6lbHmgjtxyaa2QChQFQzyN8zEt"
+        },
+        {
+          "generatedBy": "interactive_ui_controller",
+          "height": "1024",
+          "id": "e823b387528648bbb41fa978a8fe36c2",
+          "name": "projects/16234525681964602718/screens/e823b387528648bbb41fa978a8fe36c2",
+          "prompt": "Commercial studio product photography: high-speed frozen shot of a clear PET plastic cup with transparent dome lid and white straw filled with vibrant deep ruby red watermelon juice. Fresh crisp red watermelon cubes, small black seeds, and fresh green mint leaves levitating and floating frozen mid-air around the cup with fine water droplets. Seamless clean very light lavender studio backdrop (#F3EEFB), crisp bright studio lighting, soft subtle ground shadow. Ultra-sharp focus, photorealistic commercial food photography, no text, no logos, no labels, no hands, no people.",
+          "screenMetadata": {
+            "agentType": "PRO_AGENT",
+            "status": "COMPLETE"
+          },
+          "screenType": "IMAGE",
+          "screenshot": {
+            "downloadUrl": "https://lh3.googleusercontent.com/aida/AEtjO1Xyhxa_yS_s9-j9eYI9sfyWcaH353JWwHudJvdyZ8NsJDP2BXSmnkFMgIyT6COF7zY6G4nlhPpfgofCiJD4R1OLui6UQiFnHvDJHT6Wm2QKhV3m-pGpdSJKbpP6vbzIhfv48AzjS29iXO_pnLhDAsSXcjOG3temOYIOIE5hNNsLY37zXby49mkva9Bqr-4H0tOKSwE-4N-qYTb-jkJH17U-oPZnlDnE0f9RH0-TaiTUl_Cfp0i9L5mtZHFv",
+            "name": "projects/16234525681964602718/files/7fc206657989489ab9432bde923901aa"
+          },
+          "theme": {},
+          "title": "Commercial studio product photography: high-speed frozen shot of a clear PET plastic cup with transparent dome lid and white straw filled with vibrant deep ruby red watermelon juice. Fresh crisp red watermelon cubes, small black seeds, and fresh green mint leaves levitating and floating frozen mid-air around the cup with fine water droplets. Seamless clean very light lavender studio backdrop (#F3EEFB), crisp bright studio lighting, soft subtle ground shadow. Ultra-sharp focus, photorealistic commercial food photography, no text, no logos, no labels, no hands, no people.",
+          "width": "1024",
+          "imageUrl": "https://lh3.googleusercontent.com/aida/AEtjO1Xyhxa_yS_s9-j9eYI9sfyWcaH353JWwHudJvdyZ8NsJDP2BXSmnkFMgIyT6COF7zY6G4nlhPpfgofCiJD4R1OLui6UQiFnHvDJHT6Wm2QKhV3m-pGpdSJKbpP6vbzIhfv48AzjS29iXO_pnLhDAsSXcjOG3temOYIOIE5hNNsLY37zXby49mkva9Bqr-4H0tOKSwE-4N-qYTb-jkJH17U-oPZnlDnE0f9RH0-TaiTUl_Cfp0i9L5mtZHFv"
+        }
+      ],
+      "agentText": "I have created the 1440px desktop web page with a clean 4-column grid displaying the eight high-speed commercial beverage photographs.\n\n### Overview & Visual Consistency\n- **Visual Style**: Clean, high-energy commercial studio photography set against a seamless, subtle light lavender backdrop (`#F3EEFB`) with crisp lighting, transparent dome cups, and suspended/levitating fruit slices, cubes, and droplets.\n- **Composition**:\n  1. `hero` — Fresh mango juice splashing with floating mango cubes (Commercial studio product photography: high-speed action shot of vibrant ripe golden mango juice splashing out of a clear PET plastic cup with a transparent dome lid and white straw. Fresh golden mango cubes and glossy juice droplets frozen mid-air flying and splashing into and around the cup. Seamless clean very light lavender studio backdrop (#F3EEFB), crisp bright lighting, soft subtle studio shadow underneath. Ultra-sharp focus, photorealistic commercial beverage photography, no text, no logos, no labels, no hands, no people.)\n  2. `smoothie` — Golden mango smoothie surrounded by levitating mango chunks and banana slices (Commercial studio product photography: high-speed frozen shot of a clear PET plastic cup with transparent dome lid and white straw filled with thick golden mango smoothie. Fresh ripe mango cubes and round banana slices along with golden droplets levitating and floating frozen in mid-air surrounding the cup. Seamless clean very light lavender studio backdrop (#F3EEFB), crisp bright studio lighting, soft subtle ground shadow. Ultra-sharp focus, photorealistic commercial food photography, no text, no logos, no labels, no hands, no people.)\n  3. `strawberry` — Two-tone layered mango-strawberry drink with floating strawberries and cubes (Commercial studio product photography: high-speed frozen shot of a clear PET plastic cup with transparent dome lid and white straw filled with a vibrant layered two-tone drink of golden yellow mango juice and bright red strawberry juice. Sliced fresh red strawberries and ripe diced mango cubes levitating and floating frozen in mid-air around the cup with fine droplets. Seamless clean very light lavender studio backdrop (#F3EEFB), crisp bright studio lighting, soft subtle ground shadow. Ultra-sharp focus, photorealistic commercial photography, no text, no logos, no labels, no hands, no people.)\n  4. `passion` — Mango passion fruit refresher with halved passion fruits and flying seeds (Commercial studio product photography: high-speed frozen shot of a clear PET plastic cup with transparent dome lid and white straw filled with vibrant golden mango passion fruit drink. Fresh halved passion fruit showing glistening dark seeds and pulp, flying passion fruit seeds, and golden mango droplets levitating frozen in mid-air around the cup. Seamless clean very light lavender studio backdrop (#F3EEFB), crisp bright studio lighting, soft subtle ground shadow. Ultra-sharp focus, photorealistic commercial photography, no text, no logos, no labels, no hands, no people.)\n  5. `cubes` — Clear tub overflowing with fresh mango chunks and a vertical column of cubes (Commercial studio product photography: clear plastic cup/tub filled with fresh golden diced mango cubes, with a tall dynamic column of juicy diced mango cubes and golden juice droplets levitating and floating vertically suspended in mid-air directly above the cup. Seamless clean very light lavender studio backdrop (#F3EEFB), crisp bright studio lighting, soft subtle ground shadow. Ultra-sharp focus, photorealistic commercial food photography, no text, no logos, no labels, no hands, no people.)\n  6. `orange` — Fresh orange juice with citrus wedges and droplet splashes (Commercial studio product photography: high-speed action shot of a clear PET plastic cup with transparent dome lid and white straw filled with vibrant fresh orange juice. Fresh juicy orange slices, wedges, and vibrant orange juice droplets splashing and levitating frozen mid-air around the cup. Seamless clean very light lavender studio backdrop (#F3EEFB), crisp bright studio lighting, soft subtle ground shadow. Ultra-sharp focus, photorealistic commercial food photography, no text, no logos, no labels, no hands, no people.)\n  7. `milkshake` — Golden mango shake topped with whipped cream, mango piece, and milk splash (Commercial studio product photography: high-speed frozen shot of a clear PET plastic cup with transparent dome lid and white straw filled with a creamy golden mango milkshake topped with swirls of fluffy white whipped cream, a single ripe mango cube on top, and dynamic white milk splashes and mango droplets frozen mid-air around the cup. Seamless clean very light lavender studio backdrop (#F3EEFB), crisp bright studio lighting, soft subtle ground shadow. Ultra-sharp focus, photorealistic commercial food photography, no text, no logos, no labels, no hands, no people.)\n  8. `watermelon` — Deep ruby watermelon juice with crisp cubes and mint leaves (Commercial studio product photography: high-speed frozen shot of a clear PET plastic cup with transparent dome lid and white straw filled with vibrant deep ruby red watermelon juice. Fresh crisp red watermelon cubes, small black seeds, and fresh green mint leaves levitating and floating frozen mid-air around the cup with fine water droplets. Seamless clean very light lavender studio backdrop (#F3EEFB), crisp bright studio lighting, soft subtle ground shadow. Ultra-sharp focus, photorealistic commercial food photography, no text, no logos, no labels, no hands, no people.)\n- **Layout**: Strictly minimal 1440px container on a pure white background (`#ffffff`), with rounded photo cards and one-word lowercase captions beneath each item, completely free of icons, buttons, or extraneous UI elements.",
+      "suggestions": [
+        "Swap any of the photos into the mobile app home screen",
+        "Adjust grid spacing, corner radius, or typography",
+        "Generate high-res lifestyle scenes for marketing banners"
+      ],
+      "imageUrl": "https://lh3.googleusercontent.com/aida/AEtjO1WOyrk0WxGU4KqqJqd0xPCC4E0MeY1VSzbIxGF_hOU1iGuuxb53TWeHPx2FTml3MlOCrJrf7DJhLFKcAnx9tCMAFhQsgb63yoXEcC-YqXujaphQIANzmWYhoFWEx2EWFt-J-vBDdcvc_4lwaF7uOx-uzlcPqlbHPBAxuXEartbFgIBQQ-SyXcgDigI3qYBxX_fJauwkLAzxLJBWpxVBjmZ7U4_66JgGfSxq3u1dWEj3-OnNJKS7uAVKXfI"
+    }
+  }
+}

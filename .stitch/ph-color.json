@@ -1,0 +1,572 @@
+{
+  "success": true,
+  "data": {
+    "resource": "screen",
+    "id": "d7b8ef93b88e4000877eadc76660699a",
+    "project": "16234525681964602718",
+    "title": "Studio Drinks Grid 1440px",
+    "device": "DESKTOP",
+    "screenType": "DESIGN",
+    "canvasUrl": "https://stitch.google.com/projects/16234525681964602718?node-id=d7b8ef93b88e4000877eadc76660699a",
+    "imageUrl": "https://lh3.googleusercontent.com/aida/AEtjO1UIosaTuIqRB4lGAmpG_MAaBD7ZRDeDt9GVKge1C-VFqQeLhssXtb6x4s7VXaQp_mARwZiRcSNYSd-DOOhUx2aFk_eI_0L9w4c0pDLQtW6of7FyVFdpfYvzwpbsjBFbYrWpss2IcDohqGWZFcsHh73ItVDUXcxmmc7v1oskMDv8CplzC3q8s2CkWrNbSvqj8xxMuVUjPaj9C7Vr0iWjb-HuNYEIGsuUhBp8ZM-eSsorqVaB_LYDo9cq1JDH",
+    "htmlCode": {
+      "downloadUrl": "https://contribution.usercontent.google.com/download?c=CgthaWRhX2NvZGVmeBJ8Eh1hcHBfY29tcGFuaW9uX2dlbmVyYXRlZF9maWxlcxpbCiVodG1sXzczZjMyZmYyOGZiMjQ3ZGY4OTZjZjQ2OGRmOWFiNDFkEgsSBxCu-qfdvhIYAZIBJAoKcHJvamVjdF9pZBIWQhQxNjIzNDUyNTY4MTk2NDYwMjcxOA&filename=&opi=96797242",
+      "mimeType": "text/html",
+      "name": "projects/16234525681964602718/files/82100f65258a40c08e93e17ddaa4d507"
+    },
+    "images": [
+      {
+        "generatedBy": "interactive_ui_controller",
+        "height": "1024",
+        "id": "ae69fe1d4fc940d48413b574add6fc57",
+        "name": "projects/16234525681964602718/screens/ae69fe1d4fc940d48413b574add6fc57",
+        "prompt": "Commercial studio product photography: one single clear PET plastic cup with a transparent dome lid and white straw centered, filled with vibrant golden Egyptian mango juice with delicate condensation droplets. Standing on a seamless smooth butter-yellow paper backdrop (#F6D776). One fresh whole ripe mango resting neatly beside the cup. Soft diffused studio lighting from the left, soft subtle floor shadow, minimalist editorial setup. Photorealistic 8k, crisp focus, no people, no hands, no text, no logos, no labels, no graphics.",
+        "screenMetadata": {
+          "agentType": "PRO_AGENT",
+          "status": "COMPLETE"
+        },
+        "screenType": "IMAGE",
+        "screenshot": {
+          "downloadUrl": "https://lh3.googleusercontent.com/aida/AEtjO1UZTYRR5oJs21_to-cXH6uwNDm6diyrEvGAxo8QlkAW2VtJXWTm684I_ifPfBIUKIMgsc1sJiwuNdDY5uIbZFkkkeqTxQOfJC9VCO-rS4zuqUyBPzpGxCfbxNJNm0EcBHqPqUKJU_Idjnw7ZX6-dkHmjeKO434NiAnp7ZSLRW3eESCzo0fnIQikTnnKUD8hR1lQ_p0uYy4gjleMn0txWjGwLgeahgvASbs4F1IyOqnTRxeN7_W9RxeTqQ2S",
+          "name": "projects/16234525681964602718/files/c977172ccb704c67a6468621b2efe97e"
+        },
+        "theme": {},
+        "title": "Commercial studio product photography: one single clear PET plastic cup with a transparent dome lid and white straw centered, filled with vibrant golden Egyptian mango juice with delicate condensation droplets. Standing on a seamless smooth butter-yellow paper backdrop (#F6D776). One fresh whole ripe mango resting neatly beside the cup. Soft diffused studio lighting from the left, soft subtle floor shadow, minimalist editorial setup. Photorealistic 8k, crisp focus, no people, no hands, no text, no logos, no labels, no graphics.",
+        "width": "1024",
+        "imageUrl": "https://lh3.googleusercontent.com/aida/AEtjO1UZTYRR5oJs21_to-cXH6uwNDm6diyrEvGAxo8QlkAW2VtJXWTm684I_ifPfBIUKIMgsc1sJiwuNdDY5uIbZFkkkeqTxQOfJC9VCO-rS4zuqUyBPzpGxCfbxNJNm0EcBHqPqUKJU_Idjnw7ZX6-dkHmjeKO434NiAnp7ZSLRW3eESCzo0fnIQikTnnKUD8hR1lQ_p0uYy4gjleMn0txWjGwLgeahgvASbs4F1IyOqnTRxeN7_W9RxeTqQ2S"
+      },
+      {
+        "generatedBy": "interactive_ui_controller",
+        "height": "1024",
+        "id": "271dec79fb8c4b729883825be60164f2",
+        "name": "projects/16234525681964602718/screens/271dec79fb8c4b729883825be60164f2",
+        "prompt": "Commercial studio product photography: one single clear PET plastic cup with a transparent dome lid and white straw centered, filled with creamy pale golden mango milk shake. Standing on a seamless smooth warm cream paper backdrop (#FBF6EB). One whole fresh golden mango beside the cup. Soft diffused studio lighting from the left, soft subtle floor shadow, clean minimalist editorial setup. Photorealistic 8k, sharp focus, no people, no hands, no text, no logos, no labels, no graphics.",
+        "screenMetadata": {
+          "agentType": "PRO_AGENT",
+          "status": "COMPLETE"
+        },
+        "screenType": "IMAGE",
+        "screenshot": {
+          "downloadUrl": "https://lh3.googleusercontent.com/aida/AEtjO1VzONkuPZT2lUjmCIzAeNIof3dYTxs3VTPI4JC8N44qJ9JFylqb_OJq8TWj0APQ18WkahITjK-tWz3gf9IXze9C6n-Z0tlRV6wjM8ZNF27Vjkqcws1whr0Zv6PohC7DvKQ8TKwqxKeeWxpH5Z1w3luoq4EkcCKz2BOJlbR6OuCmQVmdM5TPvo2Ittwd000KKsQpfVojdslsNN-6eqoVWyrYac9e0ebfV3heWZzjqrKX8vmwWzSRpAGpOdZx",
+          "name": "projects/16234525681964602718/files/f9a5e49ad81e40f1968d19435d228524"
+        },
+        "theme": {},
+        "title": "Commercial studio product photography: one single clear PET plastic cup with a transparent dome lid and white straw centered, filled with creamy pale golden mango milk shake. Standing on a seamless smooth warm cream paper backdrop (#FBF6EB). One whole fresh golden mango beside the cup. Soft diffused studio lighting from the left, soft subtle floor shadow, clean minimalist editorial setup. Photorealistic 8k, sharp focus, no people, no hands, no text, no logos, no labels, no graphics.",
+        "width": "1024",
+        "imageUrl": "https://lh3.googleusercontent.com/aida/AEtjO1VzONkuPZT2lUjmCIzAeNIof3dYTxs3VTPI4JC8N44qJ9JFylqb_OJq8TWj0APQ18WkahITjK-tWz3gf9IXze9C6n-Z0tlRV6wjM8ZNF27Vjkqcws1whr0Zv6PohC7DvKQ8TKwqxKeeWxpH5Z1w3luoq4EkcCKz2BOJlbR6OuCmQVmdM5TPvo2Ittwd000KKsQpfVojdslsNN-6eqoVWyrYac9e0ebfV3heWZzjqrKX8vmwWzSRpAGpOdZx"
+      },
+      {
+        "generatedBy": "interactive_ui_controller",
+        "height": "1024",
+        "id": "23ad1a3fb526483c8d68b7f63a76a75f",
+        "name": "projects/16234525681964602718/screens/23ad1a3fb526483c8d68b7f63a76a75f",
+        "prompt": "Commercial studio product photography: one single clear PET plastic cup with a transparent dome lid and white straw centered, filled with vibrant freshly squeezed orange juice with delicate condensation droplets. Standing on a seamless smooth soft pastel orange paper backdrop (#FFD8B3). One whole fresh ripe orange beside the cup. Soft diffused studio lighting from the left, soft subtle floor shadow, clean minimalist setup. Photorealistic 8k, sharp focus, no people, no hands, no text, no logos, no labels, no graphics.",
+        "screenMetadata": {
+          "agentType": "PRO_AGENT",
+          "status": "COMPLETE"
+        },
+        "screenType": "IMAGE",
+        "screenshot": {
+          "downloadUrl": "https://lh3.googleusercontent.com/aida/AEtjO1UYnGdcuOo602kT-MJKWFYsnmmhW7EtHVf2btRoSlekyJC88R9hfcgkepq8itnRq-z0MCQzZn9jqX99Ym_dRjgEKMrWVHiQeRFSPH9ozKrWqNZ218Xet0Es-dEf0J6uA-ycG7RuFGp1wSXpoI0s5tUhO5-LHe_GaG4i7WzE315LIWt0cdnwMWGoJKx1U51hUP7EwjsmUYS6NKZ5sTc6w_yFbY9uNmW60Ros_7sCYFdH6ryk3uqKXEQ5oqvq",
+          "name": "projects/16234525681964602718/files/dbb7c5a388a34525ad27dd5afe1ae76d"
+        },
+        "theme": {},
+        "title": "Commercial studio product photography: one single clear PET plastic cup with a transparent dome lid and white straw centered, filled with vibrant freshly squeezed orange juice with delicate condensation droplets. Standing on a seamless smooth soft pastel orange paper backdrop (#FFD8B3). One whole fresh ripe orange beside the cup. Soft diffused studio lighting from the left, soft subtle floor shadow, clean minimalist setup. Photorealistic 8k, sharp focus, no people, no hands, no text, no logos, no labels, no graphics.",
+        "width": "1024",
+        "imageUrl": "https://lh3.googleusercontent.com/aida/AEtjO1UYnGdcuOo602kT-MJKWFYsnmmhW7EtHVf2btRoSlekyJC88R9hfcgkepq8itnRq-z0MCQzZn9jqX99Ym_dRjgEKMrWVHiQeRFSPH9ozKrWqNZ218Xet0Es-dEf0J6uA-ycG7RuFGp1wSXpoI0s5tUhO5-LHe_GaG4i7WzE315LIWt0cdnwMWGoJKx1U51hUP7EwjsmUYS6NKZ5sTc6w_yFbY9uNmW60Ros_7sCYFdH6ryk3uqKXEQ5oqvq"
+      },
+      {
+        "generatedBy": "interactive_ui_controller",
+        "height": "1024",
+        "id": "1886c5f300e04899961a9b50a07bce5b",
+        "name": "projects/16234525681964602718/screens/1886c5f300e04899961a9b50a07bce5b",
+        "prompt": "Commercial studio product photography: one single clear PET plastic cup with a transparent dome lid and white straw centered, filled with refreshing ruby red watermelon juice with condensation droplets. Standing on a seamless smooth soft coral pink paper backdrop (#FFAAA6). One clean triangular slice watermelon wedge resting neatly beside the cup. Soft diffused studio lighting from the left, soft subtle floor shadow, clean minimalist setup. Photorealistic 8k, sharp focus, no people, no hands, no text, no logos, no labels, no graphics.",
+        "screenMetadata": {
+          "agentType": "PRO_AGENT",
+          "status": "COMPLETE"
+        },
+        "screenType": "IMAGE",
+        "screenshot": {
+          "downloadUrl": "https://lh3.googleusercontent.com/aida/AEtjO1UadtNDq5xEqZH3ZMPfLItAFSX5VkhnC5o-8OPTSCVOqZyWz7FHRCUsFeMrhO9vtOfDTkJ8iOgBXPV332zpEF5LP3_SwY_lM8_t9fkxS-k4ViufgR0afexu7SrZRJ9sp9mXIYw5oxKp-lB2A5yjUtHbX5SICsJ8mqGRmfncYu4c5gC5b2yV5QgmZaVcHHZl-myPdcMmLkQcsMIxKuCJY0JoP0cFN0whKu_wGsKEkSDRfroIfHL39bJJxJ0",
+          "name": "projects/16234525681964602718/files/fcd99bd87cb54cb599b368f3dbd8ad00"
+        },
+        "theme": {},
+        "title": "Commercial studio product photography: one single clear PET plastic cup with a transparent dome lid and white straw centered, filled with refreshing ruby red watermelon juice with condensation droplets. Standing on a seamless smooth soft coral pink paper backdrop (#FFAAA6). One clean triangular slice watermelon wedge resting neatly beside the cup. Soft diffused studio lighting from the left, soft subtle floor shadow, clean minimalist setup. Photorealistic 8k, sharp focus, no people, no hands, no text, no logos, no labels, no graphics.",
+        "width": "1024",
+        "imageUrl": "https://lh3.googleusercontent.com/aida/AEtjO1UadtNDq5xEqZH3ZMPfLItAFSX5VkhnC5o-8OPTSCVOqZyWz7FHRCUsFeMrhO9vtOfDTkJ8iOgBXPV332zpEF5LP3_SwY_lM8_t9fkxS-k4ViufgR0afexu7SrZRJ9sp9mXIYw5oxKp-lB2A5yjUtHbX5SICsJ8mqGRmfncYu4c5gC5b2yV5QgmZaVcHHZl-myPdcMmLkQcsMIxKuCJY0JoP0cFN0whKu_wGsKEkSDRfroIfHL39bJJxJ0"
+      },
+      {
+        "generatedBy": "interactive_ui_controller",
+        "height": "1024",
+        "id": "4cd46bfebd944befa38e2f707650dad3",
+        "name": "projects/16234525681964602718/screens/4cd46bfebd944befa38e2f707650dad3",
+        "prompt": "Commercial studio product photography: one single clear PET plastic cup with a transparent dome lid and white straw centered, filled with thick creamy pink guava nectar. Standing on a seamless smooth blush pink paper backdrop (#F5D0D6). One fresh halved pink guava showing soft seeds neatly resting beside the cup. Soft diffused studio lighting from the left, soft subtle floor shadow, clean minimalist setup. Photorealistic 8k, sharp focus, no people, no hands, no text, no logos, no labels, no graphics.",
+        "screenMetadata": {
+          "agentType": "PRO_AGENT",
+          "status": "COMPLETE"
+        },
+        "screenType": "IMAGE",
+        "screenshot": {
+          "downloadUrl": "https://lh3.googleusercontent.com/aida/AEtjO1XBZF01F3HVRReHseSosndR76LuzBR2Fb3UGz_BeBsz3ZmR_Gv-P-iCIym3pTD4KZrSK0FuWk0BbmFNiDlkfW1AY5yty9lSyv9hJVB1v4VL-YQmGOHLiea-JWURp9xW5pqlH2l3md0Q91LltXrZVG42oL69_RnIkfyneBmWuIRcWWwpWJbNWg6-jFp5sz5zOkOzHO34zFe0vTu1xhFCSJKqRVlFa4L-35Kpj_et1-aZHjImGi3gIpwq49FU",
+          "name": "projects/16234525681964602718/files/9b5a7d609b2241a993da20ca2e59171e"
+        },
+        "theme": {},
+        "title": "Commercial studio product photography: one single clear PET plastic cup with a transparent dome lid and white straw centered, filled with thick creamy pink guava nectar. Standing on a seamless smooth blush pink paper backdrop (#F5D0D6). One fresh halved pink guava showing soft seeds neatly resting beside the cup. Soft diffused studio lighting from the left, soft subtle floor shadow, clean minimalist setup. Photorealistic 8k, sharp focus, no people, no hands, no text, no logos, no labels, no graphics.",
+        "width": "1024",
+        "imageUrl": "https://lh3.googleusercontent.com/aida/AEtjO1XBZF01F3HVRReHseSosndR76LuzBR2Fb3UGz_BeBsz3ZmR_Gv-P-iCIym3pTD4KZrSK0FuWk0BbmFNiDlkfW1AY5yty9lSyv9hJVB1v4VL-YQmGOHLiea-JWURp9xW5pqlH2l3md0Q91LltXrZVG42oL69_RnIkfyneBmWuIRcWWwpWJbNWg6-jFp5sz5zOkOzHO34zFe0vTu1xhFCSJKqRVlFa4L-35Kpj_et1-aZHjImGi3gIpwq49FU"
+      },
+      {
+        "generatedBy": "interactive_ui_controller",
+        "height": "1024",
+        "id": "305d41ac775e4d37b64484256b0ba89a",
+        "name": "projects/16234525681964602718/screens/305d41ac775e4d37b64484256b0ba89a",
+        "prompt": "Commercial studio product photography: one single clear PET plastic cup with a transparent dome lid and white straw centered, filled with pale pastel green freshly pressed sugarcane lime juice. Standing on a seamless smooth pale lime green paper backdrop (#E1EFC7). One fresh whole vibrant green lime beside the cup. Soft diffused studio lighting from the left, soft subtle floor shadow, clean minimalist setup. Photorealistic 8k, sharp focus, no people, no hands, no text, no logos, no labels, no graphics.",
+        "screenMetadata": {
+          "agentType": "PRO_AGENT",
+          "status": "COMPLETE"
+        },
+        "screenType": "IMAGE",
+        "screenshot": {
+          "downloadUrl": "https://lh3.googleusercontent.com/aida/AEtjO1X2hrWnKTpBpPxyVAyTX9BacZEUjHhecmaGGF99WGYjjAJCwKljUvIaRXB8O4oqPzgN8dJGfM6cOdiOIm0P2wixQhobwvQahj9K8Xktd_lbM7rQk1-x1104Rpo5ccv-ix0_y5mIhYqZvx3C03E720q_V2zv-W-Az-0XcFfL4rnl1h-m1PnnYpeXiYsmAvRLEqnzcnRUdZafzA1xlqcJT6LYe9Z6TH1ltsMBr_XWWNr45dLrfFweSj-Ay2BE",
+          "name": "projects/16234525681964602718/files/380160b3112249738e17c092920369f8"
+        },
+        "theme": {},
+        "title": "Commercial studio product photography: one single clear PET plastic cup with a transparent dome lid and white straw centered, filled with pale pastel green freshly pressed sugarcane lime juice. Standing on a seamless smooth pale lime green paper backdrop (#E1EFC7). One fresh whole vibrant green lime beside the cup. Soft diffused studio lighting from the left, soft subtle floor shadow, clean minimalist setup. Photorealistic 8k, sharp focus, no people, no hands, no text, no logos, no labels, no graphics.",
+        "width": "1024",
+        "imageUrl": "https://lh3.googleusercontent.com/aida/AEtjO1X2hrWnKTpBpPxyVAyTX9BacZEUjHhecmaGGF99WGYjjAJCwKljUvIaRXB8O4oqPzgN8dJGfM6cOdiOIm0P2wixQhobwvQahj9K8Xktd_lbM7rQk1-x1104Rpo5ccv-ix0_y5mIhYqZvx3C03E720q_V2zv-W-Az-0XcFfL4rnl1h-m1PnnYpeXiYsmAvRLEqnzcnRUdZafzA1xlqcJT6LYe9Z6TH1ltsMBr_XWWNr45dLrfFweSj-Ay2BE"
+      },
+      {
+        "generatedBy": "interactive_ui_controller",
+        "height": "1024",
+        "id": "11a9b729680546cbaae2f54f196dd66f",
+        "name": "projects/16234525681964602718/screens/11a9b729680546cbaae2f54f196dd66f",
+        "prompt": "Commercial studio product photography: one single clear PET plastic cup with a transparent dome lid and white straw centered, filled with rich deep garnet red pomegranate juice with condensation droplets. Standing on a seamless smooth deep muted red paper backdrop (#A83232). One opened fresh ripe pomegranate with visible ruby seeds beside the cup. Soft diffused studio lighting from the left, soft subtle floor shadow, clean minimalist setup. Photorealistic 8k, sharp focus, no people, no hands, no text, no logos, no labels, no graphics.",
+        "screenMetadata": {
+          "agentType": "PRO_AGENT",
+          "status": "COMPLETE"
+        },
+        "screenType": "IMAGE",
+        "screenshot": {
+          "downloadUrl": "https://lh3.googleusercontent.com/aida/AEtjO1W1zd46gBg6NUUdb9iX0VGo4v_ZXsMwRKoU-DoGw1bC4iH8kz-wh-oiTMtEg_p7I49Ku61BYutcjZgT56umzCMd1KRQsHINbnqS5eMc7uq7cSPEbDXpIzBm9KEVflQ7RvAPH9_byN7o8CHpoCpZKdHwG4mWv55VHVx231jY2QlwK7EkbSaY_7ljdSm2gKpWyfZavr8PUwwwg2RrSzUwofpR3_chFWjB2uPk4ryNWYa4OgduCglAAI9GnuNg",
+          "name": "projects/16234525681964602718/files/25e672628b1f4d50aa212ac9838492ec"
+        },
+        "theme": {},
+        "title": "Commercial studio product photography: one single clear PET plastic cup with a transparent dome lid and white straw centered, filled with rich deep garnet red pomegranate juice with condensation droplets. Standing on a seamless smooth deep muted red paper backdrop (#A83232). One opened fresh ripe pomegranate with visible ruby seeds beside the cup. Soft diffused studio lighting from the left, soft subtle floor shadow, clean minimalist setup. Photorealistic 8k, sharp focus, no people, no hands, no text, no logos, no labels, no graphics.",
+        "width": "1024",
+        "imageUrl": "https://lh3.googleusercontent.com/aida/AEtjO1W1zd46gBg6NUUdb9iX0VGo4v_ZXsMwRKoU-DoGw1bC4iH8kz-wh-oiTMtEg_p7I49Ku61BYutcjZgT56umzCMd1KRQsHINbnqS5eMc7uq7cSPEbDXpIzBm9KEVflQ7RvAPH9_byN7o8CHpoCpZKdHwG4mWv55VHVx231jY2QlwK7EkbSaY_7ljdSm2gKpWyfZavr8PUwwwg2RrSzUwofpR3_chFWjB2uPk4ryNWYa4OgduCglAAI9GnuNg"
+      },
+      {
+        "generatedBy": "interactive_ui_controller",
+        "height": "1024",
+        "id": "9094d6bae1e047dabea2b9532e635866",
+        "name": "projects/16234525681964602718/screens/9094d6bae1e047dabea2b9532e635866",
+        "prompt": "Commercial studio product photography: one single clear PET plastic cup with a transparent dome lid and white straw centered, filled with bright red freshly blended strawberry juice with condensation droplets. Standing on a seamless smooth soft pink-red paper backdrop (#FFB3BA). Two whole fresh ripe strawberries with green stems beside the cup. Soft diffused studio lighting from the left, soft subtle floor shadow, clean minimalist setup. Photorealistic 8k, sharp focus, no people, no hands, no text, no logos, no labels, no graphics.",
+        "screenMetadata": {
+          "agentType": "PRO_AGENT",
+          "status": "COMPLETE"
+        },
+        "screenType": "IMAGE",
+        "screenshot": {
+          "downloadUrl": "https://lh3.googleusercontent.com/aida/AEtjO1Wp4oe4svJUYic_oyylxOdikdCd2paE_ieEcc5ns_ZTRs56q2wfvJwpTTU4I9cbUP26QvVsBybpwOrKpegaXm4m7iMSkNOrx4gpU_FdgqUkEbDOKY3fP-Qa-v-WmufkubzdNefRgQjIB-EnCbKMUMQfQjQcCydTrSdRYMduCBXuLaAeUPqnSDDDrCYf2a6EmCA3YxAVmW_iJ2CZyvwuf_n8Tdr9qh4A7nWBC2TLUz5XHBy5n1hBsYIOEJJs",
+          "name": "projects/16234525681964602718/files/3a22398a68e54dbe9bebff0c81a9d048"
+        },
+        "theme": {},
+        "title": "Commercial studio product photography: one single clear PET plastic cup with a transparent dome lid and white straw centered, filled with bright red freshly blended strawberry juice with condensation droplets. Standing on a seamless smooth soft pink-red paper backdrop (#FFB3BA). Two whole fresh ripe strawberries with green stems beside the cup. Soft diffused studio lighting from the left, soft subtle floor shadow, clean minimalist setup. Photorealistic 8k, sharp focus, no people, no hands, no text, no logos, no labels, no graphics.",
+        "width": "1024",
+        "imageUrl": "https://lh3.googleusercontent.com/aida/AEtjO1Wp4oe4svJUYic_oyylxOdikdCd2paE_ieEcc5ns_ZTRs56q2wfvJwpTTU4I9cbUP26QvVsBybpwOrKpegaXm4m7iMSkNOrx4gpU_FdgqUkEbDOKY3fP-Qa-v-WmufkubzdNefRgQjIB-EnCbKMUMQfQjQcCydTrSdRYMduCBXuLaAeUPqnSDDDrCYf2a6EmCA3YxAVmW_iJ2CZyvwuf_n8Tdr9qh4A7nWBC2TLUz5XHBy5n1hBsYIOEJJs"
+      }
+    ],
+    "rawScreen": {
+      "outputComponents": [
+        {
+          "design": {
+            "screens": [
+              {
+                "generatedBy": "interactive_ui_controller",
+                "height": "1024",
+                "id": "ae69fe1d4fc940d48413b574add6fc57",
+                "name": "projects/16234525681964602718/screens/ae69fe1d4fc940d48413b574add6fc57",
+                "prompt": "Commercial studio product photography: one single clear PET plastic cup with a transparent dome lid and white straw centered, filled with vibrant golden Egyptian mango juice with delicate condensation droplets. Standing on a seamless smooth butter-yellow paper backdrop (#F6D776). One fresh whole ripe mango resting neatly beside the cup. Soft diffused studio lighting from the left, soft subtle floor shadow, minimalist editorial setup. Photorealistic 8k, crisp focus, no people, no hands, no text, no logos, no labels, no graphics.",
+                "screenMetadata": {
+                  "agentType": "PRO_AGENT",
+                  "status": "COMPLETE"
+                },
+                "screenType": "IMAGE",
+                "screenshot": {
+                  "downloadUrl": "https://lh3.googleusercontent.com/aida/AEtjO1UZTYRR5oJs21_to-cXH6uwNDm6diyrEvGAxo8QlkAW2VtJXWTm684I_ifPfBIUKIMgsc1sJiwuNdDY5uIbZFkkkeqTxQOfJC9VCO-rS4zuqUyBPzpGxCfbxNJNm0EcBHqPqUKJU_Idjnw7ZX6-dkHmjeKO434NiAnp7ZSLRW3eESCzo0fnIQikTnnKUD8hR1lQ_p0uYy4gjleMn0txWjGwLgeahgvASbs4F1IyOqnTRxeN7_W9RxeTqQ2S",
+                  "name": "projects/16234525681964602718/files/c977172ccb704c67a6468621b2efe97e"
+                },
+                "theme": {},
+                "title": "Commercial studio product photography: one single clear PET plastic cup with a transparent dome lid and white straw centered, filled with vibrant golden Egyptian mango juice with delicate condensation droplets. Standing on a seamless smooth butter-yellow paper backdrop (#F6D776). One fresh whole ripe mango resting neatly beside the cup. Soft diffused studio lighting from the left, soft subtle floor shadow, minimalist editorial setup. Photorealistic 8k, crisp focus, no people, no hands, no text, no logos, no labels, no graphics.",
+                "width": "1024"
+              },
+              {
+                "generatedBy": "interactive_ui_controller",
+                "height": "1024",
+                "id": "271dec79fb8c4b729883825be60164f2",
+                "name": "projects/16234525681964602718/screens/271dec79fb8c4b729883825be60164f2",
+                "prompt": "Commercial studio product photography: one single clear PET plastic cup with a transparent dome lid and white straw centered, filled with creamy pale golden mango milk shake. Standing on a seamless smooth warm cream paper backdrop (#FBF6EB). One whole fresh golden mango beside the cup. Soft diffused studio lighting from the left, soft subtle floor shadow, clean minimalist editorial setup. Photorealistic 8k, sharp focus, no people, no hands, no text, no logos, no labels, no graphics.",
+                "screenMetadata": {
+                  "agentType": "PRO_AGENT",
+                  "status": "COMPLETE"
+                },
+                "screenType": "IMAGE",
+                "screenshot": {
+                  "downloadUrl": "https://lh3.googleusercontent.com/aida/AEtjO1VzONkuPZT2lUjmCIzAeNIof3dYTxs3VTPI4JC8N44qJ9JFylqb_OJq8TWj0APQ18WkahITjK-tWz3gf9IXze9C6n-Z0tlRV6wjM8ZNF27Vjkqcws1whr0Zv6PohC7DvKQ8TKwqxKeeWxpH5Z1w3luoq4EkcCKz2BOJlbR6OuCmQVmdM5TPvo2Ittwd000KKsQpfVojdslsNN-6eqoVWyrYac9e0ebfV3heWZzjqrKX8vmwWzSRpAGpOdZx",
+                  "name": "projects/16234525681964602718/files/f9a5e49ad81e40f1968d19435d228524"
+                },
+                "theme": {},
+                "title": "Commercial studio product photography: one single clear PET plastic cup with a transparent dome lid and white straw centered, filled with creamy pale golden mango milk shake. Standing on a seamless smooth warm cream paper backdrop (#FBF6EB). One whole fresh golden mango beside the cup. Soft diffused studio lighting from the left, soft subtle floor shadow, clean minimalist editorial setup. Photorealistic 8k, sharp focus, no people, no hands, no text, no logos, no labels, no graphics.",
+                "width": "1024"
+              },
+              {
+                "generatedBy": "interactive_ui_controller",
+                "height": "1024",
+                "id": "23ad1a3fb526483c8d68b7f63a76a75f",
+                "name": "projects/16234525681964602718/screens/23ad1a3fb526483c8d68b7f63a76a75f",
+                "prompt": "Commercial studio product photography: one single clear PET plastic cup with a transparent dome lid and white straw centered, filled with vibrant freshly squeezed orange juice with delicate condensation droplets. Standing on a seamless smooth soft pastel orange paper backdrop (#FFD8B3). One whole fresh ripe orange beside the cup. Soft diffused studio lighting from the left, soft subtle floor shadow, clean minimalist setup. Photorealistic 8k, sharp focus, no people, no hands, no text, no logos, no labels, no graphics.",
+                "screenMetadata": {
+                  "agentType": "PRO_AGENT",
+                  "status": "COMPLETE"
+                },
+                "screenType": "IMAGE",
+                "screenshot": {
+                  "downloadUrl": "https://lh3.googleusercontent.com/aida/AEtjO1UYnGdcuOo602kT-MJKWFYsnmmhW7EtHVf2btRoSlekyJC88R9hfcgkepq8itnRq-z0MCQzZn9jqX99Ym_dRjgEKMrWVHiQeRFSPH9ozKrWqNZ218Xet0Es-dEf0J6uA-ycG7RuFGp1wSXpoI0s5tUhO5-LHe_GaG4i7WzE315LIWt0cdnwMWGoJKx1U51hUP7EwjsmUYS6NKZ5sTc6w_yFbY9uNmW60Ros_7sCYFdH6ryk3uqKXEQ5oqvq",
+                  "name": "projects/16234525681964602718/files/dbb7c5a388a34525ad27dd5afe1ae76d"
+                },
+                "theme": {},
+                "title": "Commercial studio product photography: one single clear PET plastic cup with a transparent dome lid and white straw centered, filled with vibrant freshly squeezed orange juice with delicate condensation droplets. Standing on a seamless smooth soft pastel orange paper backdrop (#FFD8B3). One whole fresh ripe orange beside the cup. Soft diffused studio lighting from the left, soft subtle floor shadow, clean minimalist setup. Photorealistic 8k, sharp focus, no people, no hands, no text, no logos, no labels, no graphics.",
+                "width": "1024"
+              },
+              {
+                "generatedBy": "interactive_ui_controller",
+                "height": "1024",
+                "id": "1886c5f300e04899961a9b50a07bce5b",
+                "name": "projects/16234525681964602718/screens/1886c5f300e04899961a9b50a07bce5b",
+                "prompt": "Commercial studio product photography: one single clear PET plastic cup with a transparent dome lid and white straw centered, filled with refreshing ruby red watermelon juice with condensation droplets. Standing on a seamless smooth soft coral pink paper backdrop (#FFAAA6). One clean triangular slice watermelon wedge resting neatly beside the cup. Soft diffused studio lighting from the left, soft subtle floor shadow, clean minimalist setup. Photorealistic 8k, sharp focus, no people, no hands, no text, no logos, no labels, no graphics.",
+                "screenMetadata": {
+                  "agentType": "PRO_AGENT",
+                  "status": "COMPLETE"
+                },
+                "screenType": "IMAGE",
+                "screenshot": {
+                  "downloadUrl": "https://lh3.googleusercontent.com/aida/AEtjO1UadtNDq5xEqZH3ZMPfLItAFSX5VkhnC5o-8OPTSCVOqZyWz7FHRCUsFeMrhO9vtOfDTkJ8iOgBXPV332zpEF5LP3_SwY_lM8_t9fkxS-k4ViufgR0afexu7SrZRJ9sp9mXIYw5oxKp-lB2A5yjUtHbX5SICsJ8mqGRmfncYu4c5gC5b2yV5QgmZaVcHHZl-myPdcMmLkQcsMIxKuCJY0JoP0cFN0whKu_wGsKEkSDRfroIfHL39bJJxJ0",
+                  "name": "projects/16234525681964602718/files/fcd99bd87cb54cb599b368f3dbd8ad00"
+                },
+                "theme": {},
+                "title": "Commercial studio product photography: one single clear PET plastic cup with a transparent dome lid and white straw centered, filled with refreshing ruby red watermelon juice with condensation droplets. Standing on a seamless smooth soft coral pink paper backdrop (#FFAAA6). One clean triangular slice watermelon wedge resting neatly beside the cup. Soft diffused studio lighting from the left, soft subtle floor shadow, clean minimalist setup. Photorealistic 8k, sharp focus, no people, no hands, no text, no logos, no labels, no graphics.",
+                "width": "1024"
+              },
+              {
+                "generatedBy": "interactive_ui_controller",
+                "height": "1024",
+                "id": "4cd46bfebd944befa38e2f707650dad3",
+                "name": "projects/16234525681964602718/screens/4cd46bfebd944befa38e2f707650dad3",
+                "prompt": "Commercial studio product photography: one single clear PET plastic cup with a transparent dome lid and white straw centered, filled with thick creamy pink guava nectar. Standing on a seamless smooth blush pink paper backdrop (#F5D0D6). One fresh halved pink guava showing soft seeds neatly resting beside the cup. Soft diffused studio lighting from the left, soft subtle floor shadow, clean minimalist setup. Photorealistic 8k, sharp focus, no people, no hands, no text, no logos, no labels, no graphics.",
+                "screenMetadata": {
+                  "agentType": "PRO_AGENT",
+                  "status": "COMPLETE"
+                },
+                "screenType": "IMAGE",
+                "screenshot": {
+                  "downloadUrl": "https://lh3.googleusercontent.com/aida/AEtjO1XBZF01F3HVRReHseSosndR76LuzBR2Fb3UGz_BeBsz3ZmR_Gv-P-iCIym3pTD4KZrSK0FuWk0BbmFNiDlkfW1AY5yty9lSyv9hJVB1v4VL-YQmGOHLiea-JWURp9xW5pqlH2l3md0Q91LltXrZVG42oL69_RnIkfyneBmWuIRcWWwpWJbNWg6-jFp5sz5zOkOzHO34zFe0vTu1xhFCSJKqRVlFa4L-35Kpj_et1-aZHjImGi3gIpwq49FU",
+                  "name": "projects/16234525681964602718/files/9b5a7d609b2241a993da20ca2e59171e"
+                },
+                "theme": {},
+                "title": "Commercial studio product photography: one single clear PET plastic cup with a transparent dome lid and white straw centered, filled with thick creamy pink guava nectar. Standing on a seamless smooth blush pink paper backdrop (#F5D0D6). One fresh halved pink guava showing soft seeds neatly resting beside the cup. Soft diffused studio lighting from the left, soft subtle floor shadow, clean minimalist setup. Photorealistic 8k, sharp focus, no people, no hands, no text, no logos, no labels, no graphics.",
+                "width": "1024"
+              },
+              {
+                "generatedBy": "interactive_ui_controller",
+                "height": "1024",
+                "id": "305d41ac775e4d37b64484256b0ba89a",
+                "name": "projects/16234525681964602718/screens/305d41ac775e4d37b64484256b0ba89a",
+                "prompt": "Commercial studio product photography: one single clear PET plastic cup with a transparent dome lid and white straw centered, filled with pale pastel green freshly pressed sugarcane lime juice. Standing on a seamless smooth pale lime green paper backdrop (#E1EFC7). One fresh whole vibrant green lime beside the cup. Soft diffused studio lighting from the left, soft subtle floor shadow, clean minimalist setup. Photorealistic 8k, sharp focus, no people, no hands, no text, no logos, no labels, no graphics.",
+                "screenMetadata": {
+                  "agentType": "PRO_AGENT",
+                  "status": "COMPLETE"
+                },
+                "screenType": "IMAGE",
+                "screenshot": {
+                  "downloadUrl": "https://lh3.googleusercontent.com/aida/AEtjO1X2hrWnKTpBpPxyVAyTX9BacZEUjHhecmaGGF99WGYjjAJCwKljUvIaRXB8O4oqPzgN8dJGfM6cOdiOIm0P2wixQhobwvQahj9K8Xktd_lbM7rQk1-x1104Rpo5ccv-ix0_y5mIhYqZvx3C03E720q_V2zv-W-Az-0XcFfL4rnl1h-m1PnnYpeXiYsmAvRLEqnzcnRUdZafzA1xlqcJT6LYe9Z6TH1ltsMBr_XWWNr45dLrfFweSj-Ay2BE",
+                  "name": "projects/16234525681964602718/files/380160b3112249738e17c092920369f8"
+                },
+                "theme": {},
+                "title": "Commercial studio product photography: one single clear PET plastic cup with a transparent dome lid and white straw centered, filled with pale pastel green freshly pressed sugarcane lime juice. Standing on a seamless smooth pale lime green paper backdrop (#E1EFC7). One fresh whole vibrant green lime beside the cup. Soft diffused studio lighting from the left, soft subtle floor shadow, clean minimalist setup. Photorealistic 8k, sharp focus, no people, no hands, no text, no logos, no labels, no graphics.",
+                "width": "1024"
+              },
+              {
+                "generatedBy": "interactive_ui_controller",
+                "height": "1024",
+                "id": "11a9b729680546cbaae2f54f196dd66f",
+                "name": "projects/16234525681964602718/screens/11a9b729680546cbaae2f54f196dd66f",
+                "prompt": "Commercial studio product photography: one single clear PET plastic cup with a transparent dome lid and white straw centered, filled with rich deep garnet red pomegranate juice with condensation droplets. Standing on a seamless smooth deep muted red paper backdrop (#A83232). One opened fresh ripe pomegranate with visible ruby seeds beside the cup. Soft diffused studio lighting from the left, soft subtle floor shadow, clean minimalist setup. Photorealistic 8k, sharp focus, no people, no hands, no text, no logos, no labels, no graphics.",
+                "screenMetadata": {
+                  "agentType": "PRO_AGENT",
+                  "status": "COMPLETE"
+                },
+                "screenType": "IMAGE",
+                "screenshot": {
+                  "downloadUrl": "https://lh3.googleusercontent.com/aida/AEtjO1W1zd46gBg6NUUdb9iX0VGo4v_ZXsMwRKoU-DoGw1bC4iH8kz-wh-oiTMtEg_p7I49Ku61BYutcjZgT56umzCMd1KRQsHINbnqS5eMc7uq7cSPEbDXpIzBm9KEVflQ7RvAPH9_byN7o8CHpoCpZKdHwG4mWv55VHVx231jY2QlwK7EkbSaY_7ljdSm2gKpWyfZavr8PUwwwg2RrSzUwofpR3_chFWjB2uPk4ryNWYa4OgduCglAAI9GnuNg",
+                  "name": "projects/16234525681964602718/files/25e672628b1f4d50aa212ac9838492ec"
+                },
+                "theme": {},
+                "title": "Commercial studio product photography: one single clear PET plastic cup with a transparent dome lid and white straw centered, filled with rich deep garnet red pomegranate juice with condensation droplets. Standing on a seamless smooth deep muted red paper backdrop (#A83232). One opened fresh ripe pomegranate with visible ruby seeds beside the cup. Soft diffused studio lighting from the left, soft subtle floor shadow, clean minimalist setup. Photorealistic 8k, sharp focus, no people, no hands, no text, no logos, no labels, no graphics.",
+                "width": "1024"
+              },
+              {
+                "generatedBy": "interactive_ui_controller",
+                "height": "1024",
+                "id": "9094d6bae1e047dabea2b9532e635866",
+                "name": "projects/16234525681964602718/screens/9094d6bae1e047dabea2b9532e635866",
+                "prompt": "Commercial studio product photography: one single clear PET plastic cup with a transparent dome lid and white straw centered, filled with bright red freshly blended strawberry juice with condensation droplets. Standing on a seamless smooth soft pink-red paper backdrop (#FFB3BA). Two whole fresh ripe strawberries with green stems beside the cup. Soft diffused studio lighting from the left, soft subtle floor shadow, clean minimalist setup. Photorealistic 8k, sharp focus, no people, no hands, no text, no logos, no labels, no graphics.",
+                "screenMetadata": {
+                  "agentType": "PRO_AGENT",
+                  "status": "COMPLETE"
+                },
+                "screenType": "IMAGE",
+                "screenshot": {
+                  "downloadUrl": "https://lh3.googleusercontent.com/aida/AEtjO1Wp4oe4svJUYic_oyylxOdikdCd2paE_ieEcc5ns_ZTRs56q2wfvJwpTTU4I9cbUP26QvVsBybpwOrKpegaXm4m7iMSkNOrx4gpU_FdgqUkEbDOKY3fP-Qa-v-WmufkubzdNefRgQjIB-EnCbKMUMQfQjQcCydTrSdRYMduCBXuLaAeUPqnSDDDrCYf2a6EmCA3YxAVmW_iJ2CZyvwuf_n8Tdr9qh4A7nWBC2TLUz5XHBy5n1hBsYIOEJJs",
+                  "name": "projects/16234525681964602718/files/3a22398a68e54dbe9bebff0c81a9d048"
+                },
+                "theme": {},
+                "title": "Commercial studio product photography: one single clear PET plastic cup with a transparent dome lid and white straw centered, filled with bright red freshly blended strawberry juice with condensation droplets. Standing on a seamless smooth soft pink-red paper backdrop (#FFB3BA). Two whole fresh ripe strawberries with green stems beside the cup. Soft diffused studio lighting from the left, soft subtle floor shadow, clean minimalist setup. Photorealistic 8k, sharp focus, no people, no hands, no text, no logos, no labels, no graphics.",
+                "width": "1024"
+              },
+              {
+                "deviceType": "DESKTOP",
+                "generatedBy": "create_datastore_entry",
+                "height": "2048",
+                "htmlCode": {
+                  "downloadUrl": "https://contribution.usercontent.google.com/download?c=CgthaWRhX2NvZGVmeBJ8Eh1hcHBfY29tcGFuaW9uX2dlbmVyYXRlZF9maWxlcxpbCiVodG1sXzczZjMyZmYyOGZiMjQ3ZGY4OTZjZjQ2OGRmOWFiNDFkEgsSBxCu-qfdvhIYAZIBJAoKcHJvamVjdF9pZBIWQhQxNjIzNDUyNTY4MTk2NDYwMjcxOA&filename=&opi=96797242",
+                  "mimeType": "text/html",
+                  "name": "projects/16234525681964602718/files/82100f65258a40c08e93e17ddaa4d507"
+                },
+                "id": "d7b8ef93b88e4000877eadc76660699a",
+                "name": "projects/16234525681964602718/screens/d7b8ef93b88e4000877eadc76660699a",
+                "screenMetadata": {
+                  "agentType": "PRO_AGENT",
+                  "status": "COMPLETE"
+                },
+                "screenType": "DESIGN",
+                "screenshot": {
+                  "downloadUrl": "https://lh3.googleusercontent.com/aida/AEtjO1UIosaTuIqRB4lGAmpG_MAaBD7ZRDeDt9GVKge1C-VFqQeLhssXtb6x4s7VXaQp_mARwZiRcSNYSd-DOOhUx2aFk_eI_0L9w4c0pDLQtW6of7FyVFdpfYvzwpbsjBFbYrWpss2IcDohqGWZFcsHh73ItVDUXcxmmc7v1oskMDv8CplzC3q8s2CkWrNbSvqj8xxMuVUjPaj9C7Vr0iWjb-HuNYEIGsuUhBp8ZM-eSsorqVaB_LYDo9cq1JDH",
+                  "name": "projects/16234525681964602718/files/30a408dc63f441bf914456faca8a2c65"
+                },
+                "theme": {},
+                "title": "Studio Drinks Grid 1440px",
+                "width": "2560"
+              }
+            ],
+            "theme": {}
+          }
+        },
+        {
+          "text": "Here is the 1440px desktop web page featuring a clean 4-column gallery grid of all eight requested drinks.\n\n### Highlights:\n- **Consistent Studio Photography**: Each image features a single clear PET cup with dome lid and straw centered on a seamless monochromatic paper backdrop matching the liquid hue, accented simply with natural fruit beside the cup under soft directional studio lighting.\n- **Strict Minimalist Layout**: Plain white canvas (`#ffffff`), no icons, navigation bars, buttons, or decorative noise.\n- **Pure Grid & Typography**: Balanced 4-column desktop arrangement with rounded photo cards and clean, lowercase one-word captions: `mango`, `classic`, `orange`, `guava`, `watermelon`, `sugarcane`, `pomegranate`, and `strawberry`."
+        },
+        {
+          "suggestion": "Adjust card corner radiuses or spacing"
+        },
+        {
+          "suggestion": "Add subtle hover zoom interaction on the photos"
+        },
+        {
+          "suggestion": "Explore a dark studio backdrop variant"
+        }
+      ],
+      "projectId": "16234525681964602718",
+      "sessionId": "4543723699708066124",
+      "deviceType": "DESKTOP",
+      "generatedBy": "create_datastore_entry",
+      "height": "2048",
+      "htmlCode": {
+        "downloadUrl": "https://contribution.usercontent.google.com/download?c=CgthaWRhX2NvZGVmeBJ8Eh1hcHBfY29tcGFuaW9uX2dlbmVyYXRlZF9maWxlcxpbCiVodG1sXzczZjMyZmYyOGZiMjQ3ZGY4OTZjZjQ2OGRmOWFiNDFkEgsSBxCu-qfdvhIYAZIBJAoKcHJvamVjdF9pZBIWQhQxNjIzNDUyNTY4MTk2NDYwMjcxOA&filename=&opi=96797242",
+        "mimeType": "text/html",
+        "name": "projects/16234525681964602718/files/82100f65258a40c08e93e17ddaa4d507"
+      },
+      "id": "d7b8ef93b88e4000877eadc76660699a",
+      "name": "projects/16234525681964602718/screens/d7b8ef93b88e4000877eadc76660699a",
+      "screenMetadata": {
+        "agentType": "PRO_AGENT",
+        "status": "COMPLETE"
+      },
+      "screenType": "DESIGN",
+      "screenshot": {
+        "downloadUrl": "https://lh3.googleusercontent.com/aida/AEtjO1UIosaTuIqRB4lGAmpG_MAaBD7ZRDeDt9GVKge1C-VFqQeLhssXtb6x4s7VXaQp_mARwZiRcSNYSd-DOOhUx2aFk_eI_0L9w4c0pDLQtW6of7FyVFdpfYvzwpbsjBFbYrWpss2IcDohqGWZFcsHh73ItVDUXcxmmc7v1oskMDv8CplzC3q8s2CkWrNbSvqj8xxMuVUjPaj9C7Vr0iWjb-HuNYEIGsuUhBp8ZM-eSsorqVaB_LYDo9cq1JDH",
+        "name": "projects/16234525681964602718/files/30a408dc63f441bf914456faca8a2c65"
+      },
+      "theme": {},
+      "title": "Studio Drinks Grid 1440px",
+      "width": "2560",
+      "images": [
+        {
+          "generatedBy": "interactive_ui_controller",
+          "height": "1024",
+          "id": "ae69fe1d4fc940d48413b574add6fc57",
+          "name": "projects/16234525681964602718/screens/ae69fe1d4fc940d48413b574add6fc57",
+          "prompt": "Commercial studio product photography: one single clear PET plastic cup with a transparent dome lid and white straw centered, filled with vibrant golden Egyptian mango juice with delicate condensation droplets. Standing on a seamless smooth butter-yellow paper backdrop (#F6D776). One fresh whole ripe mango resting neatly beside the cup. Soft diffused studio lighting from the left, soft subtle floor shadow, minimalist editorial setup. Photorealistic 8k, crisp focus, no people, no hands, no text, no logos, no labels, no graphics.",
+          "screenMetadata": {
+            "agentType": "PRO_AGENT",
+            "status": "COMPLETE"
+          },
+          "screenType": "IMAGE",
+          "screenshot": {
+            "downloadUrl": "https://lh3.googleusercontent.com/aida/AEtjO1UZTYRR5oJs21_to-cXH6uwNDm6diyrEvGAxo8QlkAW2VtJXWTm684I_ifPfBIUKIMgsc1sJiwuNdDY5uIbZFkkkeqTxQOfJC9VCO-rS4zuqUyBPzpGxCfbxNJNm0EcBHqPqUKJU_Idjnw7ZX6-dkHmjeKO434NiAnp7ZSLRW3eESCzo0fnIQikTnnKUD8hR1lQ_p0uYy4gjleMn0txWjGwLgeahgvASbs4F1IyOqnTRxeN7_W9RxeTqQ2S",
+            "name": "projects/16234525681964602718/files/c977172ccb704c67a6468621b2efe97e"
+          },
+          "theme": {},
+          "title": "Commercial studio product photography: one single clear PET plastic cup with a transparent dome lid and white straw centered, filled with vibrant golden Egyptian mango juice with delicate condensation droplets. Standing on a seamless smooth butter-yellow paper backdrop (#F6D776). One fresh whole ripe mango resting neatly beside the cup. Soft diffused studio lighting from the left, soft subtle floor shadow, minimalist editorial setup. Photorealistic 8k, crisp focus, no people, no hands, no text, no logos, no labels, no graphics.",
+          "width": "1024",
+          "imageUrl": "https://lh3.googleusercontent.com/aida/AEtjO1UZTYRR5oJs21_to-cXH6uwNDm6diyrEvGAxo8QlkAW2VtJXWTm684I_ifPfBIUKIMgsc1sJiwuNdDY5uIbZFkkkeqTxQOfJC9VCO-rS4zuqUyBPzpGxCfbxNJNm0EcBHqPqUKJU_Idjnw7ZX6-dkHmjeKO434NiAnp7ZSLRW3eESCzo0fnIQikTnnKUD8hR1lQ_p0uYy4gjleMn0txWjGwLgeahgvASbs4F1IyOqnTRxeN7_W9RxeTqQ2S"
+        },
+        {
+          "generatedBy": "interactive_ui_controller",
+          "height": "1024",
+          "id": "271dec79fb8c4b729883825be60164f2",
+          "name": "projects/16234525681964602718/screens/271dec79fb8c4b729883825be60164f2",
+          "prompt": "Commercial studio product photography: one single clear PET plastic cup with a transparent dome lid and white straw centered, filled with creamy pale golden mango milk shake. Standing on a seamless smooth warm cream paper backdrop (#FBF6EB). One whole fresh golden mango beside the cup. Soft diffused studio lighting from the left, soft subtle floor shadow, clean minimalist editorial setup. Photorealistic 8k, sharp focus, no people, no hands, no text, no logos, no labels, no graphics.",
+          "screenMetadata": {
+            "agentType": "PRO_AGENT",
+            "status": "COMPLETE"
+          },
+          "screenType": "IMAGE",
+          "screenshot": {
+            "downloadUrl": "https://lh3.googleusercontent.com/aida/AEtjO1VzONkuPZT2lUjmCIzAeNIof3dYTxs3VTPI4JC8N44qJ9JFylqb_OJq8TWj0APQ18WkahITjK-tWz3gf9IXze9C6n-Z0tlRV6wjM8ZNF27Vjkqcws1whr0Zv6PohC7DvKQ8TKwqxKeeWxpH5Z1w3luoq4EkcCKz2BOJlbR6OuCmQVmdM5TPvo2Ittwd000KKsQpfVojdslsNN-6eqoVWyrYac9e0ebfV3heWZzjqrKX8vmwWzSRpAGpOdZx",
+            "name": "projects/16234525681964602718/files/f9a5e49ad81e40f1968d19435d228524"
+          },
+          "theme": {},
+          "title": "Commercial studio product photography: one single clear PET plastic cup with a transparent dome lid and white straw centered, filled with creamy pale golden mango milk shake. Standing on a seamless smooth warm cream paper backdrop (#FBF6EB). One whole fresh golden mango beside the cup. Soft diffused studio lighting from the left, soft subtle floor shadow, clean minimalist editorial setup. Photorealistic 8k, sharp focus, no people, no hands, no text, no logos, no labels, no graphics.",
+          "width": "1024",
+          "imageUrl": "https://lh3.googleusercontent.com/aida/AEtjO1VzONkuPZT2lUjmCIzAeNIof3dYTxs3VTPI4JC8N44qJ9JFylqb_OJq8TWj0APQ18WkahITjK-tWz3gf9IXze9C6n-Z0tlRV6wjM8ZNF27Vjkqcws1whr0Zv6PohC7DvKQ8TKwqxKeeWxpH5Z1w3luoq4EkcCKz2BOJlbR6OuCmQVmdM5TPvo2Ittwd000KKsQpfVojdslsNN-6eqoVWyrYac9e0ebfV3heWZzjqrKX8vmwWzSRpAGpOdZx"
+        },
+        {
+          "generatedBy": "interactive_ui_controller",
+          "height": "1024",
+          "id": "23ad1a3fb526483c8d68b7f63a76a75f",
+          "name": "projects/16234525681964602718/screens/23ad1a3fb526483c8d68b7f63a76a75f",
+          "prompt": "Commercial studio product photography: one single clear PET plastic cup with a transparent dome lid and white straw centered, filled with vibrant freshly squeezed orange juice with delicate condensation droplets. Standing on a seamless smooth soft pastel orange paper backdrop (#FFD8B3). One whole fresh ripe orange beside the cup. Soft diffused studio lighting from the left, soft subtle floor shadow, clean minimalist setup. Photorealistic 8k, sharp focus, no people, no hands, no text, no logos, no labels, no graphics.",
+          "screenMetadata": {
+            "agentType": "PRO_AGENT",
+            "status": "COMPLETE"
+          },
+          "screenType": "IMAGE",
+          "screenshot": {
+            "downloadUrl": "https://lh3.googleusercontent.com/aida/AEtjO1UYnGdcuOo602kT-MJKWFYsnmmhW7EtHVf2btRoSlekyJC88R9hfcgkepq8itnRq-z0MCQzZn9jqX99Ym_dRjgEKMrWVHiQeRFSPH9ozKrWqNZ218Xet0Es-dEf0J6uA-ycG7RuFGp1wSXpoI0s5tUhO5-LHe_GaG4i7WzE315LIWt0cdnwMWGoJKx1U51hUP7EwjsmUYS6NKZ5sTc6w_yFbY9uNmW60Ros_7sCYFdH6ryk3uqKXEQ5oqvq",
+            "name": "projects/16234525681964602718/files/dbb7c5a388a34525ad27dd5afe1ae76d"
+          },
+          "theme": {},
+          "title": "Commercial studio product photography: one single clear PET plastic cup with a transparent dome lid and white straw centered, filled with vibrant freshly squeezed orange juice with delicate condensation droplets. Standing on a seamless smooth soft pastel orange paper backdrop (#FFD8B3). One whole fresh ripe orange beside the cup. Soft diffused studio lighting from the left, soft subtle floor shadow, clean minimalist setup. Photorealistic 8k, sharp focus, no people, no hands, no text, no logos, no labels, no graphics.",
+          "width": "1024",
+          "imageUrl": "https://lh3.googleusercontent.com/aida/AEtjO1UYnGdcuOo602kT-MJKWFYsnmmhW7EtHVf2btRoSlekyJC88R9hfcgkepq8itnRq-z0MCQzZn9jqX99Ym_dRjgEKMrWVHiQeRFSPH9ozKrWqNZ218Xet0Es-dEf0J6uA-ycG7RuFGp1wSXpoI0s5tUhO5-LHe_GaG4i7WzE315LIWt0cdnwMWGoJKx1U51hUP7EwjsmUYS6NKZ5sTc6w_yFbY9uNmW60Ros_7sCYFdH6ryk3uqKXEQ5oqvq"
+        },
+        {
+          "generatedBy": "interactive_ui_controller",
+          "height": "1024",
+          "id": "1886c5f300e04899961a9b50a07bce5b",
+          "name": "projects/16234525681964602718/screens/1886c5f300e04899961a9b50a07bce5b",
+          "prompt": "Commercial studio product photography: one single clear PET plastic cup with a transparent dome lid and white straw centered, filled with refreshing ruby red watermelon juice with condensation droplets. Standing on a seamless smooth soft coral pink paper backdrop (#FFAAA6). One clean triangular slice watermelon wedge resting neatly beside the cup. Soft diffused studio lighting from the left, soft subtle floor shadow, clean minimalist setup. Photorealistic 8k, sharp focus, no people, no hands, no text, no logos, no labels, no graphics.",
+          "screenMetadata": {
+            "agentType": "PRO_AGENT",
+            "status": "COMPLETE"
+          },
+          "screenType": "IMAGE",
+          "screenshot": {
+            "downloadUrl": "https://lh3.googleusercontent.com/aida/AEtjO1UadtNDq5xEqZH3ZMPfLItAFSX5VkhnC5o-8OPTSCVOqZyWz7FHRCUsFeMrhO9vtOfDTkJ8iOgBXPV332zpEF5LP3_SwY_lM8_t9fkxS-k4ViufgR0afexu7SrZRJ9sp9mXIYw5oxKp-lB2A5yjUtHbX5SICsJ8mqGRmfncYu4c5gC5b2yV5QgmZaVcHHZl-myPdcMmLkQcsMIxKuCJY0JoP0cFN0whKu_wGsKEkSDRfroIfHL39bJJxJ0",
+            "name": "projects/16234525681964602718/files/fcd99bd87cb54cb599b368f3dbd8ad00"
+          },
+          "theme": {},
+          "title": "Commercial studio product photography: one single clear PET plastic cup with a transparent dome lid and white straw centered, filled with refreshing ruby red watermelon juice with condensation droplets. Standing on a seamless smooth soft coral pink paper backdrop (#FFAAA6). One clean triangular slice watermelon wedge resting neatly beside the cup. Soft diffused studio lighting from the left, soft subtle floor shadow, clean minimalist setup. Photorealistic 8k, sharp focus, no people, no hands, no text, no logos, no labels, no graphics.",
+          "width": "1024",
+          "imageUrl": "https://lh3.googleusercontent.com/aida/AEtjO1UadtNDq5xEqZH3ZMPfLItAFSX5VkhnC5o-8OPTSCVOqZyWz7FHRCUsFeMrhO9vtOfDTkJ8iOgBXPV332zpEF5LP3_SwY_lM8_t9fkxS-k4ViufgR0afexu7SrZRJ9sp9mXIYw5oxKp-lB2A5yjUtHbX5SICsJ8mqGRmfncYu4c5gC5b2yV5QgmZaVcHHZl-myPdcMmLkQcsMIxKuCJY0JoP0cFN0whKu_wGsKEkSDRfroIfHL39bJJxJ0"
+        },
+        {
+          "generatedBy": "interactive_ui_controller",
+          "height": "1024",
+          "id": "4cd46bfebd944befa38e2f707650dad3",
+          "name": "projects/16234525681964602718/screens/4cd46bfebd944befa38e2f707650dad3",
+          "prompt": "Commercial studio product photography: one single clear PET plastic cup with a transparent dome lid and white straw centered, filled with thick creamy pink guava nectar. Standing on a seamless smooth blush pink paper backdrop (#F5D0D6). One fresh halved pink guava showing soft seeds neatly resting beside the cup. Soft diffused studio lighting from the left, soft subtle floor shadow, clean minimalist setup. Photorealistic 8k, sharp focus, no people, no hands, no text, no logos, no labels, no graphics.",
+          "screenMetadata": {
+            "agentType": "PRO_AGENT",
+            "status": "COMPLETE"
+          },
+          "screenType": "IMAGE",
+          "screenshot": {
+            "downloadUrl": "https://lh3.googleusercontent.com/aida/AEtjO1XBZF01F3HVRReHseSosndR76LuzBR2Fb3UGz_BeBsz3ZmR_Gv-P-iCIym3pTD4KZrSK0FuWk0BbmFNiDlkfW1AY5yty9lSyv9hJVB1v4VL-YQmGOHLiea-JWURp9xW5pqlH2l3md0Q91LltXrZVG42oL69_RnIkfyneBmWuIRcWWwpWJbNWg6-jFp5sz5zOkOzHO34zFe0vTu1xhFCSJKqRVlFa4L-35Kpj_et1-aZHjImGi3gIpwq49FU",
+            "name": "projects/16234525681964602718/files/9b5a7d609b2241a993da20ca2e59171e"
+          },
+          "theme": {},
+          "title": "Commercial studio product photography: one single clear PET plastic cup with a transparent dome lid and white straw centered, filled with thick creamy pink guava nectar. Standing on a seamless smooth blush pink paper backdrop (#F5D0D6). One fresh halved pink guava showing soft seeds neatly resting beside the cup. Soft diffused studio lighting from the left, soft subtle floor shadow, clean minimalist setup. Photorealistic 8k, sharp focus, no people, no hands, no text, no logos, no labels, no graphics.",
+          "width": "1024",
+          "imageUrl": "https://lh3.googleusercontent.com/aida/AEtjO1XBZF01F3HVRReHseSosndR76LuzBR2Fb3UGz_BeBsz3ZmR_Gv-P-iCIym3pTD4KZrSK0FuWk0BbmFNiDlkfW1AY5yty9lSyv9hJVB1v4VL-YQmGOHLiea-JWURp9xW5pqlH2l3md0Q91LltXrZVG42oL69_RnIkfyneBmWuIRcWWwpWJbNWg6-jFp5sz5zOkOzHO34zFe0vTu1xhFCSJKqRVlFa4L-35Kpj_et1-aZHjImGi3gIpwq49FU"
+        },
+        {
+          "generatedBy": "interactive_ui_controller",
+          "height": "1024",
+          "id": "305d41ac775e4d37b64484256b0ba89a",
+          "name": "projects/16234525681964602718/screens/305d41ac775e4d37b64484256b0ba89a",
+          "prompt": "Commercial studio product photography: one single clear PET plastic cup with a transparent dome lid and white straw centered, filled with pale pastel green freshly pressed sugarcane lime juice. Standing on a seamless smooth pale lime green paper backdrop (#E1EFC7). One fresh whole vibrant green lime beside the cup. Soft diffused studio lighting from the left, soft subtle floor shadow, clean minimalist setup. Photorealistic 8k, sharp focus, no people, no hands, no text, no logos, no labels, no graphics.",
+          "screenMetadata": {
+            "agentType": "PRO_AGENT",
+            "status": "COMPLETE"
+          },
+          "screenType": "IMAGE",
+          "screenshot": {
+            "downloadUrl": "https://lh3.googleusercontent.com/aida/AEtjO1X2hrWnKTpBpPxyVAyTX9BacZEUjHhecmaGGF99WGYjjAJCwKljUvIaRXB8O4oqPzgN8dJGfM6cOdiOIm0P2wixQhobwvQahj9K8Xktd_lbM7rQk1-x1104Rpo5ccv-ix0_y5mIhYqZvx3C03E720q_V2zv-W-Az-0XcFfL4rnl1h-m1PnnYpeXiYsmAvRLEqnzcnRUdZafzA1xlqcJT6LYe9Z6TH1ltsMBr_XWWNr45dLrfFweSj-Ay2BE",
+            "name": "projects/16234525681964602718/files/380160b3112249738e17c092920369f8"
+          },
+          "theme": {},
+          "title": "Commercial studio product photography: one single clear PET plastic cup with a transparent dome lid and white straw centered, filled with pale pastel green freshly pressed sugarcane lime juice. Standing on a seamless smooth pale lime green paper backdrop (#E1EFC7). One fresh whole vibrant green lime beside the cup. Soft diffused studio lighting from the left, soft subtle floor shadow, clean minimalist setup. Photorealistic 8k, sharp focus, no people, no hands, no text, no logos, no labels, no graphics.",
+          "width": "1024",
+          "imageUrl": "https://lh3.googleusercontent.com/aida/AEtjO1X2hrWnKTpBpPxyVAyTX9BacZEUjHhecmaGGF99WGYjjAJCwKljUvIaRXB8O4oqPzgN8dJGfM6cOdiOIm0P2wixQhobwvQahj9K8Xktd_lbM7rQk1-x1104Rpo5ccv-ix0_y5mIhYqZvx3C03E720q_V2zv-W-Az-0XcFfL4rnl1h-m1PnnYpeXiYsmAvRLEqnzcnRUdZafzA1xlqcJT6LYe9Z6TH1ltsMBr_XWWNr45dLrfFweSj-Ay2BE"
+        },
+        {
+          "generatedBy": "interactive_ui_controller",
+          "height": "1024",
+          "id": "11a9b729680546cbaae2f54f196dd66f",
+          "name": "projects/16234525681964602718/screens/11a9b729680546cbaae2f54f196dd66f",
+          "prompt": "Commercial studio product photography: one single clear PET plastic cup with a transparent dome lid and white straw centered, filled with rich deep garnet red pomegranate juice with condensation droplets. Standing on a seamless smooth deep muted red paper backdrop (#A83232). One opened fresh ripe pomegranate with visible ruby seeds beside the cup. Soft diffused studio lighting from the left, soft subtle floor shadow, clean minimalist setup. Photorealistic 8k, sharp focus, no people, no hands, no text, no logos, no labels, no graphics.",
+          "screenMetadata": {
+            "agentType": "PRO_AGENT",
+            "status": "COMPLETE"
+          },
+          "screenType": "IMAGE",
+          "screenshot": {
+            "downloadUrl": "https://lh3.googleusercontent.com/aida/AEtjO1W1zd46gBg6NUUdb9iX0VGo4v_ZXsMwRKoU-DoGw1bC4iH8kz-wh-oiTMtEg_p7I49Ku61BYutcjZgT56umzCMd1KRQsHINbnqS5eMc7uq7cSPEbDXpIzBm9KEVflQ7RvAPH9_byN7o8CHpoCpZKdHwG4mWv55VHVx231jY2QlwK7EkbSaY_7ljdSm2gKpWyfZavr8PUwwwg2RrSzUwofpR3_chFWjB2uPk4ryNWYa4OgduCglAAI9GnuNg",
+            "name": "projects/16234525681964602718/files/25e672628b1f4d50aa212ac9838492ec"
+          },
+          "theme": {},
+          "title": "Commercial studio product photography: one single clear PET plastic cup with a transparent dome lid and white straw centered, filled with rich deep garnet red pomegranate juice with condensation droplets. Standing on a seamless smooth deep muted red paper backdrop (#A83232). One opened fresh ripe pomegranate with visible ruby seeds beside the cup. Soft diffused studio lighting from the left, soft subtle floor shadow, clean minimalist setup. Photorealistic 8k, sharp focus, no people, no hands, no text, no logos, no labels, no graphics.",
+          "width": "1024",
+          "imageUrl": "https://lh3.googleusercontent.com/aida/AEtjO1W1zd46gBg6NUUdb9iX0VGo4v_ZXsMwRKoU-DoGw1bC4iH8kz-wh-oiTMtEg_p7I49Ku61BYutcjZgT56umzCMd1KRQsHINbnqS5eMc7uq7cSPEbDXpIzBm9KEVflQ7RvAPH9_byN7o8CHpoCpZKdHwG4mWv55VHVx231jY2QlwK7EkbSaY_7ljdSm2gKpWyfZavr8PUwwwg2RrSzUwofpR3_chFWjB2uPk4ryNWYa4OgduCglAAI9GnuNg"
+        },
+        {
+          "generatedBy": "interactive_ui_controller",
+          "height": "1024",
+          "id": "9094d6bae1e047dabea2b9532e635866",
+          "name": "projects/16234525681964602718/screens/9094d6bae1e047dabea2b9532e635866",
+          "prompt": "Commercial studio product photography: one single clear PET plastic cup with a transparent dome lid and white straw centered, filled with bright red freshly blended strawberry juice with condensation droplets. Standing on a seamless smooth soft pink-red paper backdrop (#FFB3BA). Two whole fresh ripe strawberries with green stems beside the cup. Soft diffused studio lighting from the left, soft subtle floor shadow, clean minimalist setup. Photorealistic 8k, sharp focus, no people, no hands, no text, no logos, no labels, no graphics.",
+          "screenMetadata": {
+            "agentType": "PRO_AGENT",
+            "status": "COMPLETE"
+          },
+          "screenType": "IMAGE",
+          "screenshot": {
+            "downloadUrl": "https://lh3.googleusercontent.com/aida/AEtjO1Wp4oe4svJUYic_oyylxOdikdCd2paE_ieEcc5ns_ZTRs56q2wfvJwpTTU4I9cbUP26QvVsBybpwOrKpegaXm4m7iMSkNOrx4gpU_FdgqUkEbDOKY3fP-Qa-v-WmufkubzdNefRgQjIB-EnCbKMUMQfQjQcCydTrSdRYMduCBXuLaAeUPqnSDDDrCYf2a6EmCA3YxAVmW_iJ2CZyvwuf_n8Tdr9qh4A7nWBC2TLUz5XHBy5n1hBsYIOEJJs",
+            "name": "projects/16234525681964602718/files/3a22398a68e54dbe9bebff0c81a9d048"
+          },
+          "theme": {},
+          "title": "Commercial studio product photography: one single clear PET plastic cup with a transparent dome lid and white straw centered, filled with bright red freshly blended strawberry juice with condensation droplets. Standing on a seamless smooth soft pink-red paper backdrop (#FFB3BA). Two whole fresh ripe strawberries with green stems beside the cup. Soft diffused studio lighting from the left, soft subtle floor shadow, clean minimalist setup. Photorealistic 8k, sharp focus, no people, no hands, no text, no logos, no labels, no graphics.",
+          "width": "1024",
+          "imageUrl": "https://lh3.googleusercontent.com/aida/AEtjO1Wp4oe4svJUYic_oyylxOdikdCd2paE_ieEcc5ns_ZTRs56q2wfvJwpTTU4I9cbUP26QvVsBybpwOrKpegaXm4m7iMSkNOrx4gpU_FdgqUkEbDOKY3fP-Qa-v-WmufkubzdNefRgQjIB-EnCbKMUMQfQjQcCydTrSdRYMduCBXuLaAeUPqnSDDDrCYf2a6EmCA3YxAVmW_iJ2CZyvwuf_n8Tdr9qh4A7nWBC2TLUz5XHBy5n1hBsYIOEJJs"
+        }
+      ],
+      "agentText": "Here is the 1440px desktop web page featuring a clean 4-column gallery grid of all eight requested drinks.\n\n### Highlights:\n- **Consistent Studio Photography**: Each image features a single clear PET cup with dome lid and straw centered on a seamless monochromatic paper backdrop matching the liquid hue, accented simply with natural fruit beside the cup under soft directional studio lighting.\n- **Strict Minimalist Layout**: Plain white canvas (`#ffffff`), no icons, navigation bars, buttons, or decorative noise.\n- **Pure Grid & Typography**: Balanced 4-column desktop arrangement with rounded photo cards and clean, lowercase one-word captions: `mango`, `classic`, `orange`, `guava`, `watermelon`, `sugarcane`, `pomegranate`, and `strawberry`.",
+      "suggestions": [
+        "Adjust card corner radiuses or spacing",
+        "Add subtle hover zoom interaction on the photos",
+        "Explore a dark studio backdrop variant"
+      ],
+      "imageUrl": "https://lh3.googleusercontent.com/aida/AEtjO1UIosaTuIqRB4lGAmpG_MAaBD7ZRDeDt9GVKge1C-VFqQeLhssXtb6x4s7VXaQp_mARwZiRcSNYSd-DOOhUx2aFk_eI_0L9w4c0pDLQtW6of7FyVFdpfYvzwpbsjBFbYrWpss2IcDohqGWZFcsHh73ItVDUXcxmmc7v1oskMDv8CplzC3q8s2CkWrNbSvqj8xxMuVUjPaj9C7Vr0iWjb-HuNYEIGsuUhBp8ZM-eSsorqVaB_LYDo9cq1JDH"
+    }
+  }
+}
