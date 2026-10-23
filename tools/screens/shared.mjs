@@ -53,14 +53,16 @@ export const drinksIn = (catId) => DRINKS.filter((d) => d.cat === catId);
 export const drink = (id) => DRINKS.find((d) => d.id === id);
 
 // ---------- photos ----------
-// .stitch/menu-photos.json maps a drink id (or "hero") to an https URL. Absolute URLs only:
-// the HTML is uploaded to Stitch, where local paths break.
+// .stitch/menu-photos.json maps a drink id (or "hero") to a repo-root path (assets/photos/<id>.jpg).
+// Photos are self-hosted: Stitch's lh3.googleusercontent.com/aida links expire (403) after a while.
+// Screens live in screens/<design>/, so paths are emitted relative to that (works on file:// and Vercel).
+// For a Stitch upload, swap the "../../" prefix for the deployed https origin.
 const PHOTO_FILE = path.join(ROOT, '.stitch', 'menu-photos.json');
 const PHOTOS = fs.existsSync(PHOTO_FILE) ? JSON.parse(fs.readFileSync(PHOTO_FILE, 'utf8')) : {};
 const PLACEHOLDER = `data:image/svg+xml,${encodeURIComponent(
   `<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 4 4"><rect width="4" height="4" fill="${C.yellowSoft}"/></svg>`,
 )}`;
-export const photo = (key) => PHOTOS[key] || PLACEHOLDER;
+export const photo = (key) => (PHOTOS[key] ? `../../${PHOTOS[key]}` : PLACEHOLDER);
 
 // ---------- helpers ----------
 // Icons are Material Symbols names (placeholders). `node tools/stitch-icons.mjs apply` swaps them for MingCute.
