@@ -53,8 +53,8 @@ export const css = `
 .sh i{display:inline-block;width:14px;height:14px;border-radius:28%;transform:rotate(45deg);background:var(--c)}
 .sh h2{margin-top:10px;font-size:26px;font-weight:700;letter-spacing:-.02em;line-height:1.1}
 .sh .ar{margin-top:4px;font-size:18px;font-weight:600;color:${C.muted}}
-.grid{display:flex;flex-wrap:wrap;justify-content:center;gap:26px 12px}
-.it{width:calc(50% - 6px);display:flex;flex-direction:column;align-items:center;text-align:center}
+.gal{display:flex;flex-wrap:wrap;justify-content:center;gap:26px 12px}
+.it{width:calc(50% - 7px);display:flex;flex-direction:column;align-items:center;text-align:center}
 /* photo in a rounded diamond, with a colour cube behind it (the logo's stacked cubes) */
 .dia{position:relative;width:74%;aspect-ratio:1/1;margin:12% 0 14%}
 .dia::before{content:'';position:absolute;inset:0;border-radius:24%;transform:translate(9%,9%) rotate(45deg);background:var(--c)}
@@ -77,12 +77,12 @@ export const css = `
   .sec{padding:56px 0 60px}
   .sh h2{font-size:36px}
   .sh .ar{font-size:22px}
-  .it{width:calc(33.333% - 8px)}
+  .it{width:calc(33.333% - 10px)}
   .it h3{font-size:17px}
 }
 @media (min-width:1100px){
-  .grid{gap:30px 18px}
-  .it{width:calc(20% - 15px)}
+  .gal{gap:30px 18px}
+  .it{width:calc(20% - 16px)}
 }
 `;
 
@@ -97,7 +97,7 @@ const sec = (c) => `
 <section class="sec" id="${c.id}" style="${vars(c.color)}">
   <div class="wrap">
     <header class="sh"><i aria-hidden="true"></i><h2>${c.en}</h2>${ar(c.ar)}</header>
-    <div class="grid">${drinksIn(c.id).map(item).join('')}</div>
+    <div class="gal">${drinksIn(c.id).map(item).join('')}</div>
   </div>
 </section>`;
 

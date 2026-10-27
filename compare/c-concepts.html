@@ -1,0 +1,128 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>POV Option C Concepts</title>
+<meta name="description" content="Three quick concepts for POV menu option C, on a phone and on a computer.">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Readex+Pro:wght@300..700&display=swap" rel="stylesheet">
+<style>
+  :root { --cream: #FFF8E7; --paper: #FFFFFF; --ink: #2A1640; --muted: #6F6280; --line: #EFE3C8; --purple: #7243AB; }
+  * { box-sizing: border-box; }
+  body { margin: 0; background: var(--cream); color: var(--ink); font-family: "Readex Pro", system-ui, sans-serif; line-height: 1.5; -webkit-font-smoothing: antialiased; overflow-x: hidden; }
+  .wrap { max-width: 1360px; margin: 0 auto; padding: 0 32px; }
+  header { padding: 40px 0 8px; }
+  .eyebrow { margin: 0 0 8px; font-size: 13px; font-weight: 600; letter-spacing: .12em; text-transform: uppercase; color: var(--purple); }
+  h1 { margin: 0; font-size: clamp(30px, 4vw, 48px); line-height: 1.05; letter-spacing: -.03em; }
+  .lede { margin: 12px 0 0; max-width: 64ch; color: var(--muted); font-size: 17px; }
+  .cards { display: grid; grid-template-columns: repeat(3, minmax(0, 1fr)); gap: 24px; margin: 32px 0; }
+  .card { min-width: 0; padding: 24px 22px; border: 1.5px solid var(--line); border-radius: 30px; background: rgba(255,255,255,.6); display: flex; flex-direction: column; }
+  .tag { font-size: 13px; font-weight: 600; letter-spacing: .1em; text-transform: uppercase; color: var(--muted); }
+  .card h2 { margin: 6px 0 0; font-size: 26px; line-height: 1.1; letter-spacing: -.02em; }
+  .card p { margin: 8px 0 0; color: var(--muted); font-size: 15px; min-height: 4.5em; }
+  .stage { margin-top: 20px; display: flex; justify-content: center; }
+  .slot { --s: 1; width: calc(414px * var(--s)); height: calc(868px * var(--s)); position: relative; }
+  .phone { position: absolute; left: 0; top: 0; width: 414px; height: 868px; padding: 12px; border-radius: 56px; background: #1E1A22; transform: scale(var(--s)); transform-origin: top left; box-shadow: 0 30px 50px -34px rgba(42,22,64,.55); }
+  .screen { width: 390px; height: 844px; border-radius: 44px; overflow: hidden; background: #fff; }
+  .screen iframe { width: calc(390px + var(--sbw, 0px)); height: 100%; border: 0; display: block; }
+  .open { margin-top: 18px; align-self: center; display: inline-flex; align-items: center; min-height: 46px; padding: 0 20px; border-radius: 999px; border: 1.5px solid var(--line); background: var(--paper); font-weight: 600; font-size: 15px; color: var(--ink); text-decoration: none; }
+  .desk { margin: 8px 0 28px; padding: 26px; border: 1.5px solid var(--line); border-radius: 30px; background: var(--paper); }
+  .desk-head { display: flex; flex-wrap: wrap; align-items: center; justify-content: space-between; gap: 14px; }
+  .desk h2 { margin: 0; font-size: 24px; letter-spacing: -.02em; }
+  .seg { display: inline-flex; flex-wrap: wrap; gap: 4px; padding: 5px; border: 1.5px solid var(--line); border-radius: 26px; background: var(--paper); }
+  .seg button { appearance: none; border: 0; background: transparent; cursor: pointer; padding: 9px 18px; border-radius: 999px; font: inherit; font-weight: 600; font-size: 15px; color: var(--muted); }
+  .seg button[aria-pressed="true"] { background: var(--ink); color: var(--cream); }
+  .browser { margin-top: 18px; border-radius: 16px; overflow: hidden; border: 1.5px solid var(--line); background: #F4EEE0; }
+  .bar { display: flex; align-items: center; gap: 8px; height: 36px; padding: 0 14px; }
+  .bar i { width: 11px; height: 11px; border-radius: 50%; background: #E2D6BC; }
+  .vp { position: relative; height: calc(820px * var(--ds, 1)); overflow: hidden; background: #fff; }
+  .vp iframe { position: absolute; left: 0; top: 0; width: 1440px; height: 820px; border: 0; transform: scale(var(--ds, 1)); transform-origin: top left; }
+  footer { padding: 8px 0 40px; color: var(--muted); font-size: 14px; }
+  :focus-visible { outline: 3px solid var(--purple); outline-offset: 3px; }
+  @media (max-width: 1100px) { .cards { grid-template-columns: 1fr; } .card p { min-height: 0; } }
+  @media (max-width: 600px) { .wrap { padding: 0 16px; } .desk { padding: 18px 12px; } }
+</style>
+</head>
+<body>
+<div class="wrap">
+  <header>
+    <p class="eyebrow">Option C · three quick concepts</p>
+    <h1>Pick a direction for option C</h1>
+    <p class="lede">Each concept is a full menu that works on a phone and on a computer, uses the logo colours and keeps one simple structure. Scroll inside each phone, then pick the one to build properly.</p>
+  </header>
+
+  <main class="cards">
+    <section class="card">
+      <span class="tag">Concept 1</span>
+      <h2>Menu Board</h2>
+      <p>A bilingual juice-bar board: one clean list, English on the left and Arabic on the right, small round photos and colour price tags. Two columns on a computer.</p>
+      <div class="stage"><div class="slot"><div class="phone"><div class="screen"><iframe title="Concept 1, Menu Board, phone" src="../screens/c1/01-menu.html"></iframe></div></div></div></div>
+      <a class="open" href="../screens/c1/01-menu.html" target="_blank" rel="noopener">Open full screen</a>
+    </section>
+    <section class="card">
+      <span class="tag">Concept 2</span>
+      <h2>Pick a Flavour</h2>
+      <p>A purple welcome where the five categories are big photo tiles. Tap one, then swipe through big drink photos. Feels like an app.</p>
+      <div class="stage"><div class="slot"><div class="phone"><div class="screen"><iframe title="Concept 2, Pick a Flavour, phone" src="../screens/c2/01-menu.html"></iframe></div></div></div></div>
+      <a class="open" href="../screens/c2/01-menu.html" target="_blank" rel="noopener">Open full screen</a>
+    </section>
+    <section class="card">
+      <span class="tag">Concept 3</span>
+      <h2>Cubes</h2>
+      <p>The logo becomes the design: every drink sits in a rounded mango cube with a colour cube behind it, like the logo. Calm and centred, like a gallery.</p>
+      <div class="stage"><div class="slot"><div class="phone"><div class="screen"><iframe title="Concept 3, Cubes, phone" src="../screens/c3/01-menu.html"></iframe></div></div></div></div>
+      <a class="open" href="../screens/c3/01-menu.html" target="_blank" rel="noopener">Open full screen</a>
+    </section>
+  </main>
+
+  <section class="desk" aria-labelledby="desk-title">
+    <div class="desk-head">
+      <h2 id="desk-title">On a computer</h2>
+      <div class="seg" role="group" aria-label="Concept on a computer">
+        <button type="button" data-c="c1" aria-pressed="true">1 · Menu Board</button>
+        <button type="button" data-c="c2" aria-pressed="false">2 · Pick a Flavour</button>
+        <button type="button" data-c="c3" aria-pressed="false">3 · Cubes</button>
+      </div>
+    </div>
+    <div class="browser">
+      <div class="bar" aria-hidden="true"><i></i><i></i><i></i></div>
+      <div class="vp"><iframe class="js-desk" title="Concept on a computer" src="../screens/c1/01-menu.html"></iframe></div>
+    </div>
+  </section>
+
+  <footer>Concepts show the menu page only. The drink page is designed after you pick.</footer>
+</div>
+<script>
+(function () {
+  var root = document.documentElement;
+  function sbw() {
+    var d = document.createElement("div");
+    d.style.cssText = "position:absolute;top:-9999px;width:100px;height:100px;overflow:scroll";
+    document.body.appendChild(d);
+    var w = d.offsetWidth - d.clientWidth;
+    document.body.removeChild(d);
+    return w;
+  }
+  function fit() {
+    root.style.setProperty("--sbw", sbw() + "px");
+    Array.prototype.forEach.call(document.querySelectorAll(".stage"), function (st) {
+      st.firstElementChild.style.setProperty("--s", Math.min(1, st.clientWidth / 414).toFixed(4));
+    });
+    var vp = document.querySelector(".vp");
+    vp.style.setProperty("--ds", Math.min(1, vp.clientWidth / 1440).toFixed(4));
+  }
+  window.addEventListener("resize", fit);
+  fit();
+  var desk = document.querySelector(".js-desk");
+  document.querySelector(".seg").addEventListener("click", function (e) {
+    var b = e.target.closest("button[data-c]");
+    if (!b) return;
+    Array.prototype.forEach.call(this.querySelectorAll("button"), function (x) { x.setAttribute("aria-pressed", String(x === b)); });
+    desk.setAttribute("src", "../screens/" + b.getAttribute("data-c") + "/01-menu.html");
+  });
+})();
+</script>
+</body>
+</html>
