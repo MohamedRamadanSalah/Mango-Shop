@@ -4,7 +4,7 @@
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <title>POV Menu Directions</title>
-<meta name="description" content="Compare two design directions for the POV QR phone menu and pick one.">
+<meta name="description" content="Compare three design directions for the POV QR menu and pick one.">
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
 <link href="https://fonts.googleapis.com/css2?family=Readex+Pro:wght@300..700&display=swap" rel="stylesheet">
@@ -43,7 +43,7 @@
   button { font: inherit; color: inherit; }
   :focus-visible { outline: 3px solid var(--purple); outline-offset: 3px; border-radius: 12px; }
 
-  .wrap { max-width: 1120px; margin: 0 auto; padding: 0 32px; }
+  .wrap { max-width: 1360px; margin: 0 auto; padding: 0 32px; }
 
   /* ---------- Header ---------- */
   header.top { padding: 40px 0 8px; }
@@ -90,7 +90,7 @@
   .segmented button[aria-pressed="true"] { background: var(--ink); color: var(--cream); }
 
   /* ---------- Options ---------- */
-  .options { display: grid; grid-template-columns: repeat(2, minmax(0, 1fr)); gap: 32px; margin: 36px 0 24px; }
+  .options { display: grid; grid-template-columns: repeat(3, minmax(0, 1fr)); gap: 24px; margin: 36px 0 24px; }
   .option {
     --accent: var(--orange);
     --accent-soft: #FFE9CC;
@@ -103,6 +103,8 @@
     transition: border-color .25s, box-shadow .25s, background-color .25s;
   }
   .option[data-option="b"] { --accent: var(--teal); --accent-soft: #D6F3EE; }
+  .option[data-option="c"] { --accent: var(--purple); --accent-soft: #EFE6FA; }
+  .new-badge { display: inline-flex; padding: 1px 9px; line-height: 1.4; border-radius: 999px; background: var(--yellow); color: var(--ink); font-size: 12px; font-weight: 700; letter-spacing: .04em; }
   .option.is-chosen {
     border-color: var(--accent);
     background: var(--paper);
@@ -220,6 +222,22 @@
   .tagline [lang="ar"] { color: var(--purple); }
   .note { font-size: 13px; color: var(--muted); }
 
+  /* ---------- Option C on a computer ---------- */
+  .desk { margin: 8px 0 24px; padding: 28px; border: 1.5px solid var(--line); border-radius: 32px; background: var(--paper); }
+  .desk h2 { margin: 6px 0 0; font-size: 26px; letter-spacing: -.02em; line-height: 1.15; }
+  .desk .desc { margin: 8px 0 0; color: var(--muted); }
+  .browser { margin-top: 22px; border-radius: 16px; overflow: hidden; border: 1.5px solid var(--line); background: #F4EEE0; box-shadow: 0 30px 50px -40px rgba(42, 22, 64, .55); }
+  .browser-bar { display: flex; align-items: center; gap: 8px; height: 38px; padding: 0 14px; }
+  .browser-bar i { width: 11px; height: 11px; border-radius: 50%; background: #E2D6BC; }
+  .browser-bar span { margin-left: 12px; flex: 1; max-width: 420px; height: 24px; border-radius: 8px; background: var(--paper); font-size: 12px; line-height: 24px; padding: 0 10px; color: var(--muted); white-space: nowrap; overflow: hidden; }
+  .viewport { position: relative; height: calc(800px * var(--ds, 1)); overflow: hidden; background: var(--paper); }
+  .viewport iframe { position: absolute; left: 0; top: 0; width: 1440px; height: 800px; border: 0; transform: scale(var(--ds, 1)); transform-origin: top left; }
+
+  /* ---------- Medium screens: two options per row ---------- */
+  @media (max-width: 1240px) {
+    .options { grid-template-columns: repeat(2, minmax(0, 1fr)); }
+  }
+
   /* ---------- Narrow screens: stack, and scale the phones (JS refines --s) ---------- */
   @media (max-width: 900px) {
     .wrap { padding: 0 16px; }
@@ -232,6 +250,7 @@
     .option { padding: 22px 16px 20px; border-radius: 28px; }
     .option h2 { font-size: 26px; }
     .option .desc { min-height: 0; }
+    .desk { padding: 20px 14px; border-radius: 28px; }
   }
   @media (max-width: 480px) {
     .phone-slot { --s: .8; }
@@ -260,11 +279,11 @@
     <div class="intro">
       <div>
         <p class="eyebrow">Design review &middot; QR phone menu</p>
-        <h1>POV QR Menu: two directions</h1>
-        <p class="lede">The same menu, designed two ways. Scroll inside each phone and tap a drink to try it, then choose the direction you want us to build.</p>
+        <h1>POV QR Menu: three directions</h1>
+        <p class="lede">The same menu, designed three ways. Scroll inside each phone and tap a drink to try it, then choose the direction you want us to build. Option C also works as a full website on a computer (see below).</p>
       </div>
       <div class="control">
-        <span class="control-label" id="view-label">Show on both phones</span>
+        <span class="control-label" id="view-label">Show on every screen</span>
         <div class="segmented" role="group" aria-labelledby="view-label">
           <button type="button" data-screen="menu" aria-pressed="true">Menu</button>
           <button type="button" data-screen="detail" aria-pressed="false">Drink detail</button>
@@ -357,7 +376,64 @@
         </button>
       </div>
     </section>
+
+    <section class="option" data-option="c" aria-labelledby="title-c">
+      <div class="option-head">
+        <span class="cube" aria-hidden="true"></span>
+        <span class="option-tag">Option C</span>
+        <span class="new-badge">New</span>
+        <span class="chosen-badge"><span class="cube small" aria-hidden="true"></span>Your pick</span>
+      </div>
+      <h2 id="title-c">Color Blocks</h2>
+      <p class="desc">Simple and bold: every category is a block in one of the logo colours, with one clear card per drink. Works on phones and on the web.</p>
+      <div class="accents" aria-label="Accent colours">
+        <span class="swatch" style="background:#F9CD18"></span>
+        <span class="swatch" style="background:#F7941D"></span>
+        <span class="swatch" style="background:#7243AB"></span>
+        <span class="swatch" style="background:#17AE9D"></span>
+        <span class="swatch" style="background:#F2654A"></span>
+        <span style="margin-left:10px">All five logo colours</span>
+      </div>
+      <div class="stage">
+        <div class="phone-slot">
+          <div class="phone">
+            <div class="screen">
+              <iframe title="Option C, Color Blocks: live phone screen" src="about:blank"></iframe>
+              <div class="pending" aria-live="polite">
+                <div class="cubes" aria-hidden="true"><span></span><span></span><span></span><span></span></div>
+                <h3>Option C is on its way</h3>
+                <p>Color Blocks is being finished right now. This phone will show it as soon as it is ready.</p>
+                <div class="checking"><span class="dots" aria-hidden="true"><i></i><i></i><i></i></span>Checking again shortly</div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+      <div class="actions">
+        <a class="btn btn-ghost js-open" href="../screens/c/01-menu.html" target="_blank" rel="noopener">
+          <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M14 4h6v6"/><path d="M20 4l-9 9"/><path d="M18 14v4a2 2 0 0 1-2 2H6a2 2 0 0 1-2-2V8a2 2 0 0 1 2-2h4"/></svg>
+          Open full screen
+        </a>
+        <button type="button" class="btn btn-choose js-choose" aria-pressed="false">
+          <svg class="check" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.4" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M5 12.5l4.5 4.5L19 7.5"/></svg>
+          <span class="js-choose-label">Choose C</span>
+        </button>
+      </div>
+    </section>
   </main>
+
+  <section class="desk" aria-labelledby="title-desk">
+    <div class="option-head">
+      <span class="cube" aria-hidden="true" style="background:var(--purple)"></span>
+      <span class="option-tag">Option C on a computer</span>
+    </div>
+    <h2 id="title-desk">The same page as a website</h2>
+    <p class="desc">Option C adapts to the screen: 2 drinks per row on a phone, 3 on a tablet, 5 on a computer. Scroll inside the window to try it.</p>
+    <div class="browser">
+      <div class="browser-bar" aria-hidden="true"><i></i><i></i><i></i><span class="js-desk-url">pov menu</span></div>
+      <div class="viewport"><iframe class="js-desk" title="Option C, Color Blocks: desktop website" src="about:blank"></iframe></div>
+    </div>
+  </section>
 
   <footer>
     <div class="tagline">
@@ -483,6 +559,12 @@
       b.setAttribute("aria-pressed", String(b.getAttribute("data-screen") === name));
     });
     options.forEach(show);
+    var desk = document.querySelector(".js-desk");
+    if (desk) {
+      var durl = "../screens/c/" + SCREENS[name];
+      if (desk.getAttribute("src") !== durl) desk.setAttribute("src", durl);
+      document.querySelector(".js-desk-url").textContent = "pov menu / " + SCREENS[name];
+    }
     try { history.replaceState(null, "", name === "detail" ? "#detail" : location.pathname + location.search); } catch (e) {}
   }
 
@@ -540,11 +622,14 @@
       var s = Math.min(1, avail / FRAME_W);
       opt.slot.style.setProperty("--s", s.toFixed(4));
     });
+    var vp = document.querySelector(".viewport");
+    if (vp) vp.style.setProperty("--ds", Math.min(1, vp.clientWidth / 1440).toFixed(4));
   }
 
   if (window.ResizeObserver) {
     var ro = new ResizeObserver(fit);
     options.forEach(function (opt) { ro.observe(opt.stage); });
+    if (document.querySelector(".viewport")) ro.observe(document.querySelector(".viewport"));
   } else {
     window.addEventListener("resize", fit);
   }

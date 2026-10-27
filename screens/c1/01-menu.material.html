@@ -1,0 +1,190 @@
+<!DOCTYPE html>
+<html lang="en"><head>
+<meta charset="utf-8"/>
+<meta content="width=device-width, initial-scale=1.0" name="viewport"/>
+<title>POV · Menu</title>
+<script src="https://cdn.tailwindcss.com"></script>
+<link href="https://fonts.googleapis.com" rel="preconnect"/>
+<link crossorigin="" href="https://fonts.gstatic.com" rel="preconnect"/>
+<link href="https://fonts.googleapis.com/css2?family=Readex+Pro:wght@300..700&family=Material+Symbols+Outlined:wght,FILL@100..700,0..1&display=swap" rel="stylesheet"/>
+<script>tailwind.config={theme:{extend:{fontFamily:{sans:['Readex Pro','sans-serif']},colors:{"canvas":"#FFF8E7","card":"#FFFFFF","ink":"#2A1640","muted":"#6F6280","line":"#F1E6CC","purple":"#7243AB","yellow":"#F9CD18","orange":"#F7941D","teal":"#17AE9D","coral":"#F2654A","purpleSoft":"#EFE6FA","yellowSoft":"#FFF1B8","orangeSoft":"#FFE6C7","tealSoft":"#D6F3EE","coralSoft":"#FDE1DA"}}}}</script>
+<style>
+*,*::before,*::after{box-sizing:border-box}
+html{scroll-behavior:smooth;-webkit-text-size-adjust:100%}
+html,body{margin:0;background:#FFFBF1;color:#2A1640;font-family:'Readex Pro',system-ui,sans-serif;-webkit-font-smoothing:antialiased}
+.screen{min-height:100vh;overflow-x:clip}
+a{color:inherit;text-decoration:none}
+img{display:block;max-width:100%}
+h1,h2,h3,p,figure{margin:0}
+.ar{font-family:'Readex Pro',sans-serif;unicode-bidi:isolate}
+.ico{font-size:20px;line-height:1}
+
+.mark{position:relative;display:inline-block;width:1em;height:1em;flex-shrink:0}
+.mark i{display:block;position:absolute}
+.mark-cup{left:.15em;top:.4em;width:.7em;height:.56em;border:.065em solid var(--cup);border-top:0;border-radius:0 0 .24em .24em}
+.gem{border-radius:28%;transform:rotate(45deg)}
+.pip{width:.055em;height:.055em;border-radius:50%}
+
+.wrap{max-width:1120px;margin:0 auto;padding:0 20px}
+section[id]{scroll-margin-top:64px}
+
+/* header */
+.hd{display:flex;align-items:center;justify-content:space-between;padding-top:18px;padding-bottom:6px}
+.brand{display:flex;align-items:center;gap:10px}
+.wm{font-size:26px;font-weight:700;letter-spacing:-.04em;line-height:1}
+.brand .ar{display:block;margin-top:2px;font-size:13px;font-weight:600;color:#7243AB}
+.place{display:inline-flex;align-items:center;gap:4px;font-size:13px;font-weight:600;color:#6F6280}
+.place .ico{color:#F2654A}
+.hello{padding-top:22px;padding-bottom:18px}
+.hello h1{font-size:30px;font-weight:700;letter-spacing:-.03em;line-height:1.1}
+.hello .ar{display:block;margin-top:6px;font-size:18px;font-weight:600;color:#7243AB}
+
+/* tabs */
+.tabs{position:sticky;top:0;z-index:20;background:rgba(255,251,241,.94);backdrop-filter:blur(10px);-webkit-backdrop-filter:blur(10px);border-bottom:1px solid #F1E6CC}
+.tabs-in{display:flex;gap:6px;overflow-x:auto;padding-top:10px;padding-bottom:10px;scrollbar-width:none}
+.tabs-in::-webkit-scrollbar{display:none}
+.tab{display:inline-flex;align-items:center;gap:8px;flex-shrink:0;min-height:44px;padding:0 14px;border-radius:999px;background:#fff;border:1.5px solid #F1E6CC;font-size:14px;font-weight:600;white-space:nowrap}
+.tab i{width:10px;height:10px;border-radius:28%;transform:rotate(45deg);background:var(--c)}
+
+/* board */
+.board{padding-top:22px;padding-bottom:40px}
+.cat{break-inside:avoid;margin-bottom:26px;background:#fff;border-radius:24px;border:1.5px solid #F1E6CC;overflow:hidden}
+.cat-h{display:flex;align-items:center;gap:12px;padding:14px 18px;background:var(--t)}
+.cat-h .dm{width:22px;height:22px;border-radius:28%;transform:rotate(45deg);background:var(--c);flex-shrink:0;margin:0 4px}
+.cat-h h2{font-size:21px;font-weight:700;letter-spacing:-.02em;line-height:1.15}
+.cat-h .ar{margin-left:auto;font-size:18px;font-weight:600;text-align:right}
+.rows{padding:4px 18px 8px}
+.row{display:grid;grid-template-columns:56px minmax(0,1fr) auto;align-items:center;gap:12px;padding:12px 0}
+.row + .row{border-top:1.5px dashed #F1E6CC}
+.th{width:56px;height:56px;border-radius:50%;overflow:hidden;background:var(--t)}
+.th img{width:100%;height:100%;object-fit:cover}
+.nm{font-size:16px;font-weight:600;line-height:1.25}
+.nm-ar{display:block;margin-top:2px;font-size:15px;font-weight:500;color:#6F6280}
+.lead{display:none}
+.note{margin-top:2px;font-size:12.5px;color:#6F6280}
+.pr{display:inline-flex;align-items:baseline;gap:3px;padding:6px 10px;border-radius:12px;background:var(--c);color:var(--on);font-weight:700;line-height:1;white-space:nowrap}
+.pr b{font-size:17px;font-variant-numeric:tabular-nums}
+.pr small{font-size:10px;letter-spacing:.06em}
+.ft{padding:26px 0 34px;text-align:center;color:#6F6280;font-size:13px}
+
+@media (min-width:760px){
+  .hello{display:flex;align-items:baseline;justify-content:space-between;gap:20px}
+  .hello h1{font-size:44px}
+  .hello .ar{font-size:24px}
+  .tabs-in{justify-content:center}
+  /* EN ...... AR on one line, like a printed board */
+  .mid{display:flex;align-items:baseline;gap:10px}
+  .lead{display:block;flex:1;min-width:20px;border-bottom:2px dotted #E6D6B0;transform:translateY(-4px)}
+  .nm-ar{margin:0}
+}
+@media (min-width:1000px){
+  .board{column-count:2;column-gap:26px}
+}
+</style>
+</head>
+<body><main class="screen">
+
+<header class="wrap hd">
+  <span class="brand"><span class="mark" style="font-size:44px;--cup:#7243AB" aria-hidden="true"><i class="mark-cup"></i><i class="gem" style="width:0.2em;height:0.2em;left:0.4em;top:0.19999999999999998em;background:#F9CD18"></i><i class="gem" style="width:0.165em;height:0.165em;left:0.27249999999999996em;top:0.3675em;background:#17AE9D"></i><i class="gem" style="width:0.165em;height:0.165em;left:0.5625em;top:0.3675em;background:#17AE9D"></i><i class="gem" style="width:0.25em;height:0.25em;left:0.375em;top:0.515em;background:#F7941D"></i><i class="pip" style="left:0.66em;top:0.02em;background:#F7941D"></i><i class="pip" style="left:0.58em;top:0.1em;background:#17AE9D"></i><i class="pip" style="left:0.74em;top:0.09em;background:#17AE9D"></i><i class="pip" style="left:0.56em;top:0.18em;background:#F7941D"></i><i class="pip" style="left:0.67em;top:0.17em;background:#F7941D"></i><i class="pip" style="left:0.62em;top:0.25em;background:#17AE9D"></i></span><span><span class="wm"><span style="color:#7243AB">P</span><span style="color:#F9CD18">O</span><span style="color:#17AE9D">V</span></span><span lang="ar" dir="rtl" class="ar ">بوف</span></span></span>
+  <span class="place"><span class="material-symbols-outlined ico ">location_on</span>Cairo</span>
+</header>
+<section class="wrap hello"><h1>Your Choice. Your Point Of View.</h1><span lang="ar" dir="rtl" class="ar ">اختيارك ... وجهة نظرك</span></section>
+<nav class="tabs" aria-label="Menu categories"><div class="wrap tabs-in"><a class="tab" href="#signatures" style="--c:#F9CD18;--t:#FFF1B8;--on:#2A1640"><i aria-hidden="true"></i>Mango Signatures</a><a class="tab" href="#cubes" style="--c:#F7941D;--t:#FFE6C7;--on:#2A1640"><i aria-hidden="true"></i>Fresh Cubes</a><a class="tab" href="#smoothies" style="--c:#7243AB;--t:#EFE6FA;--on:#fff"><i aria-hidden="true"></i>Smoothies & Shakes</a><a class="tab" href="#juices" style="--c:#17AE9D;--t:#D6F3EE;--on:#2A1640"><i aria-hidden="true"></i>Fresh Juices</a><a class="tab" href="#seasonal" style="--c:#F2654A;--t:#FDE1DA;--on:#2A1640"><i aria-hidden="true"></i>Seasonal</a></div></nav>
+<div class="wrap board">
+<section class="cat" id="signatures" style="--c:#F9CD18;--t:#FFF1B8;--on:#2A1640">
+  <header class="cat-h"><i class="dm" aria-hidden="true"></i><h2>Mango Signatures</h2><span lang="ar" dir="rtl" class="ar ">مانجو بوف المميزة</span></header>
+  <div class="rows">
+<div class="row">
+  <figure class="th"><img src="../../assets/photos/pov-mango.jpg" alt="POV Mango" loading="lazy"/></figure>
+  <div><div class="mid"><h3 class="nm">POV Mango</h3><i class="lead" aria-hidden="true"></i><span lang="ar" dir="rtl" class="ar nm-ar">مانجو بوف</span></div></div>
+  <span class="pr"><b>95</b><small>EGP</small></span>
+</div>
+<div class="row">
+  <figure class="th"><img src="../../assets/photos/pov-classic.jpg" alt="POV Classic" loading="lazy"/></figure>
+  <div><div class="mid"><h3 class="nm">POV Classic</h3><i class="lead" aria-hidden="true"></i><span lang="ar" dir="rtl" class="ar nm-ar">كلاسيك بوف</span></div><p class="note">Mango with milk</p></div>
+  <span class="pr"><b>110</b><small>EGP</small></span>
+</div>
+<div class="row">
+  <figure class="th"><img src="../../assets/photos/mango-strawberry.jpg" alt="Mango x Strawberry" loading="lazy"/></figure>
+  <div><div class="mid"><h3 class="nm">Mango x Strawberry</h3><i class="lead" aria-hidden="true"></i><span lang="ar" dir="rtl" class="ar nm-ar">مانجو فراولة</span></div></div>
+  <span class="pr"><b>115</b><small>EGP</small></span>
+</div>
+<div class="row">
+  <figure class="th"><img src="../../assets/photos/mango-passion.jpg" alt="Mango Passion" loading="lazy"/></figure>
+  <div><div class="mid"><h3 class="nm">Mango Passion</h3><i class="lead" aria-hidden="true"></i><span lang="ar" dir="rtl" class="ar nm-ar">مانجو باشن</span></div></div>
+  <span class="pr"><b>125</b><small>EGP</small></span>
+</div>
+<div class="row">
+  <figure class="th"><img src="../../assets/photos/pov-cocktail.jpg" alt="POV Cocktail" loading="lazy"/></figure>
+  <div><div class="mid"><h3 class="nm">POV Cocktail</h3><i class="lead" aria-hidden="true"></i><span lang="ar" dir="rtl" class="ar nm-ar">كوكتيل بوف</span></div><p class="note">Layered mango, strawberry, guava, avocado</p></div>
+  <span class="pr"><b>145</b><small>EGP</small></span>
+</div></div>
+</section>
+<section class="cat" id="cubes" style="--c:#F7941D;--t:#FFE6C7;--on:#2A1640">
+  <header class="cat-h"><i class="dm" aria-hidden="true"></i><h2>Fresh Cubes</h2><span lang="ar" dir="rtl" class="ar ">مكعبات فريش</span></header>
+  <div class="rows">
+<div class="row">
+  <figure class="th"><img src="../../assets/photos/mango-cubes.jpg" alt="Mango Cubes" loading="lazy"/></figure>
+  <div><div class="mid"><h3 class="nm">Mango Cubes</h3><i class="lead" aria-hidden="true"></i><span lang="ar" dir="rtl" class="ar nm-ar">كوب مكعبات مانجو</span></div><p class="note">Cup</p></div>
+  <span class="pr"><b>85</b><small>EGP</small></span>
+</div></div>
+</section>
+<section class="cat" id="smoothies" style="--c:#7243AB;--t:#EFE6FA;--on:#fff">
+  <header class="cat-h"><i class="dm" aria-hidden="true"></i><h2>Smoothies & Shakes</h2><span lang="ar" dir="rtl" class="ar ">سموذي وميلك شيك</span></header>
+  <div class="rows">
+<div class="row">
+  <figure class="th"><img src="../../assets/photos/mango-smoothie.jpg" alt="Mango Smoothie" loading="lazy"/></figure>
+  <div><div class="mid"><h3 class="nm">Mango Smoothie</h3><i class="lead" aria-hidden="true"></i><span lang="ar" dir="rtl" class="ar nm-ar">سموذي مانجو</span></div></div>
+  <span class="pr"><b>120</b><small>EGP</small></span>
+</div>
+<div class="row">
+  <figure class="th"><img src="../../assets/photos/mango-milkshake.jpg" alt="Mango Milkshake" loading="lazy"/></figure>
+  <div><div class="mid"><h3 class="nm">Mango Milkshake</h3><i class="lead" aria-hidden="true"></i><span lang="ar" dir="rtl" class="ar nm-ar">ميلك شيك مانجو</span></div></div>
+  <span class="pr"><b>135</b><small>EGP</small></span>
+</div></div>
+</section>
+<section class="cat" id="juices" style="--c:#17AE9D;--t:#D6F3EE;--on:#2A1640">
+  <header class="cat-h"><i class="dm" aria-hidden="true"></i><h2>Fresh Juices</h2><span lang="ar" dir="rtl" class="ar ">عصائر فريش</span></header>
+  <div class="rows">
+<div class="row">
+  <figure class="th"><img src="../../assets/photos/fresh-orange.jpg" alt="Fresh Orange" loading="lazy"/></figure>
+  <div><div class="mid"><h3 class="nm">Fresh Orange</h3><i class="lead" aria-hidden="true"></i><span lang="ar" dir="rtl" class="ar nm-ar">برتقال فريش</span></div></div>
+  <span class="pr"><b>70</b><small>EGP</small></span>
+</div>
+<div class="row">
+  <figure class="th"><img src="../../assets/photos/strawberry.jpg" alt="Strawberry" loading="lazy"/></figure>
+  <div><div class="mid"><h3 class="nm">Strawberry</h3><i class="lead" aria-hidden="true"></i><span lang="ar" dir="rtl" class="ar nm-ar">فراولة</span></div></div>
+  <span class="pr"><b>85</b><small>EGP</small></span>
+</div>
+<div class="row">
+  <figure class="th"><img src="../../assets/photos/watermelon-mint.jpg" alt="Watermelon Mint" loading="lazy"/></figure>
+  <div><div class="mid"><h3 class="nm">Watermelon Mint</h3><i class="lead" aria-hidden="true"></i><span lang="ar" dir="rtl" class="ar nm-ar">بطيخ بالنعناع</span></div></div>
+  <span class="pr"><b>75</b><small>EGP</small></span>
+</div>
+<div class="row">
+  <figure class="th"><img src="../../assets/photos/guava-nectar.jpg" alt="Guava Nectar" loading="lazy"/></figure>
+  <div><div class="mid"><h3 class="nm">Guava Nectar</h3><i class="lead" aria-hidden="true"></i><span lang="ar" dir="rtl" class="ar nm-ar">جوافة</span></div></div>
+  <span class="pr"><b>80</b><small>EGP</small></span>
+</div>
+<div class="row">
+  <figure class="th"><img src="../../assets/photos/sugarcane-lime.jpg" alt="Sugarcane Lime" loading="lazy"/></figure>
+  <div><div class="mid"><h3 class="nm">Sugarcane Lime</h3><i class="lead" aria-hidden="true"></i><span lang="ar" dir="rtl" class="ar nm-ar">قصب بالليمون</span></div></div>
+  <span class="pr"><b>60</b><small>EGP</small></span>
+</div></div>
+</section>
+<section class="cat" id="seasonal" style="--c:#F2654A;--t:#FDE1DA;--on:#2A1640">
+  <header class="cat-h"><i class="dm" aria-hidden="true"></i><h2>Seasonal</h2><span lang="ar" dir="rtl" class="ar ">أصناف الموسم</span></header>
+  <div class="rows">
+<div class="row">
+  <figure class="th"><img src="../../assets/photos/pomegranate-press.jpg" alt="Pomegranate Press" loading="lazy"/></figure>
+  <div><div class="mid"><h3 class="nm">Pomegranate Press</h3><i class="lead" aria-hidden="true"></i><span lang="ar" dir="rtl" class="ar nm-ar">رمان</span></div></div>
+  <span class="pr"><b>105</b><small>EGP</small></span>
+</div>
+<div class="row">
+  <figure class="th"><img src="../../assets/photos/keitt-last-call.jpg" alt="Keitt Last Call" loading="lazy"/></figure>
+  <div><div class="mid"><h3 class="nm">Keitt Last Call</h3><i class="lead" aria-hidden="true"></i><span lang="ar" dir="rtl" class="ar nm-ar">مانجو كيت آخر الموسم</span></div><p class="note">Mango, end of season</p></div>
+  <span class="pr"><b>130</b><small>EGP</small></span>
+</div></div>
+</section></div>
+<footer class="ft">Prices in EGP · Order at the counter</footer>
+</main></body></html>

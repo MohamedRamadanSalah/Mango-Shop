@@ -86,6 +86,21 @@ export const priceTag = (price, { color = 'yellow', rotate = -4, cls = '' } = {}
 export const wordmark = (size = 28) =>
   `<span class="wordmark" style="font-size:${size}px"><span style="color:${C.purple}">P</span><span style="color:${C.yellow}">O</span><span style="color:${C.teal}">V</span></span>`;
 
+// Logo mark in CSS (purple U-cup, four rounded diamonds, small dots). Scales with font-size.
+// Needs MARK_CSS on the page.
+const gem = (size, color, x, y) =>
+  `<i class="gem" style="width:${size}em;height:${size}em;left:${x - size / 2}em;top:${y - size / 2}em;background:${C[color]}"></i>`;
+const pip = (color, x, y) => `<i class="pip" style="left:${x}em;top:${y}em;background:${C[color]}"></i>`;
+export const logoMark = (px = 40, cup = C.purple) =>
+  `<span class="mark" style="font-size:${px}px;--cup:${cup}" aria-hidden="true"><i class="mark-cup"></i>${gem(0.2, 'yellow', 0.5, 0.3)}${gem(0.165, 'teal', 0.355, 0.45)}${gem(0.165, 'teal', 0.645, 0.45)}${gem(0.25, 'orange', 0.5, 0.64)}${pip('orange', 0.66, 0.02)}${pip('teal', 0.58, 0.1)}${pip('teal', 0.74, 0.09)}${pip('orange', 0.56, 0.18)}${pip('orange', 0.67, 0.17)}${pip('teal', 0.62, 0.25)}</span>`;
+export const MARK_CSS = `
+.mark{position:relative;display:inline-block;width:1em;height:1em;flex-shrink:0}
+.mark i{display:block;position:absolute}
+.mark-cup{left:.15em;top:.4em;width:.7em;height:.56em;border:.065em solid var(--cup);border-top:0;border-radius:0 0 .24em .24em}
+.gem{border-radius:28%;transform:rotate(45deg)}
+.pip{width:.055em;height:.055em;border-radius:50%}
+`;
+
 export const BASE_CSS = `
 *{box-sizing:border-box}
 html,body{margin:0;background:${C.canvas};color:${C.ink};font-family:'Readex Pro',system-ui,sans-serif;-webkit-font-smoothing:antialiased}
